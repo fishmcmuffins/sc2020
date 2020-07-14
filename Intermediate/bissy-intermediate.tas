@@ -1,0 +1,312 @@
+#bissy-intermediate
+#start 
+console load Bissy/BissyIntermediate/Bissy_Collab_D
+  38
+#Bissy_00
+
+   1,D,X
+   4,L,X
+   1,R,J
+  11,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+  19,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   6,R,J
+  14,U,X
+  16,L,J
+   2,R,J
+   7,R,K
+   8,R
+   5,R,J
+  18,R,U,X
+  15,L,D,C
+  15,L,D,X
+  15,D,C
+  15,L,X
+  15,L,C
+  15,L,D,X
+  10,L,D
+  15,L,X
+   1,D,C
+  14,L,C
+  15,L,X
+  15,L,U,C
+  15,L,X
+   1,D,C
+  16,L,U,C
+  15,U,X
+  15,U,C
+  15,U,X
+   2,L,J
+  14,R,U,C
+  12,R,D,X
+  15,R,U,J
+  15,U,C
+  15,U,X
+  15,U,C
+  15,U,X
+  13,U,C
+   2,R,J
+  14,U,X
+  12,L,J
+   1,D,X
+   9,L,X
+   4,L,J
+  12,L,U,X
+   2,L,J,G
+   8,L
+   5,J
+***
+   7,R,J
+   1,L,J
+   5,K,G
+   1,R,K
+   1,J
+   8,J
+   1,R,J
+   1,R
+   1,L
+  10,R,J
+   1,R
+  24,R,J
+   1,D,X
+  14,R,U,X
+   6,R
+  11,L,J,G
+
+  40
+#bissy_04
+
+   1,L,J,G
+  10,L
+   1,D,X
+   4,L,X
+   1,L,J
+   7,L
+  16,L,J
+  21,U,X
+  21,U,C
+  15,R,X
+   2,L
+   1,R,J,G
+   2,R
+  11,L
+   1,D,X
+  14,U,X
+   2,R
+  35,L,J
+  12,L,K,G
+   1,L,J,G
+   3,R,J
+   6,L,J
+   5,L,K,G
+  17,L
+  26,L,J
+  13,L
+  15,U,X
+  12,R,J,G
+   4,R,K,G
+   1,R,J,G
+***
+   7,J,G
+   7,L,J
+  20,R,X
+   1,D,C
+  13,R,U,C
+   4,R,J
+  14,R
+   1,D,X
+   4,R,X
+   1,R,J
+  12,R,D
+   8,R,D,J
+  14,R,D,X
+  11,R,J
+   6,R
+  11,R,D,X
+   1,R,J,G
+   7,R
+  13,R,J
+  15,U,X
+  18,U,C
+   1,L
+  18,U,X
+   1,L
+  18,U,C
+   1,L
+  15,L,X
+  22,L,D
+  19,L,U,X
+  23,L,C
+  23,L,U,X
+  15,U,C
+  12,R,J,G
+   9,R,K,G
+   3,K
+  16,U,X
+  12,L,J,G
+   8,K,G
+   4,R,K
+  12,R,J,G
+   7,R
+   6,R,J
+  14,U,X
+  19,R,J
+  26,L,U
+
+  40
+#bissy_06
+
+  11
+  14,U,X
+   1,R
+  12
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+#end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
