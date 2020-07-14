@@ -1,0 +1,30 @@
+console load BeefyUncleSC2020BeginnerLobby/map/2beginnerlobby 2520 608
+   1
+  36
+
+#lobby_main
+  14,R,D,X
+   1,R,J
+  28,R,D,X
+   8,L,J
+   1,L,K,G
+   2,L,J,G
+  15,U,X
+  15,L,J
+   5,L
+   6
+   4,D,X
+   8,R,J
+   2,R
+   2
+   3,R,J
+  14,R,U,X
+   1,J,G
+   1,R,J
+   9
+   1,L
+   9,R
+   1,X
+  20
+   1,O
+  30

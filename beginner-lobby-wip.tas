@@ -1,0 +1,45 @@
+#Made by Vamp
+#Restart
+console load BeefyUncleSC2020BeginnerLobby/map/2beginnerlobby
+   1
+
+#lobby_main
+Read,BL/start-skeleton,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/skeleton-isa,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/isa-cat,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Cat-dadbod,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/dadbod-Bissy,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Bissy-thegur,lobby_main
+   1,S
+   1,D,J
+  69,O
+   1,Q
+   1,J
+  31
+Read,BL/Start-Abby,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Abby-Cookie,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Cookie-Rue,lobby_main
+   1,S
+   1,D,J
+  69,O
