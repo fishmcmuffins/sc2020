@@ -1,64 +1,65 @@
 #Made by Vamp
 #Restart
-console load Spring2020CollabCruor/0/spring2020_collab_cruor
+console load SpringCollab2020/1-Beginner/Cruor
    1
 
 #lvl_curor_00
  190
    4,D,X
-   2,R
-   1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
-   5,R
-  40
-
-#lvl_cruor_01
-   5,R,J
-   1,J
-  12,R,D,X
-   4,R,J
-   4,J
    1,R
-   3,R,K,G
-  14,R,D,X
-  15,R,J
-  15,R,D,X
-  12,R,J
-   3,L,J
-  13,R
-   1,L,J,G
-   3,R
-  13,R
-   1,D,X
-  12,R,U
-   5,R,J
-  15,R
-   1,J
-  11,R,U,X
-   1,R,J,G
-  11,R
-   4,D,X
-   2,R
    1,R,J
    7,R
   10,R,J
-  36,R,X
+  40
+
+#lvl_cruor_01
+   2,R,J
+  15,R,D,X
+   2,R,J
+   7,R
+   5,R,D,X
+   2,R,J,G
+  12,R
+   7,R,J
+  15,R,D,X
+   5,R,J
+   5,R
+   3,R,J
+   1,R,K,G
+   9,R
+   1,D,X
+  14,R,U
+   5,R,K,G
+   7,R
+   4,D,X
+   2,R
+   1,R,J
+   6,R
+   1
+   1,R,J
+  15,R,D,X
+  22,R,C
    1,R,J
    3
-   1,R,J
-  15,R,U,X
-   1,R,J
-  22,R
-   1,D,X
+   9,R,K
+   1,R,J,G
+   4,L,J
+   6,R,J
+   1,R,K,G
+   2,R,J,G
+  19,R
+   4,D,X
   19,R,U
    1,R,J
    3
-  17,R,J
-   9,R,X
-  20,R,J,G
+  15,R,K
+   5,K
+   1,J
+   5,R,X
+  17,R,J,G
   24,R
+   3,R,D
+   1,R,J
   10,L,X
   16,R,J
    1,D,X
@@ -93,6 +94,7 @@ console load Spring2020CollabCruor/0/spring2020_collab_cruor
    5
    1,J
   50
+#you cant skip this cutscene because reasons
    1,J
    5
    1,J
@@ -103,12 +105,12 @@ console load Spring2020CollabCruor/0/spring2020_collab_cruor
   29,R,D,X
   10,D,C
   20,D
-   4,R,D
-  12,L,D,X
+   4,L,D
+  11,L,D,X
    1,R,J
    3,L,J
-  12,R,D,X
-   2,R,J,G
+  13,R,D,X
+   1,R,J,G
   11,R
    1,R,J
    1,R
@@ -122,8 +124,7 @@ console load Spring2020CollabCruor/0/spring2020_collab_cruor
   17,R,U,X
    1,R,J
    3
-   1,R,J
-   3,R,J
+   4,R,J
   11,R
    1,D,X
   19,R,U
@@ -131,63 +132,62 @@ console load Spring2020CollabCruor/0/spring2020_collab_cruor
    1,R,J
    3
   10,R,J
-   7,R
-  10,R,U,X
+   8,R
+  11,R,U,X
    1,R,J
    3
+   7,R,K
+   8,R
    1,R,J
-   7,R
-   1,L,J
-   2,L,J
-   3,R,J,G
-   1,R,K,G
-  24,R,D
-  14,R,X
+   8,R,D
+  17,R,X
    1,R,J
    3
+   1,R,K
    9,R,D,X
-   1,R,J
   43
 
 #lvl_cruor_03_bp
-   4,R
-   1,R,J
-
+   7,R,D
+   2,R,J
   15,R,X
-  25,R,C
+   7,R,X
+  19,R,C
    1,R,J
    3
-   5,R,J
-  19,R,D
-  31,R,X
-   1,R,J
-   3
-   1,R,J
-  10,R,D
-  30,R,D,X
-   1,R,J
-   3
-   1,R,J
-  17,R,D
+  10,R,K
+  22,R
   23,R,X
-   5,R,U,C
    1,R,J
    3
-   7,R,J
-  19,R,U,X
-  11,R,D,C
+   1,R,K
+   6,R
+  31,R,D,X
+   1,R,J
+   3
+   8,R
+  34,R,X
+   7,R,U,C
+   1,R,J
+   3
+   8,R,K
+  17,R,U,X
+  10,R,D,C
    1,L,J
    3
-   1,L,J
+   1,L,K
    5
    5,R
-  22
-  26,L
-  81,L,X
-   8,L,D,C
+   4,R,D
+   1,D
+   7,L,D
+  13,L
+  13,L,D
+  79,L,X
+  11,L,D,C
    1,L,J
    3
-   1,L,J
+   1,L,K
   11,L,D
   52,L,D,X
   54,L,C
@@ -197,15 +197,14 @@ console load Spring2020CollabCruor/0/spring2020_collab_cruor
    5,L,D
    7,L
    1,L,J
-  15,L,D
+  15,L
   12,R,D
   10,R,X
   49,R,C
    1,R,J
    3
-   5,R,J
-   2,R
-  13,R
+   5,R,K
+  15,R
   17,R,X
    4,R,C
   46,R,X
