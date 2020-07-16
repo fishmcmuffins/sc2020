@@ -1,10 +1,9 @@
 #Made by Vamp
 #Restart
-console load mineman_collab/Mineman_Collab
+console load SpringCollab2020/4-Expert/Mineman
    1
 
 #lvl_mineman_intro
-
  190
    4,C
    1,R
@@ -14,7 +13,6 @@ console load mineman_collab/Mineman_Collab
   14,L,X
   12,R,J
    6,L,J
-   
   15,R,U,X
   13,L
   14,L,D,X
@@ -199,14 +197,16 @@ console load mineman_collab/Mineman_Collab
   15,U,C
   12,R
    7,R,J
-  20,R
+   9,R
+  11,L
    1,D,X
-   7,L
+   4,L
    2,R,J
    7,R
-  25,R,J
+  18,R,J
+   5,R
   16,L,U,X
-  35,L,U,C
+  30,L,U,C
   51,U,X
   40
 
@@ -242,9 +242,9 @@ console load mineman_collab/Mineman_Collab
   15,L,U,X
   11,L
   11,L,J
-  32,L,U
+  15,L,U,X
   11,R
-  29
+  30
   22,R,U,X
   40,L,U
   12
@@ -255,8 +255,8 @@ console load mineman_collab/Mineman_Collab
    3,L
   12,R,D,X
   28,L,J
-  44,L,U,X
-  15,L,J
+  43,L,U,X
+  19,L,J
   10,R,U,X
    1,R,J
    3
@@ -265,44 +265,44 @@ console load mineman_collab/Mineman_Collab
   16,L,U
    1,L,J
    3
-  15,R,J
+   5,R,J
+  10,L,J
   37,U,X
   14,U,C
   11,L,D,X
-   4,R,J
-  17,R
-   1,D,X
-  12,R
-  10,R,J
-   8,L,J
-  24,R,U,X
+  23,R,J
+  13,R
+  23,R,J
+  15,U,X
+   7,R
+   1,R,J,G
+   2,L,J
    3,R,J
-  28,R
-  20,L,D
-  22,R,D
-  14,L,D
-  17,R,D
-  55,D
-   1,D,X
-  16,R
-   7,U,X
- 143,U,C
+   1,R,K,G
+   6,R,J,G
   40
 
 #lvl_mineman_4
-  14
-   4,D,X
-   6,L
-   8,L,J
+   1,S
+   1,D,J
+  69,O
+  12,L,J
+   1,K
+   1,L,J,G
+   2,L,J
+  10,L,X
+   7,L,J
   15,U,X
-   9,L,J,G
-   3,L,K,G
-   3,R,K
-  14,L
-  14,L,D,X
+  11,L,J,G
+   1,L,K,G
+   2,R
+   6,L
+   1,L,J
+   4,D,X
+  10,L
    1,R,J
    7,R
-  24,R,J
+  25,R,J
   15,R,U,X
   10,R,J,G
   11,R,K,G
@@ -312,8 +312,9 @@ console load mineman_collab/Mineman_Collab
   16,L
   22,L,U,X
    2,R
-   2,J
-  20
+   1
+   1,J
+  21
   17,R,J
   25,U,X
   12,R,J
@@ -341,46 +342,51 @@ console load mineman_collab/Mineman_Collab
   10,L,D,X
   32,R,J
   42,R,U,X
-   5,R,J
-  15,U,X
+   4,R,J
+  16,U,X
   15,U,C
-  15,U,X
-  31,D
+  15,R,U,X
+  22,L,D
    1,J
    1,L,J
-   4,L
-  18
-   8,J
-  12,R,J
-  14,L,U,X
-  15,U,C
-  15,U,X
-  11,R,D
-  11,L,D
-   4
+   3,L
+  13
+   1,R
    2,L
-  13,L,J
-  28,L,D
-  14,L,D,X
-  25,L,J
-   6,L
-  25,U,X
-   7,L
-  20,R,U,X
+   1,R
+   4
+   3,J
+  11,L,J
+  15,U,X
+  15,U,C
+   5,L
+  15,R,U,X
+  17,L
+   4,D,X
+   1,L,J
+   8,L,D
+  19,R,D
+  10,L,D,X
+  26,L,J
+  30,U,X
+   3,L
+  19,R,U,C
    1,R,J
    3
-   8,R,J
-  19,R,U,X
-   1,R,J
+  11,R,K
+  12,R,X
+   1,J
    3
-   1,R,J
-  18,R
-   1,D,X
-  18,R,U
-  15,L,X
+   1,R,K
+   7,L,K
+  24,R,U,X
    1,L,J
    3
-  31,L,J
+   4,D,X
+   9,L
+   1,L,J
+   3
+  31,L,K
   18,L,X
   21,U,C
   40
@@ -425,9 +431,7 @@ console load mineman_collab/Mineman_Collab
   15,R
    1,R,J
    7,L,J
-   2,R,J
-   4,R,J
-  18,R,J
+  24,R,J
   17,R,X
   14,L
   18,D
@@ -457,13 +461,7 @@ console load mineman_collab/Mineman_Collab
 
 #lvl_mineman_outro
   14,F,12
-  10,F,39
-   7,F,300
-   1,D,X
-   6,L
-   4,L,J
-   1,L,K,G
-  11,L
-   
-
-  
+   8,F,39
+  14,F,270
+  17,F,321
+  15,L,U,X
