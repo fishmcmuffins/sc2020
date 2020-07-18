@@ -1,6 +1,6 @@
 #Made by Vamp
 #Restart
-console load BeefyUncleSC2020BeginnerLobby/map/2beginnerlobby
+console load SpringCollab2020/0-Lobbies/1-Beginner
    1
 
 #lobby_main
@@ -43,3 +43,36 @@ Read,BL/Cookie-Rue,lobby_main
    1,S
    1,D,J
   69,O
+Read,BL/Rue-Lichtbaulb,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Lichtbaulb-CANADIAN,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/canadian-flagpole,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/flagpole-Dan,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Dan-Cruor,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Cruor-Ghajestis,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Ghajestis-Snas,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/Snas-hennyburgr,lobby_main
+   1,S
+   1,D,J
+  69,O
+Read,BL/hennyburgr-itsabrody,lobby_main
