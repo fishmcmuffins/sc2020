@@ -1,4 +1,4 @@
-#Made by Vamp
+#Made by Vamp and Sasha
 #Restart
 console load SpringCollab2020/1-Beginner/Snas
    1
@@ -31,24 +31,24 @@ console load SpringCollab2020/1-Beginner/Snas
    4,R
    1,R,J
   10,R
-#this upright demo is so dumb
-#https://www.desmos.com/calculator/lvkqyezfgo
-#https://media.discordapp.net/attachments/729255069668737065/734161009622908968/image0.jpg
    4,D,X
-   9,R,U
+   9,R,U,X
    1,L,K,G
    5,R,K,G
    5,L,K
    1,L
    7,L,K
   34,L,D
-  10,R,J
+   8,R,J
+   5,R
+   1,R,J
+   4,R
+   4,D,X
+  11,R,X
   12,R
-   1,D,X
-  26,R
    3,R,J
-   1,D,X
-  10,R,X
+   4,D,X
+   9,R,X
    1,R,J
   40
 
@@ -59,55 +59,51 @@ console load SpringCollab2020/1-Beginner/Snas
    5,R
    4,R,J
    5,R
-   1,D,X
-  13,R,U
-  11,R,J,G
+   4,D,X
+  10,R,U,X
+  10,R,J,G
    1,K
-   7,R,J,G
-  27,R,X
-   1,R
+   8,R,J,G
+  28,R,X
   12,D
   20,L,D
    6,L
-  19,L,X,G
-  22,U,G
+  18,L,X
+  14,G
+   6,J,G
    1,R,J
-  11,R,K
-  12,R
+   1,R,K
+  12,R,J
+   5,R
   15,R,X
-  19,R,D
+  20,R,D
   53,R,X
   14,R,D,C
    1,R,J
-   5,R,D,X
-   1,R,J
    7,R
-   6,R,D,J
+   4,R,D,J
+   4,J
   40
 
 #lvl_snas03
-   4,R,J
-  15,U,X
-   1,L,J,G
-   1,R
-   6,L,X
+   4,J
+  14,U,X
+   1,R,J
   14,R
   18,R,U,X
-  15,R,U,C
-   5,R
+  14,R,U,C
+   4,L
   15,R,U,X
-  25,R
-  23,R,D
-  17,R,X
-  17,L,D
-   3
+  47,R,D
+  15,R,X
+   1,R
+  20,L,D
   15,L,X
   26,D
-   5,R,D
-   2,R
-   1
+   7,R,D
+   1,R
    4,D,X
-   1,L
+   1,L,X
    1,R,J
    6,R
    3,R,J
@@ -124,17 +120,17 @@ console load SpringCollab2020/1-Beginner/Snas
   16,L,D
    3,D
    4,D,X
-   1,L
-  25,R,X
-  15,U,C
+   1,L,X
+  25,R,C
+  15,U,X
    9,J,G
    2,L,J,G
    4,K,G
    1,J
    2,R
   15,L,X
-   1,D,C
-  12,L
+   4,D,C
+   9,L,C
    9,R,J
   15,R,D,X
   11,R,D
@@ -144,7 +140,8 @@ console load SpringCollab2020/1-Beginner/Snas
    1,R,K,G
   11,R
    3,R,J
-  23,R,D,X
+  15,R,D,X
+   8,R,D
    3,R,J
    5,R
    2,R,J
@@ -158,31 +155,38 @@ console load SpringCollab2020/1-Beginner/Snas
    3,R
    4,R,D,J
    5,R
-   7,R,J
+   6,R,J
    4,D,X
-   9,R
-  47,U,C
-  20,R,U,X
+  10,R,X
+  46,U,C
+  15,R,U,X
+   5,R
   26,L
-   1,D,X
-  45,L,G
-  17,J,G
-  16,L,J
-   5,R,J
-  19,L,K
-  41,R,X
+   4,D,X
+  11,L,X
+  21,L,G
+   8,J,G
+  11,K,G
+   3
+   7,L
+   3,L,J
+  10,L
+  18,L,K
+  40,R,X
   13,U,C
   38,R,U,X
   19,L
-   1,D,X
-  14,U
+   4,D,X
+  11,U,X
   24,L
   18,L,X
   13,L
-   1,D,X
-  59,L,G
-  10,R,J,G
-  30,R
+   4,D,X
+  11,L,X
+  31,L,G
+   8,J,G
+   3,K,G
+  41,R,K
   27,R,X
   18,U,C
    7,L,X
@@ -192,7 +196,7 @@ console load SpringCollab2020/1-Beginner/Snas
 #lvl_snas06
   69
    4,D,X
-   2,R
+   2,R,X
    1,R,J
    7,R
    6,R,J
@@ -202,15 +206,20 @@ console load SpringCollab2020/1-Beginner/Snas
    1,L,J,G
    7,L
    7,L,J
-   1,D,X
-  13,U
+   4,D,X
+  10,U,X
    2,L,J
-   4,R,K,G
+   1,R,K,G
+   3,R,J,G
    7,R
-   5,R,X
+   4,R,X
    5,R,J
    2,R,K,G
    4,R
-   5,L
-  13
-  15,L,U,X
+   2,L
+  17
+  16,L,U,X
+  12
+ 122,D
+
+#0:34.935
