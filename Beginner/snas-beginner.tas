@@ -31,6 +31,9 @@ console load SpringCollab2020/1-Beginner/Snas
    4,R
    1,R,J
   10,R
+#this upright demo is so dumb
+#https://www.desmos.com/calculator/lvkqyezfgo
+#https://media.discordapp.net/attachments/729255069668737065/734161009622908968/image0.jpg
    4,D,X
    9,R,U,X
    1,L,K,G
@@ -61,9 +64,9 @@ console load SpringCollab2020/1-Beginner/Snas
    5,R
    4,D,X
   10,R,U,X
-  10,R,J,G
+  11,R,J,G
    1,K
-   8,R,J,G
+   7,R,J,G
   28,R,X
   12,D
   20,L,D
