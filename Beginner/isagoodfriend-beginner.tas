@@ -1,7 +1,7 @@
 #Created by dahlukeh
-   1,Q
-   1,J
-  31
+#Start
+console load SpringCollab2020/1-Beginner/IsaGoodFriend
+   1
 
 #Isa_Intro
   88
@@ -16,6 +16,7 @@
    6,R,J,G
    4,R
   40
+
 #Isa_00
   12,R
   16,R,X
@@ -57,6 +58,7 @@
    3,R,J
    2,R
   40
+
 #Isa_01
    7,R
   26,R,X
@@ -81,6 +83,7 @@
    1,R,J
    5,R
   40
+
 #Isa_02
    1,R
    1,R,J
@@ -107,6 +110,7 @@
   15,U,X
   12,R,J
   40
+
 #Isa_03
    4,R
    7,L
@@ -129,6 +133,7 @@
    6
    2,L
   40
+
 #Isa_04
    2,R
   12,R,J
@@ -140,5 +145,16 @@
   25,L,K,G
   29,U,X
   43
+
 #Isa_Exit
    1,R,J,G
+   3
+   7,R
+   4,D,X
+  19,R,J
+   1,R,K,G
+  11,R,J,G
+  14,R,U,X
+  12,R,J,G
+   3,R,K,G
+  15,R,U,X
