@@ -1,41 +1,51 @@
 #chaotiC-expert
 #start
-   1,Q
-   1,J
- 222
-#level_ChaotiC_00
+console load SpringCollab2020/4-Expert/ChaotiC
+   1
 
+#level_ChaotiC_00
+ 190
    8,R,U,X
    1,R,J,G
    3,R
   10
    6,L
-  14,R,U,X
+  13,R,U,X
+   1,L
+   1,J,G
+   4
+  18,R,G
+   3,R,D,G
+   4,R,J,G
+   1,K
+   1,J
+   1
+   1,L,K
+   1,K
+   1,J,G
+   1,R,K
    1,R,J
-  16,R,G
-   3
-  12,R,J,G
-  14,R,K,G
-   5,R,J,G
-   9,R
-   1,D,X
-  10,R,X
-   2,R,J
-   2,R
-  14,R,D,X
+   1,R
+   2,R,K,G
+   7,R
+   4,D,X
+   3,R
    1,R,J
-
+  12,R
+   1,R,J
+   4,D,X
+   6,R,U
   40
-#level_chaotiC_01
 
-   1,D,X
-   8,R,X
-   6,R
-  12,R,U,X
-   1,R,J,G
-  30,R,D
-   1,D,X
-   5,L,X
+#level_chaotiC_01
+   3,R
+   7,L,J,G
+   4,R,J
+   1,R,K,G
+  21,R,D
+   3,R,D
+   4,D
+   7,L,D,X
    1,R,J
    7,R
    1,R,J
@@ -225,8 +235,8 @@
    1,R,J,G
   16,L,D
   14,R,D
-
   40
+
 #level_ChaotiC_02
    4,D,X
    1,R,J
