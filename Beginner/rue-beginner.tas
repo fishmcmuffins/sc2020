@@ -1,10 +1,9 @@
-#Made by Vamp
+#Made by Vamp, Mlseg
 #Restart
 console load SpringCollab2020/1-Beginner/Rue
    1
    
 #lvl_Intro
-
  190
    1,R,J
   14,R
@@ -21,10 +20,9 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R,J
    1,R
    1
-
   40
-#lvl_Rue_01
 
+#lvl_Rue_01
   20,R
   11,R,J
    4,R
@@ -92,7 +90,6 @@ console load SpringCollab2020/1-Beginner/Rue
   40
 
 #lvl_Rue_02
-
    1,R
    1,L
    9,R
@@ -147,9 +144,7 @@ console load SpringCollab2020/1-Beginner/Rue
    3,R
   40
 
-
 #lvl_Rue_03
-
    1,R,J
    9,R
    6,R,J
@@ -193,7 +188,6 @@ console load SpringCollab2020/1-Beginner/Rue
   40
 
 #lvl_Rue_04
-
    1,R,J
   14,R
    1,R,D,J
@@ -242,7 +236,6 @@ console load SpringCollab2020/1-Beginner/Rue
   40
 
 #lvl_Rue_05
-
    3,R
    1,R,J
   18,R
@@ -388,28 +381,27 @@ console load SpringCollab2020/1-Beginner/Rue
   40
 
 #lvl_Outro
-
   17,R
-   1,R,J
-  34,R
-   1,R,J
-  16,R
-   1,R,J
-   1,R,J,G
-   1,R,K,G
+   3,R,J
+  33,R,D
    5,R
-   1,R,J,G
+   1,R,D
+   3,R
+   3,R,J
    1,R,K,G
-   2,L
-  22,R
-   7,R,J
-  30,R
-   1,R,K
    1,R,J,G
-  28,R
+   4,R
+   4,R,J,G
+   4,R,K,G
+  27,R
+   1,R,J
+  23,R
+   1,R,J
+   1,R
+   1,R,K,G
+  29,R
    4,D,X
    6,R,X
    5,R,J
   14,R,U,X
  140
-#81.073
