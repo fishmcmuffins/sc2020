@@ -1,3 +1,5 @@
+#Nice Doppelganger - JaThePlayer - Advanced
+#3369/47.396
 #Created by Lanvilla
    1,Q
    1,J
@@ -21,130 +23,94 @@
 #JaThePlayer_1
    1,R,J
   10,R
-  15,R,D,C
-   1,D,X
-   1,J
+   4,D,C
+   1,R,J
+   7,R
+   1,X
+   1,R,J
    1,S
    1,D,J
   34
-   3,L,J
-   6,J
-  14,U,X
-  41,L,D
-   1,L,J
-   6,K
-   1,L,J,G
-   2,R,J
-   3,L,J
-   4,L,K,G
-   8,K,G
-   1,L,J,G
-  10,J,G
+  11,R,J,G
+   1,L,K
+   9,K
+  10,L,K
+  15,U,X
+  37,L
+   5,J,G
+   4
+   3,L
+   4,R,J
   14,U,X
   14,R,J
-   3,L,J
-   5,L,K
+   4,L,J
+   3,L,K
   40
 
 #JaThePlayer_2
-   3,L
-   2,L
+   8,L
    1,R,J
    5,U,X
-   3,R
-  10,R,D,X
-   1,R,J
-   2,R,J
+  10,R,D,C
+   4,R,J
    1,R,K,G
    2,K,G
    1,R,K,G
-   1,K,G
    1,R,J,G
-   2,J,G
-   1,R,J,G
-   1,J,G
+   3,J,G
    1,R,K,G
-   1,K,G
-   3,R,K,G
+   6,K,G
    1,R,J,G
-   1,J,G
-   2,R,J
+   3
    5,R,D,X
-   9,L,D
-   2,R,D
-   4,D,X
-   1,U,X
+   9,L
+   3,R,D
    1,R,J
   14,R,D,X
-   1,R,J
-   6,R,D,X
   40
-
+   
 #JaThePlayer_3
-   4
-   9,R,D,X
    1,R,J
-   6,U,X
-  18,U,C
+   4,R
+   4,D,X
+   7,R,J
+   4,U,X
+  20,U,C
   18,R,U,X
-   5,U,C
-  10,R
+  15,U,C
   31,R,X
    7,U,C
   11,R,J
   22,R,X
   14,R,U,C
-  10,L
-  13,L,U,X
+   9,L
+  14,L,U,X
   48,L,C
   12,R,D,X
-  16,U,C
-   8,U,C
-  17,R,X
-   4,U,C
-  56,U,X
+  23,U,C
+  19,R,X
+   5,U,C
+  57,U,X
   14,R,U,C
   20,L,U,X
- 105,U,C
-  26,L,X
-   4,D,C
-   1,L,C
-   1,L,G
-   4
-   1,L,G
-   2
-   5,U,X
-   1,L,G
-   3
-   1,L,G
-   3
-   1,L,G
-   4
-   1,L,G
-   4
-   1,L,G
-   3
-   1,L,G
-   4
-   1,L,G
-   4
-   1,L,G
-   6,L,J,G
-   9,L
-   8,L,J
-   5,U,X
+  37,U,C
+  55,U
+  28,L,U,X
+  16,L,C
+  62,U,X
+   5,U,C
   40
 
 #JaThePlayer_4
    9,R
    1,R,J,G
-   7,R,K,G
-   2,R,J,G
-   4,R,D,X
+   6,R,K,G
+   4,D,X
+   1,R,X
    1,R,J
    7,R
-   3,R,J
-   8,U,X
+   2,L,J
+   9,R,U,X
   20,U,C
    4,D,X
   10,L,U,X
@@ -268,3 +234,7 @@
 
 #JaThePlayer_6
   73
+  10,R,X
+   5,R,J
+  19,U,X
+ 136
