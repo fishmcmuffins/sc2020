@@ -67,12 +67,13 @@ Read,BL/Cruor-Ghajestis,lobby_main
    1,S
    1,D,J
   69,O
-Read,BL/Ghajestis-Snas,lobby_main
+Read,BL/Ghajestis-hennyburgr,lobby_main
    1,S
    1,D,J
   69,O
-Read,BL/Snas-hennyburgr,lobby_main
+Read,BL/hennyburgr-Snas,lobby_main
    1,S
    1,D,J
   69,O
-Read,BL/hennyburgr-itsabrody,lobby_main
+Read,BL/Snas-itsabrody,lobby_main
+#57.664
