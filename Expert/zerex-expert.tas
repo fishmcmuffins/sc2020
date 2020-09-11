@@ -1,3 +1,5 @@
+#Blank Dreams - Zerex - Expert
+#2779/37.944
 #Created by Lanvilla
    1,Q
    1,J
@@ -29,12 +31,10 @@
    4,R,J
    3,R
    4,D,X
-  30,R,J
-   2,R,J
-   4,D,X
-  14,R,X
-   8,R,J,G
-   7
+  14,R,J
+  18,R
+  15,R,U,X
+   9,R
   15,U,X
   15,L,J
    3,R,J
@@ -45,12 +45,13 @@
 #Zerex_03
    7,L
    1,L,J,G
-   5,L,K,G
-   2,L,J,G
-  10,L,X
+   4,L,K,G
+   3,L,J,G
+   5,L,X
    6,L,J
-   3,L,K,G
-   6,R,K
+   7,L
+   1,L,J
+   5,J
   31,U,X
   27,U,C
    6,R
@@ -143,8 +144,7 @@
   26,R,X
    7,R,J
    4,D,X
-  27,R,J
-   4,R,J
+  31,R,J
   12,U,X
   16,R,J
   26,R,X
@@ -198,7 +198,8 @@
   14,R,U,X
    4,R,J,G
    1,R
-  15,R,J
+  14,R,J
+   1,R,J
    5,L
    1,R,K
   14,R,D,X
@@ -215,51 +216,49 @@
    5,R
    2,R,K
   33,R,D
-  24,R,J,G
+  10,R,J,G
+  13,R
    4,D,X
-  18,R,U,X
+  15,R,U,X
    1,R,J
   12,R
    1,R,J
-  26,R,D,X
-   4,D,C
+  15,R,D,X
+  13,R
+   5,R,D,X
    1,R,J
    9,R
-   1,R,J
   28,R,X
+   7,R
+   4,D,X
    7,R,J
-   4,D,X
-   4,R,J
-   1,R
-  13,R,J
-  37,R,X
-   5,R,J
    2,R
+   1,R,K,G
+   6,R
+  37,R,X
+   7,R
    4,D,X
-  12,R,J
-   1,R,J
   11,R,J
-  32,U,X
-   5,R,J
-  10,R,D,X
+   5,R
+   7,R,J
+   7,R,K
+  15,U,X
+  14,R
+   6,R,D,X
    1,R,J
-   4,R
-  10,R,X
-   1,R,J
+   7,R
+   4,R,J
   40
 
 #Zerex_07
-   6,R,J
-   1,R
-   5,R,D,X
-   1,R,J,G
-  11,R
-   8,R,J
-   8,R,K,G
+   2,R,J
    4,D,X
-   6,R,X
-   5,R,J
-   6,R,U,X
-   3,R,J,G
-   7,R
-  30,L,D
+   4,R,X
+   1,R,J,G
+  10,R
+   6,R,J
+  11,R,K,G
+   8,R,J,G
+   4,R,K,G
+  14,R,U,X
+ 135,D
