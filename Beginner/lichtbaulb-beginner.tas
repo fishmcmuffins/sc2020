@@ -1,6 +1,5 @@
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/1-Beginner/Lichtbaulb
+   2
 
 #lvl_pre pre 1
  190
@@ -9,67 +8,59 @@
    1,R,J
    7,R
    1,R,J
-  11,R,K,G
-   7,R,D,X
-   2,R,J,G
-   7,R
+   6,R,K,G
+  11,R,X
+   8,R,J,G
   40
 
 #lvl_pre 1
-  10,R
-   7,R,J
-   9,R,D,X
-   1,R,J,G
-  14,R
-   1,R,J
-   9,R,D,X
-   1,R,J
-   7,R
-   7,R,J
-  14,R,U,X
-   1,R,J,G
-   7,R
+   4,R
   15,R,D,X
-  15,D,C
-   4,R,D
+   3,R,J
+   1,R,K,G
+  12,R
+   6,R,J
+   7,R
+  14,R,U,X
+   1,J,G
+   5
+   1,L
+   6,R
+   2,L,J
+  15,R,D,X
+   6,R,D
+   3,D
    4,R,D,X
    1,R,J
    7,R
-   3,R,J
-   8,R,X
-   5,R,J,G
-   4,R,K,G
+   1,R,J
+  11,R,K,G
    4,R,J,G
-   2,R
-   2,R,J,G
-   7,R
-   1,R,J
-  11,R,D,X
-   1,R,J
+   1,R
+   5,R,D,X
+   5,R,J,G
+  11,R
+   4,R,J
   40
 
 #lvl_1
-   3,R
-  11,R,D,X
+   3,R,J
+  15,R,D,X
    1,R,J
-   3,R
-  19,R,D,X
-   1,R,J
-   2,R
-  14,R,U,X
-   1,R,J,G
-   9,R
-  15,R,J
+   7,R
+  14,R,X
+  11,J
+   4
   14,U,X
   17,L,J
    8,L,K,G
    7,L
    4,L,D,X
    1,L,J
-   7,L
+   6,L
    8,L,J
   15,U,X
-  10,L
+  11,L
   13,L,J
   19,L,U,X
    2,L,J,G
@@ -229,23 +220,22 @@
    5,L,D
    7,R,D
   15,L,D
-  11,L,J
+  13,L,J
+   3,R,K,G
+   1,J
   15,U,X
-  12,R,J,G
+  18,L,J
   12,R,K,G
-  12,R,J,G
-   9,L,K
-   7,L
-  11,R,J
+   7,R
+  18,R,J
   15,U,X
-   2,R,J,G
-   3,L,J
-   3,R,J
-   8,R
+   4,R,J,G
+   7,R
    4,R,D,X
    8,R,J
-   6,R
-   1,R,J
+   3,R
+   4,R,J
+   1,R,K
   14,R,D,X
    4,R,J
    1,D,X
@@ -324,7 +314,5 @@
 
 #lvl_after 4
   18,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-   8,L,D,X
+   2,L,J
+  14,L,U,X
