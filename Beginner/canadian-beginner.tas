@@ -1,8 +1,8 @@
 #canadian-beginner
 #start
-console load CANADIAN/map/canadian_collab3
+console load SpringCollab2020/1-Beginner/CANADIAN
 
- 192
+ 191
 #01
 
    4,D,X
@@ -13,33 +13,35 @@ console load CANADIAN/map/canadian_collab3
   14,R,X
    1,R,J,G
    2,R
-   3,R,J,G
+   2,R,J,G
+   1,L,J
    7,R
    4,D,X
    2,R,J
    8,R
    1,R,J
-  10,R,D,X
+   8,R,D,X
+   1,R,J
    9,R,D,C
    7,D
-   3,R,D
+   2,R,D
    1,D,X
   14,R,X
    1,R
    6,L
   12,R,J
    8,R
-   1,D,X
-   4,R,X
+   4,D,X
    1,R,J
    7,R
-   5,R,J
+   6,R,J
 
   40
 #02
 
    9,R,J
-  14,U,X
+   4,D,X
+  10,U,X
    1,L
    1,L,K,G
    9,J,G
@@ -47,32 +49,31 @@ console load CANADIAN/map/canadian_collab3
   12,L,K,G
   12,L,J,G
    1,K
-   5,L,K
+   4,L,K
   15,R,U,X
    9,U,C
   14,R,X
   40,R
    8,R,U,X
   14,D,C
-  25,R
-   2,R,D
+  24,R
+   3,R,D
    1,D,X
-  14,R,X
+  15,R,X
+   1,L
    8,R
-   2,L
-  11,R,J,G
+  10,R,J,G
    7
    2,J
    1,D,X
    4,R,X
    1,R,J
-   6,R
-   1,R,J
+   7,R
 
   40
 #03
 
-   6,R,J
+   7,R,J
   15,R,U,X
   15,L,U,C
   10,L,U,X
@@ -136,14 +137,14 @@ console load CANADIAN/map/canadian_collab3
   15,L,C
   11,U,X
   15,U,C
-  11,R,U,X
+  10,R,U,X
    1,R,J,G
-  25,R
-  14,R,X
+  26,R
+  15,R,X
   16,R
    1,L
   14,R,X
-   4,L
+   3,L
    4,R,J,G
    7,R
    8
@@ -151,12 +152,12 @@ console load CANADIAN/map/canadian_collab3
   10,L
   16,R
   12,R,X
-   2,R,J,G
-   3,R
-   4,R,J,G
+   6,R,J,G
+   2
+   1,R,J,G
    7,R
-   6,R,D,J
-   3,J
+   3,R,J
+   6,J
   16,U,X
 
   40
@@ -180,6 +181,7 @@ console load CANADIAN/map/canadian_collab3
 
   40
 #06
+
    4,R
    1,R,J
   30,R
@@ -196,38 +198,39 @@ console load CANADIAN/map/canadian_collab3
   12,R
   18
    4,J
-   9,R,J
-   7,L,J
-   6,L,K,G
-   2,L
-   1,D,X
-  13,R,X
-   9,L
+   4,L,J
+   1,K
+  10,L,K
+   3,L
+   4,D,X
+  11,R,X
+   6,R
   10,R,D,X
+   2,R,J
+   1,R
    4,R,J
-   3,R
    1,D,X
   13,R,X
   15,R
-  31
-   7,J
-  12,R,J
-  14,R,U,X
-   7,R,J,G
+  15
   15,R
-  16
-   1,R
+  10,J
+   7,R,J
+  15,U,X
+   1,R,J,G
+  15,R
+  15
+   4,R
    1,D,X
   12,R,X
    1,L,J
-  11,L,K,G
+  10,L,K,G
   14,L,D,X
-  11,L
+  12,L
   14,R,U,C
-  50
-   1,D,X
-  13,L,U,X
-   5,L
+  47
+  14,L,U,X
+   3,L
   14,L,X
   20
   14,L,U,X
@@ -237,41 +240,33 @@ console load CANADIAN/map/canadian_collab3
   14,L,U,X
   25,R
   14,R,X
-  39,R
-   3
+  31,R
+  12
    1,D,X
-  13,L,X
+  11,L,X
    1,R,J
-   1,R
-   6,R,D,X
-   1,L,J,G
-  11,R,J
-   3,R
-   1,K
-   1,J
-   5,R,K,G
-   6,J,G
-   3,L,J
-   1,L
-  13,R,K,G
-  12,R,J,G
+  21,R,K,G
+  15,U,X
+   9,R,J,G
    7,R
-   1,D,X
-   4,R,X
+   5,R,D,X
    1,R,J
    7,R
-   1,R,J
-   1,R
+   2,R,J
 
   40
 #07
-  11,R
-   9,R,U,X
-   4,R,J,G
-   6,R
-   5,R,J,G
-  40,R
+
+   8,R,J
+   7,R
+   3,R,J
+   5,R,K,G
+   1,R,J,G
+  12,K,G
+  16,U,X
+ 140,R,D
 #end
+#42.942
 
 
 
