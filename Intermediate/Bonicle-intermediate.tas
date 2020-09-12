@@ -1,4 +1,4 @@
-#Made By Marlin and Lmjacks
+#Made By Marlin, Lmjacks, and masrock9
 
 console load SpringCollab2020/2-Intermediate/Bonicle
    1
@@ -347,24 +347,25 @@ console load SpringCollab2020/2-Intermediate/Bonicle
 
 #lvl_bonicle_05
    1,R,J,G
-   5
-   9,R
-   7,R,J
+   6,R
+   3
    5,R
-  14,R,U,X
-  17,R,D,G
-  84,D,G
-  12,R,D,G
-   1,D,G
-  70,R,U,J,G
-   7
-  14,R,U,X
-  20,R,U,G
-  43,L,U,J,G
-  11,L,U,J,G
-  15,D
-   6,U,X
-  54,R,D,G
+   9,R,J
+  10,R,U,X
+  16,R,D,G
+  93,D,G
+  10,R,D,J,G
+  65,R,D,J,G
+   3,R,U,J,G
+   8,R,J
+  15,U,X,G
+  16,R,D,G
+  30,L,D,G
+  20,D,G
+  12,D
+  15,U,X,G
+  15,G
+  35,R,D,G
   28,R,U,J,G
    1,D,J
    4,R,G
@@ -372,26 +373,25 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    4,L,K
    1,K
   18,L,J,G
-   5,L
+   5,L,J
    4,D,X
    6,R,X
    5,L,J
   11,L,U,X
   80,L,D,G
-  55,L,U,J,G
+  54,L,U,J,G
    1,R
-  21,L
-   9,L,D
-  17,L
+  15,L,D,X
+  31,L
    4,D,X
    2,L,U,X
-  12,L,D
-  25,D
+  14,L,D
+  16,D
    3
   15,U,X
   12
   15,R,D,X
-  50,R,D
+  53,R,D
   29,D
   40
 
