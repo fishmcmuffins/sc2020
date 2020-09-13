@@ -1,8 +1,6 @@
-#By Gliperal
-#Restart
-   1,Q
-   1,J
-  31
+#By Gliperal and masrock9
+console load SpringCollab2020/1-Beginner/Flagpole1up
+   1
 
 #Flagpole1up_00_Intro
   84
@@ -54,19 +52,36 @@
    5
    1,L
   15
-  85,D
+  15,D
+   2,L,J
    4,D,X
-   3,R,X
+   7,L,X
+   1,L,J
+   6,L
+   2,L,J
+   4,D,X
+   9,L,X
+   1,L,J
+   7,L
+   1,L,J
+   7,L,D,X
    1,R,J
-# 5.916
-   5,R,K,G
-   2,R,J,G
-  11,R
-   5,R,D,J
-  11,R,K,G
+   7,R
+  12,R,J
   15,R,D,X
-   8,R,J
-  26,R,D,X
+   2,R,J
+   2,L,J
+   9,R,D,X
+   4,R,J,G
+   1,L,J
+   2,R,K,G
+  12,R
+   3,R,D,J
+   5,R,K,G
+  10,R,D,X
+   2,R,J,G
+  20,R
+  21,D,X
   12,R,J
    2,R,K,G
   13,R,D,X
@@ -148,50 +163,46 @@
    1,L,J
    6,L
   14,L,J
-  18,U,X
+  15,U,X
+   4
    7,R
    4,D,X
    8,R,J
    4,R
    1,R,J
-   5,R,K,G
-   5,K
+  11,R,K,G
   16,U,X
-  12,L,J,G
+  11,L,J,G
    1,L,K,G
    3,R,K
    4,L,K
    3,L
   12,L,J,G
    7,L
-   4,D,X
-   1,L,J
-  18,L,D
-   1,L,G
-   3,L,J,G
-   6,R,J
+  10,L,X
+   6,L,J
+  15,U,X
+   4,R,J,G
    7,R
-   4,R,D,X
-   1,R,J
-   7,R
-  12,R,J
-   4,D,X
-  11,U,X
-   1,R,J,G
-   8,R
-  12,L,J
-   1,L,K,G
-   6,L,J,G
-   6,R,K
-  16,U,X
-  14,L,J
+  15,R,D,X
+   8,L,J
+   5,R,J
+  15,U,X
+   4
+  19,R,J
+   7,L,K
   40
 
 #Flagpole1up_03
-  12,L
-  10,L,J,G
-   1,K,G
-   8,L,K
+  11,L
+  11,L,X
+   2,L,J
+   1,L,K,G
+   2,R,K,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+  10,L,K
    4,D,X
   10,L,U,X
    1,J,G
@@ -202,11 +213,11 @@
    8,L
    4,R
    1,R,X
-   7,R
+   8,R
 # :(
   10,R,D
    5,D
-   5,R
+   6,R
   10,R,D
   10,L,D,X
   14,R,J
@@ -247,7 +258,7 @@
   27,D,X
    8,L,D
 # TODO: playaround 4
-  30,L
+  34,L
   14,R,D,X
    1,R,J
    5,R,K,G
@@ -296,7 +307,8 @@
   15,U,X
    1,R,J,G
    8,R,G
-  18,L,D
+  14,L,D
+   5,D
   14,L,D,X
    1,R,J
   14,R,D,X
@@ -342,7 +354,7 @@
    8,L,D
   17,R,D
   18,R,X,G
-  26,D
+  31,D
    5,R
    4,D,C
    2,R,C
@@ -424,5 +436,6 @@
    6,L,K,G
    5,L,J,G
    6,L
-   8,L,J
-   5,U,X
+   9,L,J
+  15,U,X
+ 132
