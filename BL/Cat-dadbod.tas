@@ -5,7 +5,7 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3256 704
 #lobby_main
    7,R,J
    4,D,X
-   1,R
+   1,R,X
    4,R,J
    6,R,K,G
    6,R
@@ -40,17 +40,17 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3256 704
   11,L,U,X
   15,U,C
   15,U,X
-  14,R,U,C
-   8,R,J,G
+  15,U,C
    4,D,X
    2,R,X
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
+   8,R,D,X
    1,R,J
    7,R
    1,X
+#4.539
   20
    1,O
   30

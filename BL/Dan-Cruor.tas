@@ -4,27 +4,31 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4512 144
 
 #lobby_main
    4,D,X
-   4,L,J
-   9,L
+   4,L,X
    1,L,J
+   5,L
+   2,L,K
+   1,L
+   2,L,J
+   3,L
   11,L,D,X
+   4,L,J,G
+   6,L
    1,L,J
-   7,L
-   4,D,X
+   3,L
    1,L,J
-   7,L
-   9,L,J
-   2,L
+   1,J
+   6,L,J
+   4,L
   14,L,U,X
    1,L,J,G
-  25,L,D
-   4,D,X
-   1,L,J
-   6,L,D
-   6,D
-  14,L,D
-  36,R,D
-  82,R,X
+   1,J
+   4,L,J
+  42,L,D
+  34,R,D
+  22,R,X
+#2.805
+  60,R
    4,R,J
    1,R,K
   17,R,D
@@ -34,6 +38,7 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4512 144
    1,R,J
   15,R
    1,X
+#5.695
   20
    1,O
   30
