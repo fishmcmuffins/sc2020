@@ -219,29 +219,29 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
   12,R,J
   16,U,X
    4,R,J
-  12,L
+  11,L
+   1,L,J
   10,L,X
-  12,L,J
-  12,K,G
-   1,L,J,G
-  15,L,X
-   4,D,C
-   1,L,C
-   1,R,J
-   7,R
-  31,R,J
-  15,U,X
+  11,L,J
    1
+  13,K,G
+   4,D,X
+  10,L,X
+   1,R,J
+   6,R
+  29,R,J
+  15,U,X
   18,L,J
-  12,K,G
-  12,J
-   7,L,K,G
+  12,L,K,G
+   1,J
+  11,L,J
+   6,L,K,G
    7,L
-   8,L,J
+   7,L,J
    4,D,X
    9,L,X
    1,L,J
-   7,L
+   6,L
   12,L,J
   12,K,G
   12,J,G
@@ -249,15 +249,17 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    5,L
    2,L,J
   12,L
-   3,L,D
+   3,L
   15,L,U,X
-   2,L
+   1,L
   15,L,U,C
    1,L
    3
   13,R,U,C
    1,R,J,G
-  14,R
+   5,R
+   1,R,J
+   8,R
    4,D,X
    1,R,J
    7,R
@@ -309,4 +311,3 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    1,L,J
   15,L,U,X
  135
-#end
