@@ -2,6 +2,7 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3096 80
    1
   36
 
+#Start
 #lobby_main
    4,D,X
    1,R,J
@@ -26,6 +27,3 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3096 80
   15,L,C
    1,X
 #7.395
-  20
-   1,O
-  30
