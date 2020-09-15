@@ -79,31 +79,23 @@ console load SpringCollab2020/2-Intermediate/ProXas
   14,U,X
    1,R
   14,U,X
-   1,R
-  14,U,X
-   1,L
-  14,L,X
-  10,L
-  14,L,U,X
-  27,L
-  16,L,U,X
-  18,L,U,C
-  14,L,U,X
-  20,L
-  15,L,U,X
+  10,U
+  10,L,X
+  11,L,J,G
+  13,L
+  16,L,X
+  15,L,U,C
+  18,L,U,X
+  14,L,U,C
+  18,L
    1,D,C
   14,L,U,C
    1,U
-  15,U,X
-   5,L,U,C
-   1,J
-   4,R,J
-   1,R,K,G
-   3,R,K
-   1,L,K
-   1,J
-  26,R,J
-   1,L
+   8,U,X
+  13,L,J
+   4,L
+  20,U,C
+   7,R
    1,D,C
    9,R,C
    1,J
@@ -228,6 +220,7 @@ console load SpringCollab2020/2-Intermediate/ProXas
   12,L,J,G
   12,L,K,G
    1,J
+
   22,R,J
   83
   13,R,D
@@ -652,81 +645,21 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,R,K
    1,R,J
    1,R,K
-  17,R,D
+  15,R
    1,R,J
-   1,R,K
-   3,R,J,G
-   1,R
-
+   5,R,K
   40
+
 #outro
-
-   6,R
-   5,R,J
+   4,R,K
+   2,R
   14,R,U,X
-   3,R,J,G
-  17,U,C
+   1,J,G
    1,L,J
-  11,L
-  41,L,D,X
-  14,L,D,C
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  15,R,U,X
+  20,R,D
+   7,L,J
+  68,L,D
+   1
+   1,D,X
+  29,L,J

@@ -1,9 +1,9 @@
 #Made by Mlseg & Vamp
 #beginner-heartside
-#start
 console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
 
+#Start
 #intro
   36
   13,R,J
@@ -378,17 +378,13 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   11
   15,U,X
   48,R,U
-  25,R
-   6,R,D
-  90,R
-  20,L
-  25,L,D
-  26,D
-  16,R,D
+  24,R
+  24,R,D
+  23,D
+  27,R,D
   16,R
-  41,R,U
-  66,U
-   8,R,U
+  42,R,U
+  72,U
   15,U,X
   43,R,U
    7,F,82
@@ -765,19 +761,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   10,R,J
    8,R
   14,R,U,X
- 290,R
-
-
-
-
-
-
-
-
-
-
-
-
+ 135,R
 
 
 

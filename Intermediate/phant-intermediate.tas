@@ -378,29 +378,26 @@ console load SpringCollab2020/2-Intermediate/phant
    6,L,G
    3,L,J,G
    7,L
-  37,D
-  16,L
-  18
-   5,R,J
-   1
-   1,D,X
-  14,R
-  11,L,U
-  41,U
-   4,R
+  15,D
+   2,U
+   1,J
+  17
+   5,L
+   3,R
    4,D,X
-   1,R,J
-  28,R,D
-   1,R,J
-  10,R,D,X
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+   7,R
+   5,R,D,J
+   4,R
+  15,R,D,X
+   8,R
   40
 
 #lvl_phant-end
-   1,R
-   5,R,J
-   5,R,D,X
-   3,R,K,G
-  13,R
-   3,R,J
-  15,R,K,G
-  50,R,X
+   4,R
+   4,R,J
+   3,R
+  12,R,U,X
+ 135,R,D
