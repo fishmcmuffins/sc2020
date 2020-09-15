@@ -2,11 +2,9 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4696 360
    1
   36
 
+#Start
 #lobby_main
   76,L,X
   21,L,D,C
    1,X
 #1.513
-  20
-   1,O
-  30

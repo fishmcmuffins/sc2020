@@ -1,8 +1,6 @@
 #By Gliperal
-#Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/2-Intermediate/GG19
+   1
 
 #Gabe_intro
  193
@@ -16,9 +14,12 @@
 
 #Gabe_1
    3,L
-   2,J,G
-   7
-  14,R,X
+   1,L,J,G
+   1,J
+   1
+   7,R
+   4,D,X
+  10,R,X
    1,R,J,G
   11,R
    1,R,J
@@ -44,8 +45,9 @@
   15,R,D
   22,R,C
   15,U,X
-  19,L,D,G
-  23,G
+   1,L,J,G
+  33,G
+   6,D,G
    1,R,J
    9,R,D
   18,D
@@ -154,6 +156,7 @@
   10,R
   40
 
+
 #Gabe_3
    5
    4,D,X
@@ -217,10 +220,10 @@
    4,D,X
    1,R,X
    1,R,J
-   2,R
-   1,S
-   1,D,J
-  52,R,D
-   5,D,X
- 193
-   1,J
+   2
+  18,R,D
+  38,L,U,X
+   4,D,C
+  18,L,C
+   1,L,J
+  81,L
