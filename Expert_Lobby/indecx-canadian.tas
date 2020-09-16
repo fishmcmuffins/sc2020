@@ -1,0 +1,76 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 1256 448
+   1
+
+#Start
+  36
+
+#lvl_1
+   4,D,X
+   4,R,J
+   1,R,K,G
+  11,R
+   2,R,J
+   9,R
+   4,D,X
+   8,R,X
+   1,R,J
+   7,R
+   1,R,J
+   4,R
+  15,D,X
+  59,R,D
+  50
+  20,L,J
+   2,L
+  14,U,X
+  18,L,J
+  12,L,K,G
+  18,R,J
+   5,R,K,G
+  15,R,J,G
+  20,R
+ 110
+   5,R
+  25
+#this autoscroller
+#is very bad
+#someone fix
+#please
+  13,J
+  15,R,J
+  13,R,K,G
+  23,L,J
+  15,U,X
+   3,R,J
+   6,J
+  10,R,J
+  12,L,K
+   5,L
+  21
+  10,L,X
+  15,L,J
+   6,L
+   1,L,G
+   1,L,J,G
+   1,R,J
+   2,R
+  15,D,X
+   4,R
+  10
+   1,R
+  16
+#incredibly scuffed
+   4,D,X
+  10,L,X
+   2,L,J
+   5,L,K,G
+   7,R,J
+  15,R,K,G
+  15,J,G
+   4,D,X
+  11,L,X
+  10,L
+   6,R
+   2,L
+   1,X
+#12.359
