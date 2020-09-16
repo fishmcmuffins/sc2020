@@ -3,8 +3,9 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    1
 
 #Start
-#cat-00
  190
+
+#lvl_cat-00
    4,D,X
    2,R,X
    1,R,J
@@ -15,7 +16,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   10,R,U,X
   40
 
-#cat-01
+#lvl_cat-01
    4,L
    4,J,G
   14,R,X
@@ -55,7 +56,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    7,L,J
   40
 
-#cat-02
+#lvl_cat-02
   12,L
   13,U,X
    8,R,J
@@ -106,7 +107,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    5,R,U,X
   40
 
-#cat-03
+#lvl_cat-03
    5,L
    1,L,J,G
   11,R,J
@@ -148,7 +149,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   11,R,D,X
   40
 
-#cat-04
+#lvl_cat-04
    2,R
    3,R,J
   31,R,D,X
@@ -213,14 +214,12 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   20,R,J
   56,R,G
   15,L,D,X
-
   11,R,D,C
    1,R,J
    1,R,K,G
    3,R
    4,D,X
   10,R,U,X
-
    1,S
    1,D,J
    1,O
@@ -243,31 +242,26 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    2,R,J
   15,R,D,X
    2
-  53,R,D
+  55,R,D
    4,D,X
    1,L,J
    7,L
-   3,L,J
+   3,L,D,J
    5,L,D,X
    4,L,J,G
    2,L,K,G
   12,L
-   8,L,J
-  15,L,D,X
    1,L,J
-   6,L
-   1
-   4,D,X
-   3,L,U,X
+  12,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+   8,L
   43
 
 #lvl_cat-05
-
-   4,L,U,X
-   1,R
-   3,J,G
-  74,L,X
-   4,D,C
-   1,R,J
-  30,R
-  44,R,J
+   6,L
+   2,L,J
+  14,L,U,X
+ 102,L,D
+  33,R,D,J
