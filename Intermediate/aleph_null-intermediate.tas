@@ -2,6 +2,7 @@
 #Restart
 console load SpringCollab2020/2-Intermediate/aleph_null
    1
+#Start
   69
 
 #lvl_aleph_start
@@ -345,6 +346,7 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 #lvl_aleph_end
   15,L
   15,L,U,X
+   2,L
  135
 
 #47.838

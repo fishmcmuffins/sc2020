@@ -1,9 +1,9 @@
 #By Gliperal
 #Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/3-Advanced/LinjKarma
+   1
 
+#Start
 #Linj_Intro
  190
    4,D,X
@@ -332,6 +332,5 @@
    4,D,X
   10,R,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
+  14,R,U,X
+ 135

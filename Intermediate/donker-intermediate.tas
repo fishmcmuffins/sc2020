@@ -1,9 +1,8 @@
 #By Gliperal
-#Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/2-Intermediate/Donker19
+   1
 
+#Start
 #Donker_1
  190
    6,L,J
@@ -465,10 +464,5 @@
    2
    1,L,J,G
    7,L
-   4,L,D,X
-   1,L,J
-  13,L,D
-  15,D,X
-  55,L,D
-   1,S
-   1,D,J
+  11,L,U,X
+ 135,D

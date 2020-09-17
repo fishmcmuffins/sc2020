@@ -1,8 +1,9 @@
 #Made by Vamp
 #Restart
-console load Spoopy/binbin/Spoopy_Collab
+console load SpringCollab2020/3-Advanced/Spoopy
    1
 
+#Start
 #lvl_spoopy_01
   61
    6,X
@@ -578,15 +579,15 @@ console load Spoopy/binbin/Spoopy_Collab
 #lvl_spoopy_07
    7,R
    1,R,J
-   6,R,D,X
+   5,R,D,X
    1,R,J
-  14,R
+  13,R
+   1,R,J
+   1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-  10,R,K
-  14,R,D,X
-
-   
+  10,R,U,X
+ 135,R

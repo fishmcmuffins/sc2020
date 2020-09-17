@@ -3,6 +3,7 @@
 console load SpringCollab2020/4-Expert/Mineman
    1
 
+#Start
 #lvl_mineman_intro
  190
    4,C
@@ -24,8 +25,13 @@ console load SpringCollab2020/4-Expert/Mineman
   40,R,J
    7,R,K
   10,L,D,X
-  52,R,J
-  20,R,U,X
+  11,R,J
+  20,R
+   7,R,D
+   4,D,X
+  10,R,X
+   1,R,J
+   9,R,U,X
   37,U,C
   40
 
@@ -463,5 +469,6 @@ console load SpringCollab2020/4-Expert/Mineman
   14,F,12
    8,F,39
   14,F,270
-  17,F,321
+  18,F,321
   15,L,U,X
+ 135

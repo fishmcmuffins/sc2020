@@ -1,8 +1,9 @@
-#Made by Vamp
+#Made by Vamp & Tyran
 #Restart
 console load SpringCollab2020/2-Intermediate/Thegur90
    1
 
+#Start
 #lvl_1
  190
    1,R,J
@@ -139,18 +140,12 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    1,R,J
    1,R,K
    1,R,J
-  12,R,K
+   7,R,K
+   8,R,D,X
   40
 
 #lvl_6
-   1,R,K
-  15,R,D,X
-   3,R,J
-  12,R
-   8,R,D,X
-   1,R,J,G
-  12,R
-   1,R,J
-   2,R,K,G
-   3,R
-   6,R,D,X
+   6,R
+   8,R,J
+   6,R,U,X
+ 135

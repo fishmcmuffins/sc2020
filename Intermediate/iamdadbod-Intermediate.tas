@@ -1,3 +1,4 @@
+
 #Made by Vamp
 #Restart
 console load SpringCollab2020/2-Intermediate/iamdadbod
@@ -9,37 +10,44 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    4,R,K,G
    8,R
    4,R,J
-   1,D,X
-  13,R
+   4,D,X
+  10,R,X
    1,R,J
-  14,R,D,X
+   9,R,D,X
    1,R,J
+   7,R
+   6,R,J
    1,R
-  14,R,D,X
+   9,R,D,X
   40
 
 #lvl_dad1
-   1,R,J
-  14,R,D,X
+   6,R,D,X
+   1,R,D,J
+  13,R
+   4,D,X
+  11,R,U,X
+   5,R,J
+   5,U,X
   11,R,J
-   1,D,X
-  14,R,U,X
-   1,J
-  13,L,J
-  15,R,U,X
-  17,R
-   5
-  10,R,D,X
    1,R
-  12,R,J
-  11,R
+  15,R,J
+   9,R,D
+   1,R,J
+  11,R,D,X
+   1,R
+  11,R,J
+   1,R
+   2,R,J
+   9,R
    1,D,X
-  18,R
+  15,R
+   2,L
    1,J
-   7,L,J
+   8,L,J
   15,R,U,X
-  21,R,D
-   7,D
+  19,R,D
+   9,D
   11,R,D,X
   10,R,J
    1,R
@@ -409,6 +417,6 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   10,R,D,X
    1,R,J
    7,R
-   1,R,J
-   8,R,D,X
-   
+   1,J
+  10,R,U,X
+ 136

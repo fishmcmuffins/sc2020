@@ -1,8 +1,9 @@
 #Made by Vamp
 #Restart
-console load sc2020/nyoom
+console load SpringCollab2020/3-Advanced/NeoKat
    1
 
+#Start
 #lvl_1
   76
    4,D,X
@@ -363,15 +364,9 @@ console load sc2020/nyoom
    3
    2,R,J
    7,R,U,X
-  11,R,J,G
-   9,R
-  29,L,D,X
+  21,R,J,G
+  32,L,D,X
    1,L,J
   10,L
-  30,L,D,X
-  72,L,J
-
-   
-
-  
-   
+  29,L,D,X
+  70,L,J

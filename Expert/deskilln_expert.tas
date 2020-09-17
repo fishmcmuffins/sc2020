@@ -1,5 +1,8 @@
-console load Deskilln/map/DeskillnCollab
- 192
+console load SpringCollab2020/4-Expert/deskilln
+   1
+
+#Start
+ 191
 
 #lvl_Deskilln_Intro
    4,R,D,X
@@ -420,3 +423,4 @@ console load Deskilln/map/DeskillnCollab
    2,R,J
   13,R,K,G
   14,R,U,X
+ 135
