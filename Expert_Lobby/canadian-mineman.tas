@@ -5,28 +5,30 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1280 248
   36
 
 #lvl_1
-  21,L
+   1,L
+   1,L,J
+  16,L
    4,D,X
   11,L,X
-  10,L
+  12,L
    4,D,X
    1,L,U,X
-  47,L,D
+  46,L,D
    2,L,J
   15,L,D,X
   15,D,C
   14,D
-  40,R,D
-  27,D
+  34,R,D
+  33,D
    4,D,C
-   6,R,C
-   5,R,J
+   1,R,J
+   7,R
+   3,R,J
   15,R,D,X
-   2,R,J
+   1,R,J
   22,R,D,X
   14,R,J
-   4,D,X
-  10,R,X
+  14,R,X
   21,L,D
    2
    2,D
@@ -35,44 +37,22 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1280 248
    2
    2,D
    2
-   2,D
-   2
-   1,D
-  12,L
+   1
+  17,L
   22,L,J
   12,U,X
   17,L,J
   12,L,K,G
   18,R,J
   40,R,K,G
-  12,R,D
-   1,R
-   6
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   1
+  12,D
+  14
+   5,R
    4,D,X
-   6,R,X
-  25,R,J
+   1,R,J
+   5,R
+   1,R,K
+  24,R,J
   15,U,X
    4,R
   11,R,J
@@ -93,4 +73,4 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1280 248
    6,L,J
   10,L
    1,X
-#11.373
+#10.812
