@@ -1,8 +1,9 @@
 #Made by Vamp
 #Restart
-console load Rufus/Collab/Rufus_Collab
+console load SpringCollab2020/3-Advanced/Rufus
    1
 
+#Start
 #lvl_Intro
  190
    4,D,X
@@ -319,19 +320,14 @@ console load Rufus/Collab/Rufus_Collab
    1,R
   14,R,D,X
    1,R,J
-  12,R,D,X
-   1,R,J
-   1,R
+  14,R,D,X
   40
 
 #lvl_Outro
-   1,R
-  14,R,D,X
    1,R,J
-  14,R,D,X
+   9,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   5,R,D,X
+   4,R
+  10,R,J
+  14,R,U,X
+ 135

@@ -1,9 +1,9 @@
 #By Gliperal,dahlukeh
 #Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/4-Expert/dahlukeh
+   1
 
+#Start
 #dahlukeh_01
  193
    4,D,X
@@ -265,9 +265,11 @@
   18,R,K,G
    1,R,J,G
   18,R
-   1,R,J
-  22,R,D,X
+   3,R,J
+  15,R,D,X
+   5,R
   40
 
 #dahlukeh_06
-  11,R,U,X
+  10,R,U,C
+ 135

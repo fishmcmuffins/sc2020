@@ -1,10 +1,12 @@
 #start 
 #Rocketguy2-intermediate
 console load SpringCollab2020/2-Intermediate/Rocketguy2
+   1
 
- 192
+#Start
+ 190
+
 #RG2_0
-
    1,L,J
    4,L
   11,R
@@ -449,25 +451,9 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
   11,R
    1,D,X
    3,R,X
-  13,R,J
+  14,R,J
    1,L,J
-  14,L,D,X
+   4,L,X
+  10,L,D,X
+ 125
 #end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -3,6 +3,7 @@
 console load SpringCollab2020/5-Grandmaster/CANADIAN
    1
 
+#Start
 #CANADIAN_00
  190
    4,D,X
@@ -757,6 +758,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    3,R,J,G
    5,R
    2,R
-   1,R,J
-   8,R,K,G
-  15,U,X
+   1,J
+   4,K,G
+  12,R,U,X
+ 135

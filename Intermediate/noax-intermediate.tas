@@ -2,7 +2,10 @@
 #start
 
 console load SpringCollab2020/2-Intermediate/Noax
- 191
+   1
+
+#Start
+ 190
 
 #Noax_00
 
@@ -220,7 +223,6 @@ Noax_02
   15,U,C
   14,R,X
   55
-***
    4,R,J
    6,R,K
   11,R
@@ -267,6 +269,7 @@ Noax_02
    1,L,J,G
    4,L,K,G
    7,L
-  12,L,U,X
+  13,L,U,X
+ 135
 #44.183
 #end

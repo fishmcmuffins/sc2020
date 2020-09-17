@@ -3,6 +3,7 @@
 console load SpringCollab2020/5-Grandmaster/Cyber
    1
 
+#Start
 #Cyber_intro
   96
   10,R,D,X
@@ -440,4 +441,9 @@ console load SpringCollab2020/5-Grandmaster/Cyber
   22,R,D,G
   22,R,J,G
    1,R
-  15,D,X
+  15,L,D,X
+  15,D,C
+  43
+   4,D,X
+   4,R,X
+ 135

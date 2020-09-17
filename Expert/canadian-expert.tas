@@ -1,8 +1,9 @@
-#Made by Vamp
+#Made by Vamp and Tyran
 #Restart
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
+#Start
 #lvl_1
  190
    4,L,X
@@ -96,6 +97,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
   11,R
    5,R,J,G
    9,R
+  12
    4,L,D,X
    2,R
    1,R,J
@@ -111,29 +113,16 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,R,J
    4,L,D,X
    1,R,D
-   9,L,D,X
+  10,L,D,X
    1,R,J
-   4,L,D,X
-  10,R,D,X
-   1,L,J
-   4,R,D,X
-   1,L,D
-   9,R,D,X
-   1,R,J
-   4,L,D,X
-   1,R,D
-   9,L,D
-   4,R,J
-   1,K,G
-   4,L,K
-  15,U,X
+  14,U,X
   18,R,J
   12,R,K,G
   12,R,J,G
   12,R,K,G
-  10,J,G
-   3,L
-   6,L,J
+  12,R,J,G
+   5,K
+   8
    4,R,D,X
   10,L,D
    1,R,J
@@ -151,15 +140,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,R,J
    4,L,D,X
   10,R,D
-   1,L,J
-   4,R,D,X
-  10,L,D
    1,R,J
-   4,L,D,X
-   1,R,D
-   9,L,D
-   1,R,J
-   1,R
   15,D,X
   16,R,D
   15,R,X
@@ -182,6 +163,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
   15,D,C
   15,D,X
   15,D,C
+  12
   15,D,X
   27,L,D
    4,R,D,X
@@ -219,6 +201,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,R
   10,L
   15,D,X
+  13
    4,J
   19,D
   14,R,D,X
@@ -235,46 +218,44 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,R,D
    9,L,D,X
    1,R,J
-   4,L,D,X
-   1,R,D
-   5,L,D,X
-  40
-
-#lvl_2b
-   4,L
-   1,R,J
-   4,L,D,X
-   1,R,D
-   9,L,D
+   7,L,D,X
    1,R,J
    7,R
    1,R,J
-   4,L,D,X
-   1,R,D
-  10,L,D,X
-   2,R,D
-  25,R,J
-   4,L,D,X
-   1,R,D
-   9,L,D
+   1,L
+  15,R,D,C
+   4,R,D
+  40
+
+#lvl_2b
+   8,R,D
    1,R,J
-   4,L,D,X
-   1,R,D
-   5,L,D,X
-   3,R,J
-   9,R
-   4,L,D,X
+   4,D,C
+   3,L,C
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
+   1,R,J
    1,R
-   5,L
-  14,R,J
-   4,L,D,X
-   1,R,U
-  11,L
-   1,L,J,G
+  15,R,D,X
+   2,R,D
    5,R,J
+   1,R
+   2,R,J
+   3,J
+  10,R,K,G
+  15,R,D,X
+  10,R,J
+  14,R,D,X
+  13,R,J
+  14,R,U,X
+   1,L,J,G
+   6,R,J,G
    4,L,X
-   7,U,X
-  18,R,J
+   8,U,X
+  14,R,J
+   4,R
   11,R,K,G
    4,J,G
    7,L
@@ -283,7 +264,6 @@ console load SpringCollab2020/4-Expert/CANADIAN
   10,R,X
   15,D,C
   15,D,X
-  15,D,C
    1,J
    4
   15,D,X
@@ -300,7 +280,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,L
   15,L,X
   15,D,C
-  22
+  26
    4,R,D,X
    1,L
    9,R
@@ -889,4 +869,5 @@ console load SpringCollab2020/4-Expert/CANADIAN
    9,R
    3,R,D
   11,L,D
-  15,L,X
+  12,L,X
+ 135

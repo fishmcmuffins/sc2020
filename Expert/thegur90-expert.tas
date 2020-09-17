@@ -1,9 +1,9 @@
 #By Gliperal
 #Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/4-Expert/Thegur90
+   1
 
+#Start
 #thegur90_FAB_0
   36
    4,R,D,X
@@ -286,5 +286,5 @@
   40
 
 #thegur_FAB_6
-   2,R,K
-  22,R,D,X
+  14,R,U,X
+ 135,R

@@ -3,6 +3,7 @@
 console load SpringCollab2020/4-Expert/ChaotiC
    1
 
+#Start
 #lvl_ChaotiC_00
  190
    8,R,U,X
@@ -537,11 +538,10 @@ console load SpringCollab2020/4-Expert/ChaotiC
    3,R,J,G
    4,R,K,G
   14,U,X
-   8,R,J
-   6,L,J
+  15,L,J
    1,X
-#1:10.652 heart sound
    3,D,X
   17,R,X
+ 118
 
 #end

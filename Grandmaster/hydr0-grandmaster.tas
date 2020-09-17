@@ -1,10 +1,10 @@
 #Error 418 - Hydro - Grandmaster
 #2442/33.337
 #created by Lanvilla
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/5-Grandmaster/Hydro0
+   1
 
+#Start
 #hydro_00
  190
    4,D,X
@@ -228,14 +228,14 @@
    1,R
   10,R,D,X
    1,R,J
-   8,R,K
-  13,R,D,X
+   6,R,K
+  15,R,D,X
   40
 
 #hydro_outro
    2,R
   11,R,X
-  47,R,D
+  39,R,D
    4,D,X
-   1,L,J
-  86,L,K
+   1,R,J
+  94,R,K

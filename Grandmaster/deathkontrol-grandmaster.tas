@@ -1,9 +1,9 @@
 #By Gliperal
 #Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/5-Grandmaster/DeathKontrol
+   1
 
+#Start
 #DeathKontrol_a-00
  190
    4,D,X
@@ -452,7 +452,6 @@
    1,J
    7,R,J
    7,R,K,G
-   7,R
+   8,R
   12,U,X
- 194
-   1,J
+ 135

@@ -1,9 +1,9 @@
 #By Gliperal
 #Restart
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/3-Advanced/Tortoise
+   1
 
+#Start
 #ATortoise_Intro
  190
    9,R,J
@@ -881,6 +881,12 @@
    1,R
   17,R,D,X
    1,R,J
-  11,R,D,X
-   1,S
-   1,D,J
+  12,R,D,X
+   1,L,J
+  26,L
+  30,L,J
+   4,D,X
+   6,L,X
+   1,L,J
+  31,R
+  39,R,D

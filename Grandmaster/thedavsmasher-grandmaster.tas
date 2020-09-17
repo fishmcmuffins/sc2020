@@ -1,10 +1,10 @@
 #Temporal Tower - Dav - grandmaster
 #4307/63.852
 #created by Lanvilla
-   1,Q
-   1,J
-  31
+console load SpringCollab2020/5-Grandmaster/TheDavSmasher
+   1
 
+#Start
 #Dav_00
  190
   10,R,J
@@ -421,9 +421,11 @@
   11,L,X
    1,L,J
   14,U,X
-   8,L,J
-   1,L,K,G
-   7
+   5,L,J
+  40
+
+#Dav_05
+   4
    8,J
-  14,U,X
- 135,L,D
+  16,U,X
+ 135

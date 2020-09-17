@@ -1,10 +1,11 @@
 #deathkontrol-expert
-#start
-   1,Q
-   1,J
- 103
-#start
+console load SpringCollab2020/4-Expert/DeathKontrol
+   1
 
+#Start
+  71
+
+#DeathKontrol_start
    1,D,X
    9,R,X
   18,R,J
@@ -673,7 +674,6 @@
 
   40
 #b-02
-
    3,R,J
   14,R,D,X
   10,R

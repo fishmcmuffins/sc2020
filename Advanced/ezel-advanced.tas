@@ -3,7 +3,7 @@
 console load SpringCollab2020/3-Advanced/Ezel
    1
 
-
+#Start
 #lvl_Ezel_00
  190
    4,D,X
@@ -557,4 +557,5 @@ console load SpringCollab2020/3-Advanced/Ezel
   10,R
    7,R,J
    5,R
-  15,R,X
+  14,R,X
+ 135
