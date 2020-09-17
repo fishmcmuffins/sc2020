@@ -1,27 +1,31 @@
-#By Tyran and Kataiser
+#By Tyran, Kataiser, & jacks
 
 console load SpringCollab2020/1-Beginner/itsabrody
    1
 
 #Start
-#lvl_intro
  190
+
+#lvl_intro
    1,R,J
   22,R
   20,R,J
-  12,R,K,G
-   7,R,J,G
-  18,R,D
+   1,R,K,G
+   4,L,K
+   7,R,K
+   1,R,J,G
+   4,R,K,G
+  16,R,D
    5,L,D
    1,L,X
    6,L,J
    1,L,K,G
    1,L,J,G
-   3,L
-   8,L,J
-  18,R,D
-  39,R
-  10,R,D
+   9,L
+   9,R
+   7,R,D
+  40,R
+  11,R,D
   45,R
    2,R,U
    2,R
@@ -34,58 +38,57 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,J
    1,R,K
    1,R,J
-   6,R,K
-   5,R,J,G
+   5,R,K
+   4,R,J,G
+   1,R
    1,R,K,G
-  25,R,D
-#Double Air skip pog
-  20,F,130
- 210,F,89
-  16,F,50
-  24,U
-
-#-14f but I can't resync :(
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
-#  10,R,J
-#   5,R,K,G
-#   1,J,G
-#   3,R,J,G
-
-  26,R,J
-   1,R,K,G
-   1,R,J,G
-   4,R
-   1,R,J,G
-   1,K,G
-   4,R,K,G
-   5,L,K
-  33,L,D
-  20,D
-   9,L,D
- 213,F,268
-  17,F,310
-   3,U
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-  15,L,K
+   3,R
+  10
+  27,R,D
+  30,R
+ 177,F,88
+  13,F,50
+  20,U
+   1,R,U
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  10,R,J
+   6,R,K,G
    1,J,G
+   3,R,J
+   2,L,J
+  30,L,D
+  12,D
+   8,F,200
+  11,F,235
+   1,F,240
+ 160,F,268
+  51,F,269
+   6,F,277
+   9,F,310
+   3,U
+   2,L,U
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   7,L,J
+   4,L,K,G
    7,L,J,G
-   4,R,J
-  12,K,G
-   3,J,G
-   1,L,J,G
-   9,R,K,G
+   1,K,G
+  11,R,K
+   8,J,G
+   2,L,J
+  10,R,K,G
   12,R,J
-   4,K,G
-   1,L,K,G
+   3,K,G
+   1,L,K
   40
 
 #lvl_1
@@ -170,7 +173,6 @@ console load SpringCollab2020/1-Beginner/itsabrody
   26,R
   39,F,123
   69,R
-#nice
   25,F,60
   22,U
   46,F,324
@@ -206,20 +208,13 @@ console load SpringCollab2020/1-Beginner/itsabrody
   80,F,117
  240,R
   54,F,60
- 130,R
-  55,F,115
-   7,F,116
-  30,R
-  13,F,48
-  20,F,38
-  35,F,142
-  11,F,126
-  15,R
-   1,F,95
-  15,R
-  12,F,40
-   4,R
-   1,R,J
+ 126,R
+  18,F,110.3
+   7,D
+  37,F,110
+ 112,R
+  12,F,47
+   3,F,22
    1,R,K
    1,R,J
    1,R,K
@@ -227,62 +222,72 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,K
    1,R,J
    1,R,K
-  11,R,J
-   7,R,K,G
-   3,R,J,G
+   1,R,J
+  11,R,K
+   5,R,J,G
+   1,J
+   4,R,K,G
    6,R
   40
 
 #lvl_3
-  17,R
-  19,F,165
-  51,R
-  49,F,65
-  36,U
- 100,F,97
-  40,F,112
-  46,R
-  14,R,U
-  21,U
+  12,R
+  28,R,D
+  48,R
+  17,F,70
+  30,F,57
+  34,U
+  70,F,97
+  27,F,98
+  43,F,109
+  47,R
+  10,F,54
+  22,U
+   2,R,U
    1,R,J
    1,R,K
    1,R,J
    9,R,K
-   5,L
-   1,X
-   5,L
-   1,L,J
    7,L
+   1,X
+   3,L
+   1,L,J
+   6,L
   15,R,D
-  66,F,110
- 101,F,76
-  10,U
+  56,F,111
+  27,F,90
+  85,F,73
+   6,U
    1,R,J
    1,R
    2
    4,L
-  64,D
-  19,F,230
+  63,D
+  20,F,230
   34,L
-  54,U
-   9,J
+   5,F,300
+  46,U
    1,L,J
-   5,L
+  11,L,K
+   7,L
    1,L,X
-   1,L
    1,L,J
-   9,L
-  20,R
-  64,F,136
- 100,R
-  16,F,80
-  43,F,62
-  33,R
-  30,F,140
-  48,F,125
+   4,L
+  14,R
+   4,R,D
+  66,F,136
+  30,F,91
+  70,F,90
+  15,F,85
+  45,F,62
+  32,R
+  12,F,130
+  15,F,140
+  50,F,127
   10,R
   15,F,59
   45,F,40
+   2,F,45
    1,R,J
    1,R,K
    1,R,J
@@ -290,117 +295,148 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,J
    1,R,K
    1,R,J
-  18,R
+  17,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-  11,R,J
+  11,R,K
    2,R
   40
 
 #lvl_4
   23,R,D
-  25,F,179
-  19,R
-  24,F,60
-  45,R
-  18,F,80
-  63,R
-  24,F,146
-  23,F,73
-  28,R
-  24,D
-  23,F,130
-  38,R
-  18,F,60
-  15,F,10
-  36,F,155
-  47,F,100
-  16,F,280
-  22,U
-  14,R,U
-  45,F,13
+  20,D
+   5,R,D
+  23,R
+  90,F,82
+  51,R
+  15,F,130
+  15,F,135
+  17,F,63
+  15,R
+   5,F,120
+  13,F,130
+  16,F,142
+   1,F,136
+  11,F,40
+   7,F,60
+  14,F,70
+  29,F,85
+   3,F,90
+   6,F,100
+  25,F,144
+   5,F,135
+  42,F,98
+   1,F,70
+  12,F,273
+   6,F,320
+   1,F,330
+  10,U
+  18,F,26
+   1,F,13
+  41,F,14
+   1,R,J
+   1,L,K
+   1,L,J
+   1,L,K
    1,L,J
    1,L,K
    1,L,J
    1,L,K
-   1,L,J,G
-   1,L,K
-   9,L,J,G
-   7,L
-  11,K,G
-   1,R,K,G
-   5,J,G
-   1,L,J,G
-   1,R,K,G
-   6,R,J,G
-   1,R,K,G
-   2,R,J,G
-  11,R
+  10,L,J
+   4,L
+   5,J
+   8,R,K,G
    1,R,J,G
+   4,L,J
+   5,R,J
+   3,R
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
   14,R
    1,R,J
   10,R
    1,R,J,G
-   1,R,K,G
-   3,R
-   1,R,J,G
-   6,R
+   2,R,K,G
+   2,R
    2,R,J,G
-  18,R
-  34,F,98
-  80,R
-#Second key skip (TM)
-  26,F,153
-  57,R
-  41,F,107
-   6,F,170
-  26,D
-  52,L,D
-  16,D
-   5,R,D
-  90,R
-  15,F,57
-  15,F,7
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   4,R,J
-   9,R,K,G
-   2,L
+   4,R
    1,R,J,G
-   6,R,K,G
+   5,R
+  10,R,J
+   7,R
+  30,F,100
+  79,F,91
+  24,F,156
+  82,F,98
+   9,F,103
+  10,F,125
+  20,F,175
+   8,F,210
+  46,L,D
+  23,D
+   3,R,D
+  93,F,88
+   2,F,72
+   8,F,53
+   1,F,48
+  11,U
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+   4,L,J
+   7,R,J
+   1,R,K,G
+   4,R,J,G
+   1,J
+   2,R,J
+   1,R,K,G
    2,R,J,G
   21,R
-  16,L
-  68
-  17,R
+  15,L
+  10
+   2,L
+  52
+  10,R
    1,R,J
    1,R,K,G
-  15,R
-   3,R,J
+   1,R,J,G
   16,R
-   1,R,J
-  26,R
-  19,F,120
-  39,R
-  42,F,40
-  45,R
-  24,D
-   7,R,D
+   8,R,J
   18,R
-   9,U
-   3,R,J
-   9,L,K
-   6,R,J
-   1,R
-   1,R,K,G
+   8,R,D
+  19,F,120
+  36,R
+  20,F,65
+  30,F,20
+  34,R
+   3,R,D
+  27,D
+   7,R,D
+  13,R
+  10,U
+   1,R,J
+   1,R,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   3,L,J
+   1,J
+   7,R,K
+   1,R,J,G
   11,R
    1,R,J
    3,R
@@ -435,34 +471,36 @@ console load SpringCollab2020/1-Beginner/itsabrody
   61,F,73
   17,R
   33,F,96
-  21,R
+  22,R
   34,F,63
   80,R
   37,F,150
   59,F,99
-  30,R
+  31,R
   19,F,62
-   4,U
-   7,R
+   5,U
+   3,R,U
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   3,R,J
-   3,R,K,G
-   2,R,J,G
+   1,R,J
+   1,R,K
+   2,R,J
+   4,R,K,G
+   1,R,J,G
    8,R
   40
 
 #lvl_outro
-   3,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  15,R,D,X
-  28,L
-  24,R,J
-  12,L,J
-  76,L
+   2,R
+   3,R,J
+   4,R
+  23,R,D,X
+  36,L,D,C
+   4,R,J
+  32,R,D,X
+   8,R,J
+  62,R,U,X

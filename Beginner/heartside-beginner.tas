@@ -4,8 +4,9 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1
 
 #Start
-#lvl_intro
   36
+
+#lvl_intro
    9,R,J
    3,R
    4,D,X
@@ -358,14 +359,17 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
 #lvl_beg_heart_04
   11
   15,U,X
-  48,R,U
-  24,R
-  24,R,D
-  23,D
-  27,R,D
-  16,R
-  42,R,U
-  72,U
+  46,F,48
+  11,R
+   3,R
+   4,F,10
+   9,R
+  27,F,139
+  45,F,153
+  15,R
+  37,F,26
+   7,R
+  71,U
   15,U,X
   43,R,U
    7,F,82

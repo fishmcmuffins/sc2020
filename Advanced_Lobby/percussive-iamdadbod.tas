@@ -11,17 +11,17 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 2680 1048
   20,L,J
    1,L,K,G
  120,L,X
-   4,L,J
-   4,D,X
-   2,L,J
-   1
-  11,L
-  15,D,C
-  10,R,D
-  20,D
-  38,L,D
-   4,D,X
-   4,L,J
-  11,L
+   8,L,J
+  16,L,K
+   1,L,J,G
+   3,R,J
+   4,J
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+  10,L,K,G
+  62,U,X
+   1,L
+  15,L,D,C
    1,X
-#4.505
+#4.488
