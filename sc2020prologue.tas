@@ -1,10 +1,12 @@
-#Made by Vamp
-#Restart
+#Made by Vamp and jacks
+
 console load SpringCollab2020/0-Lobbies/0-Prologue
    1
 
-#lvl_a00
+#Start
   69
+
+#lvl_a00
    4,D,X
    2,R,X
    1,R,J

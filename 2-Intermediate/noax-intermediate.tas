@@ -1,0 +1,275 @@
+#Noax-intermediate
+#start
+
+console load SpringCollab2020/2-Intermediate/Noax
+   1
+
+#Start
+ 190
+
+#Noax_00
+
+   1,D,X
+   9,R,X
+  16,L,J
+   9,U,X
+  13,L,J
+  17,L
+   4,D,X
+   1,L,J
+   7,L
+   5,L,J
+  15,L,D,X
+  14,D,C
+  11
+
+  40
+#Noax_01
+
+  14,R,D,X
+  25,R,D
+   1,R,J
+   1,R
+  13,R,D,X
+   1,R,J
+   1,R
+  10,D,X
+ 110
+   3,L,D
+   4,D,X
+  10,L,X
+  16
+   4,L,J
+   5,L,K
+   3,L
+  15,L,J
+   4,D,X
+   9,U,X
+  19,L,J
+  13,R,U,X
+  14,R,D,C
+   2,J,G
+   3
+   4,D,X
+   8,R,X
+   6,R
+   8,R,J
+  13,U,X
+   3,L,J
+  14,R,D,X
+   9
+   4,R,J
+   4,D,X
+   4,R,J
+  14,U,C
+  15
+  14,L,X
+   7
+   4,L,J
+   2,L,K
+  14,L,X
+   4
+   4,L,J
+  21,L,K
+  11,U,X
+  12,R,J
+  14,R
+  14,R,D,X
+   3
+  14,R,X
+  47
+   4,R,J
+   4,D,X
+   6,R,J
+
+  40
+Noax_02
+
+   5,R,J
+  14,R,X
+  18
+   4,R,J
+   3,R,K
+  14,R,D,X
+  12,R
+  14,R,X
+  21,R
+   4,R,J
+   1,R,K
+   9,R,X
+   1,R,J,G
+  15,R,D
+   1,D,X
+  13,R,X
+   4,R,J
+   3,R,K
+  14,U,C
+   6
+   5,R,U,X
+  14,U,C
+  23
+
+  40
+#Noax_03
+
+  17
+  14,R,X
+   7
+   4,R,J
+  16,R,K
+  14,R,D,X
+  24,R
+   3,R,J,G
+  14,U,X
+  21
+  13,R,U,X
+   4,L,G
+   1,L,J,G
+   2,R,J
+   1,D,X
+  14,R,X
+   6,L,D
+  14,D,X
+  25,D
+  14,R,C
+  63
+   4,R,J
+   8,R,K
+  12,R
+  13,R,U,X
+   5,R
+   4,R,J
+   3,R,K
+  20,R,J,G
+  19,R
+   1,L
+   1,R,J,G
+   6,R,K,G
+  29,R
+  14,R,U,X
+   5
+   4,R,J
+  15,R,K
+  14,U,X
+  10,L
+   1,J,G
+   1,R,J
+   4,L,J
+  14,R,X
+  63
+   1,D,X
+  13,R,X
+   5,R,J
+   2,R
+
+  40
+#Noax_04
+
+   5,R
+  14,U,X
+  10
+   6,R
+  14,R,D,X
+  11
+   4,R,J
+  23,R,K
+  14,R,X
+   4,R
+   2,R
+   7,R,U,X
+  11,R
+  14,L,U,X
+   5
+   4,L,J
+  29,L,K
+  14,U,X
+   2,L
+  12,R,J
+  19,R
+  14,R,X
+  35
+   4,R,J
+   5,R,K
+   4,R
+  14,R,X
+  14,R,U,C
+   4
+   4,L,J
+  15,L,K
+   1,R,K
+   1,D,X
+  13,L,X
+   2,L
+  14,L,U,X
+  48
+   4,L,J
+   7,L,K
+  14,K,X
+   6
+   4,L,K
+   9,L,J
+   5,R
+   1,D,X
+  14,R,U,X
+   4,R
+  14,R,X
+  14
+  17,U,X
+  20,L,J
+  14,L,X
+  16
+   4,L,J
+   2,L,K
+  15,U,C
+  14,R,X
+  55
+   4,R,J
+   6,R,K
+  11,R
+  14,R,X
+   1,R
+  15,R,U,X
+   1,D,C
+  14,L,U,C
+   3
+   4,L,J
+  11,L,K
+  13,L,X
+   1,R,G
+  14,R,U,X
+   4
+   4,R,J
+  26,R,K
+  14,U,X
+  11
+  12,R
+  15,U,X
+  25,L,J
+  14,U,X
+  12,L,J
+  32,L
+  14,L,X
+   2
+  14,U,X
+  17
+
+  40
+#Noax_05
+
+  11
+   1,D,X
+  14,R,U,X
+   1,L
+   1,J,G
+   5,R
+   9,L,J,G
+   3,J
+   1,L,K,G
+
+   1,L,J,G
+   4,L,K,G
+   7,L
+  13,L,U,X
+ 135
+#44.183
+#end

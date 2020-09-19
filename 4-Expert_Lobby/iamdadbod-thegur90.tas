@@ -1,0 +1,32 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 2512 120
+   1
+
+#Start
+  36
+
+#lvl_1
+   5,R,D,X
+   4,L,J
+   1,L,K,G
+   5,L
+   2,L,K
+  14,L,D
+  15,D,X
+   3,R
+  14,R,D
+  19,L,D
+   3,D
+  22,L,D
+  13,L,D,X
+   1,L,J
+   1,L
+   5,L,D,X
+   1,L,J
+   7,L
+   4,L,J
+   4,D,X
+   1,L,X
+  10,L,J
+   7,L
+   1,X
+#2.499

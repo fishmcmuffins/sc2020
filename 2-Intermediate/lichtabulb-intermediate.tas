@@ -1,0 +1,222 @@
+#lichtabulb-intermediate
+#start
+
+console load SpringCollab2020/2-Intermediate/Lichtbaulb
+   1
+#Start
+ 191
+#level_ChaotiC_00
+
+   2,L,J
+  19,L,G
+  19,L,U,G
+   9,L,G
+   1,R,D
+  10,R,D
+   1,D,X
+   6,R,U,X
+   1,L,J,G
+  12,R,J
+   7,L
+   1,R,K,G
+  39,D
+
+
+  40
+#level_1b
+
+   1,R,D
+  13,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+  42,R
+   1,D,X
+   9,R,X
+   1,L,J
+   5,R
+  15,L,D,X
+   1,L,J
+   6,L
+  14,L,D,X
+  32,R,D
+  14,R,D,X
+   8,L,D
+  30,D
+  13,L,D
+  17,L
+  15,L,D,X
+   1,L,J
+   4,D,X
+   5,L,X
+   1,R,J
+   2,L
+   5,R
+   1,R,J
+   3,R
+   3,R,J
+  18,R,D
+   1,L,D
+  31,D
+   1,R,D
+   4,D,X
+   1,L,J
+   5,L
+  21,L,J
+  14,L,D,X
+   4,L,D
+   4,D,X
+   1,L,J
+   7,L
+   5,L,J
+   4,D,X
+   1,L,U,X
+
+  40
+#level_1c
+
+  10
+  11,U,X
+   1,L,J
+  11,L
+   7,L,J
+  14,L,X
+   2,L,G
+#10.319
+  14,D,C
+  14,L,D
+  16,L
+   8,L,X
+  46,L,U,G
+  24,L
+  43,L,D,G
+   1,L
+  18,L,D
+   1,D,X
+  13,L,X
+   8,L
+  15,U,X
+  72,R,G
+  16,K
+   2,L,K
+  35,R,U,G
+   1,R
+  29,R,G
+  11,L,D
+   4,D,X
+   1,L,J
+   5,L
+
+  40
+#level_1d
+   1,L
+   2,L,J
+   8,L,U,G
+   7,R,J,G
+   2,R
+   2,R,J
+   1,D,X
+  13,L,X
+   1,L,J
+   1,L
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+   1,L,J
+   5,L,G
+  16
+  11,R
+   1
+   1,R,J
+  10,L,X
+   3,R,J
+  20,J
+   1,K,G
+   1,L,K
+   1,R,K
+  12,R,X
+  17,R
+   5,L,D,X
+  13,L,J
+   6,R,J
+   1,L,J
+  16,L,U,X
+   1,L,J,G
+  21,L,K,G
+  14,U,X
+  19,G
+   9,R,G
+   1,L
+   1,R,J,G
+   7,L,J
+   9,R,K,G
+  10,R
+   1,D,X
+  19,R,U,X
+  15,R,C
+  24,R
+  10,R,D
+  38,D
+  12,R,D
+   4,D,X
+   5,R,J
+
+  40
+#level_1e
+
+   1,R,J
+   5,R,G
+   8,J,G
+   6,L,K
+   1,D,X
+  10,R,X
+   1,R,J
+   2,R
+  16,R,D,X
+   4,R,J
+   7,R
+  14,L,X
+   4,L
+   4,R
+  10,L,X
+  11,R,J
+   1,R,K,G
+  12,R
+  14,D,X
+  10,L,D
+  10,D
+  30
+   2,L
+  13,L,K
+   1,J
+   5,L,J
+   1,R,J
+  14,U,X
+   2,L
+   9,R,J
+  15,R
+   9,R,J
+   2,R,D
+   4,R,K,G
+   7,R
+   4,D,X
+   6,R,X
+  14,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+  13,R,U,X
+   1,L
+   1,J
+   7,L,J
+
+  40
+#level_1f-end
+
+  11,L
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+   5,L,J
+  14,L,U,X
+ 135
