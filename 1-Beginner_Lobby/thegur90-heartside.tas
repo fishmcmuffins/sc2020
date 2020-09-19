@@ -1,0 +1,58 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner 2936 544
+  36
+console clrsav
+console hearts 200
+
+unsafe
+#Start
+   1,Q
+   1,J
+  31
+
+ 110
+   1,S
+   1,D,J
+  34
+  12,L,J
+   4,D,X
+   1,L,X
+   1,L,J
+   7,L
+   1,L,J
+   3,L
+   9,L,D,X
+   1,L,J
+   7,L
+  10,L,J
+   5,L,K,G
+   9,L,J,G
+  14,U,X
+  18,L,J
+   1,L,K,G
+   7,L
+   9,L,J
+   4,K,G
+   7,L,K
+   1,R,K
+  15,U,X
+   1,L
+   1,J,G
+  11,L,J
+  12,L,K,G
+   6,J,G
+   1,R
+  12,L,K,G
+   7,L
+  13,L,J
+  12,U,X
+  14,L,J
+  11,L
+   4,D,X
+   4,L,J
+   1,K,G
+   7,L,K,G
+   7,L,J,G
+   5,L
+   1,L,J
+   9,L
+   1,X
