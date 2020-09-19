@@ -1,8 +1,8 @@
-#By Gliperal and masrock9
+v#By Gliperal and masrock9
 console load SpringCollab2020/1-Beginner/Flagpole1up
    1
 
-#lvl_Flagpole1up_00_Intro
+#Flagpole1up_00_Intro
 #Start
   84
    4,D,X
@@ -88,33 +88,35 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   13,R,D,X
    1,R,J
    1,R,K,G
-   4,R
+  15,R
+   2,R,J
+   2,R
    4,D,X
    3,R,U,X
   40
 
-#lvl_Flagpole1up_01
-   4,L
-   1,J,G
-   4
+#Flagpole1up_01
+   5,L
+   1,L,J,G
+   5,R
   15,U,X
    1,L,J,G
    8,L,G
-  25,R,D
+  26,R,D
    6,R
    4,R,D,X
    1,R,J
-   6,R
+   7,R
    1,R,X
   12,R,J
    2,R,K,G
    2,L,K
-   3,L
+   1,L
    4,D,X
    1,R,X
    1,R,J
    6,R
-  20,R,J
+  21,R,J
   20,R,D,X
   12,L,J
   15,U,X
@@ -133,7 +135,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   13,R,D,X
   40
 
-#lvl_Flagpole1up_02
+#Flagpole1up_02
    2,R
   22,R,J
   14,R,U,X
@@ -194,7 +196,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
    7,R,K,G
   40
 
-#lvl_Flagpole1up_03
+#Flagpole1up_03
    4,R
   11,R,J,G
    7,J
@@ -274,7 +276,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
    8,R,D,X
   40
 
-#lvl_Flagpole1up_04
+#Flagpole1up_04
    6,R
    1,R,J
   12,R
@@ -346,7 +348,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   12,J
   40
 
-#lvl_Flagpole1up_05
+#Flagpole1up_05
    7,L
    1,L,J,G
    3,L,K,G
@@ -431,7 +433,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
    5,R
   40
 
-#lvl_Flagpole1up_06_Outro
+# Flagpole1up_06_Outro
    1,R
   14,R,X
    7,R,J,G
@@ -449,4 +451,4 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
    9,L,J
   12,U,X
  135
-#0:54.264
+#0:54.570
