@@ -1,10 +1,11 @@
 console load SpringCollab2020/0-Lobbies/1-Beginner 2936 544
-  36
+   1
 console clrsav
 console hearts 200
 
 unsafe
 #Start
+  36
    1,Q
    1,J
   31
