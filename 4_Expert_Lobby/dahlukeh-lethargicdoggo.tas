@@ -1,3 +1,5 @@
+WIP
+
 console load SpringCollab2020/0-Lobbies/4-Expert 2296 888
    1
 
@@ -5,6 +7,28 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2296 888
   36
 
 #lvl_1
+   2,R,J
+   4,D,X
+   6,R,X
+   7,L,J
+   8,L,K,G
+   1,K
+  15,L,D,X
+   3,L,J
+   3
+   9,L,D,X
+   1,L,J,G
+  12,L
+#gets here .1 slower
+#so prob bad
+  10,L,J
+   2,L
+   4,D,X
+  11,L,X
+  10
+#slow down before i guess
+
+
    7,L,J
    4,D,X
    6,L,X
