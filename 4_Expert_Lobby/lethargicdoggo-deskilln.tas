@@ -30,18 +30,16 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1440 928
    3,L
    3
   15,L,D,X
-  17,R,D
+  18,L,D
   15,L,X
-  11,R,D
-  12,L,D,C
-   1,L,J
-   1,L
-  19,L,J
-   4,D,X
-  11,L,U,X
-   4,L
-   1,L,J,G
-   9,L
+  12,R,D,C
+   2,L,J
+   3,L
+  14,L,U,X
+   1,R,J,G
+   7,L,J
+  20,L
+   4,L,D
    4,D,X
    2,L,X
    1,L,J
@@ -49,7 +47,8 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1440 928
    1,L,J
   14,L,D,X
    1,L,J
-  10,L,D,X
+   1
+  11,L,D,X
    4,L,J
    1,J
    2,L,K,G
@@ -71,4 +70,4 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1440 928
   11,R,J
    9,R
    1,X
-#7.395
+#7.276
