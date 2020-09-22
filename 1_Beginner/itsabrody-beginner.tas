@@ -120,10 +120,12 @@ console load SpringCollab2020/1-Beginner/itsabrody
    4,R,J
   24,R,D
   35,F,120
- 100,F,111
-  39,F,89
-  22,F,33
-   9,U
+  56,F,111
+  26,F,107
+  26,F,106
+  30,F,90
+  22,F,32
+   8,F,3
    6,R
    1,R,J
    1,R,K
@@ -131,25 +133,34 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,K
    9,R,J
   13,R,K,G
-   1,R,J,G
-   4,R
+   2,R,J,G
+   3,R
    4,R,K,G
-  17,R,D
-   5,D
-  35,F,170
-  60,F,112
-  16,R
- 154,F,84
-  42,F,107
-  41,R
-   8,F,60
-  14,R
-   8,F,110
-  27,R
- 118,F,76
-  52,F,36
-  40,F,79
-  55,R
+  19,R,D
+   3,D
+  33,F,176
+  47,F,114
+  12,F,113
+  10,F,90
+  50,F,85
+  92,F,84
+  43,F,100
+   4,F,101
+  13,F,103
+  15,F,90
+  29,F,84
+  19,F,90
+  19,F,95
+  12,F,90
+  19,F,77
+  96,F,76
+  11,F,52
+  41,F,38
+  10,F,73
+   6,F,74
+  22,F,76
+   3,F,77
+  57,F,90
   27,F,105
   17,F,110
   10,F,128
@@ -498,10 +509,17 @@ console load SpringCollab2020/1-Beginner/itsabrody
 #lvl_outro
    2,R
    3,R,J
-   4,R
-  23,R,D,X
-  36,L,D,C
-   4,R,J
-  32,R,D,X
-   8,R,J
-  62,R,U,X
+   6,R
+  20,R,D,X
+  19,L,D
+  12,R,D
+   4,D,X
+   1,L,J
+  16,R
+   1,R,J
+  15,R
+  14,R,D,X
+   1,R,J
+  44,R
+   1,R,J
+  14,R
