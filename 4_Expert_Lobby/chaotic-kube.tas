@@ -1,0 +1,77 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 872 816
+   1
+
+#Start
+  36
+
+#lvl_1
+   1,R
+   3,R,J
+  18,R
+   1,R,D
+  20,L,D
+  19,L,D,X
+  14,D
+  15,L,X
+  16,L,D,C
+  15,D,X
+  12,L,D
+   9,D
+   2,J
+   5,L,X
+   1,L,K,G
+   6,K,G
+   4,L,K,G
+   6,L
+   7,L,J
+  18,L,X
+  15,D,C
+   9,R
+  37,R,X
+  29,R,C
+  18,R,D
+   1,R
+   1,R,J
+   7,R
+  16,R,U,X
+  62,R,D
+  11,R
+   3
+
+#quarter px
+#away from glory
+#  18
+#  15,U,X
+#   6
+#  15,U,X
+#   5,R
+#   2,R,J
+#   2,R
+#   1,R,J
+#   2,R,K
+#   2,R
+#   1,R,J
+#   5,R
+#   3,R,J
+#   5,L,K,G
+
+  43,R
+  39,R,J
+  12,R,K,G
+  15,U,X
+  15,U,C
+   1,L,J,G
+   2,R,J
+   2,L,J
+   1,L,K,G
+  29,L,J,G
+  15,L,U,X
+  14,L
+   4,D,X
+   7,L,J
+   1,L,K,G
+  13,L
+   1,L,J
+   9,L
+   1,X
+#9.656

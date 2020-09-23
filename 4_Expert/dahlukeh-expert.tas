@@ -1,10 +1,8 @@
-#By Gliperal,dahlukeh
-#Restart
 console load SpringCollab2020/4-Expert/dahlukeh
    1
 
 #Start
-#dahlukeh_01
+#lvl_dahlukeh_01
  193
    4,D,X
    2,L,X
@@ -33,9 +31,10 @@ console load SpringCollab2020/4-Expert/dahlukeh
   14,R,X
    1,R,J,G
   12,R
+#3.281
   40
 
-#dahlukeh_02
+#lvl_dahlukeh_02
    1,R
   11,R,J
   11,U,X
@@ -70,9 +69,10 @@ console load SpringCollab2020/4-Expert/dahlukeh
    6,R
    1,R,J,G
    6,R
+#8.228
   40
 
-#dahlukeh_03
+#lvl_dahlukeh_03
   14,R,D,X
    3,R,J
   17,R,D,X
@@ -200,9 +200,10 @@ console load SpringCollab2020/4-Expert/dahlukeh
    4,D,X
    1,R,J
    4,R
+#24.888
   40
 
-#dahlukeh_04
+#lvl_dahlukeh_04
    6,R
   14,R,J
   15,U,X
@@ -241,9 +242,10 @@ console load SpringCollab2020/4-Expert/dahlukeh
    1,R,J
    1,R
   24,R,D,X
+#31.297
   40
 
-#dahlukeh_05
+#lvl_dahlukeh_05
    1,R
    4,R,J
   12,R,K,G
@@ -255,9 +257,10 @@ console load SpringCollab2020/4-Expert/dahlukeh
    7,R
    1,R,J
    1,R
+#32.963
   40
 
-#dahlukeh_06
+#lvl_dahlukeh_06
    4,D,X
   10,R,U,X
    1,R,J,G
@@ -268,8 +271,11 @@ console load SpringCollab2020/4-Expert/dahlukeh
    3,R,J
   15,R,D,X
    5,R
+#34.799
   40
 
-#dahlukeh_06
-  10,R,U,C
+#lvl_dahlukeh_07
+  10,R,U,X
  135
+#37.689
+#end
