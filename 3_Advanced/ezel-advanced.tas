@@ -1,5 +1,3 @@
-#Made by Vamp
-#Restart
 console load SpringCollab2020/3-Advanced/Ezel
    1
 
@@ -7,37 +5,38 @@ console load SpringCollab2020/3-Advanced/Ezel
 #lvl_Ezel_00
  190
    4,D,X
-   2,R,J
-  11,R,D
    1,R,J
-  12,R,K,G
-   1,R
-  22,R,K
+   7,R
+   4,R,J
+   7,R
+   6
+   4,R,K,G
+   5,R
+   1,R,J
+  11,R
   14,R,X
    1,R,J,G
    7,R
    9,R,J
-   1,R,K
-  14,R,D,X
+   4,D,X
    1,R,J
-   1,R
-   3,R,J
-   3,R
-   2
+   6,R
+   1,R,J
+   2,R
+  12
    4,D,X
   11,U,X
    2,R
    1
    1,R
    1
-  16,L,J
-   2,J
+  17,L,J
    7,R,J
    1,R,K,G
    1,R,J,G
    6,R
-   1,R,J
-  16,R,D
+   3,R,J
+  15,R,D
   13,L,D
   10,L,D,X
    5,R,J
@@ -48,514 +47,520 @@ console load SpringCollab2020/3-Advanced/Ezel
    4,L
    4,D,X
    6,U,X
-  29,R,J
+  30,R,J
    4,D,X
    1,R,J
-  17,R
+   7,R
+   1,R,J
+   7,R
   15,D,X
-  11,R,D
-   4,D,X
+  10,R,D
+   3,D
+   6,R,D,X
    1,R,J
-   9,R
+   7,R
    1,R,J
   10,R,D,X
    5,R,J
   15,R,D,X
-   7,R,D,X
-  12,R,J
+   3,R,D
+  12,R,D,J
    3,L,K
   15,U,X
    1,R
-   5,R,J
+   7,R,J
+   1,R,K,G
    7,R
-   2
-   1,R
-   1
    4,D,X
    1,R,J
-  10,R
-   1,R
+  11,R
    1,R,J
   35,R,D,X
    1,R,J
    8,R,D,X
+#7.565
   40
 
 #lvl_Ezel_01
    7,R,D,X
-  15,L,D,C
-  15,D,X
+  15,U,C
+  13,L,D
+   6,R,D
   15,D,C
-  15,D,X
-   4,D,C
-   2,R
-   6,R,J
-   3,R
-   7,R,K,G
-   1,L,J
-  10,R
-   1,R,J
-  13,R,D,X
+  10,R,D,X
+   8,R,J
+  15,R,D,X
   22,R,J
-  14,L
-  11,R,J,G
+  13,R
+  10,R,D
+  15,R,U,X
   20,R
-   9,R,J
-  33,R,U,X
-  15,R,D,C
-  16,D,X
-  16,D,C
-  16,D,X
-  16,D,C
-  16,D,X
-  16,D,C
-  16,D,X
-  25,R,D,J
-  32,R,X
-  15,D,C
-  15,D,X
-   3
-   9,R
-  15,R,X
-  23
-  15,D,X
-  15,D,C
-  64,R
-  35,R,U,X
-  15,R,D,C
-   7,L
-   9,U,X
-  24,R
-  22,R,X
-  31,R,D
-   5,R
-  14,R,D,X
-   1,L,J
    4,D,X
-  10,L
+   1,R,X
    1,R,J
-   9,R,D,X
-   1,R,J,G
-   1,R,K,G
+   7,R
+   3,R,J
    5,R
-   1,S
-   1,X
-   9,J
+   3,R,J
+   4,R
+   4,D,X
+  11,R,U,X
+  33,R
+  42,R
+   1
+  15,R,U,X
+   2
+   1,L
+   6,J,G
+  17
+  22,R
+   4,D,X
+  11,R,X
+  14,R
+  22,R,D
+   3,D
+   4,D,X
    1,R,J
-   3,R
-   4,R,J
-   5,R,D,X
-   7,R,J,G
+   5
+   2,R
+   3,R,J
+   8,R,D,X
+   1,R,J,G
    2,R,K,G
    1,R,J,G
    1,R,K,G
    5,R
-   2,R,K
-   5,R
-  40,R,J
-  17,R,D,X
    1,R,J
-  13,R
+   6,R
+  36,R,J
+  14,R,X
+   1,R,K,G
+  18,R
+  10,R,D
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+#16.830
   40
 
 #lvl_Ezel_02
-   1,R
+   7,R,D,X
    1,R,J
-   8,R
-  14,R,D,X
-   1,R,J
-   2,R
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-   1,R,J
-   2,R
-  15,D,X
-  15,R,C
-  11,L
-  10,L,D
-  31,R,D
+  10,R,X
+   5,R,J
   15,R,D,X
-  19,L
+  14,R,D,C
+   1,L,K
+  15,D,C
+  10,L,D,X
+   3,R,J
+   2,R
+  14,R,D,X
+   1,L,J
+  15,D,X
+  15,D,C
+   1,J
+   5
+  15,D,X
+   4,D
+  24,R,D
+  24,L
   15,L,D,X
-   5,R,D
-   9,L,D
-   6,L,D,X
-  10
-   7,L
+   4,L,D
+   9,D
+   3
+   7,R
   15,L,U,X
-  24,L,D
-  25,R,D
-  17,D
+  22,L
+  43,D
   15,R,X
   15,D,C
-  13,L,D
-  28,R
-  22,R,X
-  12,R,D
-  41,L,D
-  15,L,D,X
-  15,R,D,C
-  17,L,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  16,D,C
-  16,D,X
-  10,R,D,C
-   1,L,J
-  10,R,D
-  11,L,D
-  10,R,D
-   2,L,D
-   8,D
-  10,D,X
-  38,R
-  22,R,X
+   9,L,D
    2,D
-  45,R,D
+  10,L,D,C
+   5,R,J
+   6,L,X
+  27,R
+  15,R,X
+  14,R
+   8,R,D
+  39,L,D
+  10,L,D,C
+   1,L,J
+  15,L
+   5,L,D
+  22,D
+   2,R,D
+  13,L,D,X
+  19,R,J
+   8,R
+  15,R,X
+  14,R
+  39,R,D
    4,D,X
-   2,R
    1,R,J
+   2,R
+#27.557
   40
 
 #lvl_Ezel_03
-   7,R
-  37,R,J
-   1,D,X
-  10,L
-  39,R,J
-  33,R,K,G
-   7,R,X
-   1,R,J,G
-   1,R
-  12,L
-  11,J
-  10,L
-   6
-   5,L
-  11,J
-  11,L
-  10
-  11,J
-  11,L
-  11
-  34,L,G
-   3,L,J,G
-   5,K,G
-  13,L,K
-  15,L,D,X
-   8,L,C
-   7,R
-  14,L,D,X
-  21,R
-  14,D,X
    5,R
-   6,L,D,X
-  25,R
-  18,R,U,X
-  15,R,C
-  18,R
-  27
-  20,U,X
-  19
-   3,L
-  48,R
-   8,R,X
-  10,R,J,G
-  13,R
    1,R,J
-   4,R
-  14,L,D,X
-  10,L,J
-  15,R,U,X
-  31,R,D
-   3,R,J
-  14,L,D,X
-   1,J
    2,R
-  13,R,X
+  14,R,D,X
    1,L,J
-   8,L
-  24,R,X
-  14,L,D,C
-   1,R,J
-  12,R
-  21,R,J
-  18,L,J
-  12,L,K,G
-  11,J
-  11,L
-  15
-  11,J
-  15,L
-  11
-  11,J
-  11,L
-   5
-   1,J
-  25,L,J
-   4,R,K
-  21,R
-   1,L,J
-  10,R,J
-  32,R
-  15,R,U,X
-  12,R
-  20,L
-  10,J
-  13,L
-   8
-   2,L,G
-   4,R,J
-  13
-  13,R
-   1,L,J
-  16,R,J
-  11,K,G
-   2,L,K
-   1,J
-  20,R,J
-   6,R
-   5,R,J,G
-  11,R
-   5,L
-   5,J
-  47,L
-   2,R,J
-  25,R,D
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-  14,L,D,X
-   1,R,J
-   7,R
-  33,R,J
-   1,D,X
-  12,U
-  13,R,J
-  23,R
-  17,L
-   5,L,J,G
-   9,R,K
-  32,R,D
-  10,R
-  18,R,C
+  15,D,X
+  15,D,C
+   1
+  10,L,X
+   7,R,J
   15,R,X
-  10,R
-  15,R,C
-  22,D
+  15,D,C
+  15,D,X
+  15,D,C
    4,D,X
-   5,R,J
-   3,R,K,G
-   2,R,J,G
-   3
+  10,R,X
+   7,R,J
+  14,R
+  14,R,X
+   6,R,J,G
+   8,R
+  20,R,G
+   9,L,J
+   5,L
+   2
+  15,D,X
+  15,D,C
+   7,D,X
+   3,R
+   5
+  11,D,C
+   4,R
+  15,R,X
+   7,R
+  33,R
+  15,R,X
+  20,R
   13,R,D
-   8,R,J
+  34,R,J
+  15,R,U,X
+  41,R
+   1
+   3,K,G
+  10,R,K,G
+  10,R,X
+  10,R,J,G
+  11,R
+   1,S
+   1,D,J
+  69,O
+   1,R,J
+  13,L,D,C
+   1,R,J
+   2
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   1
+  10,D,C
+#desync here sorta but it works out
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   1
+  14,D,C
+   7
+   4,D,C
+   1,R,J
+  11,R
+  23,R,J
+  12,L,K
+   6,R,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   2,R,J
+   6,R
+   2
+   1,R,J
+  11,R
+   7
+   2,R
+   2
+   8,R,D
+   1
+   1,R,K
+  12,R,J
+   8,R
+  11,R,J
+  19,R
+   6,R,X
+   1,R,J,G
+  11,J
+  28,L
+   1,J
+  21,R,J
+  13,L
+   7
+   3,R
+  18,R,J
+  10,K,G
+   1,L,K
+  18,L,J
+  20,R,K
+  12,R
+   7,D
+  12,R,J
+   5,R
+  10,R,J
+  21,R
+  11,L
+   4,R
+   1,J
+   4,L,J
+   8,L
+   5,L,J
+  10,L
+  15,D,X
+  15,L,D,C
+   4,D,X
+   3,L,X
+   1,R,J
+   8,R
+  32,R,J
+  14,U,X
+  57,R,J
+  15,R,D
+  13,R
+  18,R,C
+  14,R
+  11,R,D
+  15,R,X
+   4,D,C
+   9,R,C
+   6,R,J
+   3,R,K,G
+   6,R,J,G
+   3,R
+  15,R,D,X
+   2,R,D
+   1,R,J
+#51.697  
   40
 
 #lvl_Ezel_04
-  15,R,D,X
-   2,R,J
-  10,R,X
-  10,R,J,G
-  11,R
-  15,D,X
-   5,L,D,C
-  13,L
-   5,R
-   1
-  22,U,X
-  17,U,C
-  22,U,X
-  20,L,C
-  15,U,X
-   7,L
-  15,U,X
-   2,R
-  25,R,U,C
-  31,L
-  23,L,X
-  18,U,C
-  15,R,U,X
-  27,L,D
-   5,D,X
-  15
-  13,L
-  16,L,U,X
-   7,L,D,C
-  26,R
-  20,R,X
-  20,U,C
-  15,U,X
-  15,R,U,C
-  15,R,U,X
-  22,L
-   4,R
-  34,L,U,X
-  15,L,U,C
-  15,L,J
-   5,R
-   8
-  15,U,X
-   1,L
-  10,L,D,J
-   7,L
-   9,R,K,G
-   7,R
-   5,R,X
-   2,R,J
-   9,R,K,G
-   3,R
-   6,L
-   4,R,J
-   4,J
-  14,U,X
-   2,R,J
-  40
-
-#lvl_Ezel_05
-  14,R
-   1,D,X
-  11,R
-   3,R,J
-   3,R,K,G
-  13,R
-   6,R,J
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  10,L,X
-  19,R,J
-  10,L,X
-   6,R,J
-  14,L,D,X
-   5,R,J
-  14,L,D,X
-   6,R,J
-   6,R,K,G
-   4,R
-  23,L
-  26,U,X
-  10,L,D,C
-   5,R,J
-  13,L,D,X
-   5,R,J
-  12,L,D,X
-   6,R,J
-  26,R,K,G
-  40,R,U,X
-   2,L
-   1,R
-   1,D,C
-  18,R
-  12,R,J
-  19,R,X
-  21,R,C
-  26,R,D
-   2,R
-   1,D,X
-  13,R
-   1,L,J
-  14,L,D,X
+  14,R,D,X
    1,R,J
-  10,R,D,X
-   1,R,J,G
-   2,R,K,G
-   1,R,K,G
-   1,R,J,G
-  10,R
-  33,R,J
-  40,R,U,X
-  56,R,U,C
-  15,U,X
-  40,R
-  20,U,C
-  19,R
-   8
-   5,D
-  11
-   3,L,J,G
-  36,J,G
-  23,K,G
-  14
-  15,J,G
-   4,J
-   9,J
-   4,R,J
-   9,R,K
-  54,R
-  15,R,D
-  10,R,X
-  13,R
-  15,L,U,X
-  15,L,C
-  15,L,D,X
-  40,R
-  15,R,U,X
-  10,L
-  38
-   3,L
+  15,R,D,C
   15,D,X
+  15,D,C
+   4,D,X
+   7,L,X
+   5,R,J
+  10,R,K,G
+   9,R,X
+   4,R
+  15
+  15,U,X
+   3,R
+   3
+  15,U,X
+  18,U,C
+   6,L
+  15,L,X
+   1,L
+  18,U,X
+   3,R
+  15,U,C
+   3,R
+  15,R,U,C
    8,R
    4
-  20,R,X
-  21,L,D
-  10,R
-   4,D,X
+  25,L
+  15,L,X
+   7,L
+  15,U,X
+   1,L
+   8,R,X
+   3,R
+   9
+  14,L,U,X
+   5,L,J,G
+   1,R
+   6,L,U,X
+  27,R
+  15,R,X
+   7,R
+  18,U,X
+  18,U,C
+  15,R,U,X
+  15,R,U,C
+   4,R
+  15,L,X
+  15,L
+   1,L,J
+  20,L,K
+  15,L,U,X
+  17,L
+  15,U,X
+   1,R
+   4,G
+   9,K,G
+   6
+   1,R
+   2,R,J
   10,R,X
+   6,R,J
+   4,R
+  12,R,K,G
+  15,U,X
+#61.625
+  43
+
+#lvl_Ezel_05
+  11,R,J
+   4,D,C
+  10,R,C
+   1,R,J
+  14,R,D,C
+   1,L,J
+  14,L,D,C
+   1,R,J
+  14,R,D,C
+   1,L,J
+  14,L,D,C
+   1,R,J
+  14,R,D,C
+   1,L,J
+  14,L,D,C
+   1,R,J
+  14,R,D,C
+   1,L,J
+  14,L,D,C
+   1,R,J
+  14,R,D,C
+   1,L,J
+   2,L
+   2
+  14,L,D,C
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  17,R
+  20,R,J
+  12,R
+   4,D,X
+   7,R,U,X
+   1,L,J,G
+  20,R,J
+  37,R
+  18,R,X
+  25,R
+   4,D,X
+  11,R,U,X
+  17,R
+  15,R,X
+   7,R
+  15,R,X
+  14,R
+  10,R,D
+   4,D,X
    1,R,J
    8,R
+   1,J
+   1,R
+  15,L,D,X
+  15,D,C
+  15,D,X
+  14,R,D,C
+   1,L,J
+   4,D,X
+  10,L,D,X
    1,R,J
+   9,R,D,X
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+   2,R,J,G
+  11,R
+  31,R,J
+  15,R,U,X
+  27,R
+  15,R,U,X
+  36,R
+  18,R,U,X
+  23,R
+  12
+   5,R
+   6,L
+  19,K,G
+  16
+   3,J,G
+   4,R,J
+  15,U,X
+  23,R
    2,R
-  16,R,D,X
-   1,R,J
-   6,R
+   8,R,D,X
+  39,R
+  13,R,D
+  18,R,X
+   3,R
+   6,U,X
+  18,L
+  15,L,X
+  14
+   6,L,D,X
+  46,R
+  15,R,U,X
+   7,R
+   1,J
+  18,L
+   2,L,D
+   7,D
+   6,L,D
+  15,D,X
+  13,D,C
+  47,R
+   8,D,X
+  16,R
+  11,R,D,X
+  12,R,J
+   1,R
+  15,R,D,X
+   5,R,D
+   4,R,J
+  10,R,K,G
+   6,R,D,X
+#80.937
   40
 
 #lvl_Ezel_06
-   2,R,K
-  10,R
-   7,R,J
-   5,R
-  14,R,X
+   9,R,D,X
+   1,R,D
+   5,R,J
+   6,R,K,G
+   8,R
+   1,R,J
+  14,R,D,X
  135
+#84.405
+#end
+
+
+
+
+
