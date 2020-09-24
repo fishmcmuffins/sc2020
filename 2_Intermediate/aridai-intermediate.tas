@@ -1,4 +1,4 @@
-Made by Vamp
+Made by Vamp and Sasha
 console load SpringCollab2020/2-Intermediate/aridai
    1
 
@@ -460,12 +460,15 @@ console load SpringCollab2020/2-Intermediate/aridai
    4,D,X
    6,L,X
    1,L,J
-  23,R,D
-   7,L,D
-   1,L,G
-   1,L,J,G
-  17,L,D
-  18,L,X
+  16,R,D
+   6,L,D
+   2,R,D
+#sync pls
+#  14,L,D
+#  22,L,X
+#  16,L,D,C
+  13,L,D
+  26,L,X
   14,L,D,C
   13,L,U,X
    2,L,J,G
@@ -527,8 +530,8 @@ console load SpringCollab2020/2-Intermediate/aridai
    6,L,X
    9,L,J
    4,D,X
-  10,L,U
-  12,L
+  11,L,U,X
+  11,L
    2,L,K
   13,L
   15,L,C
@@ -552,16 +555,16 @@ console load SpringCollab2020/2-Intermediate/aridai
    7,R,D
   10,D
   15,R,X
-  29,L
+  28,L
    5,L,D,X
    1,J
    1,L,K,G
    1,K
-   4,R,K
-  14,R
+   3,R,K
+  15,R
    1,R,J
    1,R
-   1,R,J,G
+   1,R,K,G
   25,R,D
   15,D,X
    5,R,D
@@ -616,7 +619,7 @@ console load SpringCollab2020/2-Intermediate/aridai
    4,D,X
   10,R,X
    9,R,J
-  12,R
+  11,R
   15,U,X
    1,S
    1,D,J
@@ -635,14 +638,12 @@ console load SpringCollab2020/2-Intermediate/aridai
    8,L
    6
   28,L,J
-  45,L,U,G
-   1,L,J,G
-   1,K
-   1,J
-   1,K
-   1,J
-  12,R,K
-   9,J
+  35,L,U,G
+   1,G
+   1,U,G
+   8,G
+   2,L,J,G
+  14,U,X
    1,S
    1,D,J
   69,O
@@ -663,85 +664,52 @@ console load SpringCollab2020/2-Intermediate/aridai
    2,J,G
    1,L,J
   12,R,K,G
-   8,R
-   1,R,J
+   7,R
    4,D,X
-  10,R,X
-   1,L,J
-  14,L,D,X
-   7,L,J
-   6,L
-   1,L,J
-   8,L
-   1,D
-   2,L,D
-   6,L
-   1,L,J,G
-   7,L
-   2,L,J
-   4,L
-   1,R
-   2,J,G
-   9,L,J
-   8,L
-   3,L,J
-   9,L
-   1,L,J,G
-  13,L,K,G
-  16,U,X
-  18,L,J
-  11,K,G
-   1,R,K
    1,R,J
-  16,R,K
-  11,J,G
-   1,L,J
-   1,L,K
-  14,L,J
-   1,S
-   1,D,J
-  69,O
-   4,D,X
    1,R
    1,R,J
-   3,R
-   1,R,J
+   5,R
+   3,R,D,J
   40
 
 #lvl_aridai-02 (4)
-   3,R
    4,R,J
-   4,L,J
+   5,R
+   2,R,J
   15,U,X
-  11,K,G
-   1
-  12,J,G
-   1,L,K,G
-   4,K
-   1,L
-   1
+   1,L,J,G
+  11,J
+  12,K,G
+   1,L,J,G
+   1,J
    1,L
    1
    1,L
    2
-   1,R,J
-  15,U,X
    1,L
+   1
+   1,R,J
+  17,U,X
    1,L,J,G
   10,J
-   1
-  11,K,G
-   1
+  12,K,G
   11,J,G
    7,L
    4,D,X
    1,L,X
    6,R,J
-   5,R
+   2,R
    1,R,J
-  29,R
-  15,U,X
-  18,R,J
+   1,R
+   2,R,J
+  10,R
+   1
+  18,R
+   4,D,X
+  11,U,X
+   3,R,J
+  15,J
    1,K
    2,J
    2,K
@@ -753,13 +721,17 @@ console load SpringCollab2020/2-Intermediate/aridai
    2,K
    2,J
    2,K
-   2,J
-   2,K
-   2,J
-   2,K
    1,J
-   1,L,J
-   2,K,G
+   1
+   1,K
+   1
+   1,J
+   1
+   1,K
+   1
+   1,J
+   1
+   1,K
    7,R
   16,U,X
   40
@@ -844,31 +816,68 @@ console load SpringCollab2020/2-Intermediate/aridai
   12,L
    8,L,J,G
   18,L
-   8,R
+   6,R
    4,D,X
    6,L,X
    1,L,J
   14,L
   15,D,X
-   9,L,D
-  11,D
-   9,L,D
-   5,L
+   8,L,D
+   7,D
+  14,L,D
+   1,D
+   2,L
+   1,L,D
+   1,L
    4,D,X
-   2,L,J
-   8,L
+   3,L,X
+   1,L,J
+   6,L
    1,L,J
   40
 
 #lvl_aridai-04 (2)
   14,L,D,X
+  10,L,J
+   1,L
    1,L,J
-   3,L
-  15,D,X
-  20,L,D
-   7,D
-  17,L,D
+  23,L
+   1,L,J,G
+  13,L
+   1,R
+   5,K,G
+   7,L,K
+   8,L
    1,L,K
+   1,L
+   1,L,K
+   6,L
+   2
+   1,L
+   1,L,J,G
+  13,L,K,G
+  16,U,X
+  18,L,J
+  11,K,G
+   1,R,K
+   1,R,J
+  16,R,K
+  11,J,G
+   1,L,J
+   1,L,K
+  14,L,J
+   1,S
+   1,D,J
+  69,O
+   4,D,X
+   6,L,X
+   4,L,J
+   2,L
+  15,D,X
+  23,L,D
+   4,D
+  17,L,D
+   1,L,J
   21,L
    1,L,J
    9,L
@@ -900,27 +909,30 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,K
   11,L,K
    7,L
-  10,L,J
+   6,L,J
   15,U,X
-   2,L,J
-  18,R,J
-   2,R,K,G
-   2,L,K
-   3,K
-   3,R,K
-  26,R,J,G
-   1,K,G
-   3,R,K
-   5,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-   5,R,K,G
+   4,L,J
+   2,J
+   4,R,J
+   1,J
+   1,K
+   7,R
+  10,R,J
+   1,R,K,G
+   3,L,K
+   4,K
+   4,R,K
+  12,R,J,G
+  14,R,U,X
+   2,J,G
+   1,L,J
+  12,R,K,G
    7,R
    4,D,X
    2,R,J
-   8,R
+   1,R
+   1,R,J
+   6,R
    1,R,J
   40
 
@@ -930,7 +942,7 @@ console load SpringCollab2020/2-Intermediate/aridai
   15,R,X
    5,R
    1,R,J,G
-  93,R
+  85,R
    4,D,X
    6,R,X
    1,L,J
@@ -943,41 +955,36 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,R,J
    5,R,D,X
    1,R,J
-   8,R
+   1,R
+   1
+   1,R,J
+   5,R
    1,R,J
    1,R
    7,R,D,X
    1,R,J,G
-  13,R
-   5,R,D
-   1,R,D,J
-   3,R
-   6,R,J
+  10,R
    1
-   4,D,X
-  10,R,X
-   1,R,J
-   9,R,U,X
-   5,R,J,G
+  10,R,J
+   3,R,K,G
+   7,R,J,G
    5,R
-   1,R,J
-  12,R
+  13,R,D,X
+   1,R,J,G
+   5,R
+   2,R,J
+   8,R
    8,R,J
-   1,R
-   4,D,X
-  10,R,X
-   1,R,J
-  12,R
-  15,D,X
-   2,R
+  15,R,X
+  15,D,C
+   4,R,D
   40
 
 #lvl_aridai-05
-   2,D
-  15,R,D,X
-  26,D,C
-  15,R,D
-   4,D
+  17,R,D,X
+  15,D,C
+  13,D
+  17,R,D
    3,J
   69,O
   10,R
@@ -988,68 +995,77 @@ console load SpringCollab2020/2-Intermediate/aridai
    4,D,X
    3,R,X
    1,R,J
-   1
    5,R
+   1
    1,R,J
   10,R,D,X
-  23,L,J,G
-  13,L,K,G
+   1,L,J,G
+   1,R,J
+  17,J
+   1,K
+  10,L,K
+   5,L
+   3,L,K
+   6,L
    1,J,G
    9,L,J
-   1,R,J
-   2,L,J
+   3,R,J
   12,L,K,G
-  11,J,G
-   1,R,J
-   1,K
-  24,L,K
    1,J,G
-   2,L,J
-   1,J
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,J,G
+   3,L,J
+   2,J
    1,L,J
    1,R,J
    1,L,J
   13,L,K,G
   16,R,J
   15,R,U,X
-  12,J,G
    1,K,G
-   3,L,K
+   1,L,K
+   2,L
   15,U,X
-   7,L,J
-   3,L
-  20,R,D
-  27,D
+  10,L,J
+   5,J
+   9,D
+   8,R,D
+  33,D
   15,D,X
   26,L,D
    4,D,X
   14,L,X
    7,L,C
-   4,L,J,G
-   4,L,K,G
-   1,J,G
-   5,L
-   3
+   1,L,J,G
+   5,J
+   2,L
+   1,K,G
+   5
+   2,L
+   2
    1,R
-   5,R
-   1,R,J,G
+   3
+   1,J,G
    1,L,J
-   1,R,K,G
-   7,L,K
-   1,R,K
-   4,K
-   2,J
-  27,R,J
+   1,K
+  24,R,K
+   5,R,G
+  11,J,G
+   1,L,J
    4,D,X
-  10,U
-   2,L,J
-  11,L
-   4,L,X
-   6,L,J
+  10,U,X
+   4,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L,K,G
   14,U,X
-  15,L,J
-   5,R,K
-  13,U,X
+  17,R,J
+  14,U,X
   25,R,J
   40
 
@@ -1057,31 +1073,33 @@ console load SpringCollab2020/2-Intermediate/aridai
   11,R
   11,R,D,X
    8,R,J
-  12,R,K,G
-  15,U,X
-  12,R,J,G
-   8,R,K,G
+  11,K,G
+   1
+  17,U,X
+  10,J,G
    2
-   1,J,G
-   4
-   3,R
+   1,R,K,G
+   8,K
+   1
+   6,L
   15,U,X
-  10,R
+   1,R,J,G
+   8,R
    4,D,X
-   1,R
    1,R,J
-   6,R
+   7,R
    3,R,J
    9,R,X
-  42
-   1,R,G
+  12
+   6,R,X
+  26
    4,D,X
-  11,L
+  11,L,X
    1,L,J
-  23,L
+  25,L
    1,L,J
-   2,L
-  52,L,D,X
+   5,L
+  45,L,D,X
    1,L,J
 
-#2:09.387
+#2:07.976
