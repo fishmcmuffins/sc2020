@@ -119,7 +119,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
   18,R,J
    3,R,K,G
    7,R
-***
    4,R,D,X
    1,R,J
   12,R,D
@@ -139,7 +138,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
   20,R
   14,L,D,X
    2,R,J
-***
   20,R,K,G
    4,D,X
    9,U,X
@@ -319,7 +317,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,K,G
    4,L,J,G
    4,L,K,G
-***
    4,D,X
   10,L,X
    1,L,J
@@ -337,7 +334,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
   40
 
 #Donker_9
-***
    3,L
    5,L,J
    1,J
