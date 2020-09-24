@@ -61,18 +61,18 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   10,J
   15,U,X
   20,J
-  15,U,X
+  16,U,X
   19,J
-  12,U,X
-  34,R,J
-  26,R,X
-  59
+  15,U,X
+  22,R,J
+  21,U,X
   40
 
 #lvl_Room2
-  59
-   4,D,X
-   8,L
+   1
+   1,J
+  71
+  11,L,D,X
    4,R,J
   14,R,D,X
   34,R,J
@@ -87,44 +87,38 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   12,L,J,G
    9,L,K,G
   44,L,D
-   1,D,X
-  12,L
+   4,D,X
+   9,L,X
   20,L,J
   11,L,D
    7,R
    5,L
   11,R,X
    1,L,J
-  15,J
-  20,L,D
-   4,L
-  10,R,D
-  15,L,X
-  12,R
-   1,D,X
-  18,L
-   1,R
-   1,D,X
-  14,U,X
-   5,R,G
-   1,G
-   5,R
-   1,K
-  25,L,K
-   6,L,J,G
-  12,K
+  10,J
+  21,L,J
+  20,L,D,X
+   6,L
+   4,D,X
+  27,L,X
+  14,U,C
+   4,R,J
+  27,L,J
+   2,K,G
+  10,R,K
   11,L,J,G
-  12,K
+  11,K
   12,L,J,G
-   6,L,K,G
-   3,R,K
-   5,L
+   8,L,K,G
+   1,J,G
+   6,L
    3,R
-  20,R,D
-   1,D,X
-  14,R
+  12,D
+   7,R,D
+   4,D,X
+  11,R,X
   11,L
-   5
+   5,R
   11,L,X
    7,R,J
    4,R
@@ -132,23 +126,23 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   14,R
   12,R,D
   18,R,X
+   7,R
+   4,D,X
+  11,R,X
    7,L
-   1,D,X
-  14,R
-   7,L
-   1,D,X
-  10,R
+   4,D,X
+   6,R,X
   15,R,J
   14,U,X
-   1,J
-  13,L,J
-  24,U,X
-   1,J
-   8,L
-   6,R
+   9,R,J
+
+  17,U,X
+   1,L,J
+   7,L
+   4,D,X
+  10,L,X
    2,L
-   1,D,X
-  14,L
+
    8,L,J
    1,L
    1,L
