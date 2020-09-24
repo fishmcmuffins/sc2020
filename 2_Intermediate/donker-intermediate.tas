@@ -1,10 +1,8 @@
 #By Gliperal
 console load SpringCollab2020/2-Intermediate/Donker19
-   1
 
-#Start
 #Donker_1
- 190
+ 191
    6,L,J
    1,L
   12,R,U,X
@@ -74,24 +72,32 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,J
    6,L
   11,L,J
-   5,L
+   1,L
+   1,L,J
+   3,L
   18,U,X
   11,U,C
-  12,J
-   1,R,J
-   1,R,K,G
-   5
-   2,R
-  15,R,X
-  15,L,J
-   8,L,K,G
-   4,J,G
-   3,R,J
-   2,R
-  16,U,X
-  28,R,J
    2,J
-   2,R,K,G
+   5,R,J
+   3,L,J
+   1,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,J
+   1,R
+   4,D,X
+  10,R,U,X
+   1,L
+   1,L,K,G
+   8,L,J,G
+   6,L
+   1,R
+   8,R,J
+  15,U,X
+  29,R,J
+   3,R,K,G
    7,R
    6,L,J
    4,J
@@ -113,18 +119,17 @@ console load SpringCollab2020/2-Intermediate/Donker19
   18,R,J
    3,R,K,G
    7,R
-   4,D,X
+***
+   4,R,D,X
    1,R,J
   12,R,D
    1,R,J
-   8,R,D,X
-   1,R,J
-   5,R,G
-   4,L
-   5,L
-   5,L
-  14,R,D,X
-   1,R,J
+   9,R
+   1,R,G
+  12,L
+   1,R
+  13,R,D,X
+   2,R,J
   15,R,D,X
   40
 
@@ -134,23 +139,25 @@ console load SpringCollab2020/2-Intermediate/Donker19
   20,R
   14,L,D,X
    2,R,J
+***
   20,R,K,G
-  12,U,X
+   4,D,X
+   9,U,X
   20,L,J
-  11,K,G
+   9,K,G
    1,R,K
   14,L,J,G
    5,K,G
    1,R,K
   15,L,J,G
    1,L,K,G
-   5,L
-   2,L,K
+   6,L
+   1,L,K
   22,L,D
+   2
+   1,L
+   1,L,D
    1,D
-   1
-   2,L,D
-   1
    4,D,X
    8,L,U,X
   10,R,J,G
@@ -164,14 +171,12 @@ console load SpringCollab2020/2-Intermediate/Donker19
    7,L
    6,L,J
   11,U,X
-  11,L,J
-   2,J
+   4,L,J
+  10,R,J
    1,R,K,G
-   1,R,J,G
-   1
-   1,R,J,G
-   1
    5,R,J,G
+   2,R
+   1,R,J,G
    7,R
    4,L,D,X
    4,L,X
@@ -243,6 +248,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    7,R,J
    6,R
   24,R,U,X
+#23.817
   12,R,J
   12,K,G
    1,J,G
@@ -313,30 +319,35 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,K,G
    4,L,J,G
    4,L,K,G
+***
    4,D,X
   10,L,X
-   6,L,J
-   4,L,K
-  14,X
-  12,L,J
-  12,L
+   1,L,J
+   1,R,J
+   9,L,J
+   3,L,K,G
+  12,L,J,G
+   8,L
+   5,L,J
   24,L,U,X
    4,D,C
    1,L,J
-   4,L
+   1,R
+   3,L
   40
 
 #Donker_9
+***
    3,L
    5,L,J
    1,J
   14,L,U,X
-  22,L,J,G
-  14,L
+  10,L,J,G
+  18,L
+   2,R
 
 #Donker_9 CP 1
-   9,J
-   2,L,J
+  11,R,J
   19,U,X
   14,J
   18,U,X
@@ -347,35 +358,34 @@ console load SpringCollab2020/2-Intermediate/Donker19
    4,D,X
    1,R,J
    7,R,D
-  21,D
-  20,D,X
+  22,D
+  15,D,X
+   5,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   5,R,K
-   3,K
-   1
+   9,R,K
    1,R,J,G
    9,R
-  14,J
+   1,L,J
+  13,J
   16,U,X
   21,L,J
   14,L,X
    2,L,J,G
-   9,L
-   1
-  12,L,J,G
+   8,L
+   1,L,J
+   1,J
+  12,L,K,G
    7,L
    6,L,J
   15,U,X
    4,L
   11,L,J
   11,R,J
-   5,R,K,G
-   2
-   1,R,K,G
+   7,R,K,G
    7,R
    6,R,D,X
    1,R,J
@@ -395,6 +405,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    2
    1,L,K,G
    7,L
+#39.457
 
 #Donker_9 CP 2
    4,D,X
@@ -426,44 +437,35 @@ console load SpringCollab2020/2-Intermediate/Donker19
 
 #Donker_9 CP 3
    4,D,X
-   2,X
-   1,L,J
+   2,L,J
+   1,R
    7,L
    1,L,J
-   4,L,D,X
+   7,L,D,X
    1,L,J
    7,L
-   6,L,J
-   2,L
-   5,L,D,X
-   1,L,J,G
-  10,L
-   3,L,J
+   5,L,J
+   3,L,K,G
+  11,L,J,G
    3,L
    5,L,U,X
-  40
 
-#Donker_10
+  40
+#donker_10
+
    9,L,U,X
-   5,L
-  15,U,X
-   1,L,J,G
-   9,L
-  16,U,X
-   1,L,J,G
-   4,R,J
-   7,L,J
-   1,K,G
+   1,L
+  14,L,U,C
+   2,L,K,G
    7,L
-   3,L,J
-   2,L
+   2,L,J
   15,U,X
-   5,L,J,G
+  12,L,K,G
    7,L
+   8,L,J
+  15,U,X
+   2,L,K,G
+   7,L
+  12,L,J
+  11,L,K,G
   14,L,U,X
-   1,L,J,G
-   2
-   1,L,J,G
-   7,L
-  11,L,U,X
- 135,D
