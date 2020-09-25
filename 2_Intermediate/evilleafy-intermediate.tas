@@ -1,12 +1,11 @@
-#Dark Side of the Moon - Evilleafy - Intermediate
-#60.605
 #created by Lanvilla
 console load SpringCollab2020/2-Intermediate/Evilleafy
    1
 
 #Start
-#Evilleafy_00
   36
+
+#lvl_Evilleafy_00
    3,R,J
    2,R
   14,R,U,X
@@ -24,7 +23,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    4,R
   40
 
-#Evilleafy_01
+#lvl_Evilleafy_01
    8,R,D
   10,R,U,X
   27,L,U
@@ -64,7 +63,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   26,F,320
   40
 
-#Evilleafy_02
+#lvl_Evilleafy_02
   28,F,50
    4,D,X
    8,R,X
@@ -79,7 +78,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   14,U,X
   40
 
-#Evilleafy_03
+#lvl_Evilleafy_03
    1,S
    1,D,J
   69,O
@@ -119,7 +118,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   14,U,X
   40
 
-#Evilleafy_04
+#lvl_Evilleafy_04
   14,R,J
   18,U,X
   15,U,C
@@ -184,7 +183,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    5,R,D,X
   40
 
-#Evilleafy_05
+#lvl_Evilleafy_05
    4,R
    6,R,J
    7,R,U,X
@@ -260,7 +259,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   12,L,J
   40
 
-#Evilleafy_06
+#lvl_Evilleafy_06
   11,L
    6,L,D,X
    1,L,J

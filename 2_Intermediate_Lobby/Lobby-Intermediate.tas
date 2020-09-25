@@ -1,11 +1,12 @@
 console load SpringCollab2020/0-Lobbies/2-Intermediate
    1
 
+#Start
  190
-#Biggo_1
+
+#lvl_Biggo_1
   14,U,X
    6
-
   17,R
    7
   13,U,X
@@ -20,17 +21,17 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
    6,L,D,C
    1,L,J
    7,L
-
-#IL/Noax-Sizzling_Citadel
    1,X
+#2.499
+
   20
    1,J
-  31
+  30
    1,S
    1,D,J
-  33,O
+  69,O
 
-  36
+#lvl_Biggo_1
    4,D,X
    1,R,J
    7,R
