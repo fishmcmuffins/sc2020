@@ -1,11 +1,11 @@
 #By Gliperal
-#Restart
 console load SpringCollab2020/3-Advanced/Tortoise
    1
 
 #Start
-#ATortoise_Intro
  190
+
+#lvl_ATortoise_Intro
    9,R,J
   23,R,U,X
   19,R,D
@@ -68,7 +68,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,R
   40
 
-#ATortoise_1 (1)
+#lvl_ATortoise_1 (1)
   13,R
    1,R,J
   14,R
@@ -182,14 +182,14 @@ console load SpringCollab2020/3-Advanced/Tortoise
    6,R,K,G
   40
 
-#BTortoise_B1 (1)
+#lvl_BTortoise_B1 (1)
    5
   12,J,G
   17
    9,L,D
   43
 
-#ATortoise_1 (2)
+#lvl_ATortoise_1 (2)
    1,S
    1,D,J
    1,O
@@ -234,7 +234,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
   15,R,D
   40
 
-#Tortoise_2 (1)
+#lvl_Tortoise_2 (1)
   30,R,D
    6,R
   15,R,J
@@ -295,7 +295,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,D,J
  211
 
-#Tortoise_3
+#lvl_Tortoise_3
    1,R,J
   14,R
    1,R,J
@@ -370,8 +370,8 @@ console load SpringCollab2020/3-Advanced/Tortoise
   14,L
    1,L,J
   40
-***
-#Tortoise_3B
+
+#lvl_Tortoise_3B
    9,L,J
   29,L,X
    4,L,J
@@ -394,7 +394,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,D,J
  208
 
-#Tortoise_2 (2)
+#lvl_Tortoise_2 (2)
    1,R,J
   14,R
    1,R,J
@@ -591,7 +591,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,L,J
   43
 
-#BTortoise_B1 (2)
+#lvl_BTortoise_B1 (2)
    3,L,J
   38,L,D
   29,L,J,G
@@ -632,11 +632,11 @@ console load SpringCollab2020/3-Advanced/Tortoise
  104,R,X
   43
 
-#Tortoise_2 (3)
+#lvl_Tortoise_2 (3)
  115
   43
 
-#Tortoise_4
+#lvl_Tortoise_4
   29
    6,R,J
    5,J
@@ -759,7 +759,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
    4,R
   40
 
-#Tortoise_5
+#lvl_Tortoise_5
   11,R
    1,R,J
   14,R
@@ -868,7 +868,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
   52,R,J,G
   40
 
-#BTortoise_Outro
+#lvl_BTortoise_Outro
   15,R
   15,R,D,X
    1,R,J

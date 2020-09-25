@@ -1,5 +1,4 @@
 #Made by Vamp
-#Restart
 console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1
 
@@ -180,7 +179,6 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 #lvl_TheAd_04
   29
   11,R,U,X
-***
    1,R,J,G
   30,R,D
    1,D,X

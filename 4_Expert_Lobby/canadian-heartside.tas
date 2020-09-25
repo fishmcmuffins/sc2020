@@ -1,0 +1,27 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 1280 248
+   1
+
+console clrsav
+console hearts 200
+
+unsafe
+#Start
+  36
+
+#lvl_1
+   1,Q
+   1,O
+  31
+ 190
+   1,R,J
+  10,L,D,X
+  15,L,J
+  15,L,D,X
+   6,L,J
+  15,L,D,X
+  14,L
+   5,L,D,X
+   1,S
+   1,D,J
+  34
+  10,L,J
