@@ -5,26 +5,19 @@ console load SpringCollab2020/3-Advanced/Percussive
 #Start
 #Percussive_Intro
  190
-   1,D,X
-  94,L,X
+   4,D,X
+  91,L,X
    4,L,J
   40
+
 #Percussive_1
   14,L,D,X
-   1,L,J
-   4,L,J
+   5,L,J
   40,L,X
    4,R,J
-   9,R,K
-  44,R,X
-   4,L,J
-  14,L,K
-   4,D,X
-  41,L,X
-
-   4,L,J
-   4,L,K
-  13,R,U,X
+  32,R,K
+  19,L,J
+  16,R,U,X
    4,R,J
   10,R,K
   17,U,X
@@ -35,52 +28,55 @@ console load SpringCollab2020/3-Advanced/Percussive
   16,L
   12,U,X
   12,R
-  13,R,X
+  14,R,X
    4,R,J
-   1,R,K
   21,R
-   1,D,X
-   9,R,X
+   4,D,X
+   6,R,X
    4,R,J
    1,R,K
    5,R
    2,R,J
    1,R
-   1,D,X
-  14,R,X
-   8,R
+   4,D,X
+  10,R,X
+   9,R
   12,R,J,G
   17,U,X
    4,R
    7,R,D,X
   40
+
 #Percussive_2
-   1,R,D,X
+   1,R
    1,R,J
-   7,R
-   5,R,J
-  11,D,X
-   7,R
-   1,D,X
-  13,R,X
+   8,R
+  15,R,D,X
+   5,R
+   1,J
+   4,D,C
+   6,R,C
    4,R,J
    1,R,K
-   1,K
-   3,R,K
-   1,R
-  11,R,K
-  15,R,U,X
-   4,R,J
    2,R,K
-  12,R,U,X
+   1,K
+   4
+  10,R,K
+   4,D,X
+  11,R,U,X
    4,R,J
-   8,R,K
+   4,R,K
+  11,R,U,X
+   4,R,J
+   7,R,K
+   1,R,J,G
+   1,R
   11,R,D,X
   11,R
   16,R,D
    2,R
-   1,D,X
-  29,R,X
+   4,D,X
+  26,R,X
    4,R,J
    7,R,K
   12,U,X
@@ -96,28 +92,32 @@ console load SpringCollab2020/3-Advanced/Percussive
    1,R
   12,L,D
   13,R,D
-   1,D,X
-   8,R,X
+   4,D,X
+   5,R,X
    1,R,J
    7,R
    7,R,J
-   1,D,X
-   7,R,U,X
+   4,D,X
+   4,R,U,X
   40
+
 #Percussive_3
    6,R,U,X
   12,R,J,G
-   1,R
-  21,R,J
-   1,D,X
-  16,R,U,X
-   4,L,J
-   3,L,K
-   3,K
-   2
    5,R
-   1,D,X
-  63,R,X
+  10,R,J
+   7,R
+   4,D,X
+  12,R,U,X
+   3,L,J
+   2,L,J
+   3,L,K
+   3,L,K
+   1,L
+   1
+   5,R
+   4,D,X
+  60,R,X
    4,R,J
   13,R,K
   16,U,X
@@ -127,10 +127,10 @@ console load SpringCollab2020/3-Advanced/Percussive
   14,R,J
   11,R,X
   15,R
-   1,D,X
-  10,R,X
+   4,D,X
+   6,R,X
    4,R,J
-   3,R,K
+   4,R,K
    1,R
   11,R,J
   15,R,D,X
@@ -138,6 +138,7 @@ console load SpringCollab2020/3-Advanced/Percussive
    1,R,J
   10,R,D,X
   40
+
 #Percussive_Exit
  117,R,D,X
    4,R,J
