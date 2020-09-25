@@ -72,42 +72,26 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1
    1,J
   71
-  11,L,D,X
-   4,R,J
-  14,R,D,X
-  34,R,J
-  15,R,U,X
-  19,R
-  18,R,U,X
-   7,L,J,G
-   5,J
-  22,R,K
-  22,L,J
-  13,K
-  12,L,J,G
-   9,L,K,G
-  44,L,D
-   4,D,X
-   9,L,X
-  20,L,J
-  11,L,D
-   7,R
-   5,L
-  11,R,X
-   1,L,J
-  10,J
-  21,L,J
-  20,L,D,X
    6,L
-   4,D,X
-  27,L,X
+   1,X
+ 110,R,U
+  30,U
+   1,X
+  18
+  10,L,X
+  15,L,J
+  15,L,U,X
+  11,J,G
+   1,R,J,G
+   1,K
+   4,L,K,G
   14,U,C
-   4,R,J
+   2,R,J
   27,L,J
-   2,K,G
+   5,K,G
   10,R,K
   11,L,J,G
-  11,K
+  13,K
   12,L,J,G
    8,L,K,G
    1,J,G
@@ -135,14 +119,12 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   15,R,J
   14,U,X
    9,R,J
-
   17,U,X
    1,L,J
    7,L
    4,D,X
   10,L,X
    2,L
-
    8,L,J
    1,L
    1,L
@@ -407,5 +389,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   10,R,J
   12,U,X
  135
-#86.530
-   
+#62.161
