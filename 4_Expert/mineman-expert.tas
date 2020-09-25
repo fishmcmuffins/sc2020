@@ -1,11 +1,11 @@
 #Made by Vamp, Squeali0, & Tyran
-#Restart
 console load SpringCollab2020/4-Expert/Mineman
    1
 
 #Start
-#lvl_mineman_intro
  190
+
+#lvl_mineman_intro
    4,D,C
    1,R,J
   10,R
@@ -149,15 +149,19 @@ console load SpringCollab2020/4-Expert/Mineman
    5,R
   15,R,C
    4,R
-  45,U,X
-#21.930
+  34,U,X
+  15,U,C
+#21.947
   40
 
 #lvl_mineman_2
-  11
-  15,R,D,X
-   5,L,J
-   8,R,J
+  10,R
+   1,R,J,G
+  17,R,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R
+   1,L
   15,U,X
   13,R
    8,R,J
@@ -170,8 +174,9 @@ console load SpringCollab2020/4-Expert/Mineman
    9,L,J
   19,L
   15,U,X
-  10,R
-  29,R,J,G
+   9,R
+  27,R,J,G
+   2,L,J
    2,L
   14,L,J
   22,L,U,X
@@ -190,8 +195,8 @@ console load SpringCollab2020/4-Expert/Mineman
   15,J
    5,R,J
   15,R,U,X
-  25,R,D
-   5,L,D
+  24,R,D
+   6,L,D
   21,R
    6,R,J
   15,U,X
@@ -224,7 +229,7 @@ console load SpringCollab2020/4-Expert/Mineman
   16,L
   41,U,X
   14,U,C
-#36.737
+#36.363
   40
 
 #lvl_mineman_3
@@ -281,7 +286,7 @@ console load SpringCollab2020/4-Expert/Mineman
    4,R,J,G
    1,R,K,G
    3,R,J,G
-#46.104
+#46.036
   40
 
 #lvl_mineman_4
@@ -383,7 +388,7 @@ console load SpringCollab2020/4-Expert/Mineman
    4,D,X
   10,L,X
   20,U,C
-#62.985
+#62.917
   40
 
 #lvl_mineman_5
@@ -445,15 +450,15 @@ console load SpringCollab2020/4-Expert/Mineman
   10,F,1
    9,F,15
   66,F,9
-#75.208
+#75.140
   40
 
 #lvl_mineman_outro
-  14,F,12
-   8,F,39
-  14,F,270
+  13,F,11
+   7,F,19
+   8,F,
   18,F,321
   15,L,U,X
  135
-#79.101
+#78.897
 #end

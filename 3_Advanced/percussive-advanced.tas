@@ -3,14 +3,14 @@ console load SpringCollab2020/3-Advanced/Percussive
    1
 
 #Start
-#Percussive_Intro
+#lvl_Percussive_Intro
  190
    4,D,X
   91,L,X
    4,L,J
   40
 
-#Percussive_1
+#lvl_Percussive_1
   14,L,D,X
    5,L,J
   40,L,X
@@ -27,32 +27,28 @@ console load SpringCollab2020/3-Advanced/Percussive
    1,L,K
   16,L
   12,U,X
-  12,R
+  13,R
   14,R,X
-   4,R,J
   21,R
    4,D,X
-   6,R,X
+  12,R,X
    4,R,J
-   1,R,K
+   5,R,K
    5,R
-   2,R,J
-   1,R
-   4,D,X
-  10,R,X
-   9,R
-  12,R,J,G
-  17,U,X
-   4,R
-   7,R,D,X
-  40
+   4,R,K
+  19,R,U,X
+   4,L,J
+  12,R,U,C
+  43
 
-#Percussive_2
-   1,R
+#lvl_Percussive_2
+   3,R
+  10,R,D,X
    1,R,J
-   8,R
-  15,R,D,X
-   5,R
+   3
+   1,R
+  11,R,D,X
+   9,R
    1,J
    4,D,C
    6,R,C
@@ -68,9 +64,7 @@ console load SpringCollab2020/3-Advanced/Percussive
    4,R,K
   11,R,U,X
    4,R,J
-   7,R,K
-   1,R,J,G
-   1,R
+   8,R,K
   11,R,D,X
   11,R
   16,R,D
@@ -86,12 +80,12 @@ console load SpringCollab2020/3-Advanced/Percussive
    1,R,K
   10,R
   14,R,U,X
-  55,R,D,G
-  36,D,G
-  16,L,D,G
+  53,R,D,G
+  39,D,G
+  17,L,D,G
    1,R
-  12,L,D
-  13,R,D
+   4,L,D
+  19,R,D
    4,D,X
    5,R,X
    1,R,J
@@ -101,7 +95,7 @@ console load SpringCollab2020/3-Advanced/Percussive
    4,R,U,X
   40
 
-#Percussive_3
+#lvl_Percussive_3
    6,R,U,X
   12,R,J,G
    5,R
@@ -131,18 +125,18 @@ console load SpringCollab2020/3-Advanced/Percussive
    6,R,X
    4,R,J
    4,R,K
-   1,R
-  11,R,J
+   4,R
+   8,R,J
   15,R,D,X
    3,R,D
    1,R,J
   10,R,D,X
   40
 
-#Percussive_Exit
+#lvl_Percussive_Exit
  117,R,D,X
    4,R,J
    1,R,K
   12,R,X
- 195,R,D
-   1,J
+ 136,R,D
+#24.089
