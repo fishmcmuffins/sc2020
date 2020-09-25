@@ -27,37 +27,28 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
   40
 
 #lvl_1
-   1,R,D
-   1,R
-   7,R,J
+   2,R,D
+  12,R,J
+   3,R,K,G
    4,D,X
-  11,R,X
-   4,R,J
-   2,R,K
-   1,R,J,G
-   3,L,J
-   2,J
-   1,L,J
-   1,J
-   1,R,K,G
-   1,R,J,G
-   4,R,K,G
-   8,R
-   1,R,K
-   1,R
-   1,R,K
-   6,R
-   8,J
+   6,R,X
+   4,J
+   2,R,J
+   1,K
+   3,R,J,G
+   7,R
    4,D,X
-  12,R,U,X
+  16,R,U,X
    4,R,J
    6,R,K
-  17,R,G
+   6,R
+   2,R,J
+  10,R,G
    1
    1,J
-   8,L,J
-   7,R,K,G
    1,K
+   7,L,K
+   8,R,J,G
   10,R,X
    4,R,J
    4,R,K
@@ -69,41 +60,36 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    4,R,J
   15,R,D,X
    4,R,J
-   2,R,K
-   5,R
-  22,D,X
-  10,L,D,C
-   4,L
+   3,R,K
+   3,R
+  21,D,X
+   1
+  14,L,D,C
    1,L,J
    4,L,D
    2,D
    1,L,D
-  14,R,D
+  13,R,D
    4,D,X
    7,R,X
    4,R,J
    3,R,K
   17,R,X
    4,R,J
-   2,R,K
-   5,R
-   6,R,K
-  10,L,U,X
-   4,L,J
-   7,L,K
-   1,J,G
-   6,L,J
-   4,R,J
-   4,R,K,G
+   5,R,K
+   5
+   3,K
+  17,L,U,X
+   1
+   1,L,J
+  11,J
+   2,R,K,G
   10,R,X
    4,R,J
-   1,R,K
-   6,R
-  10,R,D,X
+   5,R,K
+  11,R,D,X
    4,R,J
-   1,R,K
-   2,R
-   2,R,K
+   5,R,K
   16,R,D,X
    4,R,J
    6,R,K
@@ -156,8 +142,7 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
 #lvl_3
    7,R,U,X
    1,R,J,G
-  15,R,D,X
-   4,R
+  19,R,D,X
    1,R,J
   14,R
   12,R,J
@@ -168,10 +153,9 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    3,R
   11,R,J
    5,R
-  15,R,D,X
-   4,R
-   1,R,J
-  16,R
+  19,R,D,X
+   2,R,J
+  15,R
    5,R,J
   16,J
   15,R,U,X
@@ -181,7 +165,7 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
 
 #lvl_4
   65
-   3,R
+   1,R,J
    4,R,X
    2,R,J
    6,R,K,G
