@@ -1,5 +1,5 @@
 #Original By Vamp
-
+#Restart
 console load SpringCollab2020/1-Beginner/DanTKO
    1
 
@@ -244,10 +244,11 @@ console load SpringCollab2020/1-Beginner/DanTKO
   26,R,X
    9,R
   19,D,C
-   7,L,D
-  12,L,X
-  49,R
-  47,R,G
+   3,L,D
+  16,L,D,X
+  48,R
+  43,R,G
+   4,R,D,G
    1,L
    4,D,X
   27,R,X
