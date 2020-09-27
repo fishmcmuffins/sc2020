@@ -5,38 +5,51 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 208 720
   36
 
 #lvl_1
-   5,R
+   1,R
    1,R,J
   14,R
-   5,J
+   1,J
+   2,R,J
+   2,J
    6
    1,L
-  39,L,G
-   1,R,J
-  12,L,J
-  12,L
-  28,L,G
-  33,R,J
-  15,R,U,X
-  10,R
-  13,D
-   4,R,D
-   9,R,J
+  30,L,G
+   4,R
+   1,J
+   7,R,J
+   4,L,J
+   1
+  10,J
+   2,L
+  24,L,G
+   1
+   5,R
+  22,R,J
+   4,D,X
+  10,R,X
+   1,R,J,G
+   3,J
+   5,R,J
   10,R
   14,R,D,X
    4,R,J
-   4,D,X
-   6,R,X
-   1,R,J
-  10,R
-  15,D,X
-   5,D
-   4,D,X
-  11,L,X
+   6,R,K,G
+   1,R
+   1
+  15,R,D,X
+  10,D
+  11,L,D,X
+   1,L,J
+   4,L
+   1,L,K
+   1,L,J
+   1,L,K
    1,L,J
    1,L,K
    1,L,J
    1,L,K
-  15,L,C
+   1,L,J
+   1,L,K
+   5,L
    1,X
-#4.947
+#4.063
