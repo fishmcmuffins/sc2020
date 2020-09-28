@@ -1,0 +1,51 @@
+console load SpringCollab2020/0-Lobbies/5-Grandmaster 160 1328
+   1
+console clrsav
+console hearts 200
+
+unsafe
+#Start
+  36
+
+#lvl_1
+   1,Q
+   1,O
+  31
+ 190
+   1,R,J
+  12,L,D,X
+   3,L,J
+   5,L,K,G
+   7,L,D,X
+   3,L,J,G
+   4,L
+   7,L,J,G
+   6,L
+   1,S
+   1,X
+   9,J
+   1,L,J
+   1,L
+   1,L,J
+   5,L,D,X
+   1,S
+   1,D,J
+  34
+  10,L
+   3,L,J
+  18,L,D,X
+   5,L,J
+   3,L
+   5,L,U,X
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1,L,J,G
+   7,L
+  20,L,J
+   3,L
+   1,L,J
+   4,L,K,G
+   4,L
+   1,X
+#2.839
