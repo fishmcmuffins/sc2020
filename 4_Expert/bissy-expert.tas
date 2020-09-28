@@ -136,15 +136,15 @@ console load SpringCollab2020/4-Expert/Bissy
   28,R,J
   15,U,X
    1
-  22,R,J
-   4,D,X
-   7,L,X
-  46,R,J
-  15,U,X
-   1
+  12,R,J
+   6,L,J
+   4,J
+   8,L,U,X
+  44,R,J
+  11,U,X
    5,R,J
-  10,R
-   4,R,J
+   8,R
+   6,L
    4,D,X
    1,R,X
    1,R,J

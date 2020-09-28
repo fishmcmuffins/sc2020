@@ -72,10 +72,13 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1
    1,J
   71
-  13,L
+#spinner cycle
+   0
+   4,L
+   1,L,J
+  14,L
    1,X
-  99,R,U
-  31,U
+  88,R,U
    1,X
   18
   10,L,X
@@ -172,7 +175,6 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   27,L,K,G
   18,L
    1
-#36.074
   13,R,X
   23,L,J
    4,D,X
@@ -281,20 +283,23 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   15,R,X
   28,R,D
    3,R
-  20,R,X
-  55,R
-  15,R,U,X
-  51,R
-   1,D,X
-   9,L
+  15,R,X
+  36,R,D
+   4,D,X
+  11,R,X
+  15,R,C
+  16,R,D
+  19,D
+  13,L,D,X
    1,R,J
-   4,R
-  22,R,D,X
-  16,R,J
-   8,R
+   1,R
+  15,R,D,X
+   2,R,D
+  20,R,J
+   7,R
   16,R,X
    1,D,C
-  13,R
+  12,R
   15,R,J
   17,R,U,X
   33,R,D
@@ -393,4 +398,3 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   10,R,J
   12,U,X
  135
-#62.161
