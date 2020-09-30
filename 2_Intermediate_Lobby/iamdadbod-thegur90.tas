@@ -1,28 +1,30 @@
-console load SpringCollab2020/0-Lobbies/2-Intermediate 1600 360
+console load SpringCollab2020/0-Lobbies/2-Intermediate 1616 240
    1
 
 #Start
   36
 
 #lvl_Biggo_1
-   1,L,J
-  15,R,D,X
-  14,D,C
-   5,D
-   2,R,D
-   2,D
-   8,R,D
+   4,D,X
+   2,L,J
+   2,L
+   7
+  15,D,X
+  13,R,D
+   2,R,J
+  22,R,D,X
+  20,D
+   2,L,D
    4,D,X
    6,L,X
    1,L,J
-   4,L,D
-  14,L,D,X
-  17,L,D
+   4,L
+  31,L,D,X
    5,L,J
    6,L
    4,L,J
   14,L,U,X
    1,L,J,G
-  16,L,D
+  16,L
    1,X
-#2.125
+#2.788

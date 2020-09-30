@@ -1,13 +1,14 @@
 #By Gliperal
-#Restart
+
 console load SpringCollab2020/2-Intermediate/Clover
    1
 
 #Start
-#Hyper_a-00a
  190
-   4,R,D,X
-   1,R
+
+#lvl_a-00a
+   4,D,X
+   1,R,X
    1,R,J
    7,R
   10,R,J
@@ -19,7 +20,7 @@ console load SpringCollab2020/2-Intermediate/Clover
    9,R,D,X
   40
 
-#Hyper_a-00
+#lvl_a-00
    3,R,D,X
    1,R,J
    7,R
@@ -43,7 +44,7 @@ console load SpringCollab2020/2-Intermediate/Clover
   19,R,D
   40
 
-#Hyper_a-01
+#lvl_a-01
    6,R,D,X
    1,R,J
    7,R
@@ -69,7 +70,7 @@ console load SpringCollab2020/2-Intermediate/Clover
   12,L
   15,L,U,X
    4,D,C
-   2,R,U
+   2,R,U,C
   20,L
   33,R,U,X
   17,L
@@ -77,8 +78,8 @@ console load SpringCollab2020/2-Intermediate/Clover
    7,J
    8,L
    3,R
-   5,U,X
-  20,R
+  15,U,X
+  10,R
    4
    8,R
   15,U,X
@@ -104,12 +105,12 @@ console load SpringCollab2020/2-Intermediate/Clover
   22,L,D
   34,R,D
    4,D,X
-   2,R
+   2,R,X
    1,R,J
    4,R
   40
 
-#Hyper_a-02
+#lvl_a-02
    4,R
    5,R,J
   14,R,U,X
@@ -142,7 +143,7 @@ console load SpringCollab2020/2-Intermediate/Clover
   13,R,D,X
   40
 
-#Hyper_a-03
+#lvl_a-03
    1,R,J
    1
   14,R,D,X
@@ -191,25 +192,31 @@ console load SpringCollab2020/2-Intermediate/Clover
   26,R,D,X
   40
 
-#Hyper_a-03a
+#lvl_a-03a
    3,R,D
-  11,R,J
-   9,R
+  15,R,J
+   5,J
   15,U,X
-   3,R
    1,R,J,G
+   1,J
    7,R
-   1,R,J
    4,D,X
   10,R,X
    1,R,J
    1,R,K,G
    1,R
    1,R,J,G
-   1,R,K,G
-   3,R
+   2,R,K,G
+   1,R
   15,R,D,X
    1,R,J
-   9,R
-  15,R,X
- 135
+  10,R
+  14,R,X
+  47,R,D
+   4,D,X
+  12,L,X
+   1,L,J
+  28,L
+   1,L,J
+   4,L
+  41,L,D,X

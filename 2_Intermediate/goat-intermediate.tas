@@ -3,8 +3,8 @@ console load SpringCollab2020/2-Intermediate/Goat
    1
 
 #Start
-   
   61
+
 #lvl_Intro  
    4,D,X
    3,L,X
@@ -41,7 +41,7 @@ console load SpringCollab2020/2-Intermediate/Goat
   12,U,X
   40
 
-#1
+#lvl_1
   15,R,J
   12,R,K,G
    1,R,J,G
@@ -89,8 +89,8 @@ console load SpringCollab2020/2-Intermediate/Goat
    7,R,J
   13,R
    3,L
-   1,D,X
-  13,R,X
+   4,D,X
+  10,R,X
    1,L
    1,R,J
    3,L,J
@@ -102,7 +102,6 @@ console load SpringCollab2020/2-Intermediate/Goat
    1,L
    1,L,D
    2,L,K,G
-
   15,L,D,X
    3,R,D
    2,R
@@ -125,10 +124,9 @@ console load SpringCollab2020/2-Intermediate/Goat
   18,U,X
    5,L,J
   15,U,X
-#15.130
   40
-#2
 
+#lvl_2
   18,L,J
   12,R,K
   12,R,J,G
@@ -140,11 +138,10 @@ console load SpringCollab2020/2-Intermediate/Goat
    9
   18,L,D,X
   13,L,D
-   1,D,X
-  13,L,U,X
+   4,D,X
+  10,L,U,X
    1,L
-   1,L,C
-  10,U,C
+  11,U,C
   16,L
   14,U,X
    4,R
@@ -156,8 +153,8 @@ console load SpringCollab2020/2-Intermediate/Goat
   12,R,D,X
   11
    7,L
-   1,D,X
-   4,L,X
+   4,D,X
+   1,L,X
    2,L,J,G
    6,L
    7,L,J,G
@@ -165,19 +162,17 @@ console load SpringCollab2020/2-Intermediate/Goat
    6
   13,U,X
   24,R
-   1,D,X
-  13,R,X
-   1,R
+   4,D,X
+  11,R,X
   23
    4,R,J
    7,R,K
   14,U,X
-  15
-  10,R,U,X
-
+  16
+   9,R,U,X
   40
-#3
 
+#lvl_3
   11,R
   12,R,U,X
    1,L,J,G
@@ -192,13 +187,12 @@ console load SpringCollab2020/2-Intermediate/Goat
   14
    2,R
   11,L,U,X
-   1,J,G
-   3,J,G
+   4,J,G
    3
    4,R
   13
-   1,X
-  14,R
+   4,R,X
+  11,R
    7,R,U,X
   21,L
    4,D,X
@@ -238,7 +232,7 @@ console load SpringCollab2020/2-Intermediate/Goat
   15,J
   40
 
-#5
+#lvl_5
    8
    3,R,J
    1,R,K,G
@@ -250,7 +244,6 @@ console load SpringCollab2020/2-Intermediate/Goat
    3,L,K
   15,R,U,X
    8
-
    1,L,J
    6,R,J
   15,U,X
@@ -283,7 +276,6 @@ console load SpringCollab2020/2-Intermediate/Goat
   18,R,U,X
    4,D,C
   14,U,C
-
    3,R
    5,R,J
   13,L,J
@@ -299,7 +291,7 @@ console load SpringCollab2020/2-Intermediate/Goat
   16,U,X
   40
 
-#6
+#lvl_6
   14,L,K
    4,R,K
   12,R,J

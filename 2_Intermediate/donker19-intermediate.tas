@@ -1,8 +1,12 @@
 #By Gliperal
-console load SpringCollab2020/2-Intermediate/Donker19
 
-#Donker_1
- 191
+console load SpringCollab2020/2-Intermediate/Donker19
+   1
+
+#Start
+ 190
+
+#lvl_1
    6,L,J
    1,L
   12,R,U,X
@@ -14,7 +18,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
   14,J
   40
 
-#Donker_2
+#lvl_2
    1
   12,R,J
    4,D,X
@@ -67,7 +71,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1
    1,D
 
-#Donker_2 CP 1
+#lvl_2 CP 1
    4,D,X
    1,L,J
    6,L
@@ -132,7 +136,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
   15,R,D,X
   40
 
-#Donker_3
+#lvl_3
    4,R
   14,R,U,X
   20,R
@@ -163,7 +167,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,K,G
    7,L
 
-#Donker_3 CP 2
+#lvl_3 CP 2
    4,L,D,X
    1,L,J
    7,L
@@ -193,7 +197,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,R,J
   40
 
-#Donker_7
+#lvl_7
    7,R
    8,R,J
   11,R,K,G
@@ -220,7 +224,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    8,L,K
    7,L
 
-#Donker_7 CP 1
+#lvl_7 CP 1
   10,L,D,X
    4,L,J
   12,L,D
@@ -239,14 +243,13 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,R,K,G
    7,R
 
-#Donker_7 CP 2
+#lvl_7 CP 2
   12,R,J
    4,D,X
    6,R,X
    7,R,J
    6,R
   24,R,U,X
-#23.817
   12,R,J
   12,K,G
    1,J,G
@@ -271,7 +274,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    5,L,D,X
   40
 
-#Donker_8
+#lvl_8
    1,L,D,X
    1,L,J
    7,L
@@ -290,7 +293,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    7,R,J,G
    7,R
 
-#Donker_8 CP 1
+#lvl_8 CP 1
    4,X
    3,R,J
    4,R,K,G
@@ -333,7 +336,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    3,L
   40
 
-#Donker_9
+#lvl_9
    3,L
    5,L,J
    1,J
@@ -342,7 +345,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
   18,L
    2,R
 
-#Donker_9 CP 1
+#lvl_9 CP 1
   11,R,J
   19,U,X
   14,J
@@ -401,9 +404,8 @@ console load SpringCollab2020/2-Intermediate/Donker19
    2
    1,L,K,G
    7,L
-#39.457
 
-#Donker_9 CP 2
+#lvl_9 CP 2
    4,D,X
    2,L,X
    1,L,J
@@ -431,7 +433,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
   14,L,J
   13,L
 
-#Donker_9 CP 3
+#lvl_9 CP 3
    4,D,X
    2,L,J
    1,R
@@ -445,10 +447,9 @@ console load SpringCollab2020/2-Intermediate/Donker19
   11,L,J,G
    3,L
    5,L,U,X
-
   40
-#donker_10
 
+#lvl_10
    9,L,U,X
    1,L
   14,L,U,C
@@ -464,4 +465,5 @@ console load SpringCollab2020/2-Intermediate/Donker19
    7,L
   12,L,J
   11,L,K,G
-  14,L,U,X
+  10,L,U,X
+ 135,L,D
