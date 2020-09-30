@@ -1,13 +1,14 @@
 #Made by Vamp
-#Restart
+
 console load SpringCollab2020/3-Advanced/NeoKat
    1
 
 #Start
-#lvl_1
   76
+
+#lvl_1
    4,D,X
-   4,L
+   4,L,X
    1,R,J
    7,R
    1,R,J
@@ -29,31 +30,32 @@ console load SpringCollab2020/3-Advanced/NeoKat
   10,R
    7,R,J,G
   13,L,K
-   8,L,J,G
-   6,L
-  20,L
-   4,X
-   6,L
-  44,L,J
-   1,D,X
-  27,L
-  12,L,J,G
-   5,L,K,G
-   5,L,J,G
+   1,L,J,G
    3,R,J
-   2,L,J
-  10,L
+   3,L,J
+   1,L,K,G
+  24,L
+  10,L,X
+  44,L,J
+  15,L,U,X
+  26,L
+   8,L,J,G
+   1,L,K,G
+   3,R,K
+   2,L,K
+   7,L
    1,J
   14,L,J
    7,L,K,G
-  14,L,X
+  13,L,X
   53,R,J
-  30,R,U,X
+  25,R,U,X
   12,R,J,G
    7,R,K,G
    4,R,J,G
-   1,R,J,G
-  22,R
+   1,L,J,G
+   1,R,K,G
+  17,R
   10,L,X
   12,R,J
   13,R,X
@@ -66,22 +68,20 @@ console load SpringCollab2020/3-Advanced/NeoKat
   13,R,J,G
   13,R,K,G
    5,J
-  10,K
+   9,K
    8,J
    3,L,K
   40
 
 #lvl_3
-   7,L
-   4,L,J,G
-   3,L
-   4,D,X
-   4,R
-   8,L,J
-   4,L
-   8,L,J
-   8,L,G
-  29,L,U,G
+  11,L
+  10,R,D,X
+   3,L,J
+   7,L,K,G
+   6,L,J,G
+   8,L,U,G
+   5,L,J,G
+  24,L,U,G
   13,U,X
   35,R,J
   15,U,X
@@ -100,11 +100,11 @@ console load SpringCollab2020/3-Advanced/NeoKat
    1,J,G
    1,K,G
   15,L,D,X
-   6,L,J
-  20,L
-  14,L,D
+   8,L,J
+  25,L
+  13,L,D
    2,R,D
-   9,D
+   8,D
   20,L,G
    1,J,G
    1,K,G
@@ -200,17 +200,17 @@ console load SpringCollab2020/3-Advanced/NeoKat
    6,L,D
   38,D,X
    4,D,C
-   1,R
+   1,R,C
    1,L,J
    5,L
    2,L,J
   24,L
-   1,D,X
-  11,L
+   4,D,X
+   8,L,X
    7,L,J
   18,L
-   1,D,X
-  13,L
+   4,D,X
+  10,L,X
   25,L,J
   12,L
   12,L,X
@@ -220,8 +220,8 @@ console load SpringCollab2020/3-Advanced/NeoKat
    9,R,G
   15,U,X
   33,L,J
-   1,D,X
-  15,U
+   4,D,X
+  12,U,X
   22,L,J
   12,L,K,G
    5,L,J,G
@@ -350,7 +350,7 @@ console load SpringCollab2020/3-Advanced/NeoKat
    6,R,J
   13,R
    4,D,X
-   1,R
+   1,R,X
    1,R,J
   40
 
