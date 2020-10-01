@@ -385,8 +385,12 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   40
 
 #lvl_TheAd_06
-   1,R,J,G
    1,L,J
+   1,R,J
   15,R,D,X
    1,R,J
-  15,R,U,X
+  13,R,U,X
+  82,R,D
+  12,R,D,J
+   1,K,G
+  40,L,K

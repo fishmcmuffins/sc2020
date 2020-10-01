@@ -1,14 +1,11 @@
 #Made by Vamp and Tyran
-#Restart
 console load SpringCollab2020/4-Expert/CANADIAN
    1
 
 #Start
 #lvl_1
  190
-   4,L,X
-   1,R
-  10,L
+  15,R,X
   15,D,C
    4,R,D,X
   12,L,D,X
@@ -687,16 +684,18 @@ console load SpringCollab2020/4-Expert/CANADIAN
    6,L,D
    1,D,X
    8,L,X
-  24,L,J
+  18,L,J
+   6,J
   19,R,U,X
   15,U,C
   12,L,J
   12,L,D
    5,L,J
    7
+   2,D
   15,D,X
   15,D,C
-  24
+  22
    4,D,X
   10,L
    5,L,J

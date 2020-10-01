@@ -1,11 +1,16 @@
 #Made by Vamp, Squeali0, & Tyran
 console load SpringCollab2020/4-Expert/Mineman
-   1
+play,lvl_mineman_intro,1
 
 #Start
- 190
+#postcard menuing
+unsafe
+ 184
+   1,J
+ 136
 
 #lvl_mineman_intro
+ 190
    4,D,C
    1,R,J
   10,R
@@ -151,7 +156,6 @@ console load SpringCollab2020/4-Expert/Mineman
    4,R
   34,U,X
   15,U,C
-#21.947
   40
 
 #lvl_mineman_2
