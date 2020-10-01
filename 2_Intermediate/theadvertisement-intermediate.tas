@@ -1,4 +1,5 @@
 #Made by Vamp
+
 console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1
 
@@ -227,64 +228,53 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   21,D
   12,L,D
   10,R,D,X
-   5,R,J
-   1,D,X
-  10,R
-   1,R,J
-  10,R
-  37,R,J
-  12,R,X
-  22,R,C
-  18,U,X
-  18,R,C
-  17,R,D
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,L,J
-   8,L,D,X
-   1,R,J
-   8,L
-
-   1,R,J
-   1,R,K,G
-   4,J,G
-   1,L
-   1,R,J,G
-   6,L
-   4,R
-  10,L
-  14,L,D,X
-   1,R,J
-  11,L,J
-   4,R,X
-  22,R,J
-   9,L,J
-   5,K
-  12,R,J
-  15,R,U,X
-  48,D
-  10,R,D
-  16,R,X
-   1,D,C
-   7,R,U
-   1,L,J,G
-   5,R,J
-   7,R
+   8,R,J
+  14,R
+  23
+  10,L,X
+   9,R,J
+  15,R,D,X
+   8,R
+  14
+  18,R,X
+  18,U,C
+  15,R
+  22,R,X
+  15,R,C
+   7,R,D
+  19,D
    4,D,X
+   6,R,X
+   1,R,J
+***
+  11,R,K,G
    2,R
+  12,U,X
+  15,R,J
+  25,R,D
+  27,D
+   5,R,D
+  15,R,X
+   4,D,C
+   3,R,U,C
+   5,J
+***
+   4
+   3,R
+   4,D,X
+   2,R,X
    1,R,J
    7,R
    1,R,J
   14,R,D,X
-  15,R,J
-  10,R,X
+   1,R,J
+  12,R
+  13,R,U,X
    1,R,J,G
-  16,R
-   5,R,D,J,X
-   7,R
-   3,R,J
-   8,R,X
+  18,R
+   4,D,X
+   5,R,J
+***
   45,R,C
   15,D,X
    4,D,C
