@@ -1,12 +1,14 @@
 #bissy-intermediate 
+
 console load SpringCollab2020/2-Intermediate/Bissy
    1
+
 #Start
   36
-#Bissy_00
 
-   1,D,X
-   4,L,X
+#lvl_Bissy_00
+   4,D,X
+   1,L,X
    1,R,J
   11,R
    1,R,J
@@ -22,15 +24,13 @@ console load SpringCollab2020/2-Intermediate/Bissy
    3
   16,L,D,X
   16,L,D,C
-  15,L,D,X
-   1,L,D
+  16,L,D,X
   15,L,C
-  15,L,D,X
-   1,L,D
+  16,L,D,X
   15,L,C
   10,L,D
-   1,D,C
-  14,L,C
+   4,D,C
+  11,L,C
   15,L,X
   15,L,U,C
    4,D,X
@@ -78,14 +78,13 @@ console load SpringCollab2020/2-Intermediate/Bissy
   14,R,U,X
    2,R
   11,L,J,G
-
   40
-#bissy_04
 
+#lvl_bissy_04
    1,L,J,G
+***
   10,L
-   1,D,X
-   3,L,X
+   4,D,X
    1,L,J
    7,L
   11,L,J
@@ -95,12 +94,10 @@ console load SpringCollab2020/2-Intermediate/Bissy
    9,R
    4,D,X
   10,R,X
-
   10,R,J
   12,U,X
   21,J
    4,L,J
-
   12,L,K,G
    1,L,J,G
    3,R,J
@@ -119,8 +116,8 @@ console load SpringCollab2020/2-Intermediate/Bissy
    5,L,J
    2,L
   20,R,X
-   1,D,C
-  13,R,U,C
+   4,D,C
+  10,R,U,C
    3,R,J
    5,R
    1,R,J
@@ -163,10 +160,9 @@ console load SpringCollab2020/2-Intermediate/Bissy
   14,U,X
   19,R,J
   26,L,U
-
   40
-#bissy_06
 
+#lvl_bissy_06
   15,U
   14,U,X
   10,U
@@ -294,6 +290,3 @@ console load SpringCollab2020/2-Intermediate/Bissy
    1,R
    1,L
    1,R
-#end
-#23.766
-#-1.054

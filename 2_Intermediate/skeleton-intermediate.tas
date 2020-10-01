@@ -3,7 +3,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    1
 
 #Start
-#00_start
+#lvl_skeleton_00_start
  190
    4,D,X
    8,R,X
@@ -23,7 +23,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   10,R,D,X
   43
 
-#01
+#lvl_skeleton_01
    4,R,D,X
   13,R,J
    7,U,X
@@ -106,7 +106,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    5,R,J
   43
 
-#02
+#lvl_skeleton_02
    9,R,J
   14,R,X
    4,R,J
@@ -146,7 +146,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    7,R,K,G
   43
 
-#03
+#lvl_skeleton_03
    2,R,K
    4,D,X
    7,R,U,X
@@ -273,7 +273,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   12,R,D,X
   40
 
-#04
+#lvl_skeleton_04
    2,R,D
    8,R,J
    5,R,K,G
@@ -383,7 +383,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    6,R,D
   40
 
-#05
+#lvl_skeleton_05
   23,R,D
    4,R,J
   30,R
@@ -436,7 +436,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    8,R,D,X
   40
 
-#06_end
+#lvl_skeleton_06_end
    6,R,D,X
    1,R,J
   10,R,D,X

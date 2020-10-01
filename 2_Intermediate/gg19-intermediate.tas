@@ -1,11 +1,13 @@
 #By Gliperal
+
 console load SpringCollab2020/2-Intermediate/GG19
    1
 
 #Start
-#Gabe_intro
  193
-   4,R,D,X
+
+#lvl_Gabe_intro
+   4,D,X
    1,R,J
   12,R
    2,R,J
@@ -13,7 +15,7 @@ console load SpringCollab2020/2-Intermediate/GG19
    6,R,U,X
   40
 
-#Gabe_1
+#lvl_Gabe_1
    3,L
    1,L,J,G
    1,J
@@ -101,7 +103,7 @@ console load SpringCollab2020/2-Intermediate/GG19
   12,L,J
   40
 
-#Gabe_2
+#lvl_Gabe_2
    1,L
    1
    1,L
@@ -157,8 +159,7 @@ console load SpringCollab2020/2-Intermediate/GG19
   10,R
   40
 
-
-#Gabe_3
+#lvl_Gabe_3
    5
    4,D,X
    2,L,X
@@ -207,7 +208,7 @@ console load SpringCollab2020/2-Intermediate/GG19
    1,R,J
   40
 
-#Gabe_outro
+#lvl_Gabe_outro
    7,R
   12,R,J
   15,R,D,X

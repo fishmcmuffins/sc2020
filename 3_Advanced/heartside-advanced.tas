@@ -426,7 +426,6 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    5,R,D,X
   15,R,D,C
    2,R
-***
   13,R,D
   14,F,110
    7,F,90
@@ -619,6 +618,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1,R,K
   19,R,J
   36,R
+***
    4,D,X
    8,R,X
   10,R,D,C
@@ -629,15 +629,12 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    9,R,D,X
    9,R,U,C
   15,U,X
-  15,R,D,C
-   2,R,D
-  15,R,X
-   5,R
-  11,U,X
+  17,R,D,C
+  20,R,X
+  11,U,C
   18,R,J
-  15,L,X
-   2,L
-  14,U,X
+  17,L,X
+  14,U,C
   13,J
   14,L,X
   17,L,J

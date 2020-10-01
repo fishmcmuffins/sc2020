@@ -1,13 +1,14 @@
 #Made by Vamp
-#Restart
+
 console load SpringCollab2020/2-Intermediate/phant
    1
 
 #Start
-#lvl_phant-start
  190
-   1,D,X
-   4,L
+
+#lvl_phant-start
+   4,D,X
+   1,L,X
    3,L,J
    4,L,K,G
    2,L,J,G
@@ -22,7 +23,7 @@ console load SpringCollab2020/2-Intermediate/phant
 #lvl_phant-01
   72
    4,D,X
-   2,R
+   2,R,X
    1,R,J
    7,R
    2,R,J
@@ -37,8 +38,8 @@ console load SpringCollab2020/2-Intermediate/phant
    4,R,D
   10,J
    2
-   1,D,X
-   4,R
+   4,D,X
+   1,R,X
   30,L
    1,L
    1,R
@@ -87,8 +88,8 @@ console load SpringCollab2020/2-Intermediate/phant
   10,L
   10,J
    2,L
-   1,D,X
-  14,R
+   4,D,X
+  11,R,X
   20,L
    1,R
    1,L
@@ -112,8 +113,8 @@ console load SpringCollab2020/2-Intermediate/phant
    1,L
   10,J
    2
-   1,D,X
-  14,R
+   4,D,X
+  11,R,X
   16,L
    1,D
    1,L
@@ -181,8 +182,8 @@ console load SpringCollab2020/2-Intermediate/phant
   35,R
    4,D
    3
-   1,D,X
-  29,R
+   4,D,X
+  26,R,X
    7,L
    2,L,J,G
    2,L,K,G
@@ -194,8 +195,8 @@ console load SpringCollab2020/2-Intermediate/phant
   10,D
   10,J
    2
-   1,D,X
-  14,R
+   4,D,X
+  11,R,X
   18,L
    7,L,J,G
   14,R
@@ -245,7 +246,7 @@ console load SpringCollab2020/2-Intermediate/phant
   14
    5,D,X
   11,R
-  15,U,X
+  15,U,C
    8,L
    5,L,J,G
    5,R,K
@@ -304,7 +305,7 @@ console load SpringCollab2020/2-Intermediate/phant
   20,R
   19,R,D,X
    4,D,C
-   1,R
+   1,R,C
    1,R,J
    7,R
    3,R,J
@@ -345,8 +346,8 @@ console load SpringCollab2020/2-Intermediate/phant
   23
   10,J
    2
-   1,D,X
-  14,R
+   4,D,X
+  11,R,X
   16,L
    2,L,J,G
   20,L,U
@@ -354,16 +355,16 @@ console load SpringCollab2020/2-Intermediate/phant
   23
    5,J
    2
-   1,D,X
-  14,R
+   4,D,X
+  11,R,X
   11,L
   56,D
   80
   10,L
    4,J
    5
-   1,D,X
-  14,R
+   4,D,X
+  11,R,X
   16,L
    6,L,J,G
   30,U
