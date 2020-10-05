@@ -4,8 +4,9 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1
 
 #Start
-#CANADIAN_00
  190
+
+#lvl_CANADIAN_00
    4,D,X
    6,R,X
    5,R,J
@@ -44,7 +45,6 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   15,R,D,X
   25,R,J
   39,R,D,X
-
    2,R,J
    4,R
    8,R,D,X
@@ -52,8 +52,6 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
 
 #lvl_CANADIAN_02
   20,R,D,X
-#8636
-
    3,R,J
   13,G
   11,R,J,G
@@ -96,14 +94,16 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    3,R,J
   15,R,D,X
    8,R,J
-  25,R,D
+   5,R
+   2,R,J
+  19,R,D
    5,L,D
   12,R,D
-   1,R
    1,R,D
-   3,R
    1,R,D
-
+   2,R
+   1,R,D
+   1,R,D
    4,D,X
    2,R,X
    1,R,J
@@ -135,7 +135,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    6,R,J,G
    7,R
    4,D,X
-   3,R
+   3,R,X
    1,R,J
    8,R
   40
@@ -299,22 +299,27 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   15,R,D,X
    3,R,J
   15,R,D,X
-   3,R,J
+   2,R,J
+   2,R
   15,R,D,X
-  20,R,J
-   9,R
+  11,R,J
+   5,R
+   2,R,J
+  10,R
   15,R,U,X
    9,R
   18,R
    4
-  27,J
+  23,J
   15,U,X
-  24
+  10
+  15
   10,L,X
-  16,R,J
+  17,R,J
   15,R,U,X
-  29,R,D
-   5,R,D,J,X
+  28,R,D
+   4,D,X
+   1,R,J
    2,R
   40
 
@@ -389,13 +394,12 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,L,J
    6,L
   10,R,D,X
-  56,R,J,G
+  63,R,D,J,G
    1,R
-  10,R
-  20,R,X
-   7,R,D
+  19,R,X
+   8,R
    4,D,X
-   2,R
+   1,R,X
    1,R,J
    7,R
    1,R,J
@@ -411,8 +415,8 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,L,J
    1,L
   19,L,D,X
-  17,L,J
- 116,L,U,G
+  14,L,J
+ 114,L,U,G
    1,L
   12
   15,L,U,X
@@ -429,8 +433,9 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   17,L,X
   18,U,C
   15,L,X
-  22,R,D
-  14,L,D
+  24,R
+   7,L
+  10,L,D
    2,D
    2
    2,D
@@ -449,7 +454,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    2
    2,D
    2
-   2,D
+   1,L
   14,R,D,X
    5,R,J
   15,R,D,X
@@ -457,17 +462,16 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   11,R
   15,R,D,X
   14,R,J
-  14,R,D,X
+  15,R,D,X
   60,R,U,G
    4,R,G
   40,R,U,G
    1,R
    1
-  18,R,U,X
-  40,L,D,G
-  25,R,D,G
-  18,L,D,G
-   7,R,D,G
+  24,R,U,X
+  20,R,D,G
+  23,L,D,G
+   1,R,D,G
    1,R
   19,D,X
   14,R,D
@@ -585,7 +589,9 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,D
    1,L
    1,D
-   1,R
+   1,L
+  41
+   3,L
   14,R,D,X
    1,R,J
   16,R,D,X
@@ -595,10 +601,10 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    5,L
   15,R,U,X
    5,R,C
-  58,R,U,G
-  35,R,D,G
-  33,L,D,G
-  59,D,G
+  59,R,U,G
+  34,R,D,G
+  32,L,D,G
+  62,D,G
    1,L
   71,R,D
    1,R
@@ -707,7 +713,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,R,J
   14,R,D,X
    1,L,J
-  17,D,X
+  18,D,X
    1,J
   17,L,J
   15,U,X
@@ -723,8 +729,8 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    3,R
    2,R,J,G
    6,J
-  15,R,U,X
-  86,R,D
+  14,R,U,X
+  87,R,D
    1,D,X
    1,L,J
   46,L
