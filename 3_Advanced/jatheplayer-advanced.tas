@@ -1,12 +1,12 @@
-#Nice Doppelganger - JaThePlayer - Advanced
-#3369/47.396
 #Created by Lanvilla
+
 console load SpringCollab2020/3-Advanced/JaThePlayer
    1
 
 #Start
-#lvl_JaThePlayer_0
  193
+
+#lvl_JaThePlayer_0
    2,L,J
   10,L,D,X
    5,L,J
@@ -29,19 +29,22 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    1,X
    1,R,J
    1,S
-   1,D,J
-  34
-  11,R,J,G
+   1,D,O
+  29
+   5,J
+  10,R,J
    1,L,K
-   9,K
-  10,L,K
+   1,L,J
+  10,J
+   9,L,J
   15,U,X
-  37,L
-   5,J,G
-   4
-   3,L
-   4,R,J
-  14,U,X
+  32,L
+   3,L,D
+   1,J,G
+   6,L
+   1,R
+   3,R,J
+  15,U,X
   14,R,J
    4,L,J
    3,L,K
