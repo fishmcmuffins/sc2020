@@ -1,5 +1,5 @@
 #Made by Vamp & squeali0
-#Restart
+
 console load SpringCollab2020/1-Beginner/Bissy
    1
 
@@ -189,25 +189,19 @@ console load SpringCollab2020/1-Beginner/Bissy
    2,L
    7,R,U,X
   26,L
-  18,U,X
-  15,J
-  15,K
-   8,J
-  44,L
-  10,L,D
-   3,R,D
-   6,R,D
-   7,R,D,X
-  13,L
+  21,U,X
+  20,J
+  21,K
+   5,R,U,X
+  53,L
+  17,L,J
+   4,D,X
+   4,L
   12,L,J
-  12,L,K
-   7,R,J
+  10,L,K
+   4,R,J
    2,L,J
-   1,J
-   1,L,J
-  15,L,U,X
-   1,L,J
-  10,L
+   8,L
    4,L,X
    9,L,J
    1,L
