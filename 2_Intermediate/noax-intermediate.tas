@@ -16,21 +16,19 @@ console load SpringCollab2020/2-Intermediate/Noax
    7,L
    5,L,J
   15,L,D,X
-  25,D,C
+  15,D,C
+  14,D,X
   40
 
 #lvl_Noax_01
-  39,R,D,X
+  26,R,D
+  12,R,D,X
    1,R,J
-   1,R
-  13,R,D,X
-   1,R,J
-   1,R
- 120,D,X
-   3,L,D
+  10,R,D
+ 122,D,X
+   2,L,D
    4,D,X
-  10,L,X
-  16
+  25,L,X
    4,L,J
    5,L,K
    3,L
@@ -252,4 +250,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    7,L
   13,L,U,X
  135
-#42.806
+#42.755
