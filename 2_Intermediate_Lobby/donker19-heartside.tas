@@ -41,8 +41,7 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 560 2152
    7,D
    4,L,D
    2,L
-  10,L,D,X
-   4,L,D,X
+  14,L,D,X
    1,R,J
   14,R,D,X
    1,S
@@ -65,7 +64,6 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 560 2152
    1,R,J
    1,R,K,G
    5,K,G
-  15,R,D,X
-   9,L,D
+  24,R,D,C
    1,X
 #5.440
