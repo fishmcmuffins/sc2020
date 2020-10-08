@@ -9,58 +9,63 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 1624 688
    1,L,X
    1,L,J
    7,L
-   1,L,J
-   2,R,J
-   1,L
-   8,L,J,G
-   5,R,J
-   1,L,J
+   4,L,J
+  10,L,K,G
+   1,K
+   1,L,K
+   1,K
   15,U,X
   20,R
    6,J
    2,R,J
    1,R
   15,R,U,X
-  16,R,J
-   3,D
-   8,L,J
-  12,J
-  15,U,X
-   1,J
+  16,R
+   3
   10,L,J
+  10,J
+  16,U,X
+   6,L
+   2,R
+   3,R,D
+   1,R
+   1
   15,U,X
-  10,L
-  13,D
+  13,L
+   1
   10,R
   15,U,X
-  16,R
+  15,R
    1,L
-  15,L,U,X
-   3,L
-   5,R
-  15,L,U,X
-  18,R,D
-   5,D
-  12,R,J
+   1
+   4,D,X
+  10,L,U,X
+   7,L,D
   15,U,X
-   5,R
-   7,L
+  14,L
+   6
+  12,R
+  15,U,X
+   3,R
+   2,L
+   6,R,U,X
+   6,L
+   1
+   1,L
+   1
   15,U,X
    9,L
-  15,L,U,X
-  14,R,D
-  10,D
-   1,R
+   8
+   2,R
   15,U,X
-   1,R
   14,L,J
-  12,L
-  12,L,J
+   8,L
+   1,L,K
+   3,L
+  11,L,J
    4,D,X
-   1,L,X
-   1,L,J
-  16,L
-   2,L,J
-   8,D
+   4,L,X
+   6,L,J
+  15,L
    1,X
-#7.599
+#6.936
