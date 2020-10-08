@@ -19,10 +19,12 @@
 #so keep that in mind
 
 console load SpringCollab2020/5-Grandmaster/ZZ-HeartSide
+   1
 
 #Start
-   1
   36
+
+#lvl_room_intro
    3
   11,R,D,X
    1,R,J
