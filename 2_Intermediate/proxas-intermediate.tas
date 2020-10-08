@@ -580,18 +580,17 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-  16,R
-   1,R,J
-   1,R,K
-   3,R,J
+  22,R,J
   40
 
 #lvl_outro
-   2,R,J
-   1,R
+   5,R,U,J
   14,R,U,X
-   5,J,G
+   2,R
+  26,L,D,X
    1,L,J
-   7,R,U,X
- 135
+  11,L,D
+   1,L,D,X
+  40,L,D
+  59,D,X
+#1:12.182

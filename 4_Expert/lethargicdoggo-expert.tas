@@ -4,367 +4,348 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
    1
 
 #Start
- 191
+ 190
 
 #lvl_1
-   2,L,J
-   4,L
+   3,R,J
   10,R,D,X
-   5,R,J
-   7,R,D,X
-   2,R,J,G
-   2,R
-   1,R,K,G
-  11,R
-   1,R,J,G
-   5,R,K,G
+   6,R,J
+   3,R,K,G
    1,R,J,G
   10,R
-   5,R,J
-   2,R,K,G
-   2,R,J,G
-   2,L
-  11,R,D,X
+   2,R,J
+   4,R,K,G
+   1,R,J,G
+  10,R
+   3,R,J
+   3,R,K,G
+   3,R,J,G
+   2
+  12,R,D,X
+#1.139
   40
 
 #lvl_2
-  14,R,D
-   3,R,J
-   4,L,J
-  17,R,D,X
-  11,R,J
-   5,U,X
-  25,R
-  14,R,D,X
-   9,R
-  26,R,J
+  13,R,D
+   5,R,J
+   2,J
+  15,R,D,X
+   8,R,J
+   5,J
+   6,U,X
+  23,R
+  22,R,D,X
+  27,R,J
    8,U,X
   54,R,J
-  14,R,X
-  14,R
-  12,U,X
-  23,R
-  14,R,D,X
-   4,R,D
+  29,R,C
+  13,U,X
+  21,R
+  19,R,D,X
   12,R,J
-  14,R,D,X
-  10,R
+  15,R,D,X
+   9,R
   14,R,J
-  14,R,D,X
-   7,R
-   4,R,D
-   1,R,J
-  10,R,D,X
-  32,R,J
-   4,D,X
-  10,R,X
-  15,R
+  24,R,D,X
+   7,R,J
+  20,R
+  18,R,X
+   4,D,C
+  25,R,C
    4,R,J
    4,R,K
-  14,U,X
-  12
-  10,R,D,X
-   1,R,J
-   2,R
-  14,R,D,X
-   5,R,J
-   5,R,D,X
+  26,U,X
+  10,R,D,C
+   6,R,J
+   3,R
+  15,R,D,X
+#8.959
   40
 
 #lvl_3
-   9,R,D,X
-   7,R
-  14,R,X
+   1,R,D
+   1,R,J
+  16,R
+   2,R
+   2,R,D
+   4,D,C
+  23,R,C
+   4,L,K
+   1,R,K
+   1,L,K
+   2,L,J
+   7,R,J
+  25,R,X
+   6,R
+  15,D,X
+   3,R,D
   22,R
-  10,L,J
-  11,L,K
+  26,R,X
    4,R,K
-  14,R,X
-  18,R
-  14,D,X
-  22,R,D
-   4
-  14,R,X
-   9
-   5,R,J
+   3,R
    4,D,X
-   2,R,X
-  14,R,J
-  14,R,D,X
-  12,R,D
-  11,R,J
-  19,R
-   4,D,X
-  10,R,U,X
-  22,R
-  14,R,X
-  19,R
+   7,R,J
+   4,R
+   2,R,J
+  10,R
+   6,R,D
+  13,R,D,X
+  23,R,J
+   3,J
+   1,R,J
+   4,D,C
+  11,R,U,C
+  21,R
+  34,R,X
    4,R,K
    2,R,J
-  14,U,X
-  13,R,D
-   4,D,X
-  10,R,X
-  18,R
-   4,R,J
-  19,R,K
-  14,R,X
-   7,R,D
-  11,L,D
-   1,R,D
-   1,L,D
-   1,R,D
+   8,U,X
+  19,R
+   4,D,C
+  28,R,C
+   8,R,K
+  38,R,J
+   7,D,X
   29,R
-  14,R,X
-  19,L,D
-  24,R
-   7,R,U,X
-   2,R,J,G
-   8,R
-   1,R,J,G
-   6,R,D,X
+  17,R,X
+   2
+   1,R
+  11
+  20,R
+   4,D,C
+   7,R,C
+   5,R,J
+   4,D,C
+   7,R,C
+#17.272
   40
 
 #lvl_4
-   8,R,D,X
+   3,R,C
    1,R,J
-   9,R
-  14,R,X
-  27,R
-  11,D,X
-  19,R,D
-  14,R,X
-   5,R
-   4,R,J
-   1,D,X
-   6,R,X
-  12,R,J
-   3,R
-  15,R,J
-  14,U,X
-  36
-  14,R,X
-   3,R
-   4,R,J
-   1,D,X
-   6,R,X
-   8,R,J
-  17,R
-  14,R,X
-  36,R
-  14,D,X
-  22
-  14,R,X
-  30,R
-  14,U,X
-  22
-  14,R,X
-   4,R
-   8,R,J
-  27,R,K
-  14,R,D,X
-  30,R
-  14,R,X
-  48,R
-  14,R,X
-  26,R,D
-  23,R
-  14,R,X
-  12,R
+  14,R,D,C
+   1,R,J
+  41,R,X
+  10,D,C
+  21,R,D
+  19,R,C
+   4,R,K
    4,D,X
-   1,R,X
+   3,R,X
+  13,R,J
+   2,R
+  15,R,J
+  50,U,X
+  17,R,C
+   4,R,K
+   4,D,X
+   3,R,X
+   7,R,J
+   4,R
+   1,R,J
+  13,R
+  50,R,X
+  35,D,C
+  44,R,X
+  36,U,C
+  18,R,X
+   4,R,K
+   6,R,J
+  18,R
+   4,R,D
+  43,R,C
+  15,R,X
+  13,R
+   1
+   4,D
+   5,R,D
+  20,R
+  29,R,X
+  12,R,D
+  23,R
+  24,R,X
+   4,D,C
    1,R,J
    7,R
-   2,R,J
+   1,R,J
+   2,R
   10,R,D,X
    1,R,J
-   1,L,J
+   1,J
+#27.506
   40
 
 #lvl_5
-   3,L
-   8,R,D,X
-   2,R,D
-   2,L,D
-   2,R,D
-   8,L,D
+   1,J
+   2
+  15,R,D,X
+   7,D
   12,R,D,X
-   4,R,J
-   2,R,K
+   4,R,K
+   1,R,J
    5,R
-  10,R,K
-  14,R,D,X
-   6,R,D
-   4,L,J
-  14,R,U,X
-  14
-   6,R,J
-   4,D,X
-  11,R,J
-  21,R
-   9,R,D
-  10,L,D
-   6,L,D,X
-  54,R
-  15,U,X
-  26,R,J
-  20,R
-  17,R,D
-   4,D,X
-  11,R,U,X
-   8,R
-   8,L,J
-   3,R,K
-   8,L,K
-  18,R,X
-  13,D,C
-  24
-  14,R,X
-   4
-   4,R,J
-   7,R,K
-   2,R
+  13,R,J
+  18,R,D,X
+   4,K
+  28,R,U,X
    6,R,K
-  16,R,D
-  14,R,X
-   4
+   4,D,X
+  12,R,J
+  32,R,D
+   5,D
+   7,L,D,X
+  52,R
+  11,U,X
+   3
+  42,R,J
+  17,R,D
+   5,R
+   4,D,C
+  18,R,U,C
+   4,K
+   2,K
+   1,J
    4,R,J
+   8,J
+  18,R,X
+  37,D,C
+  18,R,X
+   4,R,K
+   7,R,J
+   5,R
+   2,R,J
+  17,R
+  18,R,C
+   4,R,K
    4,D,X
    3,R,X
-  23,R,J
-  10,R
-  14,R,X
-   6,R
-   1,R,J,G
-   1,R
-   1,R,K,G
-   7,R
-   4,D,X
-   1,L,X
+  10,R,J
+   5,R
    1,R,J
-  12,R
-   2,R,J
-   3,R,K,G
-   4,R
-  14,R,U,X
-   1,R,J,G
   10,R
-   3,R,J
+  25,R,X
+   7,R,J
+   4,D,C
+   6,R,C
+   2,R,J
+   9,R
+   6,R,J
+  13,R,U,X
+   1,R,J,G
+  11,R
+   1,R,J
+   1
    6,R,D,X
+#36.941
   40
 
 #lvl_6
-   8,R,D
-  11,R,D,X
-   3,R,J,G
-   1,R,K,G
-  10,R
-   7,R,J
-  14,R,X
-   4
-   4,R,J
-   4,D,X
-   2,R,X
-  19,R,J
    9,R,D
-   4,D,X
-  10,R,X
-  10,R,D
-   5,D
-   4,R,D
-  14,R,X
-   4,L
+   1,D
    4,D,C
-  11,U,C
-  19,L
-  18,U,X
-  11,L,C
+  10,R,C
+   1,R,J
+  10,R,C
+   7,R,J
+  23,R,X
+   4,R,K
+   4,D,X
+   1,R,X
+  30,R,J
+   4,D,C
+  11,R,C
+   6,R
+   8
+   5,R,D
+  17,R,X
+   4,D,C
+   9,U,C
+  17,L
+  15,U,X
+   5,L
+  11,L,X
   52,R
-  13,L,D
+   9,R,D
   14,L,D,X
-   4,R,J
-  14,R,X
-   2
-   4,R,J
+   5,R,D
+  17,R,X
+   4,R,K
    4,D,X
    3,R,X
-  31,R,J
-  14,U,X
-  18
+  26,R,J
+   5,J
+  32,U,X
    1,L
-  18,L,X
-  14,R,D,C
-  11,L,D
-   6,R,J
-  18,R,K
-  14,R,X
-  18,R,D
-  11,D
-   4,R,D
-   4,D,X
-   9,R,X
-   4,R,J
-   8,R,K
-  18,R
-  14,R,X
-  18,R
-  14,R,D,X
-  12,L,D
-   3,R,D
-   4,D,X
+  22,L,C
+  15,R,D,X
+   7,L,D
   10,R,X
-  12
-   8,L,J
-   1,K
-  10,L,K
-  14,R,X
-  10
-   4,L,J
+   4,R,K
+   6,R,J
+   5,R
+   2,R,J
+   8,R
+  18,R,X
+  15,D,C
+   3,R,D
+   4,D,C
+  12,R,C
+   4,R,K
+   8,R,J
+   8,R
+   1,R,J
+   9,R
+  32,R,X
+  18,R,D,C
+   2,R,D
+   9,D
+   4,D,C
+  22,R,C
+   4,L,K
+   4,K
+   1,L,J
+  10,R,J
+  24,R,X
+   4,L,K
   18,U,X
   11,L,C
-  46,R
-   6,L
+  51,R
    9,D,X
-  66,R,D
-   1,R
+  52,R
+   1,D
+   9,R,D
    4,D,X
-  10,R,X
-  30
-  14,R,U,X
-  22
-  14,R,U,X
-  26
-  14,R,D,X
-  29
-   4,R,J
-   5,R,K
-   7,R
-  14,U,X
-  36
-  14,R,D,X
-  29
-  14,R,X
-  36
-   4,R,J
-   1,R,K
+  41,R,X
+  42,R,C
+  40,U,X
+  44,R,D,C
+   4,R,K
+  12,R,J
+  51,U,X
+  45,R,D,C
+  49,R,X
+   4,R,K
+   1,R,J
   22,R,D,X
    1,R,J
-  11,R,D,X
-   1,R,J
+   5,R
+   4,D,C
+   5,R,U,C
+#54.536
   40
 
 #lvl_7
-   4,R,J
-   1,L
-  10,R,D,X
-   4,R,J
-   1,R,K,G
-   3,R,J,G
-  11,R,U,X
-   1,J,G
-  10
-   1,L
+   5,R,U,C
+   1,L,J,G
+  17,R,J,G
+   2,J
+  15,R,U,X
    2,R
-  12,R,J
-  16,U,X
- 135,L,D
+   5,L
+   4,U,X
+  11,D,X
+  38,R,D
+  47,R,X
+  15,L,D,C
+  27,L,D
+#58.072
