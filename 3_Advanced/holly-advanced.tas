@@ -127,8 +127,8 @@ console load SpringCollab2020/3-Advanced/Holly
   40
 
 #Holly_02
-   9,J
-   3
+   9,R,J
+   3,R
    4,D,X
    5,R,X
    1,R,J
@@ -137,15 +137,16 @@ console load SpringCollab2020/3-Advanced/Holly
    1,R,K,G
    1,R
    1
-   2,R
-   1
+   7,R
+   9,R,J
    4,R
-  13,R,J
-  20,R,D,X
-   4,R,J
+  17,R,D,X
+   1,R
+   1,R,D
+   3,R,J
    5,R
-  19,R,J
-  17,U,X
+  18,R,K
+  15,U,X
   22,R,J
    3,K,G
    4,L,K
