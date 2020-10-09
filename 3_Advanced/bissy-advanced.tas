@@ -210,15 +210,27 @@ console load SpringCollab2020/3-Advanced/Bissy
 
 #lvl_Bissy_04
    2,U
-  21,U,C
-  13,R
+  15,U,C
+   1,R
+  18
    4,D,X
-   2,R,J
-   8,R
+   2,L,X
    1,R,J
-  15,R,D,X
-  18,R,C
+   3
+   4,R
+   1,R,J
+   5,R,D,X
+   8,R
+   1,R,D
+   1,R
+   5,R,D,X
+   7,R
+   1,R,U
+   7,R
   15,R,X
   15,R,C
-  13,R,X
- 135
+  23,R,X
+  12,R,U
+ 110,R,D
+
+
