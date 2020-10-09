@@ -1061,8 +1061,8 @@ console load SpringCollab2020/2-Intermediate/aridai
   10,U,X
    4,L,J
    1,L,K,G
-   1,L,J,G
-  11,L,K,G
+   2,L,J,G
+  10,L,K,G
   14,U,X
   17,R,J
   14,U,X
@@ -1101,5 +1101,4 @@ console load SpringCollab2020/2-Intermediate/aridai
    5,L
   45,L,D,X
    1,L,J
-
 #2:07.976
