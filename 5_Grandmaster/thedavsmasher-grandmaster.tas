@@ -1,12 +1,12 @@
-#Temporal Tower - Dav - grandmaster
-#4307/63.852
 #created by Lanvilla
+
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
 #Start
-#Dav_00
  190
+
+#lvl_Dav_00
   10,R,J
    2,R
   15,R,U,X
@@ -46,7 +46,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    8,R,J
   40
 
-#Dav_01
+#lvl_Dav_01
    3
    1,J
    2
@@ -87,7 +87,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,R,J
   40
 
-#Dav_02
+#lvl_Dav_02
    2
    3,R
    1,R,J,G
@@ -255,7 +255,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    2,R,J
   40
 
-#Dav_03
+#lvl_Dav_03
   11
    7,U,X
    1,J
@@ -387,7 +387,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   14,U,X
   40
 
-#Dav_04
+#lvl_Dav_04
    1,R,J,G
    1,R,K
    9,R
@@ -419,13 +419,14 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   18,R
    4,D,X
   11,L,X
-   1,L,J
-  14,U,X
-   5,L,J
+   6,L,J
+  16,U,X
   40
 
-#Dav_05
-   4
-   8,J
-  16,U,X
- 135
+#lvl_Dav_05
+   1,L
+   1
+   1,L
+   8,L,J
+  14,U,X
+ 135,L,D

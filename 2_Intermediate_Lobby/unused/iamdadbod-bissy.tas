@@ -13,20 +13,15 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 1616 240
   10,R,D
    1,D
   10,R,D
-  20,L,D
-  12,R,D,X
+  18,D
+   8,L,D
+  13,R,D
+  58,L,D
+   2,D
+  10,R,D,X
    1,L,J
-   2,L
-  34,L,D,X
-   4,D,C
-   1,L,C
-   1,L,J
-   6,L
-   1
-   1,L,J
-   7,J
-  14,L,U,X
-   1,L,J,G
-  16,L
+   4,L
+  15,L,D,X
+   6,L,D
    1,X
-#2.720
+#3.060
