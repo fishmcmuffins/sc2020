@@ -1,0 +1,41 @@
+console load SpringCollab2020/0-Lobbies/2-Intermediate
+   1
+  36
+
+console clrsav
+console hearts 200
+   1,Q
+   1,J
+  31
+
+#Start
+ 190
+
+#lvl_Biggo_1
+  14,L,D,X
+   1,R,J
+  14,R,D,X
+   1,S
+   1,D,J
+  34
+   1,R,J
+   3,R
+   8,R,D,X
+   1,R,J,G
+  11,R
+   3,R,J
+  22,R,D,X
+  10,R
+   2,R,J
+   4,R,K,G
+   1,K
+   3,R,K
+   6,R
+   6,R,J,G
+   6,R
+   1,R,J
+   1,R,K,G
+   5,K
+  24,R,D,C
+   1,X
+#2.873

@@ -1,0 +1,39 @@
+console load SpringCollab2020/0-Lobbies/2-Intermediate 680 824
+   1
+
+#Start
+  36
+
+#lvl_Biggo_1
+   4,D,X
+   2,R,D,X
+   1,L,J
+  12,L
+   7,L,J
+  15,L,D,X
+   1,L,J
+  17,L,D,X
+  15,D,C
+   6,D
+  25,L,D
+  24,D
+   4,D,X
+   1,L,J
+  40,L,D
+   1,L,J
+   2,J
+   1,L,J
+   4,D,X
+  10,U,X
+   9,L,J
+  15,U,X
+  16,L,U,C
+  15,U,X
+   2,L
+  15,L,U,X
+  14,L,U,C
+   1,L,K,G
+   6,L,J
+   5,L
+   1,X
+#4.386
