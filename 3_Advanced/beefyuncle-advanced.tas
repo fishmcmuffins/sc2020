@@ -1,12 +1,12 @@
-#Satellite - BeefyUncle - advanced
-#3022/43.690
 #Created by Lanvilla
+
 console load SpringCollab2020/3-Advanced/BeefyUncle
    1
 
 #Start
-#beefy_00
  190
+
+#lvl_beefy_00
    1,J
    1
   10,R,D,X
@@ -23,7 +23,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,R,J
   40
 
-#beefy_01
+#lvl_beefy_01
    2,R,J
   15,R,D,X
    3,R,J
@@ -60,7 +60,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    7,R,D,X
   40
 
-#beefy_02
+#lvl_beefy_02
    5,R
    1,R,J
    2,R
@@ -122,7 +122,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    4,L
   40
 
-#beefy_03
+#lvl_beefy_03
    3,L
    3,L,J
    5,J
@@ -154,7 +154,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,L
   40
 
-#beefy_04
+#lvl_beefy_04
    1,L
    1,L,J
    3,L
@@ -193,7 +193,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    7,R
   40
 
-#beefy_06
+#lvl_beefy_06
    4,R,J
    1,R
    7,L,J
@@ -245,7 +245,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   14,U,X
   40
 
-#beefy_07
+#lvl_beefy_07
    2,R
    2,R,J,G
    1,R,K,G
@@ -260,5 +260,5 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   14,R,U,X
    3,R,J,G
    7,R
-  12,R,U,X
+  13,R,U,X
  135,R,D
