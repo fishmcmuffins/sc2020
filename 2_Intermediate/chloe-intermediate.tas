@@ -33,8 +33,7 @@ console load SpringCollab2020/2-Intermediate/Clover
    1,J,G
    6,R,J
   15,R,D,X
-   5,R
-  67,R
+  72,R
    5,R,U,X
   37,R,D
    3,R
@@ -70,8 +69,7 @@ console load SpringCollab2020/2-Intermediate/Clover
    1,L,K,G
    5,L
    1
-   1,L
-  12,L
+  13,L
   15,L,U,X
    4,D,C
    2,R,U,C
@@ -81,8 +79,7 @@ console load SpringCollab2020/2-Intermediate/Clover
   14,U,X
    5,L,J
    2,L
-   9,R
-  13,R
+  22,R
    4,X
   13,L
    4,X
@@ -99,13 +96,9 @@ console load SpringCollab2020/2-Intermediate/Clover
    4,X
    2
   11,L
-   4,X
-  13,R
-  15,R,X
-   5,R
-  15,R,X
-   6,R
-   5,R
+  17,R,C
+  20,R,X
+  26,R,C
   11,R,D,X
   13,R
    1
@@ -132,8 +125,7 @@ console load SpringCollab2020/2-Intermediate/Clover
    1,R,D
    2,D
    1
-   7,R
-   3,R
+  10,R
    1
   15,R,X
    1,R
@@ -143,18 +135,14 @@ console load SpringCollab2020/2-Intermediate/Clover
    8,R
   15,R,U,X
    6,R
-  15,R,X
-   7,R
-  17,R
-  16,R,X
-  75,R
+  39,R,X
+  91,R,C
   19,R,U,X
   15,R,C
   18,R,D,X
   18,R,C
   15,R,D,X
-  10,R,C
-  54,R
+  64,R,C
   32,R,X
   15,R,U,C
    4,D,X
@@ -177,15 +165,19 @@ console load SpringCollab2020/2-Intermediate/Clover
   10,R,U,X
   20,R
    8,D,X
-  28,R
-  22,R,X
-  47,R
+   7,R
+  15,R,X
+   5,R
+   6
+   5,R
+  13,R,X
+  49,R
    4,D,X
   10,U,X
    4,R
   14,R,U,X
-  23,L
-   8,U,X
+  11,L
+  14,L,U,X
    7,R
   15,R,X
   52,R
@@ -197,21 +189,17 @@ console load SpringCollab2020/2-Intermediate/Clover
   16,R,U,X
   11,R
   11,R,U,X
-  37,R
-  13,R,U,X
-   1,R,J,G
-   1,R
-   8,R,D,X
-  10,R,J
-   1,R
-   1,R,J
-  14,R
-   1,R,J
+  32,R
+  18,R,U,X
+  10,R,D,C
+  20,R,J
   14,R,D,X
-   6,R,J
-  22,R
-  52,R
+   1,R,J
+   9,R,D,X
+   8,R,J
+  72,R
   27,R,D,X
+#35.241
   40
 
 #lvl_a-03a
