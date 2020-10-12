@@ -1,0 +1,34 @@
+console load SpringCollab2020/0-Lobbies/2-Intermediate 2072 2056
+   1
+
+#Start
+  36
+
+#lvl_Biggo_1
+   3,R,J
+  14,L,D,X
+   1,L,J
+  19,L,D,X
+   2,L,J
+  15,L,D,X
+   4,L,J
+   1,J
+  15,L,D,X
+   1,L,J
+   5,L
+   7,L,J,G
+   3,L
+   7,L,J,G
+  15,L,D,X
+   5,L
+   9,L,J
+  15,U,X
+   3,L
+  24
+   8,R,C
+  31,U,X
+   1,S
+   1,D,J
+  69,O
+   1,X
+#4.284

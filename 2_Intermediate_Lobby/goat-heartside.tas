@@ -5,14 +5,35 @@ console hearts 200
    1,O
   31
 
-console load SpringCollab2020/0-Lobbies/2-Intermediate 560 2152
+console load SpringCollab2020/0-Lobbies/2-Intermediate 208 2256
    1
 
 #Start
   36
 
 #lvl_Biggo_1
-  10,R,D,X
+   4,D,X
+   1,R,J
+   7,R
+   1,R,J
+   5,J
+   1
+  15,U,X
+   3
+   7,R
+   4,D,X
+   1,R,J
+   6,R
+   1,R,J
+   7,R,K,G
+  10,R,J,G
+   4,D,X
+  10,R,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,D,X
+  10,R,X
    1,R,J
    2,J
    4,R,K,G
@@ -68,4 +89,4 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 560 2152
    5,K,G
   24,R,D,C
    1,X
-#5.440
+#7.004
