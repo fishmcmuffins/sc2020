@@ -1,11 +1,12 @@
 #By Gliperal
-#Restart
+
 console load SpringCollab2020/3-Advanced/LinjKarma
    1
 
 #Start
-#Linj_Intro
  190
+
+#lvl_Intro
    4,D,X
    1,R,J
    3,R
@@ -25,7 +26,7 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    2,R,J
   40
 
-#Linj_1
+#lvl_1
   15,R,D,X
   17,R,D,C
  115,R,X
@@ -87,11 +88,11 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,J
    5,R
    8,R,J
-   6,R,U,X
+   6,R,U,C
   40
 
-#Linj_3
-   8,R
+#lvl_3
+   8,R,U,C
   71,R,X
   15,R,U,C
   10,R,D,X
@@ -173,10 +174,9 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    7,R,J
   40
 
-#Linj_4
+#lvl_4
    2,R,J
-   5,R,U,X
-   9,R
+  14,R,U,C
   69,R,X
   15,R,U,C
   14,R,D,X
@@ -244,10 +244,10 @@ console load SpringCollab2020/3-Advanced/LinjKarma
   14,R,U,X
   40
 
-#Linj_2
-   1,R
-   4,D,X
-   6,R,X
+#lvl_2
+   1,R,U,X
+   4,D,C
+   6,R,C
    1,R,J
    7,R
    6,R,J
@@ -309,7 +309,7 @@ console load SpringCollab2020/3-Advanced/LinjKarma
   15,R,D,X
   27,R,D,C
   30,R
-   4,R,D,X
+   4,D,X
    1,R,J
    7,R
    2,R,J
@@ -321,7 +321,7 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    4,R
   40
 
-#Linj_Outro
+#lvl_Outro
    3,R
    3,R,J
    4,D,X

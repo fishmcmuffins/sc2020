@@ -1,10 +1,12 @@
 #created by Lanvilla
+
 console load SpringCollab2020/3-Advanced/Cookie
    1
 
 #Start
-#CookieC_intro
  190
+
+#lvl_CookieC_intro
    4,D,X
    2,R,J
    8,R
@@ -15,14 +17,13 @@ console load SpringCollab2020/3-Advanced/Cookie
    6,R,J
    5,R,D,X
    1,R,J,G
-   3,R
-   4,R,J
+   5,R
+   2,R,J
    6,R
    1,R,K
-
   40
-#CookieC_1
 
+#lvl_CookieC_1
   22,R,K
   15,U,X
    5,R,K,G
@@ -38,12 +39,11 @@ console load SpringCollab2020/3-Advanced/Cookie
    5,R,D
    1,R,J
    3,R
-   1,R,K,G
-  25,R,J,G
+  26,R,K,G
   35,U,G
    8,J,G
    6,K,G
-  21,R,J
+  21,R,K
   15,R,U,X
    8,R
    1,L
@@ -52,17 +52,15 @@ console load SpringCollab2020/3-Advanced/Cookie
   10,R,X
    1,R,J
    7,R,K,G
-  11,R,D
+  11,R
    9,D
   13,R,D
    3,R
   10,L,D,X
    6,R,J
    3,R
-  15,R,D,X
-   7,R,D
-  14,D,X
-  19,D
+  22,R,D,X
+  33,D,C
   19,L,D
    8,D
    3,R
@@ -70,24 +68,21 @@ console load SpringCollab2020/3-Advanced/Cookie
    1,R,J
    5,R
   19,R,J
-  11,R,D,X
-   4,R
+  15,R,D,X
    1,L,J
    8
    8,R
   12,R,J
    6,L,J
-  15,U,X
-   2
+  17,U,X
    8,L
    5,L,J
   15,U,X
   10,L
   14,L,J
-  15,U,X
-   5
+  20,U,X
    5,R
-   2,R,J,G
+   2,R,J
    3,R,K,G
   10,R,D,X
    2,R,J
@@ -96,11 +91,10 @@ console load SpringCollab2020/3-Advanced/Cookie
   10,R,X
    1,R,J
    7,R,D,X
-
   40
-#CookieC_2
 
-   7,R
+#lvl_CookieC_2
+   7,R,D,X
    1,R,J
    1,R
   14,R,D,X
@@ -139,8 +133,7 @@ console load SpringCollab2020/3-Advanced/Cookie
   15,R,U,X
   26,R,D
   36,R,U,X
-  15,R,C
-   4,R
+  19,R,C
    5,L
   10,R,J
   31,R,D
@@ -164,10 +157,9 @@ console load SpringCollab2020/3-Advanced/Cookie
    4,D,X
    2,R,J
    1,R
-
   40
-#CookieC_3
 
+#lvl_CookieC_3
    1,R,J
    6,R
    1,R,J
@@ -190,8 +182,8 @@ console load SpringCollab2020/3-Advanced/Cookie
    1,L,J
    6,L
   16,L,J
-   2,R
-   3,R,J
+   2
+   3,J
   12,U,X
   32,R,J
    1,K
@@ -223,53 +215,121 @@ console load SpringCollab2020/3-Advanced/Cookie
   12,R,K,G
   12,R,J,G
    8,R,K,G
-
   40
-#CookieC_4
 
+#lvl_CookieC_4
   10
    8,R,J,G
-   4,R,K,G
-   5,R,D,X
+   2,R,K,G
+   4,D,X
+   2,R,X
    1,R,J
    1,R
    4,R,K,G
    1,R
    1,R,J,G
-   9,R,D
+   9,R
    6,R,J
-   1,L,J
+   1,J
   15,R,D,X
-  10,L,J
-   6,R,J
-  20,U,X
-  13,L,J
-  13,L
+  17,L,J
+  17,U,X
+   7,L
+   1,J,G
+   1,R,J
+   2,L,K,G
+   1,J
+  11,L,J
+   2,L,K,G
+   3,R,K
+   1,L,K,G
+   1,L,J,G
+   3,L
+   1
+   3,L
    4,D,X
    1,L,J
-   7,L
+   4,L
+   1,L,K
+   2,L
    6,L,J
   14,U,X
    7,R,J
-  34,R,D
-   6,D
    3,R,D
    1,D
+  28,R,D
+   1,D
+   1,R,D
+   5,D
+   1,R,D
+   1,D
+   3,R,D
   15,R,J
-  25,R,D
-  30,R
+  20,R,D
+   6,R
+  33,R
   15,U,X
-  10,R
-  31,R,U,C
-  12,R,J,G
-   2,R,K,G
-   5,L,K
-  18,L,J
-  30,L,U,X
-   8,R
-   8
-   2,R
+  11,R
+  23,R,U,C
+   9,R,J,G
+   1,R
+   2,K,G
+   2,L,K
+  24,L,J
+  24,L,U,X
+   4,D,C
+   1,L,J
+   2
+   1,L
    1
+   3,L
+   1,L,J
+   5,J
+  14,L,U,X
+   1,K
+  10,R,J,G
+   8,R
+   4,D,X
+   4,R,J
+   9,R
+   3
+   8,L,J
+   1,L,K,G
+   3,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   2,R,J
+   1,L,J
+  11,K,G
+   1,L,K
+#if you get here
+#early enough
+#you can probably
+#upleft to the platform
+#and jump off it,
+#bopping the seeker
+#from higher up
+  23,L,J,G
+   4,J
+  15,U,X
+  34,L
+  33,J
+  31,K
+  30,U,X
+
+ 100,L
+
+
+#these are the
+#old inputs which
+#start at the cp
+#right before the
+#first seeker
+#they included a
+#jumpthrough exploit
+#and made a faster cycle
   10,L,D,C
    7,L,J
    4,D,X
@@ -311,10 +371,9 @@ console load SpringCollab2020/3-Advanced/Cookie
   17,J
   18,U,X
    2,R
-
   40
-#CookieC_5
 
+#lvl_CookieC_5
    6
    5,R
   10,R,D,X
@@ -387,10 +446,9 @@ console load SpringCollab2020/3-Advanced/Cookie
   14,R,D,X
    1,R,J
   10,R,D,X
-
   40
-#CookieC_outro
 
+#lvl_CookieC_outro
    4,R
    1,R,J
   14,R,D,X
