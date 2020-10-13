@@ -81,7 +81,7 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1,L,J
   14,L
    1,X
-  88,R,U
+  79,F,67
    1,X
   18
   10,L,X
@@ -389,7 +389,8 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   15,U,X
   14,U,C
   27,R,U
- 115,F,0.9
+ 100,F,1
+  15,F,
    4,D,X
    1,R,X
   10,R,J
