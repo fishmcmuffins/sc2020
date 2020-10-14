@@ -190,12 +190,10 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   15,L,X
   17,L
    1
-  14,R,J
-  14,R,U,X
-   6,R,J,G
-   2,R
-   1,R,J,G
-   7,R
+  11,R,J
+   3,R
+  15,U,X
+  11,R
    4,D,X
    2,R,X
    1,R,J
@@ -215,18 +213,20 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    8,R
   15,R,X
    6,R
+   1,R,J
+  12,R,D
+  20,L,D
+  18,R,X
+  15,L,D,C
+   3,L,D
+   1,L
+   2,R
+   1,R,J
    1,R,K
-  26,R,D
-   3,R
-   1,R,D
-   1
-   1,D
-  20,R,X
-  18,L,C
-  64,R
+  52,R
    4,D,X
   11,R,U,X
-   6,R
+   3,R
   15,R,U,X
    6,R
   20,U,X
@@ -235,9 +235,9 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   12
    8
   15,D,X
-  29,L,D
-   1,D
-   3
+  26,L,D
+   3,L
+   5
    1,D
    4,D,X
    4,L,J
