@@ -1,5 +1,5 @@
 #Error 418 - Hydro - Grandmaster
-#2442/33.337
+#2410/33.286
 #created by Lanvilla
 console load SpringCollab2020/5-Grandmaster/Hydro0
    1
@@ -50,8 +50,8 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
   29,R,J
    3,R,D
   30,D
-#staggering to prevent death at line 112
-   1,D
+#spinner cycle for the end of the room
+   1
   13,U,X
    2,J
    4,R
@@ -77,12 +77,10 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
   40
 
 #hydro_02
-   1,S
-   1,D,J
-  69,O
-  13,R,D,X
-  13,R,D
-  19,D
+  73,O
+  15,R,X
+   4,R,D
+  24,D
   21,L,D
    4
    3,L
