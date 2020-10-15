@@ -1,10 +1,12 @@
-#Made by Vamp & Tyran
+#Made by Vamp
+
 console load SpringCollab2020/2-Intermediate/iamdadbod
    1
 
 #Start
-#lvl_intro
   69
+
+#lvl_intro
    4,D,X
    5,R,J
    4,R,K,G
@@ -32,7 +34,7 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   11,R,J
    1,R
   14,R,J
-  10,R,D
+  10,R
    4,D,X
    7,R,X
   11,R,J
@@ -41,27 +43,26 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    6,R
    3
    4,D,X
-  12,R,X
-   2,L
-   1,J
-   8,L,J
-  15,R,U,X
-  19,R,D
-   9,D
+  15,R,X
+  16,L,J
+   4,D,X
+  10,R,X
+  13
+   4,L,J
   11,R,D,X
   10,R,J
    1,R
-  27,R,J
-   1,D,X
-  14,R
-   4,R,D
-   3,L,D
-   7,D
+  24,R,J
+   3,J
+   4,D,X
+  11,R,X
+   4,R
+  10
    4,L,D
    3,R,D
   18,R,X
-   1,D,C
-  17,R,U
+   4,D,C
+  14,R,U,C
    1,R,J
   15,U,X
    8,R,J
@@ -83,26 +84,22 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   18,R,U,X
    2,R,J
   15,U,X
-  18,L,J
-   3,J
+  19,L,J
+   2,J
   15,U,X
-   1,J
-  15,L,J
-  30,R,D
-  45,R
+  16,L,J
+  50,R,D
+  31,R
    6,R,D
-   1,D,X
-  14,R
-  17,R,D
-   6,D
-   1,L,J
-   4,R,J
+   4,D,X
+  24,R,X
+   5,L,J
    6,J
    2,R,J
   15,U,X
   29,L,J
-   1,D,X
-   5,L,U
+   4,D,X
+   2,L,U,X
   23,R
   17,R,U,X
    1,R,J,G
@@ -110,17 +107,14 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,J
    4,R
    3,L
-   4,X
-   5,L
+   9,L,X
    9,L,J
    5,L
    3,L,J
-   2,L
-   3
+   5,L
    1,L,J
   15,L,U,X
-   4,C
-   1,L
+   5,L,C
   23,R
    4
   12,R,J,G
@@ -140,11 +134,11 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   12,R,J,G
    1,R,K,G
    2,L,K
-   1,K
+   1,R,K
    4,R
    3,L
    4,D,X
-   5,L
+   5,L,X
    2,L,J
   13,L
    1,L,J
@@ -160,16 +154,15 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,R,K
    6,R
    4,D,X
-   6,L
+   6,L,X
   13,R,J
    3,J
    2,R,K,G
   14,R,D,X
    1,R,J
-   4,L,J
+   4,J
   15,U,X
-  12,L,J
-   3,J
+  15,L,J
    3,R,J
   11,K,G
    1,L,K
@@ -204,10 +197,9 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    7,L,J
    8,R,K,G
    4,K
-  10,L,J
-   4,L,J
-   1,D,X
-  21,L,U
+  14,L,J
+   4,D,X
+  18,L,U,X
    1,J,G
    4,L,K,G
    4,D,X
@@ -222,20 +214,19 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   14,L,J
   18,U,X
   10,R,J
-  12,U,X
-  12,R,J
+  11,U,X
+  10,R,J
+   7,R
    4,D,X
   10,R,X
   28,R,J
-  27,R,X
+  25,R,X
   15,R,U,C
+  10,R
+   3
   10,R,D
-   3,D
-  11,R,D
-   1,R,J,G
-   7,R
    4,D,X
-   2,R
+   2,R,X
    3,R,J
   10,R
    3
@@ -260,7 +251,7 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   15,U,X
    5,J
    6,R,J
-  11,D
+  11
   26,R,D
    1,R
    2,R,D
@@ -271,38 +262,38 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   40
 
 #lvl_dad4
-   9,R
+   9,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   12,R
-   1,D,X
-  13,R,U
+   4,D,X
+  10,R,U,X
   20,R,J
   18,R,U,X
   15,U,C
    2,R
-   1,D,X
-  14,L,U
+   4,D,X
+  11,L,U,X
   35,R,D
-   1,D,X
-  18,R,U
-  15,U,X
-   9,R,D
+   4,D,X
+  15,R,U,X
+  15,U,C
+   9,R
   30,D
    5,R
   15,R,U,X
   15,U,C
   14,L
-  32,R,D
+  32,R
   10,D,X
-  32,R,D
+  32,R
   15,R,U,X
   34,D
    7,L,D
   11,R,D
-   1,D,X
-  15,R
+   4,D,X
+  12,R,X
   12,U,C
   14,R,J
   33,R,D
@@ -311,18 +302,17 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   15,U,X
    8,L
   15,R,U,X
-  20,R,D
+  20,R
   35,D
   16,L,D
-   1,D,X
-  14,L
-   8,L,D
-  15,L,D,X
+   4,D,X
+  19,L,X
+  15,L,D,C
   22,R,D
-   1,D,X
-  10,R
+   4,D,X
+   7,R,X
    1,R,J
-   7,L
+   7
    6,R,J
    8,R
    8,R,J
@@ -366,15 +356,14 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    7,R
    4,D,X
    3,R,J
-  10,R,D
+  10,R
   18,D,X
    3,L,D
    1,D
    1,L
    6,D
   15,R,X
-  21,D,C
-   5,R,D
+  26,D,C
   10,L,D,X
    6,R,J
    2,R
@@ -421,5 +410,6 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   10,R,D,X
    1,R,J
    7,R
-  10,R,U,X
- 136
+  11,R,U,X
+ 135
+#65.314

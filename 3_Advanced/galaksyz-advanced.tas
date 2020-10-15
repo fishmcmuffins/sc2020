@@ -1,10 +1,10 @@
-#Restart
 console load SpringCollab2020/3-Advanced/Galaksyz
    1
 
-#Galaksyz_00
 #Start
   84
+
+#lvl_Galaksyz_00
    1,L,J
    1,L
   12,R,D,X
@@ -20,20 +20,24 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    5,R
    6,R,J
   40
-#Galaksyz_01
+
+#lvl_Galaksyz_01
    4,R
-   1,D,X
-  13,R,X
-  28,U,C
-  14,R,J
-  16,R
-  19,L,D
-   5
-   1,D,X
-  14,R,X
-   9,R,U,C
-   1,D,X
+   4,D,X
   10,R,X
+  28,U,C
+  13,R,J
+   1
+   9,R,J
+   7,R
+  19,L,D
+   3,R,D
+   1,R
+   4,D,X
+  11,R,X
+   9,R,U,C
+   4,D,X
+   7,R,X
   21,R,J
    2,R
   15,D
@@ -43,13 +47,14 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   38,R,D
    8,D
    2,J
-   1,D,X
-   9,R,X
+   4,D,X
+   6,R,X
    2,R,J
    6,R,K,G
    9,R,D,X
   40
-#Galaksyz_02
+
+#lvl_Galaksyz_02
    5,R,D,X
    1,R,J
   11,R,D,X
@@ -59,31 +64,30 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   15,D,C
   15,L,X
   29,R,D
-   1,D,X
-  13,R,X
+   4,D,X
+  10,R,X
   10,R,J
    8,R
   18,R,X
-   1,D,C
-  13,R,C
+   4,D,C
+  10,R,C
   15,R,U,X
-   1,D,C
-   9,L,U,C
+   4,D,C
+   6,L,U,C
   15,R,U,X
-   1,D,C
-   9,L,U,C
+   4,D,C
+   6,L,U,C
   23,U,X
-  15,L,U,C
-   1,L
-   5,R
+  19,L,U,C
+   2,R
   15,R,U,X
-   1,D,C
-  14,R,C
+   4,D,C
+  11,R,C
   15,D,X
    3,R,D
-   1,D,X
-  14,R,X
-  10,D
+   4,D,X
+  11,R,X
+  10
   14,R,D,X
    1,R,J
    1
@@ -95,61 +99,58 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    1,R,J
    8,R,D,X
   40
-#Galaksyz_03
-   7,R,D,X
-   4,R,D
+
+#lvl_Galaksyz_03
+  11,R,D,X
    1,R,J
   22,R
-   1,D,X
-  14,R,X
-   2,R
-  32,R,X
+   4,D,X
+  13,R,X
+  32,R,C
   25,R,J
-   1,D,X
-  14,U,X
-   6
+   4,D,X
    5,U,X
   12
-  10,D
-  15,D,C
-  10,D
+   5,U,C
+  22
+  25,D,C
    8,L,D
-   1,D,X
-  13,L,X
+   4,D,X
+  10,L,X
   42,U,C
   15,R,J
   59,R,X
-  15,D,C
-  11,D
+  26,D,C
    4,R,D
   14,R,X
   11,R,D,C
   21,R,J
    6,R
-   1,D,X
-  17,R,X
+   4,D,X
+  14,R,X
   15,R,U,C
-   1,D,X
-   7,R,X
+   4,D,X
+   4,R,X
   15,R,U,C
   23,L
    5
-   1,D,X
-  14,R,X
+   4,D,X
+  11,R,X
   27,D
    7,R,J
-   1,D,X
-  14,R,X
+   4,D,X
+  11,R,X
   23,R,D
    2,R,J
-   1,D,X
-   6,R,X
+   4,D,X
+   3,R,X
    1,R,J
    6,R
    1,R,J
    9,R,D,X
   40
-#Galaksyz_04
+
+#lvl_Galaksyz_04
    4,R,D,X
    1,R,J
    7,R,K,G
@@ -161,21 +162,19 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   10,L,D,X
   17,R,J
    7,R
-  15,R,X
-  11,R,D
-  15,U,X
-  15,L,U,C
-   5,L
+  26,R,X
+  15,U,C
+  20,L,U,X
   20,R
   15,D,X
    9,R,D
   10,D
-   1,D,X
-  14,R,X
+   4,D,X
+  11,R,X
   10,U,C
    8,R
-   1,D,X
-  13,L,X
+   4,D,X
+  10,L,X
    6,R,J
    9,R
   15,R,X
@@ -183,12 +182,12 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   14,R,D,X
    6,R,J
    4,R
-   1,D,X
-  14,R,X
+   4,D,X
+  11,R,X
   16,U,C
    2,R,J
-   1,D,X
-  14,R,X
+   4,D,X
+  11,R,X
    8,U,C
   26
    1,L,D
@@ -199,30 +198,29 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    6,F,90
   57,F,105
    4,F,90
-  15,R,D,X
-   4,R,D
-  11,R,D,X
+  19,R,D,X
+  11,R,D,C
    3,R,J
    1,J
   19,R,J
   13,U,X
   15,U,C
-   1,D,X
-  14,R,X
-   1,R
-  18,D,X
+   4,D,X
+  12,R,X
+  18,D,C
    2,R,D
   15,U,X
-  15,D
-   7,R,D
-   1,D,X
-  13,R,X
+  15
+   7,R
+   4,D,X
+  10,R,X
   18,R,C
   15,U,X
-  29,D
+  24
+   5,D
   10,R,D
-   1,D,X
-   9,R,X
+   4,D,X
+   6,R,X
   29,U,C
   15,R,X
   33,D
@@ -233,8 +231,8 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   12
    6,R
   14,R,X
-   1,D,C
-  13,R,C
+   4,D,C
+  10,R,C
    1,L,J
    8,L,D,X
    1,R,J
@@ -246,7 +244,8 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   11,R
    1,R,J
   40
-#Galaksyz_05
+
+#lvl_Galaksyz_05
   18,R
    1,R,J
    1,R,K
@@ -258,3 +257,4 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    7,R,K,G
   27,R
  139,U,X
+#42.177
