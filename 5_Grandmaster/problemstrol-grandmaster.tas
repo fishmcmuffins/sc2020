@@ -1,12 +1,11 @@
 #Made By Vamp
-
+#Restart
 console load SpringCollab2020/5-Grandmaster/Problemstrol
    1
 
 #Start
- 190
-
 #lvl_0
+ 190
    1,R,J
    5,R
    1,R,J
@@ -64,9 +63,11 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    4,R,J
    3,R,K
    3,R
-  21,D,X
+  11,D,X
+  10,D
    1
-  14,L,D,C
+  10,L,D,C
+   4,L
    1,L,J
    4,L,D
    2,D
@@ -124,42 +125,43 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    1,R
    5,R,D,X
    1,L,J,G
-  12,R
-   1
-   2,R
+   5,R
+   1,R,J
+   9,R
    1,R,J
   14,R,U,X
    1,R,J,G
-   3,R
-  15,R,D,X
-   8,R
+   1,R
+  19,R,D,X
    3,R,J
   15,R,D,X
-   6,R,J
-   4,R,K,G
-   1,R
+   2,R,J
+   8,R,U,X
+   5,R,J,G
+   2,R
    7,R,U,X
   40
 
 #lvl_3
-   7,R,U,X
+   3,R,U,X
    1,R,J,G
+   4,R
   19,R,D,X
    1,R,J
   14,R
   12,R,J
   15,R,D,X
    2,R,J
-   8,R
+   7,R
+   1
    2,R,D,J
    3,R
-  11,R,J
-   5,R
+  16,R,J
   19,R,D,X
-   2,R,J
-  15,R
-   5,R,J
-  16,J
+   1,R,J
+  14,R
+  13,R,J
+  10,J
   15,R,U,X
    8,U,C
   65
@@ -167,114 +169,165 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
 
 #lvl_4
   65
-   1,R,J
-   4,R,X
-   2,R,J
-   6,R,K,G
-   3,R
    4,D,X
-   6,R,X
-   8,R,J
-  12,R,U,X
+   2,R,J
+   2,R,K,G
+   6,R
+   1,R,J,G
+   1,R
+   1
+   4,R
+   1,R,K
+   3,R
+  22,R,J
+  10,U,X
+  18,R,U,G
+   9,L,U,G
+  18,R,U,G
+   1,L
+   2,L,K
+   9,R,K
+  30,R,U,G
+   1,R
+   5,L
+  15,R,U,X
   21,R,U,G
-   1,D
-   9,L
-  25,L,U,X,G
-  22,R,U,G
-   1,L
-   7,R,D
-  27,R,U,G
    1,R
-   6,L
-  35,R,U,X,G
-   1,R
-  15,L
   14,U,X
-  31,R,U,G
-  42,R,G
-  10,R
-  10,R,U,X
-  25,R,U,G
+  62,R,D,G
+   7,R
+  14,R,U,X
+  23,R,G
    1,L
-  17,R
-  13,D,X
-  17,R
-  19,R,U,G
-   7,L,U,G
-  11,R
-   8,U,X
-  23,R,U,G
-  11,U,G
+  15,R,C
+   1,D
+  20,R,D
+   6,R
+  25,R
+  14,U,X
+  24,R,U,G
    1,R
   15,U,X
+   3,R
+   6,L,U,X
+  17,R
+  10,U,X
+   9,R
+  21,R,U,G
+   9,R
+   4
+   8,U,X
+  22,R,U,G
+   1,L
+  15,R,D,X
    5,R
-   4,D,X
-   7,L,X
-  16,R
-   9,U,X
-  49,R,U,G
-  28,L,U,G
+  17,L
+  15,L,U,X
+  21,R,U,G
+   4,L
+   5,R
+  12,U,X
+  62,R,D,G
+   7,R
+  14,R,U,X
+  25,R,U,G
+   1,L
+  14,R
+  17,R,X
+  21,R,D,G
+   1,R
+   5,L
+   5,U,X
+  25,R,U,G
+   4,U,G
    1,R
    7,L
-  28,U,X,G
-  16,L,U,G
-   1,D
-  10
-   9,U,X
-  18,U,G
-  46,R,U,G
-   8,R
-  14,R,U,X
-  21,R,U,G
+  12,U,X
+  24,R,U,G
    1,L
+   1,R
+  15,R,X
    7,R
-  28,R,X
-  23,R,U,G
+   5,U,X
+  67,R,G
+   1,L
    1,R
-   2,L
-   3,R
-   1
-   1,R
-   7
-   4,D,X
-   7,L,X
-   4,R,J
-   8,U,X
-  29,U,G
-   9,R,U,G
-   6,R
-   4
-  10,U,X
-  30,U,G
-  13,R,U,G
-   1,L
-  15,R,X
-  10,R,U,C
-  61,R,U,G
-   1,L
-  12,R
-  60,R,U,X,G
-   9,R,D,G
-   1,L
-   3,R
-  15,R,X
-  12,R
-   4,D,X
-   1,R,X
-   1,R,J
+  10,R,U,X
+   1,L,J,G
+   9,R,J
    5,R
    3,R,K
+   1,R
+  18,R,D,X
+   2,R,J
+   7,R
+   2,R,K
+   7
+   4,D,C
+   5,L,C
    1,R,J
-   7,R,D,X
+   6,R
+   1,R,J
+   8,R,D,X
+   1,R,J
+   7,R
+   2,R,J
+  14,R
   40
 
 #lvl_5
-   7,R,D,X
+   1,R
    1,R,J
-   7,R
+  14,R,D,X
    1,R,J
-  14,R,U,X
-  13,R
+  15,R,U,X
+  38,L
    4,D,X
-  96,U,X
-  25,L,J,G
+   1,U,X
+   2,R
+   2,L
+   2,R
+   2,L
+   2,R
+   2,L
+   2,R
+   2,L
+   2,R
+   2,L
+   2,R
+   2,L
+   2,R
+   2,L
+   4,R
+   2,L
+   4,R
+   2,L
+   4,R
+   2,L
+   4,R
+   2,L
+   4,R
+   2,L
+   3,R
+   2,L
+   4,R
+   2,L
+   3,R
+   2,L
+   2,R
+   2,L
+   2,R
+   2,L
+   2,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+#40.341
