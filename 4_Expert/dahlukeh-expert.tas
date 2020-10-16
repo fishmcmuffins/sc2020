@@ -2,18 +2,19 @@ console load SpringCollab2020/4-Expert/dahlukeh
    1
 
 #Start
-#lvl_dahlukeh_01
  193
-   4,D,X
-   2,L,X
+
+#lvl_dahlukeh_01
+   6,L,D,X
    1,R,J
    7,R
    3,R,J
   15,R,D,X
-  36,R,J
+  27,R,J
+   9,R
   15,R,U,X
    9,R
-   4,R,D,X
+   4,D,X
    5,R,J
    5,R,G
    7,R
@@ -25,27 +26,33 @@ console load SpringCollab2020/4-Expert/dahlukeh
    1,J,G
    1,K,G
   16,R,D,X
-   9,R,J
+   8,R,J
+   1,R
    1
-  16,R
+   8,R
+   1,R,J
+   7,R
   14,R,X
    1,R,J,G
-  12,R
-#3.281
+  11,R
+   1,R,J
+   4,D,X
+   3,R,U,X
+#3.349
   40
 
 #lvl_dahlukeh_02
-   1,R
-  11,R,J
-  11,U,X
-  24,R,J
-  15,R,X
-  15,R,G
-   1,J,G
-   1,L,J
-   3,R,K,G
-  23,R
-   6
+   7,R,U,X
+   1,L,J,G
+   6,R,J
+  17,U,X
+   1,R,J
+   9,R
+  24,R,X
+   1,J
+  24
+   4,R
+   5
    4,D,X
    6,R,X
    8,R,J
@@ -53,30 +60,37 @@ console load SpringCollab2020/4-Expert/dahlukeh
    1,L
    1,L,J
    9,L,K,G
-   1,R,J,G
-   1,L,J
-   8,R,J
-  26,R,D,X
-   4,D,C
-  10,R,C
-   1,R,J
-  16,R,D,X
-  12,R,J
-  29,R
+   4,J
+   4,D,X
+   4,L,X
+   6,R,J
+   8,R
    1
-  14,R,U,X
+   1,J
+   4
+  13,L,D,X
+   2,R,J
+  15,R,D,X
+   1,R,J
+  15,R,D,X
+  22,R,J
+   1,R
+   1,R,J
+  10,R
+  14,R,X
    2,R,J,G
-   6,R
-   1,R,J,G
-   6,R
-#8.228
+   7,R
+   1,R,J
+   1,R
+   5,R,D,X
+#8.058
   40
 
 #lvl_dahlukeh_03
-  14,R,D,X
-   3,R,J
-  17,R,D,X
-  26,R,J
+   9,R,D,X
+   1,R,J
+  16,R,D,X
+  25,R,J
   13,U,X
   21,R,J
    1,K,G
@@ -96,12 +110,12 @@ console load SpringCollab2020/4-Expert/dahlukeh
   15,L,D,X
    3,L
    1,R
-  15,L
+  14,L
   14,R,D,X
   19,R,J
   16,U,X
-  16,J
-  10,R,J
+  17,J
+   9,R,J
    1,K
   25,R,K
   10,L,J
@@ -190,9 +204,9 @@ console load SpringCollab2020/4-Expert/dahlukeh
   11,L,U,X
   35,R,J,G
    4,R,K,G
-  11,R
-   7,J
-   3,R,J
+  10,R
+   2,J
+   8,R,J
    1,R
    4,D,X
   11,U,X
@@ -200,7 +214,7 @@ console load SpringCollab2020/4-Expert/dahlukeh
    4,D,X
    1,R,J
    4,R
-#24.888
+#24.582
   40
 
 #lvl_dahlukeh_04
@@ -242,7 +256,7 @@ console load SpringCollab2020/4-Expert/dahlukeh
    1,R,J
    1,R
   24,R,D,X
-#31.297
+#30.991
   40
 
 #lvl_dahlukeh_05
@@ -250,14 +264,14 @@ console load SpringCollab2020/4-Expert/dahlukeh
    4,R,J
   12,R,K,G
   15,R,D,X
-   3,R,D
-  12,R,D,J
+   6,R,D
+   9,R,D,J
    5,R
    3,R,J
    7,R
    1,R,J
    1,R
-#32.963
+#32.657
   40
 
 #lvl_dahlukeh_06
@@ -271,11 +285,10 @@ console load SpringCollab2020/4-Expert/dahlukeh
    3,R,J
   15,R,D,X
    5,R
-#34.799
+#34.493
   40
 
 #lvl_dahlukeh_07
   10,R,U,X
  135
-#37.689
-#end
+#37.383
