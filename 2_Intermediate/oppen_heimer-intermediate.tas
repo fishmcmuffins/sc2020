@@ -914,6 +914,9 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    6,R,J
   15,U,X
   13,G
+#if desync use
+# 22,R,G
+#instead of 21,R,G
   21,R,G
    1
   34,L,D
@@ -932,6 +935,9 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
   19,R,G
 
 #lvl_room_4 (yellow)
+#if desync use
+# 11,L,G
+#instead of 10,L,G
   10,L,G
    1
    4,D,X

@@ -23,5 +23,17 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 2680 1048
    4,D,X
    4,L,J
   11,L
+
+#inf stamina menuing
+#assumes both are off
+
+console assist
+   1,S
+   1,F,180
+   1,D,J
+   1,O,F,180
+   1,S
+   9
    1,X
 #4.505
+(+5f menuing)
