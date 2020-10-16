@@ -1,4 +1,5 @@
-#Restart
+#by Gliperal
+
 console load SpringCollab2020/3-Advanced/_sleepie
    1
 
@@ -143,8 +144,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
   40
 
 #lvl_room_3
-   8,R
-  15,R,U,X
+   8,R,D,X
+  15,R,U,C
   23,R
    4,D,X
   14,R,X
@@ -175,8 +176,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
   11,R,D
    1,R,J
    4,R
-  15,R,X
- 196,R,C
+  16,R,X
+ 195,R,C
    3,R,J,G
   15,R,U,X
    4,D,C
@@ -196,8 +197,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
    8,R,J
    2,R
    4,D,X
-  11,R,X
-   3,R
+  14,R,X
    3,R,J
   15,R,D,X
    9,R,J
@@ -292,8 +292,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
 
 #lvl_room_4
    1,R,J
-  11,R,D,X
-  17,R,J
+  12,R,D,X
+  16,R,J
   33,U,X
    4,D,C
    6,R,U,C
@@ -302,7 +302,7 @@ console load SpringCollab2020/3-Advanced/_sleepie
   12,L,J,G
    1,L,K,G
    7,L
-   4,L,D,X
+   4,D,X
    1,L,J
    5,L
   14,L,J
@@ -317,32 +317,34 @@ console load SpringCollab2020/3-Advanced/_sleepie
   19,L,U,X
   26,L,U,C
   12,L,J,G
-   7,L,K,G
-   1,L,J,G
-   4,R,J
-   7,L,J
+   3,K,G
+   1,L,K
+   1,R,K
+  14,L,J,G
    1,L,K,G
+   1,L,J,G
    7,L
-   3,L,J
-  10,U,X
+  11,U,X
   15,R,U,C
   15,U,X
    9,L
    1,L,J,G
    1,L,K,G
    4,R,K
-   8,L,K
+   7,L,K
    1,L,J,G
-   4,L
-   3
+   1,L,K,G
+   6
+   1,L
    4,D,X
-   6,L,X
+   5,L,X
    1,R,J
-   4,R
+   1,R
+   1,R,J
+   2,R
   19,R,J
   16,R,U,X
-  11,R,J,G
-   1,R
+  12,R,J,G
    7,R,K,G
    4,L,K
    1,R
@@ -352,7 +354,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1
 
 #CP03
-   7,R,J
+   6,R,J
+   1,R
   14,U,X
   27,L
   16,L,U,X
@@ -366,59 +369,70 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1,L,K,G
    1,L,J,G
    7,L
-  11,L,J
-  15,U,X
+  12,L,J
+   4,D,X
+  11,U,X
   12,L,J,G
-  12,L,K,G
-   1,L,J,G
-   4,R,J
-   7,L,J
-   1,J
+   7,K,G
+   1,R,K
+   1,L,K
+  14,L,J,G
    1,L,K,G
+   1,L,J,G
    5
    2,L
    4,D,C
-   6,L,C
+   4,L,C
    1,R,J
-   4,R
-  17,R,J
-  13,R
-   8,R,D
+   1,R
+   1,R,J
+   7,R
+  25,R,J
+   9,R
+  15,R,X
+   1,R
+   1
    2,R
-  14,R,X
-  12,R,J
-   5,L,K
-  14,R,U,X
-  81,L,U,C
+   1,J
+   4,R,J
+  10,U,X
+  82,L,U,C
   12,U,X
   18,L,J
-  10,L,K,G
+   8,L,K,G
   10
   23,R,X
   12,L,D,C
   38,R,J
    4,D,X
-  14,U,X
-  14,L,J
+  11,U,X
+   2,L
+   3,R,J
   15,L,U,X
-   6,L,J,G
-   8,L
-  13,L,J
-  14,U,X
+  15,L,U,C
+   2,L,J,G
+   7,L
+  10,L,J
+  15,U,X
   18,J
   12,K,G
   10,J,G
-   3,L
-   5,R
   12,R,K
-  14,J,G
-  15,L,D,X
-  30,L,J
-  27,L,U,X
-  12,L,J,G
-  12,L,K,G
+   7,R
+
+#CP02
+  10,R,D,X
+  27,L,J
+  15,L,U,X
+   2,J,G
+   1,R,J
+   1,L,J
+  14,L,K,G
+   1,L,J,G
+   1,L,K,G
    7,L
-  13,L,U,X
+   3,L,J
+  10,U,X
   15,U,C
   11,U,X
   11,L,J
@@ -427,31 +441,37 @@ console load SpringCollab2020/3-Advanced/_sleepie
    5,L
   24,L,J
   33,L,U,X
-  58,R,U,C
-  15,U,X
-   9,R,J,G
-   1,R,K,G
-   4,L,K
-   8,R,K
+  60,R,U,C
+   4,D,X
+  11,U,X
+   3,J,G
+   1,L,J
+   1,R,J
+  13,R,K,G
    1,R,J,G
    1,R,K,G
    7,R
-   5,R,J
+   4,R,J
   14,L,D,X
   16,L,J
   14,L,U,X
    1,L,J,G
    3,R,J
-   6,L,J
+   2,L,J
+   1,R,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
    1,L,K,G
    7,L
-   3,L,J
+   2,L,J
   10,U,X
    7,U,C
-   7,R,X
+   4,D,X
+   3,R,X
    6,R,C
   15,R
-  12,U,X
+  11,U,X
   19,R,U,C
   19,R,U,X
   12,R,J,G
@@ -459,14 +479,15 @@ console load SpringCollab2020/3-Advanced/_sleepie
    5
    2,R
   10,R,D,X
-   5,R,J
-  14,R,U,X
-   1
-  11,U,X
+   3,R,J
+   2,R
+  15,R,U,X
+   4,D,C
+   8,U,C
    9,L
   12,U,X
-  16,R,J
-   9,K
+  18,R,J
+   4,K
   15,L,U,X
   14,R,U,C
    3,R,J,G
@@ -476,7 +497,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
    6,R,X
    1,L,J
    4,L
-  13,L,J
+  11,L,J
+   2,L
   18,L,U,X
   18,U,C
   18,U,X
@@ -484,23 +506,26 @@ console load SpringCollab2020/3-Advanced/_sleepie
   18,U,X
   18,U,C
   18,U,X
-  12,U,C
-   1,S
-   1,D,J
-  72,O
-  10,U,X
- 899,U,C
-  40
+  15,U,C
+  90,L,D
+  34,D
+ 204,U,C
+   8,R,X
+   9,R,J
+  43
 
 #lvl_room_5
-  20
-   4,D,X
-   7,R,U,X
-   5,L,J,G
-   7,L,K,G
-   1,L
-   1,L,J,G
-   7,L
-   7,L,X
+  11
+   9,U,X
+   2,R,J
+   4,R
+   1,R,J,G
+  10,R
+  10,J
+   2,R
+  15,U,X
+   2,R,J,G
+   7,R
+   6,R,C
  135
-#103.411
+#91.970
