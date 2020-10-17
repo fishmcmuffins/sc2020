@@ -15,20 +15,17 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 1448 128
    8,L,D
   20,D
   17,R,D
-   4,R,D
-  19,R,X
-  16,R,C
+   4,D,X
+  16,R,X
+  17,R,C
   18,D,X
-   4,D,C
-   3,L,C
+  10,L,D,C
    5,L,J
-   3,L
-  15,L,D,X
-   2,L
-   4
-  15,D,X
+  17,L,D,X
+   5,R
+  15,D,C
   17,R,D
    2,R,J
   17,R,D,C
    1,X
-#3.485
+#3.468
