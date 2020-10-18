@@ -256,13 +256,26 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    1,R,K
    1,R,J
    5,R,K
-   8,K
-   3,R,K
-   3,R,J,G
-   8,R,K,G
+  11,K
+   2,R,J,G
+   1
+   1,R,K,G
+   7,R,K
+   1,R
   14,R,U,X
-   5,R,J,G
-  29,R
-  48,L,D,X
-  92,R,D,J
-#40.953
+   1,R,J,G
+   9,R
+   1,R,J
+   3,R
+  15,R,D,X
+  22,R
+   4,R,D
+  12,D
+   1,J,G
+  11
+   6,R
+   2,R,J
+   2,R
+   2,L
+  79,L,J
+#40.919
