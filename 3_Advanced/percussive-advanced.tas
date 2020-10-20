@@ -1,10 +1,12 @@
 #Created by dahlukeh
+
 console load SpringCollab2020/3-Advanced/Percussive
    1
 
 #Start
-#lvl_Percussive_Intro
  190
+
+#lvl_Percussive_Intro
    4,D,X
   91,L,X
    4,L,J
@@ -137,6 +139,6 @@ console load SpringCollab2020/3-Advanced/Percussive
  117,R,D,X
    4,R,J
    1,R,K
-  12,R,X
- 136,R,D
+  13,R,X
+ 135,R,D
 #24.089

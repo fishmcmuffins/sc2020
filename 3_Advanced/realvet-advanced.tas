@@ -1,11 +1,12 @@
 #Made by Vamp
-#Restart
+
 console load SpringCollab2020/3-Advanced/RealVet
    1
 
 #Start
-#lvl_BeginningRoom
  190
+
+#lvl_BeginningRoom
    4,D,X
    2,R,X
    1,R,J
@@ -24,58 +25,38 @@ console load SpringCollab2020/3-Advanced/RealVet
    4,D,X
   11,R,X
    1,R,J,G
-   7,R
    1,L
-   1
-   3,R
-  11,L
-  15,L,U,X
-  12,L
-   2
-   1,L,J,G
-   3,R,J
-   1,L,J
-   7,L
-#going to hit the spring
-#is frame tied lmao
-#  32,L,D
-#  25,D,X
-#   1,R,D
-#  15,L
-#  15,L,X
-#   9,R,J
-#  15,U,X
-#  14,L,U,C
-#   1,J,G
-#   1,R
-#   1,L
-#   1,K,G
-#  20,R,K
-#   1,R,K
-#   2,R,J
-#   1,R
-#   2,R
-#   1,R,J,G
-#   7,R
-#   4,D,X
-  34,L,D
-  11,R,D
-   4,D,X
-  11,L,X
-   9
-  13,L
-  10,R,J
-  15,U,X
+   6,R
    2,R
-  14,L,U,X
-   1,J,G
-   1,R,J
-   1,L,J
-   1,K,G
-  22,R,K
+   2
    1,R
-   2,R,K
+   3
+  10,L
+   4,D,X
+  11,L,U,X
+  11,L
+   2,J,G
+   2,L
+   1
+   4,L
+   1,L
+   7,L,D,X
+  21,L
+  15,D,X
+
+   7
+   2,D
+   1,L
+   6,R,D,X
+  14,L
+  15,L,X
+   7,R,J
    1,R
+  15,U,X
+  13,L,U,C
+   1,K
+   2,J,G
+  25,R,J
    1,R,K,G
    7,R
    4,D,X
@@ -84,59 +65,48 @@ console load SpringCollab2020/3-Advanced/RealVet
    6,R
    3,R,K
   14,R,U,X
-   2,R,J,G
+   3,R,J,G
+   5,R
+   2,R,J
    1,R
-   1,R,J,G
-  17,R
+   1,R,J
+   9,R
    2,L,J
   10,U,X
-   4,L,J
-   3,R,J
-  19,L,J
-   1,L
-   1,L,K,G
+  22,L,J
+   2,J
+   1,L,J
+   1,K,G
    7,L
-   4,L,J
-   3,K
+   9,J
+   1,L,J
+   1,J
+   1,L,J
+  14,U,X
+   1,R
+  12,J,G
+   3,K,G
+   1,J
+   2,K,G
+   6,L,K
+  11,L
   15,U,X
-#  11,R,J,G
-#   1,R
-#  12,R,K,G
-#   1,J,G
-#   1,L,J
-#   1,R,J
-#   5,R,K,G
-#   3,L,K,G
-#   3,R,K
-#   1,K
-#   1,J
-#   5,L,J
-#  50,R,J
-#0.1 pixels off
-#collecting the coin
-#without a dash
-  12,R,J,G
-   7,K,G
-   1,L,K
-   1,R,K
-   1,J,G
-   7,L,J
-   8,L
-  15,U,X
-  20
-  18,L,D
-   3,L
+  20,D
+  17,L,D
+   1,D
+   1,L,D
+   2,D
    1,L,G
    1,L,J,G
    1,L
    1,L,J
-   2,L
-   6,L
-  10,R,D
+   8,L
+   1
+   9,D
    4,D,X
   11,L,X
-   8
-  23,L,D
+   4
+  27,L,D
    1,S
    1,D,J
   69,O
@@ -144,17 +114,20 @@ console load SpringCollab2020/3-Advanced/RealVet
   10,L,D,X
    7,R,J
   14,R,U,X
-   4,R,J,G
-   5,R
+   3,R,J,G
+   6,R
+   2,R,J
+   1,R
    1,R,J
-  12,R
-   1,R,D
-   1,R,D,J
-  11,U,X
-  11,R,J
-  21,L,J
-   1,L,K,G
-   7,L
+   5,R
+   3
+   1,L,J
+   3,R,J
+  15,U,X
+   3,R
+  10,L,J
+  16,L
+   2
    8,R,J
   14,U,X
    8,R,J
@@ -191,18 +164,15 @@ console load SpringCollab2020/3-Advanced/RealVet
    9,L
    1,R
    5,R,D
-  10,R,J
-   1,R,J
-   6,R,J
-   1,R,J
-   1,R,J
-   4,L,J
-   4,L
+  19,R,J
+   1,L
+   2,L,J
+   5,L
    1,R
    1,L
    1,R
    1,L
-   2
+   1
    4,D,X
   11,U,X
    2,L
@@ -224,14 +194,17 @@ console load SpringCollab2020/3-Advanced/RealVet
   10,R,X
    4,L,J
   13,L
-   5,L,J
-   4,L
+   8,L,J
+   1,L
   15,U,X
-   1,R,J,G
-   1,J
-   2
-   1,R,K,G
-   7,R
+   4,R,J,G
+#fireball cycle
+   1,R
+   1
+   1,R
+   1
+   3,R
+   1
    4,D,C
    5,L,C
    1,R,J
@@ -247,24 +220,20 @@ console load SpringCollab2020/3-Advanced/RealVet
   15,L,U,X
   17
    5,L
-   5,R,D
-   1,D
-  30,R,G
-#height probably
-#isnt the bottleneck here,
-#could likely jump
-#off the block earlier
-#could probably use
-#28,R,G
-#1
-#to jump off a
-#frame earlier
-   2,J,G
+   5,D
+   1,L,D
+   1,R,D
+  28,R,G
+   1,J,G
    2,L,J
-  44,L,K
-  23,L,D
-   2,L
-  34,D
+   1,K
+   5,L,K
+   1,K
+  37,L,K
+   4,L
+  18,L,D
+   3,L
+  33,D
    6,L,J
   11,R,J
    2,J
@@ -278,10 +247,10 @@ console load SpringCollab2020/3-Advanced/RealVet
    1,K
    6,L,K
   11,R,U,X
-  31,R
-  13,R,D,X
-   8,R,J
-   3,J
+  29,R
+  14,R,D,X
+   9,R,J
+   2,J
    5
    7,U,X
    1,J
@@ -300,20 +269,21 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,R,D
    1,R,J
    5,L,J
-#this feels slow
+#this feels slow?
   27,L,G
   24,L,U,G
    8,L,G
-   1,L
+   1
    1,L,J,G
-   7,L,J
-  11,L,K,G
-  11,R,U,X
-   1,R,J,G
-   1,L,J
-  21,R,J
-  42,R,D
-  20,R,U,X
+   7,R,J
+   1,L,K,G
+   9,R,K
+   8,U,X
+   2,R,J
+  19,R
+  15,R,X
+  39,R,D
+  15,R,U,X
    4,D,C
   10,R,C
    1,R,J
@@ -321,23 +291,21 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,R,J
   15,R,X
   10,R,D,C
-  16,R,J
-   4,D,X
-  10,R,U,X
+   9,R,J
+   7,R
+  14,R,U,X
   15,R,U,C
-  27,R,D
+  26,R,D
   18,R,X
    4,D,C
   11,R,C
-  10,L
-   5,R
-  10,R,D
-   9,R
-   5,R,D
-   1,R
-   1,R,D
+   4,R
+   6,L
+  24,R,D
+   3,R
+   2,R,D
    4,D,X
-   2,R,X
+   3,R,X
    1,R,J
   40
 
@@ -382,28 +350,24 @@ console load SpringCollab2020/3-Advanced/RealVet
   13,R,X
    1,R,J
    2,L,J
-   1,R,J
+   1,R
   14,U,X
    1,L,J
    7,L
-   7,R
-   4,D,X
-   1,L,X
+   6,R
+   5,L,X
    4,L,K,G
-   5,L
+   9,L
    1,L,J
-   7,L
-   4,L,J
+   4,L
+   3,L,J
   10,L,X
    9,L,J,G
-  16,L
-  11,L,J
+  17,L
+  10,L,J
    6,R,J
   15,U,X
    6,R
-#tried getting a
-#double cboost here
-#but just couldnt
    6,R,J,G
   12,R
    3,L
@@ -437,25 +401,25 @@ console load SpringCollab2020/3-Advanced/RealVet
    1
   26,R
   21,U,X
+   5,J
+   1,L,J
    1,J
-   1,K
+   1,L,J
    1,J
-   1,K
+   1,R,K,G
+   1,R,J,G
+   5,R
    1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   7,R
-   6,R,J
-   1,R
+   4,R
+   5
    4,D,X
   11,R,X
-  15,L,D
-  13,D
+  15,D
+   8,L,D
    1,L,G
-   8,L,J,G
-   9
+   6,L,J,G
+   1,J
+  10
    9,J
   11,R,J
    7,L,K,G
@@ -474,14 +438,9 @@ console load SpringCollab2020/3-Advanced/RealVet
   15,U,X
   10,L
    8,L,X
-   7,R,J
-   1,R
-   1,R,K,G
-#could maybe save time
-#not cornerboosting here
-#but too lazy to
-#get ceiling pop
-  26,R,D
+   8,R,J
+  25,R,D
+   1
    1,R,G
    9,R,J,G
    4,D,X
@@ -502,18 +461,17 @@ console load SpringCollab2020/3-Advanced/RealVet
    4,D,X
   11,L,X
    4,L,G
-  32,U,G
-#could jump off
-#earlier but im
-#too lazy to re-do
-#this section
+  13,U,G
+   2,G
+   1,U,G
+   4,G
    1,R,J
-   5,R,K
-  25,R
-  11,R,X
-   2,R,J,G
-  15,R
-  22,R
+  14,R,K
+  11,R
+  14,R,X
+   1,R,J,G
+  16,R
+  21,R
   18,U,X
   14,U,C
   17,L,X
@@ -530,4 +488,4 @@ console load SpringCollab2020/3-Advanced/RealVet
   11
   14,U,X
  135
-#56.797
+#55.998
