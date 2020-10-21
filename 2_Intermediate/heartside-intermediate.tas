@@ -687,23 +687,23 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1,R,J
   14,R,D,X
    9,R,J
-  12,R,D
-  15,R,D,X
-   4,L,D
   18,R,D
-  13,L,J
-   9,R,J
+  15,D,X
+  11,R,D
+   3,R
+  17,R,J
    4,D,X
   11,R,U,X
-  27,R,D
-  23,D
+  28,R,D
+  22,D
   21,L
   18,R,U,X
   15,R,D,C
   12,L,D
-  16,L
-  19,R
-  11,R,J
+  12,L
+  17
+   4,R
+   9,R,J
   35,R,D
   19,L,D
   14,L
@@ -711,8 +711,8 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    4,D,X
   10,L,X
   10,L,J
-   2,L
-   4,L,J
+   1,L
+   5,L,J
   15,L,D,X
 #1 dash from now (or so) on
    4,L,D
@@ -873,9 +873,10 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   14,R,U,X
    7,R,J,G
    7,R
-   7,R,J
-  10,R,X
-   5,R,J
-  12,R,U,X
- 135
-#153.561
+   4,R,X
+   6,R,J
+   7,R
+   2,R,J
+  14,R,U,X
+ 135,R,D
+#153.357
