@@ -1,9 +1,10 @@
 console load SpringCollab2020/1-Beginner/Lichtbaulb
    1
 
-#lvl_pre pre 1
 #Start
  190
+
+#lvl_pre pre 1
    4,D,X
    5,L,X
    1,R,J
@@ -177,18 +178,22 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
 #lvl_3
   11,R
    4,D,X
-   1,R,X
-   1,R,J
-   7,R
-   7,R,D,J
-   7,R
-   9,L,U,X
-   2,L,J,G
-   7,L
-  13,L,X
-  12,L,J
-  12,L,K,G
-   7,U,X
+   3,R,J
+   8,R
+   4,R,D,J
+   5,J
+   3
+   1,K
+   9,L,J,G
+   4,D,X
+   2,L,X
+   1,L,J
+   5,L
+   1
+  10,L,D,J
+   6,L,K,G
+   6,K
+   8,U,X
    6,R,J
    4,L,J
    6,R,J
@@ -204,56 +209,26 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    1,L,J
    2
   10,L
-  13,L,J
-  12,L,K
-   1,J
-   1
-  16,U,X
-  18,R,J
-
-
-
-
-#im tired of this
-#  12,R,J
-#   2,R
-#   1,R,K,G
-#   1,R
-#   1,R,J,G
-#   1,R
-#   3,R,J,G
-#   4,R
-#   4
-#   2,L
-#   1,R
-#   2,R,D
-#   4,D,X
-#   1,L,X
-#   1,R,J
-#   2,R
-#   1,S
-#   1,X
-#   9,J
-#   1,R,J
-#   2,R
-#   2,R,K
-#   5,R
-#   4,D,X
-#  11,R,U,X
-
-
-
-   3,R,K,G
-   1,K
-   1
+  12,L,J
+   1,R,J
+   2,K,G
+   1,L,K
+  14,U,X
+   8,R,J
    1,R,K,G
    7,R
-  12,R,J
-   9,K,G
-   4,D,X
-   6,R,X
+   2,L,D,J
+   1,J
+  12,L,J
+  12,U,X
+  10,R,J
+  12,R
+  10,R,D,X
    3,R,J
-  20,R
+   5,R
+   1,R,J
+  10,R
+   4,R,D
   14,R,U,X
    1,J,G
    4
@@ -326,30 +301,35 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
   15,U,X
   12,L,J,G
   12,K,G
-   6,J,G
+   5,J,G
+   1,K,G
    7,L
-  10,L,D,X
-   3,L,J
-   6,K,G
-  12,J,G
-  16,U,X
-  11,J,G
-   1
-   5,K,G
-   5,L
-   2
-  12,J
+   7,L,J
+  12,L,X
+   1,L,J
+   1,L
+   3
+  10,U,X
+  18,L,J
+   8,L,K,G
+   7,L
+  10,J
+   1,L,J
+   1,R,J
+   1,K,G
+   2,K
+   1,R,J,G
    1,R,K,G
-   8,L,K
-  10,R,X
-   3,R,J
-   5,R,K,G
-  10,R,X
-  14,L,J
+  13,R,J,G
+  11,R,X
+   7,L,J
+   7,J
   18,U,X
    3,R,J
   16,L,J
-  12,K,G
+   8,K,G
+   2
+   2,K,G
    7,L
    4,D,X
    1,L,J
@@ -365,8 +345,11 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    1,L
    1,L,J
    1,L
-  15,L,D,X
-   2,L
+  17,L,D,X
    1,L,J
   15,L,U,X
- 135
+  88,L,D
+   1,D,X
+  45,L,X
+   1,R,J
+#38.386
