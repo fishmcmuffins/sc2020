@@ -1,8 +1,8 @@
 #Made By Marlin
-#Restart
 
 console load SpringCollab2020/5-Grandmaster/iamdadbod
    1
+
 #Start
  190
 
@@ -742,7 +742,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    1,K
   20,U,X
   25,R,J
-   9,R,K,G
+   8,R,K,G
    7,R,J,G
   15,R,X
    7,R
@@ -827,7 +827,6 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    6,G
    1
   41,G
-#
    2,K,G
    4,L,K
    5
@@ -949,4 +948,4 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    2,R
    2,L,D
    1,R
-#118.507
+#118.490
