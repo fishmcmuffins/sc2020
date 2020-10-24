@@ -44,9 +44,63 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    7,L
    2,L,J
    3,L
-   1,L,J,G
+   1,L,K,G
   14,L,D,X
    5,L,J
+#new strat
+  34
+   5,R
+   1,J
+   8
+   2,J
+   5
+   4,D,X
+   1,R,J
+   6,R
+  12,R,J
+  15,R,D,X
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   4,R,J
+  35
+   5,J
+
+#lvl_a-00
+   3,R,J
+   5,R
+   1,R,K
+   1
+  14,R,U,X
+   8,R,J,G
+   3,R
+   8,D
+   1,R,D
+   1,D
+   2,R,D
+   1,R,K
+   6,R
+   5,R,K
+   4,R
+   2,R,D
+   1,R,J
+   8,R
+   2
+   3,R
+   2,R,J
+   4,D,X
+  11,R,X
+   6,R,D,C
+  10,R,J
+#going up prob fast
+#because cycles idk tho
+   4,R
+  40,R,D,X
+
+ 100,R
+
+#original strat
    7,L,K,G
   15,D,X
    1
@@ -80,8 +134,8 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   13,R,X
    1,R,J
   12,R,D,X
-   1,J
-   5,L
+   1,R,J
+   5
    8,R,D,X
    1,R,J
    7,R
@@ -105,8 +159,8 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   11,R
    7,R,J
    4,D,X
-   4,R,X
-   7,R,J,G
+   7,R,X
+   4,R,J,G
    4,R
    4,D,X
   13,R,X
@@ -124,7 +178,9 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   12,R,D,X
    1,R,J
   20,R,D
-   9,R,J,G
+   1,R,J,G
+#8.993
+   8,R,J,G
    1,D,X
    6,R,U,X
    1,L,J,G
