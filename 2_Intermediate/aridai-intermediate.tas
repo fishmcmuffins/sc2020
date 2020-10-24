@@ -1,10 +1,12 @@
 #Made by Vamp and Sasha
+
 console load SpringCollab2020/2-Intermediate/aridai
    1
 
 #Start
-#lvl_aridai-intro
   36
+
+#lvl_aridai-intro
    4,D,X
    2,R,X
    1,R,J
@@ -1064,6 +1066,9 @@ console load SpringCollab2020/2-Intermediate/aridai
    2,L,J,G
   10,L,K,G
   14,U,X
+# if desync change
+# below two lines
+# to 18rj 15ux
   17,R,J
   14,U,X
   25,R,J
