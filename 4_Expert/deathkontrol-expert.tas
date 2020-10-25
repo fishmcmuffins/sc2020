@@ -7,8 +7,10 @@ console clrsav
 console load SpringCollab2020/4-Expert/DeathKontrol
    1
 
+#fullgame sync
+   1
 #Start
-  71
+  70
 
 #lvl_start
   14,R,X
@@ -45,11 +47,6 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1,L,K,G
   14,L,D,X
    5,L,J
-
-
-#play,original strat
-
-#new strat
    7
    6,R
    1,J
@@ -231,11 +228,6 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   40
 
 #lvl_a-03
-
-
-
-#new strat
-
    6,L,D
   15,L,D,X
    4,L,D
@@ -318,7 +310,6 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   12,R,K
    7,L
   13,U,X
-
   40
 
 #lvl_a-03b
@@ -330,39 +321,43 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    5,R,J
   15,R
    4,D,X
-  10,R,U,X
-   4,R,D
-   7,L,D
+  11,R,U,X
+   3,R
+   7,L
    4,D,X
    6,R,X
    1,R,J
-   4,R
+   3,R
+   1
   10,R,D,X
    1,R,J
-   2,L,J
-   6,R,J
+   1,J
+   7,R,J
    7,R,K,G
    4,R
   14,R,D,X
-   7,R,J
+   8,R,J
+   1,R
+  10,R,J
+  14,R,U,X
+   8,R,J,G
    7,R
+   5,D,X
+  12
+   1,S
+   1,D,J
+  69,O
+   2,R,J
    4,D,X
-  20,R,U,X
-  12,R,J
-  14,R,D,X
-  96
-   4,D,X
+   5,R,X
    1,R,J
-   9,R
-
-
+   6,R
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_a-01
-
-   2,R
-   1,R,J
-   8,R,D,X
+   6,R,D,X
    1,R,J
    7,R
   10,R,J
@@ -509,43 +504,49 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   40
 
 #lvl_a-02b
-   9,R,D
-   3,R
+
+  20,R
    4,D,X
   10,R,X
-  13,R,D
-  20,D
-   2,R
-   4,D,X
-  10,R,X
-  19,R,D
-   4,D,X
-   6,L,X
-  10,R,J
-  14,R,D,X
-   5,R,J
-   5,R
-  15,R,X
-  14,R,U,C
-  15,D
-   4,R,D
-   4,D
-  18,R,X
-   4,D,C
-  11,R,C
-  11,R,D
-  14,R,J
- 110,R,D,X
-   4,D,C
-   1,R,J
-   5,R
-   3,R,D,J
    1,R
+   4,D,X
+   7,R,X
+   1,R,J
+   4,R
+   2,R,J
+   3,R
+  16,D,X
+  11,R,D,C
+   1,R,J
+   2,R
+   3,R,J
+  13,R,D,X
+  11,R,J
+  19,R
+  16,R,U,X
+   9,R
+   4,D,C
+  12,R,C
+  14,R,D
+  15,R,J
+   8,R,D,X
+  12
+   1,S
+   1,D,J
+  69,O
+   2,R,J
+   4,D,C
+   5,R,C
+   1,R,J
+   6,R
+   2,R,D,J
+   2,R
   40
 
 #lvl_a-01
-   5,R
-   2,R,J
+   3,R
+   3,R,K
+   1,R
    4,D,X
   10,R,X
    4,R,J
@@ -573,7 +574,7 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    1,J,G
    6,L
    1,R
-  22,R,D,J,G
+  22,R,D,J
   14,L,D,X
    1,R,J
   16,R,D,X
@@ -705,4 +706,4 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    4,D,C
    1,L,J
   82,L
-#78.489
+#77.282
