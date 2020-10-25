@@ -155,13 +155,17 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   18,R,J
    4,L,J
   11,L,U,X
-  40,R
-  15,R,X
-  11,R
-  15,R,X
-  11,R
+   7,R
    4,D,X
-  10,U,X
+   9,L,X
+  36,R,J
+  15,R,X
+   3
+  15,R,C
+   1,R
+#22.542
+   4,D,X
+   8,U,X
   27,R,J
   15,R,U,X
   15,R,C
@@ -802,4 +806,4 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    7,R
   14,R,U,X
  135
-#126.565
+#126.446

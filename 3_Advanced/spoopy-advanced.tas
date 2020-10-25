@@ -1,30 +1,35 @@
-#Restart
 console load SpringCollab2020/3-Advanced/Spoopy
    1
 
 #Start
-#lvl_spoopy_01
   61
-   6,X
+
+#lvl_spoopy_01
+   6,R,X
    7,R,J
    2,R
-  10,R,J,G
-  12,R,K,G
+   9,R,J,G
+   1,R
+  11,R,K,G
+   1,R
    1,R,J,G
    2,L,J
    7,R
    4,D,X
    1,R,J
-   7,R
-   8,R,J
-  15,U,X
-  10,R
-   4,D,X
-   2,L
-   1,R,J
    6,R
-   2,R,J
-  20,R,D,X
+   6,R,J
+   2,R
+  16,U,X
+   1,R,J,G
+   7,R
+   4,D,X
+   1,L
+   1,R,J
+   7,R
+   1,R,D
+   1,R,D,J
+  19,R,D,X
    5,R,J
   40
 
@@ -32,9 +37,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,R,J
   15,R,X
    1,R,G
-  10,L,D
-   1,L,D
-   1,L
+  12,L
    1,L,D
    3,L
   15,L,X
@@ -82,8 +85,8 @@ console load SpringCollab2020/3-Advanced/Spoopy
   11
   14,L,D,X
    1,L,J
-   1,D,X
-  14,L,X
+   4,D,X
+  11,L,X
   14,L,G
    1
    5,J
@@ -99,7 +102,8 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,L,K,G
    8,L,J,G
   24,L
-  10,L,J,X
+   4,L,X
+   6,L,J
    3,L
    1,L,J,G
   13,L
@@ -115,7 +119,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   21,L,D
    5,L
    4,D,X
-   1,L
+   1,L,X
    1,R,J
    7,R
    8,R,J
@@ -127,9 +131,9 @@ console load SpringCollab2020/3-Advanced/Spoopy
   12,R,D
   12,R
    4,D,X
-   1,L
+   1,L,X
    1,L,J
-   5,R,D
+   5
   12,L,D
    1,L,J
   15,L,D,X
@@ -139,7 +143,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   36,L,J,G
    4
    4,D,X
-   2,L
+   2,L,X
    1,L,J
   17,L,D
    1,L,J
@@ -160,13 +164,11 @@ console load SpringCollab2020/3-Advanced/Spoopy
    7,K
    9,L,J,G
    5,R,K
-   1,D,X
-   1,L
-  12,L
+   4,D,X
+  10,L,X
    3,L,J
-   6,L,D
-   8,L,D,J
-   8,L,J
+   6,L
+  16,L,J
   15,U,X
   11,R,G
   13,R,J,G
@@ -175,16 +177,16 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,R,J,G
   20,L
   18,L,D
-   1,D,X
-  12,L
+   4,D,X
+   9,L,X
    1,L,J
    7,L
    1,L,J
   13,L,D,X
    1,R,D
   29,D
-   1,D,X
-  22,R
+   4,D,X
+  19,R,X
   25,L
    3,L,G
    6,L,U,G
@@ -192,8 +194,8 @@ console load SpringCollab2020/3-Advanced/Spoopy
    2,J
    4
   13,D
-   1,D,X
-  13,L
+   4,D,X
+  10,L,X
   10,L,J
    9,L,G
   12,L,J,G
@@ -201,8 +203,8 @@ console load SpringCollab2020/3-Advanced/Spoopy
   10,D,K
    5,L
   11
-   1,D,X
-  14,L
+   4,D,X
+  11,L,X
    5,R,D
    1,R,D,J
   13,R,D
@@ -234,9 +236,8 @@ console load SpringCollab2020/3-Advanced/Spoopy
   15,D,X
   12,L,D
   47,R,X
-  15,D,C
-   6,D,X
-   9,L,D,C
+  18,D,C
+   9,L,D,X
   30,L,J
   15,L,D,X
   10,R,D
@@ -587,3 +588,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,R,J
   10,R,U,X
  135,R
+#75.412

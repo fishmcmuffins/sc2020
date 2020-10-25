@@ -1,12 +1,12 @@
-#Ligament - Kube - Expert
-#80.903
 #created by Lanvilla
+
 console load SpringCollab2020/4-Expert/Kube
    1
 
 #Start
-#Kube_1 (1)
  190
+
+#lvl_Kube_1 (1)
   16,U,X
   16,U,C
   15,R,U,X
@@ -19,47 +19,52 @@ console load SpringCollab2020/4-Expert/Kube
    1,R,J
    1,R,K
   12,R,J
-  12,R,K,G
-  12,R,J,G
-   6,K,G
-   2,L,K
-  11,L,J
+  11,K,G
+   1
+  11,J,G
+   1
+   1,R,K,G
+   4,K
    1,L
-   5,L
-   1,L,J
+   1,R
+   1,J
+   2,K,G
+  15,L,K
   15,U,X
   10,R
   15,U,X
   13,R
-   1,R,D,J
-   4,L,J
+   4,J
    1,K
-   4,L,K
-   7,R,K
    1,J
-  11,R,J
+  11,L,J
+   1,K
+  10,R,K
   15,U,X
-   4,R
-  19,L,J
+   3,R
+  21,L,J
   40
 
-#Kube_2 (1)
-  14,L
+#lvl_Kube_2 (1)
+  13,L
   22,L,X
    4,D,C
    1,L,J
-   7,L
+   3,L
    1,L,J
+   3,L
+   1,L,K
    4,L
    6,U,X
-  26,U,G
-  17,U,X,G
-  22,U,C,G
-   6,R,U,G
-   9,R
+  27,U,G
+  15,U,X,G
+  15,U,C,G
+   7,U,G
+   6,L,U,G
+   8,L
   14,U,X
-  18,U,G
-  17,R,U,G
+  15,U,G
+  21,R,G
    1,L
    1,R,J,G
   10,R
@@ -90,7 +95,7 @@ console load SpringCollab2020/4-Expert/Kube
    5,R,U,X
   40
 
-#Kube_3
+#lvl_Kube_3
   10,R
   24,R,U,G
    1,D
@@ -156,7 +161,7 @@ console load SpringCollab2020/4-Expert/Kube
    1,L,J
   40
 
-#Kube_2 (2)
+#lvl_Kube_2 (2)
    4,L,J
    4,L,K,G
   15,L,D,X
@@ -165,12 +170,12 @@ console load SpringCollab2020/4-Expert/Kube
   36,D
   40
 
-#Kube_1 (2)
+#lvl_Kube_1 (2)
    1,S
    1,D,J
   69,O
   10,L,D,X
-  11,L,J
+  10,L,J
   15,L,D,X
    1,L,J
    1,L,K
@@ -180,10 +185,11 @@ console load SpringCollab2020/4-Expert/Kube
    1,L,K
    1,L,J
    1,L,K
-   2,L,J
+   1,L,J
+   2,L,K
    4,D,X
-  10,L,X
-  11,R,J
+   8,L,X
+  10,R,J
   15,R,D,X
    1,R,J
    1,R,K
@@ -194,20 +200,20 @@ console load SpringCollab2020/4-Expert/Kube
    1,R,J
    1,R,K
    1,R,J
-   7,R
-   1,R,J
-   1,R
-   1,R,J,G
-   3,R
+   5,R,K
+   8,R,D,X
+   2,R,J
+   1,J
+   2,R,J
   40
 
-#Kube_4
-   2,R
+#lvl_Kube_4
+   1,R,J
   69,R,X
   24,L,D,C
   10,L,D,X
    1,L,J
-  11,L,D
+  11,L
    8,R,D
    4,R
    1,L
@@ -268,7 +274,7 @@ console load SpringCollab2020/4-Expert/Kube
    4,R
   40
 
-#Kube_5
+#lvl_Kube_5
    5,R
    1,L
   14,R,X
@@ -307,39 +313,37 @@ console load SpringCollab2020/4-Expert/Kube
   20,R,C
   23,R,X
    4,D,C
-   8,R,J
-   4,R
+   5,L,C
    1,R,J
-   7,R,D,X
-  40
-
-#Kube_6
+   6,R
+   1,R,J
+   2,R,K
+   5,R,D,X
+   3,R,J,G
    7,R
-   2,R,J
-  22,R,D,X
-   1,R,J
-   6,R,K,G
-  14,R,D,X
-   1,R,J
-  13,R,D,X
   40
 
-#Kube_7
-   1,R
+#lvl_Kube_6
+   5,R
    4,R,J
-   4,D,X
-  10,R,X
-   3,R,J
-  10,R,K,G
-   2,L,K
-  15,U,X
-  19,R
-  15,R,X
- 137,U,C
+  21,R,D,X
+   7,R,J
+  15,R,D,X
+   2,R,J
   40
 
-#Kube_b1
-  14,R
+#lvl_Kube_7
+  16,R,J
+   4,D,X
+  10,U,X
+  17,R
+  15,R,X
+ 142,U,C
+  40
+
+#lvl_Kube_b1
+   9,R
+   2
    7,R,D,X
    1,R,J
    7,R
@@ -434,9 +438,10 @@ console load SpringCollab2020/4-Expert/Kube
   10,U,X
   40
 
-#Kube_b2
+#lvl_Kube_b2
   20,R,J
   43,L
   38,L,U,X
   15,D,C
   89,R
+#80.563
