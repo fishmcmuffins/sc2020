@@ -1,5 +1,5 @@
 #Dreamy Bluffs - Taco360 - advanced
-#5022/76.585
+#4853/74.426
 #Created by Lanvilla
 console load SpringCollab2020/3-Advanced/taco360
    1
@@ -169,10 +169,16 @@ console load SpringCollab2020/3-Advanced/taco360
    9,U,X
   10,L,J
   12,L,J
-  62,L,X
-  40,L,U,C
-  49,L,U,X
-   8,L
+  65,L,X
+  15,L,U,C
+   6,L
+  10,R
+   2,L
+   6,L,J
+   1,L
+   6,L,J
+  15,L,X
+  29,L
   14,U,X
   23,L,J
   12,L,D
