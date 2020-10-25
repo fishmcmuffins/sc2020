@@ -174,42 +174,46 @@ console load SpringCollab2020/1-Beginner/Rue
    1,L,J
    4,L
    1,L,J
-  23,L,U,G
-   3,G
-   1,U,G
-  38,G
-   1,K,G
+  23,L,G
+   3,U,G
+  35,G
+   1,L,K,G
+   1,R
    1,L,J,G
-  11,R,J
-   1,R,K,G
-   2,R
+   1,L,K,G
+   7,R,K,G
+   3,K
+   2
   40
 
 #lvl_Rue_03
-  11,R
-   5,R,J
-   6,L,J
-  28,R,U
-   4,F,45.05
-  10,F,89.03
-  67,F,99.58
-  18,F,100.74
-   7,F,111.45
-  14,F,111.46
-  17,R,D,J
+  10,L
+   5,J
+   7,R,J
+  27,R,U
+   4,F,45
+  10,F,88
+   3,F,95
+  32,F,99
+  35,F,100
+  18,F,101
+  14,F,116
+   1,F,115
+   4,R
+  20,R,D,J
    4,K,G
    1,L,K
-   7,R,K
+   5,R,K
    1,R,J,G
-   3,J
-   5,R,J
+   4,J
+   4,R,J
   11,R,K,G
    1,R
-   1,R,J,G
-   3,J
-   7,R,J
-   8,R,K,G
-   1,K
+  10,R,J,G
+   2,R
+   4,R,K,G
+   2,K
+   4,R,K
    6,R
    1,R,J
   40
@@ -488,4 +492,4 @@ console load SpringCollab2020/1-Beginner/Rue
    5,R,J
   13,R,U,X
  135
-#69.989
+#69.972
