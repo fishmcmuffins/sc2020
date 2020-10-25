@@ -1,25 +1,26 @@
-console load SpringCollab2020/0-Lobbies/1-Beginner 4296 872
+#assumes that entry stops
+#with xpos < 4208.50
+#for exit warp
+
+console load SpringCollab2020/0-Lobbies/1-Beginner 4120 832
    1
 
 #Start
   36
 
 #lvl_lobby_main
-  16,U,X
-   6,J
+   2,L,J
    4,D,X
-   5,L,X
+   3,L,X
    1,L,J
-   7,L
-  11,L,J
-  17,L,D,X
-   4,L,J
-   2,L,K,G
-   9,L
-   1,L,J
-  12,J
+   6,L
+   3,L,J
+   1,L,K,G
+  10,L,J,G
+   3,J
   24,L,U,X
-   2,J
+   1,R,J
+   2,R
    4,D,X
    6,L,X
    1,L,J
@@ -38,4 +39,4 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4296 872
    1,L,J
   15,L,D,C
    1,X
-#3.689
+#2.754
