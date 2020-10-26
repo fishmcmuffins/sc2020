@@ -34,9 +34,10 @@ console load SpringCollab2020/4-Expert/Zerex
    3,R,J,G
    9,R
    1,R,J
-  10,R
-  15,R,U,X
-   9,R
+   6,R
+   1,L,K,G
+  10,R,K
+  12,R,X
   12,R,J
   15,U,X
   18,L,J
@@ -46,9 +47,8 @@ console load SpringCollab2020/4-Expert/Zerex
 
 #lvl_Zerex_03
    7,L
-   1,L,J,G
-   4,L,K,G
-   3,L,J,G
+   5,L,J,G
+   3,L,K,G
    5,L,X
    6,L,J
    7,L
@@ -197,43 +197,34 @@ console load SpringCollab2020/4-Expert/Zerex
    4,D,C
   21,R,J
    1,R,K
-  14,R,D,X
+   4,K
+  14,L,D,X
    1,R,J
-  15,R,D,J,X
-   1,D,J
-   3,R,D,J
-   3,R,J
-   1,R,K
-   1,R
-   4,D,X
-  10,R,U,X
-   5,R,J,G
-   5,R
-   1,R,J
+   6,R,D,X
+   1,R,J,G
   12,R
    1,R,J
-  13,R,D,X
+  15,R,D,X
+   2,D
+   2,R,D
+   2,R
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   3,R,J
+  14,R,U,X
+   4,R,J,G
+   9,R
+   1,R,K
    6,R
-   1,R,J
-   1,R
-   1,R,J
-   6,R
-  15,R,X
-  35,R,D
-   7,R,J
-   5,J
-  23,R,U,X
+   2,R,J
+  15,R
    4,R,J
-   2,R,K
    5,R
-   2,R,K
-  32,R,D
-   5,R,J,G
+  10,R,J
+  18,R
+  37,R,X
+  30,R,D
+   1,R
+   1,R,G
+   4,R,J,G
    2,R
    1,R,J
   15,R
@@ -282,4 +273,4 @@ console load SpringCollab2020/4-Expert/Zerex
    3,R,K,G
   14,R,U,X
  135,D
-#36.856
+#36.329

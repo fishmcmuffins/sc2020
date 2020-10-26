@@ -1,7 +1,7 @@
 #Made by other people? and Marlin
 console load SpringCollab2020/5-Grandmaster/Bissy
    1
-
+	
 #Start
 #lvl_Bissy_00
  190
@@ -147,37 +147,37 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    5,R
    2,R,K
   12,U,X
-  33,R,J
-  11,L,U,X
+  18,R,J
+  22,J
+  15,L,U,X
    1,J
    8,L,J
-  21,L
+  21,L,D
    1
    1,L
-  16,L,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-  22,R,D,X
-  30,R,J
+  11,L,G
+  10,L,D,G
+   2,L,G
+   1,L
    1,J
-  12,R,J
-  15,R,D,X
-   3,R,J
-   8,R,K,G
+   1,K,G
+  16,R,D,X
+   2,R,J
+   6,R,D,X
+   1,L,J,G
+   5,R,J
+  28,R,D
+   4,R,J
   40
-#21.114 1042.83
 
 #lvl_Bissy_02
-  16,R
-   1,R
-   5,L
+  10,R
    4,D,X
-   5,R,U,X
-   9,L,J,G
-   8,U,X
-  42,L,J
-   1,L,D
+  14,R,X
+  12,U,C
+   7,L,J
+  30,L,U,X
+   7,L,D
   23,L,J,G
    4,D,X
   11,L,U,X

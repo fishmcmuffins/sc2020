@@ -14,62 +14,52 @@ unsafe
    4,D,C
    1,R,J
   10,R
-  15,D,X
-  12
-  12,R,J
-  15,R,U,X
-   9,R
-   5
+   6,R
+  10,L,X
+  14,R,J
+  15,U,X
+  10,R
    4,D,X
-   1,L,X
-   1,R,J
-   5,R
-  13,R,J
-  15,R,D,X
-  30,R
+  10,R,X
+  50,R,J
    4,D,X
-   4,R,X
-  22,R,J
-  15,R
+  10,R,X
+   9,R,J
+  21,R
    4,D,X
-   4,L,X
+  10,R,X
+  35,R,J
+   4,D,X
+  10,R,X
    1,R,J
-   9,R
-  16,R,J
-  15,R,D,X
-  11,R
-   3,R,D
-   1,R,J
+   4,R,K,G
    4,D,X
    6,R,U,X
   26,U,C
   14,U,X
-#4.726
   40
-
+ 
 #lvl_mineman_1
-   7
-   4,R
+  11,R
    4,D,X
-   6,R,X
-   3,R,J
-   5,R,K,G
-   8,R
+   6,R,J
+   3,R,K,G
+   7,R
    4,R,J
-   5,R
+   6,R
    4,D,X
   11,R,X
-   7,L,J
-   5,L
+   3
+   4,L,J
+   9,L
    1,L,J
-  13,L
-   1,L,D
-   9,R,D
+   4,L
+   5,R
+   6,R,D
    4,D,X
-  10,R,X
-  12,R
-  15,R,U,X
-  18,U,C
+  20,R,X
+  15,R,U,C
+  18,U,X
    3
   19,R
    4,D,X
@@ -87,10 +77,8 @@ unsafe
    4,D,X
   14,R,X
    5,R
-  15,R,U,C
-  27,R
-  15,R,U,X
-   9,R
+  42,R,U,C
+  24,R,U,X
    7,R
    2
    5,R
@@ -124,23 +112,18 @@ unsafe
    4,D,C
   10,R,C
   47,R,J
-  16,R,X
-   5,R,J
-  15,R,D,X
+  21,R,X
+  15,R,D,C
   12,D
    2,R,D
    4,D,C
-  14,R,C
-   1,R
-  15,R,U,X
+  15,R,C
+  22,R,U,X
+  15,U,C
    7,R
-  15,U,X
-   7,R
-  18,R,U,C
-   5,R
+  23,R,U,X
    4,D,C
-  11,R,C
-   2,R
+  13,R,C
   15,R,D,X
    7,R,D
    4,D,C
@@ -233,7 +216,6 @@ unsafe
   16,L
   41,U,X
   14,U,C
-#36.363
   40
 
 #lvl_mineman_3
@@ -290,7 +272,6 @@ unsafe
    4,R,J,G
    1,R,K,G
    3,R,J,G
-#46.036
   40
 
 #lvl_mineman_4
@@ -392,7 +373,6 @@ unsafe
    4,D,X
   10,L,X
   20,U,C
-#62.917
   40
 
 #lvl_mineman_5
@@ -454,7 +434,6 @@ unsafe
   10,F,1
    9,F,15
   66,F,9
-#75.140
   40
 
 #lvl_mineman_outro
@@ -464,5 +443,4 @@ unsafe
   18,F,321
   15,L,U,X
  135
-#78.897
-#end
+#78.506
