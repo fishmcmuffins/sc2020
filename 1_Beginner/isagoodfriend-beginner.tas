@@ -2,21 +2,20 @@
 
 console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1
+
 #Start
-#Isa_Intro
   88
-   1,R,J
-  14,R
+
+#lvl_Isa_Intro
    9,R,J
-  45,R,X
+  53,R,X
    4,R,J
   16,R,K
-   1,R,J,G
-   3,R
+   4,R,J,G
    8,R,D,X
   40
 
-#Isa_00
+#lvl_Isa_00
 #awkward and dumb
 #but you need to fall a bit here
 #to get cboost
@@ -41,7 +40,7 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    2,R
   40
 
-#Isa_01
+#lvl_Isa_01
    7,R
   26,R,X
    4,R,J
@@ -55,19 +54,17 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    2,R,J
    3,R,K,G
    8,R
-  15,R,D,X
-   5,R,D
+  20,R,D,X
   11,R,K,G
   15,R
    1,R,J
   14,R
   40
 
-#Isa_02
+#lvl_Isa_02
    2,R,D,J
    7,R
-  15,R,U,X
-   7,R
+  22,R,U,X
    4,D,C
   30,R,U,C
    4,R,J
@@ -88,11 +85,11 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
   12,R,J
   40
 
-#Isa_03
+#lvl_Isa_03
    4,R
    7,L
-  12,U,X
-   9,R
+  16,U,X
+   5,R
    1,R,J,G
    1,R,K,G
   14,R
@@ -101,38 +98,38 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
   29,R,X
    4,R,J
    1,R,K
-  10,R,D
-   1,D
-   9,R,D
+  10,R
+   1
+   9,R
   14,R,U,X
-  28,R,J,G
-  15,U,X
-   6
-   2,L
+  27,R,J,G
+  22,U,X
   40
 
-#Isa_04
+#lvl_Isa_04
    2,R
   12,R,J
    1,R,K,G
-  19,R,J,G
-  19,U,X
-   6,L
+   2,R,J,G
+  17,R,K,G
+  22,U,X
+   2,L
    1,L,J,G
   25,L,K,G
   29,U,X
   43
 
-#Isa_Exit
+#lvl_Isa_Exit
   11,R,J,G
   18,R,U,X
   26,R,U,C
    4,R,J
    4,D,X
   10,R,J
-   9,R,D
+   9,R
    1,L
   53,L,D,X
    4,L,J
    1,L,K
   88,L,U,X
+#21.454
