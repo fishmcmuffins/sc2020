@@ -21,8 +21,8 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   14,U,X
   23,L,J
    3,L
-   7,L,D,X
-  21,R
+   6,L,X
+  20,R
    9,U,X
   27,R,U
   70,F,
@@ -92,12 +92,12 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    3,R
    1,R,J,G
    1,R,K,G
-   3,R
-   1,R
-   7,R,D,X
+   4,R
+   4,D,X
+   4,R
    1,R,J
-   9,R
-  21,R,D,J
+   7,R
+  20,R,D,J
   14,R,U,X
   12,L
   12,U,X
@@ -430,3 +430,4 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    8,L,J
   14,U,X
  135,L,D
+#64.362

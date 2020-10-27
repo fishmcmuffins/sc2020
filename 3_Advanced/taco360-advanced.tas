@@ -1,18 +1,22 @@
-#Dreamy Bluffs - Taco360 - advanced
-#4853/74.426
 #Created by Lanvilla
+
 console load SpringCollab2020/3-Advanced/taco360
    1
 
 #Start
-#taco360_00
  190
-  10,R,D,X
-   3,R,J
-   9,R,K,G
-   5,R,J,G
-   3,R,K,G
-   2,R
+
+#lvl_taco360_00
+   4,D,X
+   6,R,X
+   2,R,J
+   8,R,K,G
+   2,K
+   3,R,J,G
+   2,J
+   2,R,K,G
+   1,K
+   1
    5,L,U,X
   27,L,U
   33,F,266
@@ -21,7 +25,7 @@ console load SpringCollab2020/3-Advanced/taco360
   18,U,X
   43
 
-#taco360_01
+#lvl_taco360_01
    5,R,J,G
    6,R
    4,D,X
@@ -35,7 +39,7 @@ console load SpringCollab2020/3-Advanced/taco360
   10,R,D,X
    1,R,J
    2,R
-   2,L
+   2
   12,R,U,X
   31,R,D
    8,F,90
@@ -77,7 +81,7 @@ console load SpringCollab2020/3-Advanced/taco360
   10,R
   40
 
-#taco360_02
+#lvl_taco360_02
    1,R
    1,R,J
    8,R,D,X
@@ -146,19 +150,19 @@ console load SpringCollab2020/3-Advanced/taco360
    1,L,J
   40
 
-#taco360_03
+#lvl_taco360_03
    2,L
   14,L,D,X
   10,L,J
    9,L
   15,L,U,X
   31,L,D
-  17,L,J
+  17,L
   40,L,X
    6,L,J
    4,D,X
-  30,L,K
-   4,L,D
+  32,L,K
+   2,L,D
    4,L
   10,L,D
    3,D
@@ -167,21 +171,18 @@ console load SpringCollab2020/3-Advanced/taco360
   10,L,J
    6,L
    9,U,X
-  10,L,J
-  12,L,J
+  22,L,J
   65,L,X
-  15,L,U,C
-   6,L
+  21,L,U,C
   10,R
    2,L
    6,L,J
    1,L
    6,L,J
-  15,L,X
-  29,L
-  14,U,X
-  23,L,J
-  12,L,D
+  36,L,X
+   8,L
+  14,U,C
+  35,L
    5,D
    5,R,D
    1,D
@@ -190,7 +191,7 @@ console load SpringCollab2020/3-Advanced/taco360
    1,L
   15,L,J
    7,U,X
-  36,L,J
+  36,L
   40,L,X
    8,L,J
  139,L,U,K,G
@@ -227,7 +228,7 @@ console load SpringCollab2020/3-Advanced/taco360
    5,L,J
   43
 
-#taco360_04
+#lvl_taco360_04
   14,L,J
   13,U,X
   25,L,J
@@ -291,9 +292,8 @@ console load SpringCollab2020/3-Advanced/taco360
    9,R
   13,R,D,X
   33,R,J
-  20,R,U,X
-  13,R,U,X
-  18,J
+  33,R,U,X
+  18
   18,U,X
   28,U,C
   34,L,X
@@ -359,8 +359,8 @@ console load SpringCollab2020/3-Advanced/taco360
    9,R,D,X
   40
 
-#taco360_05
-   5,R
+#lvl_taco360_05
+   5,R,D,X
    1,R,J
   14,R,D,X
    3,R,J
@@ -373,8 +373,8 @@ console load SpringCollab2020/3-Advanced/taco360
   12,R,D,X
   40
 
-#taco360_06
-   2,R
+#lvl_taco360_06
+   2,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
@@ -403,5 +403,6 @@ console load SpringCollab2020/3-Advanced/taco360
   15,R,D,X
    8,R
   10,R,J
-  14,R,U,X
- 131,L,D
+  10,R,U,X
+ 135,L,D
+#74.409
