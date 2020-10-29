@@ -15,14 +15,15 @@ console load SpringCollab2020/5-Grandmaster/dog
    4,D,C
   11,R,C
   15,R,U,X
+  14,U,C
+   6,L,U,J
+  15,U,X
   15,U,C
   15,U,X
-  16,U,C
-  16,U,X
-  16,U,C
-  16,U,X
-  16,U,C
-  16,U,X
+  15,U,C
+  15,U,X
+  15,U,C
+  15,U,X
   15,R,C
    1,R,J
    1,R,K
@@ -32,12 +33,10 @@ console load SpringCollab2020/5-Grandmaster/dog
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   5,R,J
+   3,R,J
    4,R
-   1,R,J
-   6,R
+   1,R,K,G
+  11,R
    2,R,J
   40
 
@@ -45,14 +44,12 @@ console load SpringCollab2020/5-Grandmaster/dog
    1,R,J
   15,R,D,X
    8,R
-  14,R,J
-   4,J
-   1,R,J
+  18,R,J
    4,D,X
   10,R,X
    9,R,J
   33,R,J,G
-   3,J,G
+   2,J,G
    1,R,J,G
   13,U,X
    4,R,J
@@ -81,14 +78,16 @@ console load SpringCollab2020/5-Grandmaster/dog
   32,R,D,G
    1,R
   13,R,D
-   8,R
-   9,U,X
-  29,L,J
+   4,R
+   4
   10,U,X
-  13,R,J
-   1,R
-  15,R,J
-   9,R
+  26,L,J
+   3,J
+   9,U,X
+  14,R,J
+   8,R
+   1,R,J
+  14,R
    4,D,X
    3,R,J
    6,R,K,G
@@ -261,8 +260,8 @@ console load SpringCollab2020/5-Grandmaster/dog
    6,R
    1,D,J
    5,R,D,J
-   7,R,D
-   8,L,D
+   7,R
+   8
    4,D,X
   11,R,X
   22,L,D,G
@@ -277,23 +276,20 @@ console load SpringCollab2020/5-Grandmaster/dog
   16,R,X
   21,R,C
    4,D,X
-  11,R,X
-  17,R,D
-  16,R,X
-  22,R,U,C
-  15,U,X
-  18,R,C
-  14,R
-   4,D,X
-  21,R,X
-   3,L
+  28,R,X
+  16,R,C
+  22,R,U,X
+  15,U,C
+  32,R,X
+   4,D,C
+  21,R,C
+   3
   18,U,C
   16,R
    4,D,X
   12,R,X
    4,D,C
-  11,R,C
-  27,R
+  38,R,C
    8,R,D
   14,R,D,X
    1,R,J
@@ -302,8 +298,8 @@ console load SpringCollab2020/5-Grandmaster/dog
    1
    1,J
    1,R,J
-   9,L,J
-   2,L
+   9,J
+   2
   15,R,U,X
   31,R,D
   15,R,X
@@ -343,9 +339,8 @@ console load SpringCollab2020/5-Grandmaster/dog
   21,R,U,G
    1,L
   12,R,J
-  15,R,X
-   8,R
-   4,D,X
+  23,R,X
+   4,D,C
    8,R,J
    1,R
    1,R,J
@@ -398,4 +393,4 @@ console load SpringCollab2020/5-Grandmaster/dog
    9,L,K
   16,L,U,X
  135,L,D
-#70.890
+#70.839

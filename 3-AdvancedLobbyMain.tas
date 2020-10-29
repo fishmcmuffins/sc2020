@@ -38,12 +38,12 @@ Read,EnterLevel
 Read,3_Advanced\thegur90-Advanced,Start
 Read,ExitLevel
 
-Read,3_Advanced_Lobby\thegur90-_sleepie,Start
+Read,3_Advanced_Lobby\thegur90-sleepie,Start
 Read,EnterLevel
-Read,3_Advanced\_sleepie-Advanced,Start
+Read,3_Advanced\sleepie-Advanced,Start
 Read,ExitLevel
 
-Read,3_Advanced_Lobby\_sleepie-taco360,Start
+Read,3_Advanced_Lobby\sleepie-taco360,Start
 Read,EnterLevel
 Read,3_Advanced\taco360-Advanced,Start
 Read,ExitLevel
