@@ -18,41 +18,27 @@ console load SpringCollab2020/1-Beginner/Snas
   12,R
    2,R,J
    6,R,K,G
-   2,R
-   6,R,D,X
+   7,R,D,X
    1,R,J,G
-  11,R
-   1,R,J
+   2,R
+   2,R,J,G
+  10,R
   40
 
 #lvl_snas01
-   6,R,J
-   1,R
-   2
-   4,R
-   1,R,J
-  10,R
-#this upright demo is so dumb
-#https://www.desmos.com/calculator/lvkqyezfgo
-#https://media.discordapp.net/attachments/729255069668737065/734161009622908968/image0.jpg
+   2,R
+   2,R,J
+   3,R
+   3
+   1,R,K
+   9,R
    4,D,X
-   9,R,U,X
-   1,L,K,G
-   5,R,K,G
-   5,L,K
-   1,L
-   7,L,K
-  34,L,D
-   8,R,J
-   5,R
-   1,R,J
-   4,R
+  10,R,U,X
+   6,L,K,G
+  16,R,K,G
+  27,R,D
    4,D,X
-  11,R,X
-  12,R
-   3,R,J
-   4,D,X
-   9,R,X
+   4,R,X
    1,R,J
   40
 
@@ -226,4 +212,4 @@ console load SpringCollab2020/1-Beginner/Snas
   12
  122,D
 
-#0:34.935
+#34.034
