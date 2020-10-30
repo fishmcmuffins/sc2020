@@ -7,11 +7,9 @@ console load SpringCollab2020/4-Expert/ChaotiC
  190
 
 #lvl_ChaotiC_00
-   8,R,U,X
-   1,R,J,G
-   3,R
-  10
-   6,L
+   7,R,J
+   5,R,X
+  12,R
   13,R,U,X
    1,L
    1,J,G
@@ -48,35 +46,44 @@ console load SpringCollab2020/4-Expert/ChaotiC
   14,R,D,X
    1,R,J
   14,R,D,X
-   7,R,J
-  11,R
+   6,R,J
+   4,R
+   4,R,J
+   4,R
    5,R,J,G
    8,R
-   8,R,J
+   4,R,J
+   4,R
    4,D,X
   11,R,U,X
-   3,R
-   5,L
-   2,R
-   1,L,J,G
-   1,L,J
+   4,R
+   2,L
+   1,R
+   2,L
+   2,L,J,G
    1,R,J
    1,L,J
    1,R,J
    1,L,J
    1,R,J
    1,L,J
-   1,K
-  25,L,K
-   3,R,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+  11,K
+   1,R,K
    5,R
-   3,R,J
-   2,R
-  10,R,D,X
-  11,L,J
+   1,R,J,G
+   7,R
+   3
+   3,R
+  10,L,D,X
+   9,L,J
    1,L
-  10,L,J
-  10,L,D
+   3,L,J
+  12,L
+   1,L,D
    9,L,X
    8,L,J,G
   15,L,G
@@ -139,6 +146,10 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,L,J,G
   15,R,K
    3,R
+#dont need to dcb here
+#but too lazy to
+#re-sync the spiked
+#ceiling pop
    1,R,K,G
    1,R,J,G
   15,R
@@ -147,7 +158,7 @@ console load SpringCollab2020/4-Expert/ChaotiC
    6,R,J
   16,U,X
   13,L,J
-   4,L
+   4
    1,R
    1
    1,R
@@ -164,35 +175,62 @@ console load SpringCollab2020/4-Expert/ChaotiC
   14,R
   15,L,D
   15,L,X
-  37,L,G
-   1,J,G
-   3,R,K,G
-  25,R
-   6,R,X
-   8,R,J,G
-  18,R
-   3,R,J,G
-   1,J
-   3,R,K,G
-   1,K
-   5,R,J,G
-   3,R
-  16,D
-   4,D,X
-  26,R,X
-   9,D
-   1,J
-   8
-   3,R
-   4
-   1,R,J,G
-   7,R,K,G
-  15,R
+   2,L,G
+   1,L
+   7
+   2,L
+#using the cool tech
+#from line 100 we can
+#crouchjump on these
+#spikes to get ontop
+#the block super early
    1
-  17,U,X
-   6,R
+   1,R
+   1,D,J
+   1,L
+   7,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+   1,J
+   2,R
+   3
+   2,R
+   4,D,X
+   1,R,J
+   8,R
+  13,R
+   5,R,X
+   7,R,J,G
+   5,R
+   1,R,J
+  12,R
+   3,R,J,G
+   1,K,G
+   3,R,K
    5,R,J,G
-  20,R,D
+   3,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J
+   9,R
+   4,D,X
+  37,R,X
+   4,D,C
+  11,R,U,C
+   1,L,J,G
+  12,K
+   1,R,K
+   1,K
+   4,R,K
+   4,R,J,G
+   5,R
+   2,R,J
+  13,R,D
    4,D,X
   11,R,X
   26,R,D
@@ -261,12 +299,12 @@ console load SpringCollab2020/4-Expert/ChaotiC
   12
   28,R
    8,L,D
-   1,R,D
+   1,R
    1
    2,R
    1,L,J,G
    5,R,J
-   5,R,K
+   5,R,K,G
    4,D,X
    6,L,X
    3,R,J
@@ -284,7 +322,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
   40
 
 #lvl_Chaotic_03
-  14,L,D
+  12
+   2,D
   18,R,D
    4,D,X
   17,R,U,X
@@ -315,8 +354,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,R,J,G
    5,R
    1,R,J
-  46,R
-   1,R,D
+  10,R
+  37,R,D
   24,R,G
    1,R,J,G
    4,D,X
@@ -334,8 +373,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
   20,D,X
   15,L
    4,D,X
-  17,L,X
-  13,L
+  11,L,X
+  19,L
   13,L,D,X
    2,L,J,G
   50,L,D
@@ -346,7 +385,7 @@ console load SpringCollab2020/4-Expert/ChaotiC
    4,L
   11,L,D,X
    7,L,J
-   8,R,J
+   8,J
   14,L,U,X
    6,L
   11,L,J,G
@@ -429,7 +468,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
   40
 
 #lvl_ChaotiC_05
-  11,R,J
+  10,R,J
+   1,R
    4,D,X
    1,R,X
    1,R,J
@@ -451,7 +491,7 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,R,J,G
    8,R
    1,R,J
-   4,L
+   4
    2,R,D
   15,D
    1,R,D
@@ -472,8 +512,7 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,R,J
    7,R
    7,R,J
-   4,J
-   4
+   8,J
   15,U,X
    3,R
    1,R,J,G
@@ -485,30 +524,36 @@ console load SpringCollab2020/4-Expert/ChaotiC
    9,R
    4,D,X
   11,R,U,X
-   8,L
-  15,L,U,X
+   7,L
+  14,L,U,X
    2,R
-   7,L,U,X
-  36,R
-   4,R,D
+   4,D,X
+   3,L,U,X
+  40,R,D
   12,D
-  18,R,D
-  20,R,X
-  11,R,J
-  10
-   3
+  17,R,D
+  21,R,X
+  10,R,J
+   1
+   5,L
+   1,L,J
+   1,L
+   1,R
+   1,L
+   1,R
+   2,L
    4,D,X
   11,U,X
    1,R
    9,R,J,G
-  18,R
-  12,R,D
+   9,R
+   1,R,J
+   5,R
+  15,R,D
    5,D
    5,R,D
-   1,L,D
-   1,D
-   4,D
-   1,L
+   6,D
+   1
    5,R,J
    2
    1,R
@@ -601,9 +646,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
    5,R
    1,R,J
   29,R,D
-   2,L
-   1
-   3,L
+   5
+   1,L
    4,R
    2,L
    1
@@ -630,7 +674,6 @@ console load SpringCollab2020/4-Expert/ChaotiC
    4,D,X
   10,U,X
   14,L,J
-   4,X
-  17,R,X
+  21,R,X
  118
-#71.587
+#70.601
