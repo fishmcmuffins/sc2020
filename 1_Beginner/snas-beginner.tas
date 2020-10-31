@@ -38,38 +38,45 @@ console load SpringCollab2020/1-Beginner/Snas
    4,D,X
   10,R,U,X
    1,L,J,G
-  19,R,J
-  28,R,D
-   4,D,X
-   3,R,X
+  18,R,J
+   3,R
    1,R,J
+  19,R,D
+   2,R
+   3,R,D
+   1,R
+   4,D,X
+   1,R,J
+   2,R
   40
 
 #lvl_snas02
-   7,R
-   5,R,D
-   1,R,J
+   4,R
+   2,R,J
    5,R
-   4,R,J
-   5,R
+  16,R,K
    4,D,X
   10,R,U,X
-  11,R,J,G
+  10,R,J,G
    1,K
-   7,R,J,G
+   8,R,J,G
   28,R,X
-  12,D
-  20,L,D
-   6,L
-  18,L,X
-  14,G
-   6,J,G
-   1,R,J
-   1,R,K
-  12,R,J
-   5,R
-  15,R,X
-  20,R,D
+  11,D
+   8,L,D
+   1,D
+   1,L,D
+   1,D
+   8,L,D
+   4,L
+   1,L,D
+  12,L
+   1
+  18,U,X
+   4,L
+   1
+  11,R,J
+  15,R,U,X
+  32,R,D
   53,R,X
   14,R,D,C
    1,R,J
@@ -79,98 +86,101 @@ console load SpringCollab2020/1-Beginner/Snas
   40
 
 #lvl_snas03
-   4,J
+   1,R,J
+   3,J
   14,U,X
    1,R,J
-  14,R
+  13,R
   18,R,U,X
-  14,R,U,C
-   4,L
+  15,R,U,C
+   4,R
   15,R,U,X
   47,R,D
-  16,R,X
-  20,L,D
-  15,L,X
-  26,D
-   7,R,D
-   1,R
+  15,R,X
+   8,R,D
+  12,L,D
    4,D,X
-   1,L,X
-   1,R,J
-   6,R
+  11,L,X
+  35,R,D
+   4,D,X
+   2,R,X
    3,R,J
-   5,R,D,X
-   1,R,J,G
-  10,R
+   2,R,K,G
+   9,R
   40
 
 #lvl_snas04
-   1,R
-   8,R,J
-   3,J
-  10
-  19,D
+   3,R
+  12,R,J
+   8,R
+   1,R,K
+   5,R,D
+  16,D
    4,D,X
    1,L,X
   25,R,C
   25,U,X
    1,L,G
    4,K,G
-   1,J
-   2,R
+   1
+   1,R
   15,L,X
    4,D,C
-   9,L,C
-   9,R,J
-  26,R,D,X
-   2,R,J
+  10,L,C
+   8,R,J
+  19,R,D,X
    1
+   7,R
+   3,R,D,J
    5,R,D,X
    1,R,K,G
-  11,R
+   2,R
+   1
+   8,R
    3,R,J
   23,R,D,X
-   3,R,J
+   1,R,J
    5,R
-   2,R,J
+   3,R,K
    4,R
   13,R,U,X
-   1,R,J,G
+   2,R,J,G
+   1,R,K,G
    7,R
   40
 
 #lvl_snas05
-   3,R
+   2,R
    4,R,D,J
    5,R
-   6,R,J
+   5,R,K
    4,D,X
   10,R,X
-  46,U,C
+  45,U,C
   20,R,U,X
-  26,L
+  27,L
    4,D,X
   11,L,X
-  21,L,G
+  20,L,G
    8,J,G
-  11,K,G
-   3
-   7,L
-   3,L,J
-  10,L
+   1,L,K,G
+   8,K
+   1,R,K
+   1,K
+   1,R,K
+   1
+  20,L
   18,L,K
   40,R,X
   13,U,C
   38,R,U,X
   19,L
-   4,D,X
-  11,U,X
-  27,L,J
-   6,J
-   2
+  14,U,X
+  29,L
+   4
    4,D,X
   14,U,X
-   2,R
+   1,R
   15,U,X
   14,L
   27,R,X
@@ -182,28 +192,26 @@ console load SpringCollab2020/1-Beginner/Snas
 #lvl_snas06
   69
    4,D,X
-   2,R,X
    1,R,J
-   7,R
-   6,R,J
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+   6,J
   14,U,X
-   8,L,J
-   7,L
-   1,L,J,G
-   7,L
-   7,L,J
-   4,D,X
-  10,U,X
-   2,L,J
+   9,L,J
+  11,L
+   3,L,J
+  15,U,X
+   1,L,J
+   2,R,J
    1,R,K,G
-   3,R,J,G
-   7,R
-   4,R,X
-   5,R,J
-   2,R,K,G
-   4,R
-   2,L
-  17
+   1,R,J,G
+   5,R,K,G
+   7,R,J,G
+   2,R
+   5,L
+  16
   15,L,U,X
  135,D
-#32.793
+#32.402
