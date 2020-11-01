@@ -1,9 +1,10 @@
 console load SpringCollab2020/1-Beginner/Flagpole1up
    1
 
-#lvl_Flagpole1up_00_Intro
 #Start
   84
+
+#lvl_Flagpole1up_00_Intro
    4,D,X
    1,R,J
    8
@@ -342,10 +343,9 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   11,R,J,G
   12,R
   12,L
-   1
   18,L,D,J
   15,L,D,X
-   6,L,D
+   5,L,D
    4,D,X
    1,L,J
    7,L
@@ -356,7 +356,6 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   11,L,J
    2,L
    9
-   1,R
   15,U,C
    8,R
    2
@@ -510,4 +509,4 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   11,L,J
   17,R,K
   15,L,J
-#50.558
+#50.507

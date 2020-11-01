@@ -1,4 +1,5 @@
 #By Gliperal
+
 console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    1
 
@@ -31,18 +32,26 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    1,L,K
    1,R,K
    1,L,K
-  10,L,J,G
-   3,L
-   2,L,K,G
-   1,R,J
-  31,R,K
-  34,R,X
-  25,R,D
-  12,D
-  22,R,D
+  14,L,J,G
+   1,J
+   1,K
+   2,J,G
+  27,R,J
+  15,R,X
+  18,R
+   8,R,D
+   9,D
+  17,R,D
+   4,D
+  12,R,D
+   1,D
+   5,R,D
    6,R
+   5,R,D
   15,R,U,X
-  16,R
+   6,R
+   1
+   9,R
    1,R,J,G
    6,R
    2,R,J
@@ -61,12 +70,14 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   20,J
   12,L,K,G
   12,L,J,G
-   7,L,K,G
+   1,L,K,G
+   6,R,K,G
    4,D,X
    6,L,X
-  18,R,J
-   4,D,X
-  13,U,X
+  11,R,J
+   7,J
+  15,U,X
+   2
    7,L,J
   40
 
@@ -108,20 +119,16 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   14,L,D,X
    1,L,J
    2,L
-   1,L,J
-  10,L
-  15,R,D,X
-   8,R,D
-   1,R
-   4,R,D
+   7,R
+  15,D,X
+  11,R,D
    4,D,X
    1,R,J
-   6,R
-   1,R,J
-   5,R
-   4,R,J
-   2,R,K
-   7,K
+   7,R
+   3,R,J
+  11,R
+   5,R,K
+   4,K
    4,D,X
    5,R,U,X
   40
@@ -152,29 +159,30 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   13,J
   10,K,G
   15,R,D,X
-   8,L,D
+   7,L,D
    7,R,D
   15,D,X
-   3,J
-   9,R,J
-  14,R,U,X
-   6,J,G
-   1,L,J
-  12,R,K,G
+   8,L,J
+   1,R,J
+   4,D,X
+   8,U,X
+  11,R,J
+   8,R
+   1,R,J
    7,R
    4,D,X
    2,R,X
    1,R,J
    7,R
    1,R,J
-  10,R,D,X
+  11,R,D,X
   40
 
 #lvl_cat-04
-   2,R,D,X
-   3,R,J
+   1,R,D,X
+   4,R,J
   31,R,D,X
-   3,R,J
+   4,R,J
   21,U,X
    5,L,U,C
    6,R,J
@@ -287,3 +295,4 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   14,L,U,X
  106,L,D
   29,R,D,J
+#41.208

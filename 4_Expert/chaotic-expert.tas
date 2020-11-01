@@ -29,16 +29,16 @@ console load SpringCollab2020/4-Expert/ChaotiC
    2,R,K,G
    7,R
    4,D,X
-   3,R
+   3,R,X
    1,R,J
   12,R
    1,R,J
    4,D,X
-   6,R,U
+   6,R,U,X
   40
 
 #lvl_chaotiC_01
-   3,R
+   3,R,U,X
    7,L,J,G
    4,R,J
    1,R,K,G
@@ -56,6 +56,11 @@ console load SpringCollab2020/4-Expert/ChaotiC
    4,R
    4,D,X
   11,R,U,X
+#it might not look like
+#much, but I believe this
+#spike wallclimb is one of
+#the most precise things
+#done in a celeste tas
    4,R
    2,L
    1,R
@@ -141,32 +146,28 @@ console load SpringCollab2020/4-Expert/ChaotiC
   15,U,X
    4,R
   19,L,J
-   1,L,K,G
-   1,L
-   1,L,J,G
-  15,R,K
-   3,R
-#dont need to dcb here
-#but too lazy to
-#re-sync the spiked
-#ceiling pop
-   1,R,K,G
+   3,L,K,G
+   1,J
+   2,K,G
+  10,R,K
+   4,R
    1,R,J,G
   15,R
   10,D
   15,R,D
    6,R,J
-  16,U,X
+  15,U,X
+   1,R
   13,L,J
-   4
-   1,R
-   1
-   1,R
-   1
-  16,R
-   2
+   2,R
+  10
   15,R,D
-   3,R
+   1,D
+   4,R,D
+   2,L,D
+   3,R,D
+   3,L,D
+   4,R
    1,R,G
    6,R,J,G
    8,R
@@ -179,11 +180,6 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,L
    7
    2,L
-#using the cool tech
-#from line 100 we can
-#crouchjump on these
-#spikes to get ontop
-#the block super early
    1
    1,R
    1,D,J
@@ -676,4 +672,4 @@ console load SpringCollab2020/4-Expert/ChaotiC
   14,L,J
   21,R,X
  118
-#70.601
+#70.567

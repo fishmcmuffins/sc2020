@@ -1061,14 +1061,18 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,L,J
    4,D,X
   10,U,X
+#if desync, use these
+#inputs to bubble
+#   1,L
+#   3,L,J
+#   1,L,K,G
+#   3,L,J,G
+#  10,L,K,G
    4,L,J
    1,L,K,G
    2,L,J,G
   10,L,K,G
   14,U,X
-# if desync change
-# below two lines
-# to 18rj 15ux
   17,R,J
   14,U,X
   25,R,J
@@ -1106,4 +1110,4 @@ console load SpringCollab2020/2-Intermediate/aridai
    5,L
   45,L,D,X
    1,L,J
-#2:07.976
+#127.976

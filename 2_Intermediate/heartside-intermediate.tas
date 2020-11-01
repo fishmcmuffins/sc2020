@@ -555,13 +555,13 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   89,R,J
   15,L,J
   14,R,U,X
-   3,R,J,G
+   1,R,J,G
+   6,R,U,X
   40
 
 #lvl_int_heart_04
-   1,R,J
-   8,R,K,G
-   8,L,U,X
+   8,R,U,X
+   4,L,J
 #flag2
   31,U,C
   15,R,U,X
@@ -899,4 +899,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    2,R,J
   14,R,U,X
  135,R,D
-#152.473
+#152.456

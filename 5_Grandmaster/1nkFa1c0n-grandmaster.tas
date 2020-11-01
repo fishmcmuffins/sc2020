@@ -1,11 +1,12 @@
 #By Gliperal
-#Restart
+
 console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    1
 
 #Start
-#1nkFa1c0n_00
  190
+
+#lvl_1nkFa1c0n_00
    4,D,X
    1,L,X
    1,R,J
@@ -29,7 +30,7 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    2,R
   40
 
-#1nkFa1c0n_01
+#lvl_1nkFa1c0n_01
   31,R,G
    1,R,J,G
   14,R,G
@@ -121,7 +122,7 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   16,R,G
   40
 
-# 1nkFa1c0n_02
+#lvl_1nkFa1c0n_02
    1,R,J,G
   20,R,G
    1,R
@@ -250,12 +251,11 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    7,R,X
    1,R,J
    7,R
-   2,R,J
+   1,R,J
   13,R
   13,R,U,X
    1,L
-   1,J,G
-   3,J
+   4,J,G
    9,R,J
    4,D,X
   10,L,X
@@ -270,7 +270,7 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    2,R,J,G
   40
 
-#1nkFa1c0n_03
+#lvl_1nkFa1c0n_03
    1,J,G
    4,G
    1,L
@@ -301,8 +301,9 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    6,L,J,G
    1,L,J
   13,L,U,X
-  21,G
-   6,L
+  20,G
+   1,L,G
+   5,L
   15,L,X
    4,D,C
   10,L,C
@@ -384,7 +385,7 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   12,R,J,G
   40
 
-#1nkFa1c0n_04
+#lvl_1nkFa1c0n_04
    5,R,J,G
    1,R
   11,J
@@ -473,7 +474,7 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   24,R,G
   40
 
-#1nkFa1c0n_end
+#lvl_1nkFa1c0n_end
    6,R,G
    1,L
    5,R
@@ -487,3 +488,4 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   10,R,J
    9,U,X
  135
+#74.664
