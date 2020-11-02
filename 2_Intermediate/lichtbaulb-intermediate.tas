@@ -4,31 +4,34 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1
 
 #Start
- 191
+ 190
 
 #level_1a start
    2,L,J
   19,L,G
-  19,L,U,G
-   9,L,G
-   1,R,D
-  10,R,D
+   3,L,U,G
+   5,L,K,G
+   2,L,G
+   4,J,G
+   2
+   2,R,K
+  13,R,D
+   6,D
    4,D,X
    3,R,U,X
    1,L,J,G
-  12,R,J
-   7,L
+  16,R,J
    1,R,K,G
   39,D
   40
 
 #lvl_1b
    1,R,D
-  13,R,D,X
-   1,R,J
-   1,R
+   3,D
   14,R,D,X
-  42,R
+   1,R,J
+  15,R,D,X
+  37,R
    4,D,X
    6,R,X
    1,L,J
@@ -220,3 +223,4 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
  117,L,D
    1,D,X
   17,L,U,X
+#32.776
