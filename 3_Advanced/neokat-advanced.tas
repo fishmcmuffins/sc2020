@@ -19,8 +19,8 @@ console load SpringCollab2020/3-Advanced/NeoKat
    1,R,K,G
    1,R
   15,D,C
-  18,R,J
-  13,U,X
+  15,R,J
+  15,U,X
   40
 
 #lvl_2
@@ -29,25 +29,23 @@ console load SpringCollab2020/3-Advanced/NeoKat
    7,R,J,G
    4,R
   12,L,K
-   1,L,J,G
-   3,R,J
-   3,L,J
-   1,L,K,G
-   1,L,J,G
-  11,L
-  14,L,X
-  44,L,J
-  15,L,U,X
-  25,L
-   2
-  10,L,J,G
-   1,L,K,G
-   3,R,K
-   2,L,K
-   7,L
+   9,L,J,G
+   5,L
+   7
+   7,R
+   4,D,X
+   1,L,J
+   6,L
+  28,L,J
+   2,L
+   4,D,X
+  11,L,U,X
+  28,L
+   8,L,K,G
+   8,L
    1,J
-  14,L,J
-   6,L,K,G
+  13,L,J
+   9,L,K,G
   13,L,X
   53,R,J
   25,R,U,X
@@ -62,16 +60,19 @@ console load SpringCollab2020/3-Advanced/NeoKat
   13,R,X
   24,L,J
   14,L,X
-  38,L,J
+  24,L,J
+   8,L
   14,L,X
-  28,R,J
+  24,R,J
   17,R,U,X
-  13,R,J,G
-  13,R,K,G
-   5,J
-   9,K
-   8,J
-   3,L,K
+  12,R,J,G
+  12,R,K,G
+   4,J,G
+   1,L,J
+   5,L,K
+  10,J
+   8,K
+   3,L,J
   40
 
 #lvl_3
@@ -371,3 +372,4 @@ console load SpringCollab2020/3-Advanced/NeoKat
   10,L
   29,L,D,X
   70,L,J
+#45.458
