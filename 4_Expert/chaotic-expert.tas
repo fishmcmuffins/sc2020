@@ -56,11 +56,7 @@ console load SpringCollab2020/4-Expert/ChaotiC
    4,R
    4,D,X
   11,R,U,X
-#it might not look like
-#much, but I believe this
-#spike wallclimb is one of
-#the most precise things
-#done in a celeste tas
+#very precise (?)
    4,R
    2,L
    1,R
@@ -95,16 +91,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,J,G
    8
    6,L,G
-#super cool fact
-#holding right while
-#being pushed to
-#the right increases
-#y velocity by 60
-#meaning you can get
-#dragged into spikes
-#and jump off them to
-#regain stamina and
-#faster speed from 1,R,J
+#holding right here
+#adds +60 y-velocity
    9,R,D
    1,R,J
    1,L,K,G
@@ -164,9 +152,9 @@ console load SpringCollab2020/4-Expert/ChaotiC
   15,R,D
    1,D
    4,R,D
-   2,L,D
+   2,D
    3,R,D
-   3,L,D
+   3,D
    4,R
    1,R,G
    6,R,J,G
@@ -232,48 +220,56 @@ console load SpringCollab2020/4-Expert/ChaotiC
   26,R,D
    9,R,J
    8,R
-   5,R,J
+   3,R,J
+   2,R
   14,R,U,X
    1,R,J,G
-   2,R
-  11
-  14,R,J
-  12,R
-   1,R,J
-  10,R
-   9,L,D
-  15,R,D
-   3,L,D
+   1,K,G
+   9,R
+   1,L
+   4
+   6,L,J
+  10,R,D,X
+  10,R,J
+   8
+  19,R,D
    4,D,X
   11,R,U,X
    3,L,J,G
    3,R,J
    1,R,K,G
-  34,R,D
-   3,R,J
-  15,U,X
-  12,R
+  18,R
+   2,R,D
+   8,D
+   4,R,D
+   2,D
    1,R,J,G
    7
-   6,R
+   4,J
+   4
+   2,R
+   1
+#this part doesnt
+#feel very optimized
+#but oh well
+  10,L,D,X
+   2,R,J
+   5,R
+   2,R,D
+   1,R,J
+   4,J
   11,R,J
-   1
-  24,R
-   1,R,J,G
-   2,R,K,G
-  13,R
-   2
-   8,R,J
-  26,R
-   1,R,G
-  23,R,J,G
-   4,D,X
-  19,R,X
-   1,R,J,G
-   6,R
-   1
-   2,J
-   8,L,J
+  24,R,K,G
+  24,R,D
+   3,R
+   1,R,D
+  14,R,X
+   1,J,G
+   7
+   2,L
+   1,L,J
+   4,J
+   5,L,J
   14,R,U,X
    1,R,J,G
   16
@@ -282,56 +278,77 @@ console load SpringCollab2020/4-Expert/ChaotiC
 
 #lvl_ChaotiC_02
    4,D,X
+   2,R,X
    1,R,J
    7,R
-   3,R,J
+   1,R,J
   12,R,D,X
-   9,R,J
+   8,R,J
    6,R
    2,R,J
-  20,R,X
-   2,L,J
-   8,L
-  12
-  28,R
-   8,L,D
-   1,R
+   6,R
    1
-   2,R
-   1,L,J,G
-   5,R,J
-   5,R,K,G
-   4,D,X
-   6,L,X
-   3,R,J
-   3,R
-   3,R,J
-   4,D,X
-  10,R,X
-   2,R,J,G
-  11,R
+   1,R
+   4
+   1,R
    2
-  20,R,J,G
-  16,R
+  15,D,X
+   1,L
+   2,R
+   2
+   8,R,D
+   7,D
+  15,R,D,X
+   5,R,D
+   3,R,J
+   4
+   1,L,K,G
    1,J
-   6
+  12,R
+   4,D,X
+   7,L,X
+   5,R,J
+   9,R,D,X
+   2,R,J,G
+   1,J
+   2,R,J
+   2
+   2,R
+   1,R,K,G
+   7,R
+   5,R,J
+   2,R
+   1,J,G
+  14,R
+   1,R,J
+   9,J
+  13
+   3,R
   40
 
 #lvl_Chaotic_03
-  12
+   2
    2,D
-  18,R,D
+   5,R,D
+   3,D
+   3,R,D
+   1,D
+   2,R,D
+   7,R
    4,D,X
-  17,R,U,X
+  14,R,U,X
   15,U,C
-   2,R
-  10,L,J,G
+   7,L,J,G
+   1,L
+   2,J,G
    2,K
-   9,R,K
-   2,R
+  10,R,K
+   1,R
    1,R,J,G
-   8,R,K,G
-  19,R
+   7,R,K,G
+   5,R
+   2,R,J
+  13,R
   10,R,J
   37,R
    8,D,X
@@ -345,13 +362,14 @@ console load SpringCollab2020/4-Expert/ChaotiC
    9,R
    1,R,J
   14,R
-  13,L
+   8
+   5,R
   19,R,U,X
    1,R,J,G
    5,R
    1,R,J
-  10,R
-  37,R,D
+   9,R
+  38,R,D
   24,R,G
    1,R,J,G
    4,D,X
@@ -373,41 +391,38 @@ console load SpringCollab2020/4-Expert/ChaotiC
   19,L
   13,L,D,X
    2,L,J,G
-  50,L,D
-#landing to the right
-#of the spring and
-#doing a 6f bhop
-#doesnt work
-   4,L
-  11,L,D,X
-   7,L,J
-   8,J
-  14,L,U,X
-   6,L
-  11,L,J,G
-   1,R,K,G
+  20,L,D
+   6,D
+  18,L,D
+   6
+   1,L,D
+   4,D,X
+   1,L,J
+   4
+   2,L
+   1,L,J
+   7,L
+  13,L,J
+   2,J
+   7,K,G
    1,R,J,G
-  11,R,K,G
+   1,R,K,G
+  14,U,X
   40
 
 #lvl_ChaotiC_04
-   1,R
-   5,L
-   1,J
-   4,L
-   8,L,U,X
-   1,L,J,G
-   7,L
+  12,L,J
    4,D,X
-   2,L,J
-   8,L
+   2,L,X
+   1,L,J
+   7,L
    1,L,J
   14,L,D,X
    1,L,J
-  12,L,D,X
+  13,L,D,X
    1,L,J
    1,K
-  29
+  28
    4,J
    9,L,J
   15,U,X
@@ -574,63 +589,6 @@ console load SpringCollab2020/4-Expert/ChaotiC
   14,R,D,X
   11,R,J,G
   30,R
-
-#dumb thing i was
-#trying but got fucked
-#at the end
-#there goes 2 
-#hours of my life
-#would only save 5 frames
-#   9,R,J,G
-#  15,R
-#  15,R,D
-#   5,D
-#   5,L
-#   1,L,D
-#   1,D
-#   4,R,J
-#   5,R
-#   3,R,J
-#   1,R
-#   5,R
-#   1,R
-#   3
-#  12,L,D,X
-#   2,R,J
-#   1,R
-#   6,R,D,X
-#   1,L,J,G
-#   5,L,J
-#   2,R,J
-#   5,R
-#   2,L
-#   1,L,J
-#  14,R,U,X
-#   2,R,J,G
-#   5,R
-#   1,S
-#   1,X
-#   9,J
-#   3,R,J
-#   1,R
-#   3,L
-#   5,R,J
-#   2,R
-#  11,R,D,X
-#  11,R,J,G
-#  30,R
-#  18,D,X
-#   2,L
-#   1,D,C
-#  13,R,C
-#   1,L,J
-#  10,L,X
-#  15,R,J
-#   9,R,K,G
-#   5,R
-#   1,R,J
-#  29,R,D
-
   18,D,X
    2,R
    4,D,C
@@ -641,35 +599,41 @@ console load SpringCollab2020/4-Expert/ChaotiC
    9,R,K,G
    5,R
    1,R,J
-  29,R,D
-   5
-   1,L
-   4,R
-   2,L
+  30,R,D
+   9,R
    1
-   1,L
+   1,J
    2,R
-   3,L
+   6,L
    1,R
-   1
-   1,L
+   6,L
    4,D,X
-   7,L,X
+   3,R,X
    1,R,J
-   7,R
-   4,R,J
-  26,R,D,X
-  17,R,J
-   8,R,D,X
+   3,R
+   1
+   3,R,J
+  15,R,D,X
+  12,R
+   3,R,J
+   5,R
+   2,R,J
+   2,R
+   6
+   4,D,X
+   3,R,U,X
   40
 
 #lvl_ChaotiC_outro
-   3,R,D,X
-   3,R,J,G
-   4,R,K,G
-   4,D,X
-  10,U,X
-  14,L,J
-  21,R,X
- 118
-#70.567
+   8,R,U,X
+  14,U,C
+   9,L,J
+  35,R,X
+   1,L,J
+   4,L
+  32,L,D,X
+   1,L,J
+   7,L
+  61,L,D,X
+   1,L,J
+#68.442

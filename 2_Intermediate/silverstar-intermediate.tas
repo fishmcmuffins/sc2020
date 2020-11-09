@@ -3,55 +3,62 @@
 console load SpringCollab2020/2-Intermediate/SilverStar
    1
 
+#fullgame sync
+   1
 #Start
- 102
+ 101
 
 #lvl_IntroRoom
-  20,J
-  17,U,X
-  20,U,C
-  20,U,X
-  74
+  15,J
+  19,U,X
+  22,U,C
+  18,U,X
+  73
   40
 
 #lvl_Room1
-  64
-   7,L,D,C
+  65
+   4,D,C
    1,R,J
    7,R
-  10,R,J
-  15,R,X
-   1,L,J
-  15,U,X
-  21,U,C
-  32,L,D
-  45,F,255
-   5,F,267
-   5,F,289
-   5,F,300
-   5,F,340
-  10,F,360
-  22,F,24
-   1,D,X
-  21,L
-   5,L,J
-  17,U,X
-  18,J
-  14,U,X
-  13,R,J
-  18,R
-  32,R,X
-  21,R,D
-  23,R,X
-  15,U,C
-   2,R
-  18,U,X
-   1,R
+   3,R,J
+   1,J
+   1,R,J
+   1,J
    2
-  17,U,X
-  24,U,C
+   1,R
+  15,R,X
+  15,U,C
+  15,U,X
+   2,L
+  27,L,D
+  54,F,257.09
+   7,F,300
+  11,F,
+  17,F,21.44
+   6,F,
    4,D,X
-  10,L,X
+  11,L,X
+   6,L
+   2,L,J
+  15,U,X
+   3,R,J
+  14,J
+   1,R,J
+  15,U,X
+  26,R,J
+  15,R,X
+  29,R,D
+   9,R
+   4,D,X
+  11,R,X
+   8,R
+  17,U,X
+  20,U,C
+  17,U,X
+  21,U,C
+   4,D,X
+   9,L,X
   28,L,J
   28,L,U,X
    4,D,C
@@ -70,58 +77,74 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   40
 
 #lvl_Room2
-   1
-   1,J
-  71
-#spinner cycle
-#wait 1f for IL
-#wait 0f for int lobby
-   0
-   4,L
+  73,O
+   5,L
    1,L,J
-  14,L
+  13,L
+   1
    1,X
-  79,F,67
+  72,R
    1,X
   18
   10,L,X
-  15,L,J
-  15,L,U,X
-  11,J,G
-   1,R,J,G
+   8,L,J
+   4,D,X
+  11,L,U,X
+  12,J,G
+   6,K,G
+   1,R,K
+   4,J
+  15,U,X
+  26,L,J
+   1,K,G
+   1,R,K
+   1,J
    1,K
-   4,L,K,G
-  14,U,C
-   2,R,J
-  27,L,J
-   5,K,G
-  10,R,K
-  11,L,J,G
-  13,K
-  12,L,J,G
-   8,L,K,G
+  11,L,K
    1,J,G
-   6,L
-   3,R
-  12,D
-   7,R,D
+   3,L,J
+   6,J
+   1,R,J
+   1,K
+  12,J
+  10,L,K,G
+   2,L
+   6,J,G
+   1,K,G
+   1,L
+   1
+   1,L
+   2
+   1,L
+   2,R
+   1,S
+  10,J
+   2,J
+   1,R,J
+   9,J
    4,D,X
   11,R,X
-  11,L
-   5,R
-  11,L,X
-   7,R,J
-   4,R
-   4,D,X
-  11,R,X
-  12,R,D
-  25,R,X
-   4,D,C
-  11,R,C
+  15,D,C
+   5
    7,L
+  10,R,X
+   4,J
+   2,R,J
+   1
+   2,R
    4,D,X
-   6,R,X
-  15,R,J
+  11,R,X
+   3,R
+  18,R,C
+   1
+  12,R
+   4,D,X
+  11,R,X
+   5,R
+   4,D,C
+   6,R,C
+  10,R,J
+   5,R
   14,U,X
    9,R,J
   17,U,X
@@ -396,3 +419,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   10,R,J
   12,U,X
  135,R,D
+#79.628
