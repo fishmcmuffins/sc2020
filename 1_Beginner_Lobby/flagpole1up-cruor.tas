@@ -32,15 +32,19 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4680 152
    6,L
   11,D
    6,L,D
-  41,R,D
-  82,R,X
-   4,R,J
-   1,R,K
-  17,R,D
-  75,R,X
-   4,R,J
+  46,R,D
    4,D,X
+   6,R,X
+   5,R,J
+  66,R,X
+   4,R,J
+   9,R,D,X
    1,R,J
-  15,R
+  18,R,D
+  67,R,X
+   4,R,J
+   6,R,D,X
+   1,R,J
+  12,R
    1,X
-#5.984
+#5.967
