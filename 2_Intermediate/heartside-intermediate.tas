@@ -681,47 +681,49 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    8
   15,R,U,X
   15,R,C
-  15,R,X
-  15,R
+  12,R
    4,D,X
-   2,R,X
+  13,R,X
    1,R,J
-   7,R
+  14,R,D,X
    1,R,J
-  12,R,D,X
+  10,R,D,X
   40
 
 #lvl_int_heart_05
-   2,R,D,X
+   4,R,D,X
    1,R,J
   14,R,D,X
-   9,R,J
-  18,R,D
+  10,R,J
+  17,R,D
   15,D,X
-  11,R,D
-   3,R
-  17,R,J
+  12,R,D
+   2,R
+  11,R,J
+   6,R
    4,D,X
   11,R,U,X
-  28,R,D
-  22,D
+  29,R,D
+  18,D
   21,L
+   3,R
   18,R,U,X
   15,R,D,C
   12,L,D
-  12,L
-  17
-   4,R
-   9,R,J
+  11,L
+  16
+   9,R
+   1,R,J
+   5,R,J
   35,R,D
-  19,L,D
-  14,L
-   2,L,D
+  16,L,D
+  19,L
    4,D,X
   10,L,X
   10,L,J
    1,L
-   5,L,J
+   2,L,J
+   3,L
   15,L,D,X
 #1 dash from now (or so) on
    4,L,D
@@ -899,4 +901,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    2,R,J
   14,R,U,X
  135,R,D
-#152.456
+#152.405
