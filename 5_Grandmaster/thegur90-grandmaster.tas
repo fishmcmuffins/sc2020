@@ -25,15 +25,13 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   15,R,X
    7,R,D
   12,D
-  16,R,D
+  14,R,D
   15,R,X
-  13,R
+  14,R
   15,U,X
-   3,L
-  19
-  18,R,U,C
-  23,R,D
-  21,D
+  16,R
+  15,R,X
+  32,D
    1,J
   23,D
    1,J
@@ -42,18 +40,20 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   23,D
    1,J
   23,D
-   5,J
-   4
-  15,D,X
-  12,D
-   6,L,D
-   9,L,D,X
+   1,J
+  30,D
+   2
+   3,R,D
+   1,R
+   2,R
+   1,R,D
+  14,L,D,X
   12,L,J
-  15,U,X
-  12,R,J,G
-   9,L
+  14,U,X
+   9,L,J
+  12,L
   15,L,X
-  18,L
+  14,L
   15,L,X
   24,L,D
   31,R,D
@@ -182,32 +182,21 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    4,L
   10,L,J
    3,L
-  36,L,J
-  46,R,X
-  36
-   8,D
-  11,J
-   8
-   1,J
-  19,K
-  15,U,X
-  20,R
-  29
-   2,D
-   1
-   1,J
-  10
-  11,J
-  11
-  30,J
-   1
-  10,K
-  15,R,U,X
-  36,R,D
-   3,D
-   1,R,D
-  19,D
+  26,L,J
+  15,L,X
+   3,L
+   5
+  12,L,J,G
+  12,L,K,G
+   7,L,J,G
    4,L
+   4,D,X
+   8,R,X
+  23,R,J
+  15,R,X
+  54,R
+  20,L
+   3
    1,L,D
    1,R,D
    1,R,U
@@ -261,19 +250,7 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    1,R,D
    1,L,U
    2,L,D
-   2,L,U
-   1,R,D
    1,L,U
-   1,R,D
-   1,R,U
-   1,L,U
-   1,L,D
-   1,R,U
-   2,R,D
-   1,L,D
-   1,R,D
-   1,L,U
-   1,R,D
   14,R
   12,J
   17,R,G
@@ -317,7 +294,7 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   14,R
   43
 
-#lvl_TheHeck90_03
+#lvl_TheHeck90_04
    2,R
    8,R,D,J
    3
@@ -381,7 +358,7 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    1,J
   43
 
-#lvl_TheHeck90_04
+#lvl_TheHeck90_05
    3,L,K,G
    1,R,J
   11,R,K
@@ -400,33 +377,6 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    8,L
   37,L
   12,L,J
-#close to squeezing thru here
-  # 8,K
-  #15,R,X
-  # 8,L,D,C
-  # 1,L,J,G
-  #1,R,J
-  # 6,J
-  #24
-  #12,L,G
-  # 8
-  # 1,L
-  # 1
-  # 1,J
-  # 1,K,G
-  # 9
-  #9,R
-  #3,R,D
-  #16,D
-  # 2,L,D
-  # 1,D
-  # 1,L,D
-  # 1,D
-  # 1,L,D
-  # 1,D
-  # 1,L,D
-  # 1,D
-  # 1,L,D
    8,K
    3,R,J
    5,R
@@ -530,4 +480,4 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   11,R,J
   14,R,U,X
  135,D
-#68.170
+#64.634

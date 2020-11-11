@@ -1,11 +1,12 @@
 #Made by Vamp
-#Restart
+
 console load SpringCollab2020/1-Beginner/Abby
    1
 
 #Start
-#lvl_Jude_00
   61
+
+#lvl_Jude_00
    2,R,J
    4,D,X
    1,R,X
@@ -44,9 +45,8 @@ console load SpringCollab2020/1-Beginner/Abby
    6,L,X
    3,R,J
    4,R
-  15,R,U,X
-   2,R
-  24,R,D,X
+  18,R,U,X
+  23,R,D,C
   39,R
   15,R,X
   29,R
@@ -95,24 +95,23 @@ console load SpringCollab2020/1-Beginner/Abby
 
 #lvl_Jude_03
    4
-  41
-   5,R
+  44,R
   15,R,X
   12,R
   36
    6,R
    7,L,U,X
   19
-   3,R
+   2,R
+   1
   18,L,U,X
-   3,L
-  15,L,U,C
-   3,L
+   5,L
+  15,L,C
   37
   10,L,X
-  19,R
+  20,R
   15,R,X
-   2,R
+   1,R
   36
   10,R,D,X
   42,L,D
@@ -121,11 +120,11 @@ console load SpringCollab2020/1-Beginner/Abby
    4,D,X
    9,L,X
   36
-  11,U,X
-  17,R
+  10,U,X
+  16,R
   15,R,X
-  13,R,D
-  63
+  15,R
+  62
   40
 
 #lvl_Jude_04
@@ -210,3 +209,4 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L,J,G
    1,L,K,G
   52,L,J,G
+#53.040
