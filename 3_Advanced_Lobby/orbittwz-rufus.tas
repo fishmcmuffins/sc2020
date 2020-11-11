@@ -5,7 +5,8 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1672 168
   36
 
 #lvl_Adv_01c
-   9,R,D,X
+   4,D,X
+   4,R,X
    1,R,J
   30,R,D
   18,D
@@ -23,4 +24,4 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1672 168
    1,L,J
    8,L
    1,X
-#3.757
+#3.740
