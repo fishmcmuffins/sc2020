@@ -60,27 +60,23 @@ console load SpringCollab2020/4-Expert/deskilln
 
 #lvl_Deskilln_01
    1,R,J,G
-   5,R
-   2,R,J
-   3,R
-   4,D,X
-   5,R,X
-   2,R,J
+   1,R
    1,R,K,G
+   3,R,J,G
    5,R
-   1
-   3,R
-  15,R,J
+   4,D,X
+   8,R,X
+   1,R,J
+   6,R
+  10,R,J
+   5,J
   15,U,X
-  18,L,J
-   8,L
-   5,L,J
+  31,L,J
    4,L
    4,D,X
   10,L,U,X
    1,L,J,G
-   9
-   1,J
+  10
   10,L,X
   16,L,J
   15,L,U,X
@@ -122,51 +118,56 @@ console load SpringCollab2020/4-Expert/deskilln
    2,L
   10,R,U,X
    1,R,K,G
-  12,R
-   4,D,X
-   1,R,J
-   5,J
-   2
-   1,J
-  18
-   2,R
-  25,L,D,X
-   8,L
-   6,L,D
-  10,L,X
-  12,L,J
-  12,L,K,G
-  12,L,J,G
-  14,K,G
-  15,U,X
-  10,R
-   4,D,X
-   2,R,J
    8,R
-   1,R,J
-  13,R,D,X
-  15,R,J
-  16,U,X
-  15,R,U,C
-   9,L
-   6,R,J
-   7,J
-  16,U,X
-  24,L,J
+   4,L
+   4,R,J
    4,D,X
-  13,U,X
-   2,R,J
-  17,L,J
-   2,R,J
-   1,K,G
-   7,R,K
+  10,R,U,X
+   1,L,J,G
+   6,L,K,G
+   1,R,K
+   6,L,K
+  10,L,X
+   1,R,J
+   4,J
+  15,U,X
+   5,L
+  12,L,J,G
+  14,K
+   1
+   1,L,J,G
+   3,R,J
+   4,L,J
+   5,L
+   3
+   4,D,X
+  10,L,X
+   4,R,J
+  14,R,D
+   1,R,J
+   5,R
+  15,R,J
+   5
+   7,J,G
+   1,L,J
+   1,R,J
+   2,K,G
+  29,L,K
+   4,D,X
+  11,U,X
+   5,L
+  31,L,J
+  11,R,K
+   1,R
+   1,R,J,G
    7,R
    4,D,X
    1,R,J
    6,R
   14,R,J
   14,U,X
-   7,L,J
+   2,L,J
+   5,R,J
   40
 
 #lvl_Deskilln_02
@@ -309,84 +310,79 @@ console load SpringCollab2020/4-Expert/deskilln
    1,R
    3,R,K,G
    4,D,X
-   1,R,X
-   3,R,J
+   2,R,X
+   2,R,J
    5,R,K,G
    1,R,J,G
-  11,R
-   1,R,J
-  13,R,D,X
-  75,R,U,J,G
-  10,R,G
+   9,R
+   8,R,J
+  70,R,G
+   5,R,U,G
    1,R
-  15,R,U,X
-  34,R,U,G
-  25,R,U,X
-  22,R,D,G
-  12,R,U,G
+   6,L
+  14,R,U,X
+  37,R,G
+   3,R
+   4,J,G
+  19,R,J
+  42,R,U,G
    1,R
-  10,D
+   6
+  15,U,X
+   4,D,C
+  35,R,C
+   3
+   5,R,U,X
+  70,R,G
+   1,R
   10,R,D
-  14,D
-  11,L,D,X
-  15,R,J
-  18,R,U,X
-  15,U,C
-  40,D,G
-  36,R,D,G
-  34,R,U,G
-  13,R
-   6,R,D
-  13,D
+   7,D
    4,D,X
   11,R,X
   11,U,C
-  37,R,J,G
-   5,R
-  23,R,D
-  10,D
-  18,U,X
-   4,D,C
-  12,R,C
-   4,D,X
-   5,R,U,X
-  41,R,U,G
-   1,R
-  10,R,D
-  12,D
-   7
+   3,J
+  16,R,J,G
+  16,R,G
+  26,R
+   6,R,D
+   4,D
   15,U,X
-   4,R
-   4,D,X
-  14,R,X
-  15,R,D,C
-   5,R
-   4,D,X
-   6,L,X
- 136,R,U,J,G
-   2,R,G
-   1,L
-  17,R,X
-   3,R,J,G
-   7,R
-   2,R,J
+  15,R,C
+   8,R,U,X
+  57,R,D,G
    1,R
+  12,L
+  15,U,X
+   7
+   5,L
    4,D,X
-   3,R,X
+  15,R,X
+  14,R,D,C
    1,R,J
-   2,R
+   5,R,D,X
+  13,R,G
+  11,R,U,J,G
+  53,R,U,G
+   1,L
+  10,R,D,X
+   2,R,J,G
+   5,R,K,G
+   3,R
   40
 
 #lvl_Deskilln_Outro
-   4,R
-   1,R,J
-   3,R
-   5,R,D,X
-   1,R,J,G
-  11,R
+   2,R
+   5,R,J
+   1,R
+  20,R,J
    2,R,J
-   8,R
-   7,R,J
-  14,R,U,X
- 135
-#56.882
+  41,R,U,X
+   1,R,J,G
+  12,R
+   1,K,G
+   2,L,K
+   1,R,J,G
+   1,L,J
+  30,R,J
+  58,R
+#53.057
