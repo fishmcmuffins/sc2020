@@ -7,84 +7,90 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
  190
 
 #level_1a start
+   4,L,X
+   1,L,J
+   8,L,G
+   8,R,D
+   6,J
    2,L,J
-  19,L,G
-   3,L,U,G
-   5,L,K,G
-   2,L,G
-   4,J,G
-   2
-   2,R,K
-  13,R,D
-   6,D
+   1,K
+   1,J,G
+   1,L,K,G
+   1,R,K
+  13,R
+   5
+   2,R
    4,D,X
-   3,R,U,X
-   1,L,J,G
-  16,R,J
+   1,R,U,X
+   1,L
+   9,K,G
+   1,R,K
+   2,K
+   7,R,K
+   1,R,J,G
    1,R,K,G
-  39,D
+   7,R
+  25,D
+   8,R,D
   40
 
 #lvl_1b
-   1,R,D
-   3,D
+   4,R,D
   14,R,D,X
    1,R,J
   15,R,D,X
-  37,R
-   4,D,X
-   6,R,X
-   1,L,J
-   5,R
+  30,R
+  12,R,D,X
+   3,L,J
   15,L,D,X
-   1,L,J
-   6,L
+   4,L,J
   14,L,D,X
-  32,R,D
-  14,R,D,X
-   8,L,D
-  30,D
-  13,L,D
+  34,R,D
+  17,R,D,X
+   2,R
+   2,L,D
+  33,D
+  11,L,D
   17,L
   15,L,D,X
-   1,L,J
-   4,D,X
-   5,L,X
+  10,L,D,C
    1,R,J
-   2,L
-   5,R
-   1,R,J
-   3,R
-   3,R,J
-  18,R,D
+   4,R
+  10,R,D,X
+   2,R,J
+  19,R,D
    1,L,D
-  31,D
-   1,R,D
+  24,D
+   8,L,D
    4,D,X
-   1,L,J
+   9,L,X
+   2,L,J
+   9,L,D,X
+   6,L,K,G
    5,L
-  21,L,J
-  14,L,D,X
-   4,L,D
-   4,D,X
-   1,L,J
-   7,L
-   5,L,J
+   1,L,K
+  12,L
+   6,L,J
+   6,L
    4,D,X
    1,L,U,X
   40
 
 #lvl_1c
-  10
-  11,U,X
+   9,L,U,X
    1,L,J
+   9,U,C
+   2,L,J
   11,L
    7,L,J
-  14,L,X
-   2,L,G
-  14,D,C
-  14,L,D
-  16,L
+   4,D,X
+   1,L,X
+   1,L,J
+   7,L
+   1,L,G
+  15,D,C
+  13,L,D
+  17,L
    8,L,X
   46,L,U,G
   24,L
@@ -95,32 +101,34 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   10,L,X
    8,L
   15,U,X
-  72,R,G
-  16,K
-   2,L,K
-  35,R,U,G
-   1,R
-  29,R,G
-  11,L,D
-   4,D,X
-   1,L,J
-   5,L
+  93,R,U,G
+   1,L
+  13,R,G
+   1,K
+   1,J,G
+   1,R,K,G
+  25,L,D
+   1,L,K
+  11,L,D,X
   40
 
 #lvl_1d
-   1,L
-   2,L,J
-   8,L,U,G
-   7,R,J,G
-   2,R
-   2,R,J
-   4,D,X
-  10,L,X
+   3,L,D,X
    1,L,J
-   1,L
+  12,L,D,X
+   1,L,J
+   5,L,G
+   1,L,J
+  13,K
+   4,D,X
+   8,L,X
+   1,L,J
+   2,L
+#spike wallbounce to puffer would probably save time
+#but have to wait absurdly long time for cycle
   14,L,D,X
    1,L,J
-  10,L,D,X
+   9,L,D,X
    1,L,J
    5,L,G
   16
@@ -143,20 +151,17 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1,L,J,G
   21,L,K,G
   14,U,X
-  19,G
-   9,R,G
-   1,L
-   1,R,J,G
-   7,L,J
-   9,R,K,G
-  10,R
-   4,D,X
-  16,R,U,X
-  15,R,C
-  24,R
-  10,R,D
-  38,D
-  12,R,D
+  18,G
+  10,R,G
+   1,R,D
+   1,J,G
+   8,R,J
+   5,R,X
+  23,R,K,G
+  15,R,X
+  17,R,D
+  37,D
+  21,R,D
    4,D,X
    5,R,J
   40
@@ -166,22 +171,21 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,R,G
    8,J,G
    6,L,K
-   1,D,X
-  10,R,X
+   4,D,X
+   6,R,X
    1,R,J
-   2,R
-  16,R,D,X
-   4,R,J
-   7,R
-  18,L,X
-   4,R
+   1,R,K
+   5,R
+  15,D,X
+  24,R
   10,L,X
-  11,R,J
+  12,R,J
    1,R,K,G
   12,R
   15,D,X
    9,L,D
-  10,D
+   8,D
+   2,R
   30
    2,L
   13,L,K
@@ -189,18 +193,24 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,L,J
    1,R,J
   15,U,X
-   1,L
+   1,R
    9,R,J
   15,R
    9,R,J
    2,R,D
-   4,R,K,G
-   7,R
+   1,R,K,G
+   3,R,K
+   1,R
+   2,L
+   4,R
    4,D,X
-   6,R,X
-  14,R,J
-  12,R,D,X
-   5,R,J
+  10,R,X
+   1,R,J
+   7,R,D,X
+   1,R,J
+  13,R
+   1,R,J
+   5,R
    4,D,X
   11,R,U,X
    1,L,J,G
@@ -223,4 +233,4 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
  117,L,D
    1,D,X
   17,L,U,X
-#32.776
+#31.756

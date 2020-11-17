@@ -3,8 +3,10 @@
 console load SpringCollab2020/2-Intermediate/SilverStar
    1
 
+#fullgame sync
+   1
 #Start
- 102
+ 101
 
 #lvl_IntroRoom
   15,J
@@ -83,6 +85,8 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 
 #lvl_Room2
   73,O
+#spinner cycle, 0 for IL
+   0
    5,L
    1,L,J
   13,L

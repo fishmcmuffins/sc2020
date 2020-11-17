@@ -2,8 +2,9 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1
 
 #Start
-#lvl_skeleton2_00
  190
+
+#lvl_skeleton2_00
    4,D,X
    5,R,X
    1,R,J
@@ -18,8 +19,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,R,J
    5,R
   10,R
-   4,D,X
-  10,U,X
+  14,U,X
    8,R,J
   11,R
    4,D,X
@@ -29,7 +29,6 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,R,J
   12,R,D,X
   12,R,J
-#2.482
   40
 
 #lvl_skeleton2_01
@@ -40,15 +39,16 @@ console load SpringCollab2020/1-Beginner/Skeleton
    2,R,J
   16,R
   10,R,D
-  12,D
+  10,D
+   2
    4,D,X
   12,R,X
-  21,R
-   3
-   1,L,K,G
-   1,K
-  15,R,J
-   7,R,X
+   4,D,C
+   1,L,U,C
+  24,R
+   1,R,J
+  11,R,K
+   8,R,X
    6,R,J,G
   32,R
    4,D,X
@@ -57,8 +57,8 @@ console load SpringCollab2020/1-Beginner/Skeleton
    7,R
    8,R,D,J
   22,R
-  15,R,X
-   4,R
+  14,R,X
+   5,R
   14,R,X
   34,R,J,G
   15,U,X
@@ -73,7 +73,6 @@ console load SpringCollab2020/1-Beginner/Skeleton
    7,R
    2,R,J
    6,R
-#9.180
   40
 
 #lvl_skelton02_02
@@ -148,13 +147,11 @@ console load SpringCollab2020/1-Beginner/Skeleton
    8,R
   15,U,X
   15,L,U,C
-   9,L
-  10,L
+  19,L
    5
   15,U,X
   12,R,J,G
    3,K,G
-#22.236
   40
 
 #lvl_skeleton_03
@@ -164,13 +161,11 @@ console load SpringCollab2020/1-Beginner/Skeleton
    5,R,X
    2,R,J,G
    3,R,J
-   4,R
-  10,R
+  14,R
    6,L,J
   10,L,X
   20,L,J,G
-   8,L
-  11,L
+  19,L
    1,R,J
   15,R
    8,R,X
@@ -241,7 +236,6 @@ console load SpringCollab2020/1-Beginner/Skeleton
   10,R,X
   11,R,J
   14,U,X
-#36.652
   40
 
 #lvl_skeleton2_04
@@ -279,8 +273,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
   14,R
    4,D,X
    1,R,J
-   4,R
-  10,R
+  14,R
    4,D,X
   11,R,U,X
    9,R
@@ -292,8 +285,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
   69,O
    1,R,J
    5,R
-  15,D,X
-   9,D
+  24,D,X
    4,L,J
    5,L
    2,L,J
@@ -327,8 +319,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    5
    6,D
    4,R,D
-   4,D,X
-  11,R,X
+  15,R,X
   12,R,D,C
    1,R,J
    7,R
@@ -340,8 +331,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    4,D,X
    1,L,X
    1,R,J
-   7,R
-   3,R
+  10,R
    3,R,D
    9,L,D,X
    1,R,J
@@ -436,7 +426,6 @@ console load SpringCollab2020/1-Beginner/Skeleton
    9,R,X
    1,R,J
    6,R
-#58.004
   40
 
 #lvl_skeleton2_05
@@ -447,4 +436,4 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1,R,J
    7,R,U,X
  135
-#61.353
+#61.319

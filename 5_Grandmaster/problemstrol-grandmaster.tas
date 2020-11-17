@@ -1,11 +1,12 @@
 #Made By Vamp
-#Restart
+
 console load SpringCollab2020/5-Grandmaster/Problemstrol
    1
 
 #Start
-#lvl_0
  190
+
+#lvl_0
    1,R,J
    5,R
    1,R,J
@@ -65,16 +66,12 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    3,R
   11,D,X
   10,D
-   1
-  10,L,D,C
-   4,L
-   1,L,J
-   4,L,D
-   2,D
-   1,L,D
-  13,R,D
+  10,L,D,X
+   4,L,J
+   3,L
+  19,R,D
    4,D,X
-   7,R,X
+   6,R,X
    4,R,J
    3,R,K
   17,R,X
@@ -102,6 +99,8 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
 
 #lvl_2
   64
+#spinner cycle
+   1
    4,D,X
    1,R,X
    7,R,J

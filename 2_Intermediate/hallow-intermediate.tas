@@ -6,34 +6,32 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
 #lvl_Hallow_01
    4,D,X
+   2,R,X
    1,R,J
    7,R
    1,R,J
-   2,R
-   4
-   2,R
+  10,R,D,X
    1,S
    1,D,J
   18
-   4,D,X
-   1,L,X
-   1,R,J
+   2,R,J
    3,R
-   1,R,K
-   3,R
+  10,R,D,X
+   2,R,J,G
+   1
+   4,J
    3,R,J
-   2,R
-   8,R,D,X
-   3,R,J,G
-   8,R
-   8,R,J
-   9,R,K,G
+   1,R
+   1,R,J
+   9,R,U,X
+   7,R,J,G
   40
 
 #lvl_Hallow_02
-   4,R,K
+   4,R,J
   15,R,D,X
-  11,R,J
+   1,R
+   5,R,J
   41
   15,R,D,X
    2,R,D
@@ -407,10 +405,8 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1,S
    1,D,J
   18
-   9,R,X
-   6,R,J
-   4,X
-  33,R,D,X
+  14,R,X
+  58,L,D
    1,L,J
    1,L,K
    1,L,J
@@ -423,15 +419,6 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1,L,K
    1,L,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   6,L,J
-  46,L,K,G
-  30,R,K
-#64.362
+  13,L,J
+  52,L,K,G
+#64.073

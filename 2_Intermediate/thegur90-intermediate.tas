@@ -7,34 +7,46 @@ console load SpringCollab2020/2-Intermediate/Thegur90
  190
 
 #lvl_1
+   5,R
    1,R,J
-  10,R,D
- 124,D
+   1,R
+  15,D,X
+  50,D
+   7,R,D
+   7,D
+   1,L,D
+   1,D
+   1,L,D
+  43,D
    7,L,D
   40
 
 #lvl_2
   40,L,D
-  16,D
-  17,R,D
-   2,L,D
+   6,D
+  18,R,D
+   8,D
+   2,R,D
   15,L,D,X
-  15,D,C
-  10,D
+  11,R,D
+   4,R
+   2,R,D
   15,R,D,X
-  14,D
-   9,R,D
-  15,R,D,X
-   3,R
-  12,R,D
-   5,L,D
-  15,L,D,X
-  28,L,D
-  15,R,D
-   1,D,X
-   9,R
+  14,R,D
+   8,D
    5,R,D
   15,R,D,X
+  13,R,D
+   9,L,D
+  15,L,D,X
+  25,L,D
+   6,D
+   6,R,D
+   1,D
+   1,R,D
+   4,D,X
+  11,R,X
+  15,R,D,C
    5,L,D
   22,R,D
   20,L,D
@@ -43,40 +55,43 @@ console load SpringCollab2020/2-Intermediate/Thegur90
   15,L,D,X
    5,L,D
   55,R,D
-  13,D
+   9,D
+   2,L,D
+   2,D
   10,L,D
   40
 
 #lvl_3
-  20,D
-  16,L,D
-  12,D
+   1,L,D
+  27,D
+  20,L,D
+   1,L,D
   15,L,D,X
-  38,L,D
-   5,D
-   8,L,D
-  12,D
-  19,R,D
-   3,R,D
-   4,R,D
-  15,L,D,X
-  15,D,C
-   8,R,D
-  12,D
+  11,L,D
+  10,D
+   7,R,D
   15,R,D,X
    5,R,D
-  15,L,D,C
-   6,R,D
+  20,L,D
+  50,R,D
+  17,D
   15,R,D,X
   15,R,D,C
-  10,R,D
-  14,D
-  14,L,D
-  24,R,D
-  11,L,D
+   2,R,D
+  12,D
+  37,L,D
+  18,D
+   7,L,D
   15,L,D,X
-  14,L,D
-  56,D
+   4,L,D
+  15,L,D,C
+  15,L,D,X
+  15,L,D
+   9,D
+   1,L,D
+   1,D
+   1,L,D
+  44,D
   40
 
 #lvl_4
@@ -104,30 +119,38 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    3,D
    5,L,D
    6,R,D
-   8,L,D
-   4,R,D
-  15,R,D,X
-   7,R,D
-   4,L,D
-   5,D
+  18,L,D
+  40,D
+   2,L,D
+   2,D
+  14,L,D
+   1,D
+   4,D,X
+   7,L,X
+   3,R
+   1,L
+  15,D,C
+   5,R,D
+   7,R
+   3,D
+   7,L,D,X
    8,R,D
-  15,R,D,X
+   7,D,C
+   8,R,D
+  21,D
+  30,R,D
+  15,R,X
   15,R,D,C
-  17,D
-  21,L,D
-  17,L,X
-  17,L,C
-  15,L,D,X
-  30,L,D
-  18,D
-   7,R,D
-  15,R,D,X
-  15,R,C
-  15,R,D,X
-  25,L,D
-  20,D
-  13,R,D
-  17,D
+   5,R,D
+  10,D
+   1,R,D
+  34,D
+   8,R,D
+   8,D
+   1,R,D
+   2,D
+   4
+   4,D
   28,R,D
    5,R,X
    1,R,J
@@ -141,13 +164,14 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    1,R,J
    1,R,K
    1,R,J
-   7,R,K
+   1,R,K
+   6,R,J
    8,R,D,X
   40
 
 #lvl_6
-   6,R
+   1,R
    8,R,J
-   6,R,U,X
+   8,R,U,X
  135
-#36.210
+#35.530
