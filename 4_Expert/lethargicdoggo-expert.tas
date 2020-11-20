@@ -97,19 +97,19 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
    2,L,J
    7,R,J
   25,R,X
-   6,R
+   7,R
   15,D,X
-   3,R,D
-  22,R
-  26,R,X
+   9,R
+   9
+   7,R
+  23,R,X
    4,R,K
    3,R
    4,D,X
    7,R,J
    4,R
-   2,R,J
-  10,R
-   6,R,D
+   1,R,J
+  17,R,D
   13,R,D,X
   23,R,J
    3,J
@@ -363,4 +363,4 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   47,R,X
   15,R,D,C
   27,L,D
-#57.579
+#57.545

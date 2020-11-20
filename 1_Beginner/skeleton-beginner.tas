@@ -44,7 +44,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    4,D,X
   12,R,X
    4,D,C
-   1,L,U,C
+   1,L,U
   24,R
    1,R,J
   11,R,K
@@ -57,54 +57,74 @@ console load SpringCollab2020/1-Beginner/Skeleton
    7,R
    8,R,D,J
   22,R
+  15,R,X
+   4,R
   14,R,X
-   5,R
-  14,R,X
-  34,R,J,G
+   1,R,J,G
+  33,R,K,G
   15,U,X
-   3,R
+   1,R
   10,R,J
    8,R
-   2,R,J
-   9,R
-   4,D,X
-   1,R,X
    1,R,J
-   7,R
-   2,R,J
+   3,R
+   1,R,J
+   1,R
+   1,R,J
+   4,R
+   4,D,X
+   1,R,J
    6,R
+   9,R,D,J
+   1,R
   40
 
-#lvl_skelton02_02
-  34,L,D
-  10,R,D
-   2,D
-   4,D,X
-  15,R,X
-   6,L,J,G
-   3,L
-   6,R
-   5,R,J
-   7,R
-   8,L,D,X
-  12,R
-  11,R,U,X
-  51,R,J,G
-  11,K,G
-   1,L,K
-  14,R,J,G
-  18,L,K
-  12,R,J,G
-   3,R,K,G
-   7,L,J
-   7,L
-   5,L,D,X
-   1,L,J
-   7,L,D
+#lvl_skelton2_02
+  29,D
    8,R,D
-  10,R,J
-  10,L,K
+   1,D
+   5,R,D
+   6,R
+   4,D,X
   11,R,U,X
+   1,R
+   5
+   1,L,J,G
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   3,R
+  11,R,J
+   3,R
+  14,R,U,X
+  51,R,J,G
+  12,R,K,G
+   3,R,J,G
+  10,K,G
+   2,L,K
+  14,L,J
+   1,R,J
+   1,K,G
+  10,R,K
+   1,L,K
+   8,L,J
+   1,L,K,G
+   6,L
+   1
+   4,D,X
+   1,L,J
+  11,L
+   4,R
+   1,R,K
+   2,L,K
+   4,K
+   1,L,K
+   7,L,J
+   5,L
+  12,R,U,X
   40,R,J,G
   15,R,U,X
    9,R
@@ -114,44 +134,58 @@ console load SpringCollab2020/1-Beginner/Skeleton
    4,D,X
    9,L,U,X
    2,L,J,G
-   9,L
-   8,L,D,X
-   7,L
-   3
-   9,L,X
+   5,L
+   1,L,J
+  10,L
+  12,L,X
    5,L,J,G
-  40,L,D
+   5,L
+   2,L,J
+  29,L
+   3,R
+   6
   14,U,X
    1,R,J
-  12,R
+  11,R
+   2,R,J
    4,D,X
-  12,U,X
-  12,L,J,G
+  11,U,X
+  10,L,J,G
    1,L,K,G
-   8,R,K
-   5
+   8,K
+   4
+   3,R
+   4,D,X
+  10,U
+   2,R
+   1,R,J
+   4,L,J
+  11,L
+   5,L,D,C
+  13,L
+   2,R
+   1,L
+  15,U,X
+   2,L
+  14,R,J
   10,R
-  10,L,X
-   7,R,J
-   8,R
-   7,R,J
-  15,U,X
+   2,R,J
    1,R
-   1,L,J
-  20,R,J
-  23,L
-   3
+   3,R,J
+   1,R
+   1,R,K,G
+   2,R,J,G
+  17,R
+   4,D,X
+  27,R,U,X
+  15,U,C
+  15,L,U,X
+  20,L
+   5,R
   15,U,X
-   9
-  18,R,U,X
-   8,R
-  15,U,X
-  15,L,U,C
-  19,L
-   5
-  15,U,X
-  12,R,J,G
-   3,K,G
+   1,R,J,G
+   5,L,J
+   6,J
   40
 
 #lvl_skeleton_03
@@ -159,11 +193,50 @@ console load SpringCollab2020/1-Beginner/Skeleton
    2,R,K,G
    7,R,J,G
    5,R,X
-   2,R,J,G
-   3,R,J
+   5,R,J,G
   14,R
    6,L,J
   10,L,X
+#these inputs could save
+#a bit of time but i cant be F-ed
+#to sync the next section
+#  15,L,J,G
+#   1,L
+#   1,L,J
+#   1,L
+#   9,R,D
+#  14,R
+#   9,R,X
+#  24,R,J,G
+#  12,R,D
+#  11,L,D
+#   1,L
+#   1,L,D
+#   1,L
+#   2,L,D
+#   1,L
+#   4,D,X
+#   1,R,J
+#   6,R
+#  10,R,J
+#   3
+#   2,R
+#  14,R,U,X
+#   2,R,J,G
+#  12,R
+#  25,D
+#  11,R,D
+#   4,D,X
+#   1,R,X
+#  12,R
+#  14,U,X
+#   6,J
+#   2,R,K
+#   7,R
+#   4,D,C
+#   1,R,J
+#   7,R
+#  23,R,J
   20,L,J,G
   19,L
    1,R,J
@@ -277,15 +350,15 @@ console load SpringCollab2020/1-Beginner/Skeleton
    4,D,X
   11,R,U,X
    9,R
-   1,R,K
-   6,R,J
-  13,R
+   1,R,J
+  12,L,K
    1,S
    1,D,J
   69,O
    1,R,J
    5,R
-  24,D,X
+  15,D,X
+   9,D
    4,L,J
    5,L
    2,L,J
@@ -318,122 +391,142 @@ console load SpringCollab2020/1-Beginner/Skeleton
    9,L
    5
    6,D
-   4,R,D
-  15,R,X
-  12,R,D,C
+   2,R,D
+   4,D,X
+  11,R,X
+  14,R,D,C
    1,R,J
-   7,R
-   5,R,J
-  13,U,X
+   3,R
+   1,R,J
+   3,R
+   4,R,J
+   4,D,X
+   9,U,X
   17,R,J
    1,R,K,G
-   7,R
+   5,R
+   2,L
    4,D,X
-   1,L,X
    1,R,J
-  10,R
-   3,R,D
-   9,L,D,X
-   1,R,J
-   7,R
-   1,R,J
-  15,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
+   3,R
+   2,R,J
+   8,R,D
    3,R,J
-   9,R
-  10,R,D,X
+   1,J
+  14,R,D,X
    1,R,J
-   4
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+   4,D,X
+  10,R
+   2,R,J
+   6,R
+   1
   15,R,U,X
   22,L
-   3,D
    3,L,D
-   4,D,X
-   1,L,X
-   1,L,J
-   7,L
-   1,L,J
    1,L
-   9,L,D,X
-   9,L,J
-  12,L
+   2,L,D
    4,D,X
-   2,L,X
+   3,L,X
+   1,L,J
+   6,L
    1,L,J
    7,L
+  12,L,J
+  15,L,D,X
+   1,L
+   1,L,D,J
+   5,L
+   3,L,J
+   8,L
    1,L,J
-  12,L,D,X
-   1,L,J
-   2,L
-   7,L,D,X
-   1,L,J
-   9,L
-   2,L,J
-   3,L,K,G
+  10,L,D,X
+   7,L,J
+   1,L,K,G
   14,L,D,X
    1,L,J
-   4,L
-   4,D,X
-   4,L,U,X
-   1,R,J,G
-   1,L,J
-  12,L
-   3,L,J
+   7,L
+   5,L,D,J
+  12,L,K,G
   15,L,D,X
+   2,L,D
    6,R,D
    4,D,X
    1,R,J
    7,R
-  76
-   4,D,X
-   2,L,J
-   9,L
-  10,L,D,X
-   3,R,J
-   3,R
-  10,R,D,X
-   1,R,J
-   1,R,K,G
-   1,R
-   2
-  14,R,D,X
-   1,R,J
+   4,R,J
+   2,L,K
+   9,U,X
+   4,L,J
    7,R
+   5,R
+   2,D
+   2
+   2,D
+   2
+   2,D
+   2
+   2,D
+   2
+   2,D
+   2
+   2,D
+   2
+   1,D
+   2
+   2,D
+   2
+   2,D
+   1
    1,R,J
-  14,R,D,X
-   1,R,J
-   4,R
-   7,R,D,X
-   1,R,J
-  25,R
-   1,R,J
-  20,R
-  18,R,X
-   1,R
-  20,R,C
-  18,R,X
-   1,R
-  18,R,C
-  12,R
+  15,D,X
+   9,R,D
+   3,L,J
+   5
+   1,J
+   1,L
+   4,D
    4,D,X
-   9,R,X
+   5,L
    1,R,J
    6,R
+   1,R,J
+   6,R,D,X
+   1,R,J
+   7,R
+  12,R,D,J
+  14,R,D,X
+  11,R,J
+  15,R,D,X
+   3,R
+  33,R,D,J
+  15,R,X
+  15,R,C
+  15,R,X
+  17,R,C
+  14,R,D,X
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_skeleton2_05
-   9,R,J
-   9,R
-   4,D,X
-  10,R,X
-   1,R,J
-   7,R,U,X
- 135
-#61.319
+   7,R
+  11,R,J
+  14,R,U,X
+  22,D
+  49,R,D
+   2,R
+  17,L,D
+   1,L,J
+   1,D,X
+   1,L
+  42,R
+#60.316

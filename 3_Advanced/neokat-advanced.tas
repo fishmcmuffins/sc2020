@@ -358,13 +358,15 @@ console load SpringCollab2020/3-Advanced/NeoKat
   27,R,D,C
   19,R,J
   17,R
-  13,L,J
-  12,L,K,G
-   9,L,J,G
-  14,U,X
-   6,R,J
-   3,R
-   1,R,J,G
+   1,J
+   2,K,G
+   9,L,K
+   1,L
+  13,U,X
+  18,L,J
+   7,R,K,G
+   2,R
+   1,R,K,G
    7,R
    4,D,X
    1,R,X
@@ -384,4 +386,4 @@ console load SpringCollab2020/3-Advanced/NeoKat
    5,R,J
    9,R,U,X
  135,R,D
-#43.333
+#43.265
