@@ -126,28 +126,25 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1,L,J,G
    1,R,J
 # losing speed to skip a trigger
-   3,J
-   9,R,J
+  12,R,J
   15,R,D,X
-   4,R
-   5,R,J
+   5,R
+   1,R,J
+   2,R
 # losing speed to line up an ultra later
-   4,J
+   6,R,J,G
   15,R,D,X
-   2,D
-   3,R,D
-   6,R
-   9,L,J
-   3,L
+  10,R,D
+   8,R,J
+   2,R
+   1,R,J,G
+   1
   15,R,D,X
-   6,L,D
-   2,R,D
-   2,J
-   7,R,D,X
+   8
   40
 
 #lvl_room_3
-   8,R,D,X
+   8
   15,R,U,C
   23,R
    4,D,X
@@ -275,28 +272,28 @@ console load SpringCollab2020/3-Advanced/_sleepie
    5,R,J
    7,R
    1,R,J
-   5,R
-   8,L,G
-   1
+   2,R
+   7,L
+   4,L,D
+   3,L
+   1,L,D
    1,J
-   1,K,G
-   5,R,D,X
-   2,R,J,G
    1,L,K,G
-   6,R,K
-  13,R
- 195,R,X
-  10,R,J
-   4,D,X
-   5,R,X
+   3,R,J,G
+   6,R,D,X
+   1,L,K,G
+  10,R,K
+   5,R
+   1,R,K
+  12,R
+   8,R,J
+  16,R
    1,R,J
-   4,R
   40
 
 #lvl_room_4
-   1,R,J
-  12,R,D,X
-  16,R,J
+   6,R,J
+
   33,U,X
    4,D,C
    6,R,U,C
@@ -531,4 +528,4 @@ console load SpringCollab2020/3-Advanced/_sleepie
    7,R
    6,R,C
  135
-#91.936
+#88.536

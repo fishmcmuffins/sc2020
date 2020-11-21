@@ -9,7 +9,8 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
 #play,midflag3
 
 #console load SpringCollab2020/3-Advanced/ZZ-HeartSide 9310 -2704
-#play,flag1,2
+#   2
+#play,flag1
 
 #Start
   36
@@ -334,8 +335,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    8,R
    1,R,J
   11,R
-   1,R,G
-   9,R,J,G
+  10,R,J,G
    5,U,X
   35,R,J
    1,K
@@ -350,7 +350,8 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
   14,U,X
   14,L,J
   12,L
-  10,L,D,X
+   4,D,X
+   6,L,X
   15,R,J
    9,R
    4,D,X
@@ -491,6 +492,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    3,R,J,G
    1,R
    5,R,J
+#instant delayed instant delayed ultra :arbH:
    2
    1,R,J
    7,R,D,X
@@ -511,7 +513,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1,L
    6,R
    3,R,J
-  13,U,X
+  15,U,X
   64,R,C
    5,R,D,X
   17,R,D,C
@@ -635,7 +637,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    6,J
    1,R,K,G
    6,R
-  12,G
+  10,G
    4,K,G
    1,L
    1,J
@@ -692,7 +694,6 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1,R,K,G
   17,R,D,X
    7,R,J
-#flag1
   69,R,X
   33,G
    3,L
@@ -775,43 +776,66 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    4,D,X
   10,R,X
   11,R,J
-  14,R
-   1,J,G
-   1,L,J
-  27,R,K,G
-   3,R
-  10,L,D
-  13,R,J
-  20,U,X
-  63,R,U,G
-   1,R,D,G
-  10,R,U,G
-  11,R,D,G
+   5,R
+   2,R,J
    7,R
+   1,R,J,G
+   2,L,J
+   4,J
+   5,R,J
+   7,R
+   2,R,J
+   2,R
+   1
+   1,R
+   8
+   1,R
+  13,R,J
+  18,U,X
+  58,R,U,G
+   1,R,D,G
+   1,R,U,G
+   1,R,D,G
+   1,R,U,G
+   1,R,D,G
+   1,R,U,G
+   1,R,D,G
+   1,R,U,G
+   3,R,D,G
+   4,R,U,G
+  12,R,D,G
+   5,R
+   2
   14,R,U,X
   41,R,U,G
-   4,R
-   2
-   1,R
+   6,R
+   1
   17,R,U,X
- 115,R,U,G
+ 100,R,U,G
+   2,R,D,G
+   3,R,U,G
+   2,R,D,G
+   3,R,U,G
+  25,R,D,G
    1,L
-  38,R,D
+  15,R,D
   27,R,D
-  15,F,150
-   5,F,105
-  27,F,105
-  10,F,45
-  34,F,27
-   7,F,90
+  14,F,139.74
+   7,F,120.35
+  24,F,99.36
+   9,F,45
+  37,F,29.55
    4,D,X
   24,R,X
    4,D,C
-   8,R,U,C
-   8,L,J
-  15,K
-  22,U,X
-  66,U,C
+   9,R,U,C
+   8
+  14,L,J
+  15,U,X
+   5,L
+  15,U,C
+   3,L
+  46
   14,L
   10,L,X
   36,R,J
@@ -901,4 +925,4 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    7,R
   14,R,U,X
  135
-#120.972
+#120.564

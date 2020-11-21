@@ -8,9 +8,10 @@ console load SpringCollab2020/3-Advanced/Rufus
 
 #lvl_Intro
    4,D,X
-   2,L,X
+   1,L,X
    1,R,J
-   7,R
+   3
+   4,R
    9,R,J
    2,R
   15,U,X
@@ -18,7 +19,7 @@ console load SpringCollab2020/3-Advanced/Rufus
    9,R,J
    1,R
    8,R,J
-  12,R
+  11,R
    4,D,X
    6,R,X
    8,R,J
@@ -28,7 +29,7 @@ console load SpringCollab2020/3-Advanced/Rufus
    9,R,D,X
   40
 
-#lvl_Rufues_01
+#lvl_Rufus_01
    5,R,D,X
    1,R,J
   14,R,D,X
@@ -192,11 +193,11 @@ console load SpringCollab2020/3-Advanced/Rufus
    3,R,K,G
    1,L,K
    8,R
-  13,R,U,X
+  12,R,U,X
   43
 
 #lvl_Rufus_04
-   2,R,U,X
+   3,R,U,X
    4,D,C
    8,R,U,C
    2,L,J,G
@@ -317,4 +318,4 @@ console load SpringCollab2020/3-Advanced/Rufus
    9,R,J
   14,R,U,X
  135
-#47.770
+#47.736
