@@ -1,7 +1,13 @@
 unsafe
+
+#Start
 #   1,X
   20
    1,J
   30
    1,J
-  47
+  46
+#extra frame
+#required in beginner
+#and grandmaster lobbies
+   1

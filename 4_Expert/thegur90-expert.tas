@@ -1,12 +1,13 @@
 #By Gliperal
-#Restart
+
 console load SpringCollab2020/4-Expert/Thegur90
    1
 
 #Start
-#thegur90_FAB_0
   36
-   4,R,D,X
+
+#lvl_thegur90_FAB_0
+   4,D,X
    1,R,J
    7,R
    4,R,J
@@ -18,7 +19,7 @@ console load SpringCollab2020/4-Expert/Thegur90
    3
   40
 
-#thegur_FAB_1
+#lvl_thegur_FAB_1
    4,D,X
    9,R,U,X
   25,R,J,G
@@ -60,7 +61,7 @@ console load SpringCollab2020/4-Expert/Thegur90
    3,R,J
   43
 
-#thegur90_FAB_2
+#lvl_thegur90_FAB_2
   12,R,J
    3,R,K,G
    5
@@ -107,7 +108,7 @@ console load SpringCollab2020/4-Expert/Thegur90
    5,R
   43
 
-#thegur90_FAB_3
+#lvl_thegur90_FAB_3
    2,R,K
   10,R
   21,R,J
@@ -161,7 +162,7 @@ console load SpringCollab2020/4-Expert/Thegur90
    5,R
   40
 
-#thegur90_FAB_4
+#lvl_thegur90_FAB_4
    1,R
   17,R,J
   13,K
@@ -237,7 +238,7 @@ console load SpringCollab2020/4-Expert/Thegur90
    3,R
   40
 
-#thegur90_FAB_5
+#lvl_thegur90_FAB_5
    4,R
    1,J
    9,R,J
@@ -285,7 +286,7 @@ console load SpringCollab2020/4-Expert/Thegur90
    4,R,K
   40
 
-#thegur_FAB_6
+#lvl_thegur90_FAB_6
   14,R,U,X
  135,R
 #37.162

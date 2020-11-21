@@ -1,12 +1,11 @@
-#Olden Tower Ruins - Iamdadbod - expert
-#3307/48.858
 #created by Lanvilla
 console load SpringCollab2020/4-Expert/iamdadbod
    1
 
 #Start
-#dad_intro_room
   62
+
+#lvl_dad intro room
    1,L,J
   10,R,D,X
    4,R,J
@@ -36,7 +35,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    4,R
   40
 
-#dad_4
+#lvl_dad4
    5,R
    1,R,J
   24,R,X
@@ -102,7 +101,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1,R,J
   40
 
-#dad1
+#lvl_dad1
    4,R
   11,R,D,X
    4,R,J
@@ -178,7 +177,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    6,R
   40
 
-#dad2
+#lvl_dad2
    1
    1,R,J
    1,J
@@ -251,7 +250,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1,R,J
   40,R,J
 
-#dad3
+#lvl_dad3
    2,R,J
    4,R,K,G
    5,R
@@ -312,10 +311,9 @@ console load SpringCollab2020/4-Expert/iamdadbod
    7,R,D,X
   43
 
-#dad_outro_room
+#lvl_dad outro room
    7,R
-   1,R,J
-   1,R,J
+   2,R,J
    5,R,K,G
    3,R
   14,R,D,X

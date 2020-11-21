@@ -9,49 +9,49 @@ EnforceMaingame
 
 #Start
 Read,4_Expert_Lobby\start-deskilln,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\deskilln-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\deskilln-deathkontrol,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\deathkontrol-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\deathkontrol-kube,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\kube-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\kube-radleymctuneston,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\radleymctuneston-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\radleymctuneston-mun,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\mun-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\mun-zerex,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\zerex-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\zerex-dahlukeh,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\dahlukeh-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\dahlukeh-lethargicdoggo,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\lethargicdoggo-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\lethargicdoggo-chaotic,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\chaotic-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\chaotic-mineman,Start
 Read,EnterLevel
@@ -59,29 +59,29 @@ Read,4_Expert\mineman-Expert,Start
 Read,ExitLevel
 
 Read,4_Expert_Lobby\mineman-thegur90,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\thegur90-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\thegur90-bissy,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\bissy-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\bissy-iamdadbod,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\iamdadbod-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\iamdadbod-indecx,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\indecx-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\indecx-canadian,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\canadian-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\canadian-heartside,Start
 Read,EnterHeartside

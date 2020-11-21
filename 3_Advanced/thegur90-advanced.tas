@@ -1,13 +1,14 @@
 #Made by Vamp
-#Restart
+
 console load SpringCollab2020/3-Advanced/Thegur90
    1
 
 #Start
-#lvl_intro
   36
+
+#lvl_intro
    4,D,X
-   3,R
+   3,R,X
    2,R,J
    8,R
    5,R,J
