@@ -8,6 +8,9 @@
 #Start from Begin
 #Make sure map select shows up
 #Open and close Mod Options if it doesn't
+#Make sure to turn off the
+#"Display End Screen for All Maps" option
+
 
 Read,StartFullCollabFile
 
