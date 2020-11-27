@@ -154,25 +154,18 @@ console load SpringCollab2020/4-Expert/iamdadbod
   35,U,X
    2,R
   19,R,X
-  16,L,D
-   5,D
-   6,L,D
-   4,R
-   4,D,X
-   6,L,X
-   7,R,J
-   1,J
-   2,R,J
+  19,L,D
+   2,R
+   2,R,D
+  13,R,D
   14,R,D,X
-  19,R,J
-   1,R
-  16,R,J
+  22,R,J
+  26,R
    4,D,X
-  11,R,X
-   1,R,J,G
-   2
-  11,L
-   5,L,D,X
+  11,R,U,X
+   9,R
+   4,D,X
+   4,R,X
    1,R,J
    6,R
   40
@@ -325,4 +318,4 @@ console load SpringCollab2020/4-Expert/iamdadbod
   30,L,D,X
    1,R,D
   70,D
-#50.966
+#50.932

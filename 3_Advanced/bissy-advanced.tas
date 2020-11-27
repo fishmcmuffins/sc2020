@@ -5,231 +5,334 @@ console load SpringCollab2020/3-Advanced/Bissy
  190
 
 #lvl_Bissy_00
-  12,L,J
-   5,U,X
-   7,L,U,X
-  12,U,X
-  14,R,J
-  13,R,U,X
-   9,R,X
-   1,R,U,X
-   7,R,U,C
-  14,U,C
-   4,D,X
-  20,L,X
-  10,R,J
+   8,L,J
    1,J
-  23,U,X
-   7,R
-   9,R,U,X
-  14,U,X
-  10,U,C
-   9,R,U,C
-   4,U,C
-  17,U,X
+   5,U,X
    6,L,U,X
-  11,L
-  10,L,J
+   3,X
+   1,U,X
+   5,X
+   3,U,X
+  18,R,J
    4,D,X
-   2,L,U,X
-   9,L,X
-   9,U,X
-   9,R
+   1,R,U,X
+   1,U,X
+   1,X
+  11,R,X
+   4,R,D,C
+   1,R,U,C
+   9,U,C
+   7,C
+   1,U,C
+   1,C
+   4,D,X
+  12,L,X
+   4,L,U,X
+   4,L,D,X
+  11,R,J
+   1,L,J
+   1,J
+  24,U,X
+   4,R
+   4,D,C
+   1,R,U,C
+   7,U,C
+  11,C
+   5,U,X
+   4,R,U,X
+  12,X
+   1,R,U,X
+   1,X
+   5,U,C
+   1,R,U,C
+   1,L,U,C
+   6,C
+  10,L,U,C
+   7,L,C
+   1
+   1,L
+   2,J
+   3,L,J
+   4,J
+   4,D,X
+   1,L,U,X
+   3,L,X
+   6,X
+   1,L,X
+   7,X
+   2,U,X
+   7,R
   12,R,J
    4,D,X
-   4,R,X
-  16,U,X
-  10,R
-  12,L,J
+   1,R,X
+   1,U,X
+   3,X
+  14,U,X
+   1,X
+   4,R
+   5
+   8,L,J
+   4,J
   24,U,X
   40
 
 #lvl_Bissy_01
-  11,L
-   5,L,D,X
-   5,L,X
-   4,L,D,X
-   1,L,J
-  14,L,U,X
-   8,U,X
-   2,L,X
   10,L
+   1
+   5,L,D,X
+   9,L,X
    1,L,J
-   8,J
-  27,U,X
-   4,D,C
-   5,R,U,X
-  11,R,D,X
-   3,R,X
+   5,L,U,C
+  10,U,C
+   3,L,C
+   1,C
+   5,L,C
+   8
+   2,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   4,J
+  26,U,X
    5,R,U,C
-   9,R,D,C
-   9,R,C
-   4,D,X
-   1,R,X
+  10,R,C
+   4,R,D,X
    1,R,U,X
    7,R,X
-   1,R,D,X
-  11,R,X
-  18,U,C
-   5,L,U,C
-   4,D,X
-   1,L,U,X
-  14,L,D,X
-   1,L,J
-   7,L
-   4,L,J
-   7,L
-   1,L,J
-   4,D,X
-   8,L,U,X
-  15,U,X
-  13,U,C
-  11,R,C
-   6,R
+   2,R,D,X
+   9,X
+   4,L,D,C
+   1,R,U,C
+   6,R,C
+   3,C
+   1,R,D,C
+   7,C
+   4,R,U,C
    5,U,X
-   2,L,X
+   3,L,U,X
+   4,X
+   1,L,U,X
+   9,X
+   5,L,U,C
+  12,L,D,C
+   1,L,J
+   6,L
+   1,L,J
+   4,L,K
+   7,L
+   1,L,J
+   1,L
+   5,L,U,X
+  10,U,X
+   1,X
+   1,U,X
+   9,X
+   5,U,C
+   2,L,C
+  12,R,U,C
+   4,R,C
+   1,C
+   6,U,X
+   1,L,X
   28,R
-  21,R,U,X
-   2,U,X
-  15,R
-  22,L,X
-  15,L,U,C
-  15,L,U,X
-   7,U,X
-   3,L,X
-  26
-   1,R,D
-   3,F,150
-  13,F,90
-  53,F,35
+  19,R,U,X
+   1,U,X
+   4,X
+  14,R
+   5,L,X
+   5,L,U,X
+   4,L,D,X
+   1,X
+   4,L,D,C
+   1,L,U,C
+   1,U,C
+   8,L,C
+   1,L,D,C
+   1,C
+   4,L,D,X
+   1,L,U,X
+   1,U,X
+   1,X
+   1,U,X
+   8,X
+   8,U,X
+  27,R,D
+   6,F,135.846
+   8,F,90
+  52,F,34.83
   10,F,
   23,U,X
   40
 
 #lvl_Bissy_02
-   8,R
    3
+   8,R
    5,L,D,X
-   9,L,X
-   4,L,J
-   4,D,X
-   6,L,X
-   5,L,U,X
-   5,L,D,X
-   5,L,U,C
-  10,U,C
-  11,R,U,C
-  11,R,U,X
-   9,U,X
-  11,U,C
-  26,R
-  23,R,X
-  10,R
-   4,D,X
-   4,L,X
-  16,U,X
-  11,U,C
-   9,R,U,C
-   3,U,C
-  10,U,X
-   9,R,U,X
-  26
-   1,L,D
-  11,F,180
-   9,F,222
-   8,F,270
-   8,F,315
-  23,F,
-   7,F,14
-   2
-   4,D,X
-   7,L,X
-   4,L,U,X
-   6,L,D,X
+   3,D,X
+   6,X
    1,L,J
    5,L,D,X
-  11,L,X
-   5,L,D,C
+   3,L,U,X
+   2,L,D,X
+   1,L,U,X
+   6,L,D,C
    1,L,U,C
+   4,R,D,X
+   1,L,U,X
+  18,U,X
+   3,R,U,X
+   5,R,U,C
+   2,R,C
+   3,C
+   5,U,C
+  12,U,X
+  10,R
+   5,R,U,X
+   6,R,X
+   2,X
+   1,R,X
+   6,X
+   4,R,D,X
+  17,R
+   5,L,U,X
+  10,L,X
+   4,L,D,C
+   1,L,U,C
+  12,U,C
+   6,R,U,C
+   5,R,U,X
+   9,U,X
+   9,R,X
+   1,X
+  27,L,D
+   7,F,193.99
+   5,F,225
+   9,F,270
+   8,F,315
+   9,F,
+  20,F,4.78
+   1
+   2,F,4.78
+   4,D,X
+   6,L,X
+   4,L,U,X
+   5,L,D,X
+   1,X
+   1,L,J
+   5,L,D,X
+   7,X
+   1,L,D,X
+   2,X
+   5,L,U,C
+   1,C
+   1,L,C
   40
 
 #lvl_Bissy_03
-   8,L,U,C
-   5,U,C
-   4,L,C
-  35
-  10,F,278
-   1,F,277
+   1,L,C
+   1,C
+   9,U,C
+   1,C
+   2,L,C
+   1,C
+  36
+   3,F,261.5
+   3,F,265.9
    4,D,X
-   2,L,X
-  21,U,X
-  13,R
+   1,L,X
+   1,U,X
+   1,X
+  19,U,X
+   1,X
+  10,R
    4,D,X
    1,R,U,X
-   9,R,X
-   2,R,D,X
-   8,R,X
-   5,R
+  11,R,D,X
+   7,X
+   1,R,D,X
+   4
    5,U,X
-   7,R,U,X
-  10,U,X
-   1,R,U,X
+   6,R,U,X
+   2,X
+   1,L,U,X
+   1,X
+   7,L,U,X
+   1,X
    4,D,C
    1,L,U,C
-   1,U,C
-   6,L,U,C
-  10,L,D,C
+   4,U,C
+  14,L,C
+   1,L,D,C
    2,C
-   3
    4,D,X
-   2,R,U,X
-   8,R,X
-  13,U,X
-   5,L,U,C
-  26
-   1,R,D
-  19,F,90
+   1,R,U,X
+   5,R,X
+   1,X
+   2,R,X
+   1,X
+  10,U,X
+  12,L
+  30,R,D
+   8,F,90
    8,F,45
-   8,F,
-  20,F,320
+   9,F,
+   6,F,348.59
+  16,F,332.42
+   4,F,
+   9,F,45
+  15,F,72.02
+   4,F,45
+  15,F,10
    7,F,
-   8,F,45
-  19,F,90
-   8,F,45
-  22,F,
-   6,R,J
-  11,J
-   2,R,J
-  28,U,X
-  25,U,C
-   5,R
-   4,D,X
-   4,R,X
+   5,U,X
+   1,R,U,X
+  17,X
+   5,U,C
+   1,R,U,C
+  13,C
+   1,R,U,C
+   3,C
+   5,U,X
+   2,R,U,X
+  13,X
    6,R,U,X
+   4,D,C
+   4,R,C
+   6,R,U,C
   40
 
 #lvl_Bissy_04
    2,U
-  15,U,C
+  20,U,C
+   5,R
+   6
    1,R
-  18
+   1
+   1,R
    4,D,X
-   2,L,X
+   3,L,X
    1,R,J
-   3
-   4,R
+   6,R
    1,R,J
    5,R,D,X
-   8,R
-   1,R,D
-   1,R
-   5,R,D,X
-   7,R
-   1,R,U
-   7,R
-  15,R,X
-  15,R,C
-  23,R,X
-  12,R,U
- 110,R,D
-#32.929
+   5,X
+   1,R,D,X
+   4,X
+   5,R,D,C
+   1,R,U,C
+   3,C
+   1,R,D,C
+   9,C
+   5,R,U,X
+   4,R,D,X
+   6,X
+   5,R,D,C
+   4,R,U,C
+   6,C
+   1,R,D,C
+   1,R,U,C
+  14,R,D,X
+   8,R,U,X
+ 113,R,X
+#31.246

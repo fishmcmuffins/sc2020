@@ -23,34 +23,37 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    4,R,J
    1,R,K
    4,R
-   1,R,J,G
-  13,R
+   3,R,J,G
+   5,R
+   4,R,J
+   1,R
+   7,R
+   9,R,J
    4,D,X
-  17,R,U,X
+  11,R,U,X
    4,R,J
    1,R,K
-  16,R
-  21,R,X
+   4,R
+  22,R,X
    4,R,J
-   3,R,K
-   6,R
-   1,R,J
-   5,R
+   1,R,K
+  15,R
    3,R,J
-   2,R
+   1,R
   40
 
 #lvl_Isa_01
-   7,R
-  26,R,X
+   8,R
+  25,R,X
    4,R,J
    2,R
    2,R,K
    5,R
-  15,R,J,G
+  12,R,J,G
+   1,L
+   2,K,G
   18,R,U,X
    4,D,C
-   1,L,C
    2,R,J
    3,R,K,G
    8,R
@@ -66,28 +69,26 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    7,R
   22,R,U,X
    4,D,C
-  30,R,U,C
-   4,R,J
+  36,R,U,C
   10,R,K
-  14,U,X
-   6,J
-   9,R,J
-   8,R,K,G
-  12,L,J
-  12,R,K
-  12,R,J,G
-   1,L,K
-   9,L,J
-  30,L,X
-   4,L,J
-  10,L,K
+   1,L,J,G
+  12,L,K,G
+   5,J,G
+   6,R,J
   15,U,X
-  12,R,J
+  18,R,J
+  11,R,K,G
+  11,L,J
+  29,L,X
+   4,L,J
+   6,L,K
+  16,U,X
+  14,R,J
   40
 
 #lvl_Isa_03
-   4,R
-   7,L
+   1
+  10,R,J
   16,U,X
    5,R
    1,R,J,G
@@ -132,4 +133,4 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    4,L,J
    1,L,K
   88,L,U,X
-#21.454
+#21.335

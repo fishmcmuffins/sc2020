@@ -2,8 +2,10 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    1
 
 #Start
+ 190
+
 #lvl_hennyburgr-intro
- 191
+   1
    4,D,X
    8,R,J
    4,R
@@ -103,21 +105,23 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    1,J
    1,L,J
   15,U,X
-  28,L,J
-   1,L
-   3,R
-  10,R,D,X
+  13,R,J
+   7,R
+   1
    1,R,J,G
-  18,R
-   1,R,J
-   5,R,D,X
-   9,R,J
-  14,R
+   9,R,K,G
+  23,R
+   4,D,X
+   5,R,X
    8,R,J
+  15,R
+   4,R,J
+   5,R
+
   15,R,D,X
   15,D
-   9,R,D
-   6,R
+  11,R,D
+   3,R
    1
    4,D,X
   10,R,X
@@ -322,4 +326,4 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   14,R,U,X
   89,R,D
   46,R,D,J
-#39.253
+#39.236

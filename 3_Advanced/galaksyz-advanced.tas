@@ -121,16 +121,16 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   25,R,J
    4,D,X
    5,U,X
-#15.487
   12
    5,U,C
-  22
-  25,D,C
-   8,L,D
-   4,D,X
-  10,L,X
+  12
+  10,R
+  15,L,D,C
+  10,L
+   4,L,D
+   7,D
   42,U,C
-  15,R,J
+  16,R,J
   55,R,X
   15,D,C
   15,R,D
@@ -278,4 +278,4 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    2,R
    2,L
   79,L,J
-#40.919
+#40.851

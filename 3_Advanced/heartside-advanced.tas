@@ -444,45 +444,53 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    2,R
   23,R,X
    1,R,D,X
-   4,R
+   2,R
    4,D,C
    2,R,C
-  10,U,C
+   1,U,C
    1,C
-   9,U,C
+   7,U,C
+  11,C
    5,U,X
   18,R,X
-   5,R,U,C
-   9,R,D,C
-   5,R,C
-   5,R,U,C
-   1
+#this is necessary superdashing is weird
+   4,R,C
+   1,R,U,C
+   5,R,D,C
+   2,C
+   4,R,D,C
+   1,C
+   4,R,U,C
+   1,C
+   2,R,U,C
   27,L,U
-#this feather is cursed af
-  23,F,337.39
+  24,F,338.09
   10,F,280
-   4,F,220
+   3,F,220
+#cursed slowdown
    1,F,180
-   6,F,220
-   8,F,180
+   8,F,220
+   7,F,180
   14,F,120
-  11,F,60
-  35,F,26.08
+  12,F,60
+  34,F,25.03
    4,D,X
    1,U,X
    7,R,U,X
   11,X
    5,U,C
    5,L,U,C
-  12,C
-   1,U,C
+   3,C
+   1,L,U,C
+   9,C
    4,D,X
    1,R,X
    1,R,U,X
-   3,X
+   4,X
    1,R,D,X
-  19,R,X
-   6,L,D,C
+  18,R,X
+   4,D,C
+   1,L,C
    1,R,J
    6,R
    1,R,J
@@ -784,6 +792,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1,R
   13,R,J
   18,U,X
+#idk why but if you grab it earlier there's no half gravity
   58,R,U,G
    1,R,D,G
    1,R,U,G
@@ -917,4 +926,4 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    7,R
   14,R,U,X
  135
-#119.867
+#119.816
