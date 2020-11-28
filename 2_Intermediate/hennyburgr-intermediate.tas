@@ -11,22 +11,23 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    7,J
   15,U,X
   14,R,J
-   8,R
-   1,R,J
-   2,R
-   1,R,J
-   4,D,X
-   3,R,X
+   5,R
+   3
+   1,J
+   2
+   1,J
+   7,R,D,X
    1,R,J
    6,R
    1,R,J
-   8,R,D,X
+   9,R,D,X
   40
 
 #lvl_hennyburgr_1 (0)
-   6,R,D,X
-  14,R,J
-  14,R,X
+   5,R,D,X
+   1,R,J
+   9,R,D,X
+  17,R,J
    1,S
    1,D,J
   69,O
@@ -351,7 +352,7 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    4
   40
 
-#lvl_hennyburgr_2
+#lvl_hennyburgr_3
    1,J
    3,L,J
    1,K
@@ -403,25 +404,23 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    4,R,J
    8,R,K
   26,U,X
-   8,L
-   2,L,J,G
-  32,L,X
+   2,L
+  34,L,X
    4,L,J
-   3,L,K
-   3,L
-   7,L,D,X
+   8,L,K
+   5,L,D,X
   12
    1,S
    1,D,J
   69,O
+   2,L,J
    4,D,X
-   7,L,J
-   3,L
-   5,L,J
-   6,L,D
+   5,L,X
+   1,L,J
+  11,L
  228,D,X
-   3,R,D
-   7
+   4,R,D
+   6,D
   15,R,D,X
   50,D,C
   10,L,D,X
@@ -451,4 +450,4 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    1,R,K
   13,R,U,X
  135,R,D
-#68.306
+#68.153

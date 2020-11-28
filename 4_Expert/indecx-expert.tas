@@ -30,23 +30,27 @@ console load SpringCollab2020/4-Expert/Indecx
   13
    4,D
   10,L,D,X
-  11,R,J
-   5,R
    3,R,J
+   7,R
+   5
    4,D,X
   11,R,U,X
-  23,R,D
-  10,R,X
-  11,R,J
-   5,R
+  10,L,D
+   6,L
    1
-   3,R
+   4,D,X
+  10,R
+  11,R,J
+   6,R
    2,R,J
-   1,R,K,G
-  20,R,D
+  15,R,X
+  17,R,D
    1,J
-  21,D
-   7,R,D
+  18,D
+   1,R,D
+   1,R,D
+   5,R,D
+   3,D
   10,L,D,X
   10,R,J
    6,R
@@ -110,61 +114,77 @@ console load SpringCollab2020/4-Expert/Indecx
    1,L
   25,R,D
    4,D,X
-   1,R,J
-   5,R
+   4,R,J
+   2,R
   40
 
 #lvl_3
-   1,R
-   1,R,J
    3,R
-  14,R,D,X
-   7,R,J
-  40,R,U,G
-   6,R,G
+   5,R,J
    1,R
-  15,R,U,X
-  29,R
-   2,L
-   5,R,U,X
-  83,R,U,G
-   1,L
-  10,R
+   7,L,D,X
+   1,R,J
+   7,R
+  10,R,J
+  22,R,U,J,G
+  12,R,G
+  12,R,U,G
+   2,R
    4,D,X
-  10,R,X
+  15,R,U,X
+   5,R
+   3,L
+   5,R,X
+  54,R,U,G
+   5,R,D,G
+   1,L
+   4,D,X
+  11,R,U,X
+  27,R,D
+   4,D,X
+   2,R
    1,R,J
-  14,R,D,C
+   7,R
    1,R,J
-   5,R,D,X
+   8,R,D,X
   40
 
 #lvl_4
-   9,R,D,X
+   6,R,D,X
    1,R,J
-  12,R,D,X
+  14,R,D,X
    4,R,J
    9,R
   14,R,D,X
-   7,R,J
-   3,R
-   1
-   6,R
+   8,R,J
+   9,R
   14,R,D,X
-  22,R,J
-   8,R
-   9,U,X
-   7,R,J
-   1,R
-   1,R,J
-   4,R
-  12,L
+  18,R,J
+   7,R
+   4,D,X
+   5,R,U
+   1,L
+  10,K,G
+   4,R,K
    3,R
+  10,L
+   3,L
    4,D,X
    7,R,X
    4,R,J
   17,R,D,X
-  11,R,J
-  24,R
+#stupid subpixel manip for sync
+  10,R,J
+   5,R
+   1,R,J
+   1,J
+   3,R
+   1,R,J
+   2,R
+   1,R,J
+   9,R
+   1
+   1,R
    4,D,X
   10,R,X
    1,R,J
@@ -267,4 +287,4 @@ console load SpringCollab2020/4-Expert/Indecx
   12,R,J
   14,R,U,X
  135
-#45.594
+#45.288
