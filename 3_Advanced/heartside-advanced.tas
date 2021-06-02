@@ -91,20 +91,20 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    4,D,X
    8,R,X
   11,U,C
-  15,R,J
-  25,R
-  10,R,U,X
-   6
-   4,R
-   9
-  28,R,D
-  15,R,D,X
-  24,U,C
-   4,L,J
-  14,L,U,X
-  12
+  34,R,J
+  15,R
+   1,R,D
+   1,R
+   3,R,D
+   1,R
+   1,R,D
+  15,U,X
    5,R
-  24,R,X
+   6
+  11,R,U,Z
+  12
+   7,R
+  31,R,X
    3,R,J
   34,R,X
    4,D,C
@@ -215,7 +215,7 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    1,K
    7,L
 #grabbing this block doesn't make it fall slower
-  47,G
+  48,G
    2,R
    1,L,D
    1
@@ -926,4 +926,4 @@ console load SpringCollab2020/3-Advanced/ZZ-HeartSide
    7,R
   14,R,U,X
  135
-#119.816
+#119.102(7006)
