@@ -1,5 +1,3 @@
-#Made by Vamp
-
 console load SpringCollab2020/1-Beginner/Abby
    1
 
@@ -50,14 +48,16 @@ console load SpringCollab2020/1-Beginner/Abby
   39,R
   15,R,X
   29,R
-  57
-  22,D
-   4,R,D
-   6,R
-  18,R,X
+  39
+  15,L,D,X
+   9,L
+   9,R,Z
+   5,R,J
+   1,R
+  15,R,J
   18,U,C
   18,U,X
-  10,U,C
+  11,U,C
   55
   40
 
@@ -112,13 +112,14 @@ console load SpringCollab2020/1-Beginner/Abby
   20,R
   15,R,X
    1,R
-  36
-  10,R,D,X
-  42,L,D
-   1,D
-   4,L,D
-   4,D,X
-   9,L,X
+  41
+   1,R
+   1
+  15,L,D,X
+   1,R,D
+  16,R
+   4,L,Z
+  16,L,J
   36
   10,U,X
   16,R
@@ -209,4 +210,4 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L,J,G
    1,L,K,G
   52,L,J,G
-#53.040
+#52.581
