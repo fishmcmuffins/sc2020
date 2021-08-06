@@ -139,20 +139,20 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
   13,L,U,X
    1,J
    6,L,J
+***S
   19,U,X
    4,D,C
   10,R,C
-  23,U,X
-   4,D,C
-   8,L,U,C
+  26,U,X
+  10,L,Z
   20,L,X
+  15,R,U,C
+   4
+   1,J,G
+  22,R,X
    4,D,C
-  11,R,U,C
-   4,L
-   2,R,J,G
-  23,R,X
-   4,D,C
-   9,R,U,C
+   7,R,U,C
+   1,R,K
   37
    4,D,X
    7,L,X
@@ -236,4 +236,4 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    8,J
   16,U,X
  135
-#46.359
+#46.325
