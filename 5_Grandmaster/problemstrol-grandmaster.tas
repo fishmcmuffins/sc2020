@@ -75,25 +75,25 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    4,R,J
    3,R,K
   17,R,X
+***S
    4,R,J
    5,R,K
-   5
-   3,K
-  17,L,U,X
-   1
-   1,L,J
-  11,J
-   2,R,K,G
-  10,R,X
+   5,R
+   3,R,K
+  11,L,U,X
+   5,R
+  15,R,J
+   4,R,K
+  17,R,X
    4,R,J
-   5,R,K
-  11,R,D,X
-   4,R,J
-   5,R,K
+   3,L,K
+
   16,R,D,X
    4,R,J
-   6,R,K
-  15,U,X
+   2,R,K
+   1,L,J,G
+   2,R,J
+  16,U,X
   59
   40
 
@@ -329,4 +329,4 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    1,L
    1,R
    1,L
-#40.341
+#40.239
