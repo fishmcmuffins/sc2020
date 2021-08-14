@@ -114,8 +114,11 @@ console load SpringCollab2020/3-Advanced/Cookie
   12,L,J,G
   14,L,X
    9,J,G
-   3
-   4,R
+   2
+   2,R
+   1
+   1,R
+   1
    4,D,X
    3,R,J
    9,R
@@ -123,8 +126,8 @@ console load SpringCollab2020/3-Advanced/Cookie
   14,R,D,X
    1,R,J
   15,R,D,X
-  19,R
-  21,R,D
+  16,R
+  23,R,D
   19,R
    5,U,X
   27,R,J
@@ -138,8 +141,9 @@ console load SpringCollab2020/3-Advanced/Cookie
    2,R
    1,R,D
    9,R,J
-  31,R,D
-   8,D
+  30,R,D
+   7,D
+   2,R,D
   11,L,D,X
   10,R,J
    1,J
@@ -416,4 +420,4 @@ console load SpringCollab2020/3-Advanced/Cookie
   13,R,J
   14,R,U,X
  135
-#56.984
+#56.967
