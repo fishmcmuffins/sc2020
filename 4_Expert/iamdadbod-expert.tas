@@ -3,7 +3,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1
 
 #Start
-  62
+  61
 
 #lvl_dad intro room
    1,L,J
@@ -23,22 +23,26 @@ console load SpringCollab2020/4-Expert/iamdadbod
   11,R,X
    6,L
    9,R,D,X
-  26,R,J
-  11,R,K
-   1,R
-  13,R,K
+  14,R,J
    7,R
-   4,D,X
-  18,R,X
-   4,D,C
+   9,R,D,J
+   5,R
+   3,R,J
+   1,R
    1,R,J
-   4,R
+   7,R
+  15,R,Z
+  12,R,D
+   2,R,J
+   7,R,Z
+   1,R,J
+   3,R
   40
 
 #lvl_dad4
-   5,R
+   4,R
    1,R,J
-  24,R,X
+  25,R,X
    4,R,J
    3,R
    4,D,X
@@ -66,51 +70,43 @@ console load SpringCollab2020/4-Expert/iamdadbod
   16,R,C
    4,R,J
    1,R,K
-  45,R,X
+  45,R,Z
    4,R,J
-   3,R
-   4,D,X
-   3,R,J
-   1,R
-  18,R,J
-  14,R,D,X
-   5,R,J
-   1,R
-   7,R,J
+   8,R,K
+   9,R
+  15,R,D,X
+  14,R,D,C
+   9,R,J
   41,R,X
    4,R,J
-   3,R
-   4,D,X
-   5,R,J
-   2,R
-  15,R,J
-  14,R,D,X
+   7,R,Z
    7,R,J
-   6,R
-   3,R,J
-  46,R,X
+   2,R
+  10,R,J
+  14,R,D,X
+  17,R,J
+  48,R,X
    4,R,J
-   3,R
-   4,D,X
-   5,R,J
+   7,R,Z
+  13,R,J
+  15,R,D,X
    1,R
-  15,R,J
-  18,R,D,X
+   8,R,D
    1,R,J
-  10,R,D,X
-   1,R,J
+   3,R
+   9,R,D,X
   40
 
 #lvl_dad1
-   4,R
-  11,R,D,X
-   4,R,J
-   3,R,K,G
+   5,R,D,X
+   1,R,J
+  14,R,Z
+   1,R,J
   14,R,D,X
    1,R,J
-  46,R,X
-   6,R,J
-   8,R,K
+  44,R,X
+   4,R,J
+  10,R,K
   14,R,U,X
   21,L,J
   32,U,X
@@ -145,12 +141,11 @@ console load SpringCollab2020/4-Expert/iamdadbod
    8,R,J
    4,R
   14,R,X
-   7,R,J
-   1,R
-  10,R,J
-  13,R,D
+   9,R,J
+  18,R
+   4,R,D
    7,L,D,X
-  27,R,J
+  27,R
   35,U,X
    2,R
   19,R,X
@@ -164,59 +159,67 @@ console load SpringCollab2020/4-Expert/iamdadbod
    4,D,X
   11,R,U,X
    9,R
-   4,D,X
-   4,R,X
+   5,R,Z
    1,R,J
-   6,R
+   7,R
+   1,R,J
   40
 
 #lvl_dad2
-   1
-   1,R,J
-   1,J
+   1,R
+   1,R
   14,R,D,X
    1,R,J
   19,R,D,X
-  11,R,D,J
-   1,R
-  11,R,J
-  15,U,X
-  10,L,D,C
-  32,R,J
-  35,R,X
+  12,R,D,J
+   5,R
    4,R,J
-   2,R,K
-  13,R,U,X
+  11,U,X
+   8,R,J
+  10,L,Z
+  31,R,J
+  36,R,Z
    4,R,J
-   3,R
-   9,R,K
-   1,R
-  20,R,K
-  15,R,U,X
-  40,R,D
-   7,L,D
-   4,D,X
-  14,L,X
-   6,D
-  11,R,D
+   5,R,K
+  11,L,U,X
+   4,R,G
+   3,R,J,G
+  14,R,X
+   4,R,J
+   1,R,K
+   5,R
+   1,R,J
   10,R
-   3,R,D
-   2,R
+  15,R,U,X
+  39,R,D
+   7,L,D
+   2,L
+   1,L,D
+  15,L,X
+   8,D
+  11,R,D
+   6,R
+   8,R,D
+   1,R,K
   11,R,J
-   1,R
-  22,R,J
-   4,R,D
-  15,R,X
+   6,R
+  15,R,J
+   5,R,D
+  17,R,X
    4,D,C
-  14,R,C
+  12,R,C
    1,R,J,G
    1,L,J
    4,L
   15,L,D,X
-  13,R,D
-  10,L,D,X
-  11,R,J
-  21,R,D
+   3,R,D
+   5,L,D
+   9,R,Z
+   2,R,J
+   1,R
+   2,R,J
+  20,R,D
+   6,D
   10,L,D,X
   16,R,J
    3,R,D
@@ -245,7 +248,6 @@ console load SpringCollab2020/4-Expert/iamdadbod
 #lvl_dad3
   14,R,Z
    1,R,J
-
   48,R,D,X
    4,R,J
    5,R,K
@@ -296,29 +298,32 @@ console load SpringCollab2020/4-Expert/iamdadbod
   15,R,D,C
    8,R,J
    5,R
-   2,R,J
+   1,R,J
+   1,R
    4,D,X
   12,R,X
-  25,R,D,C
-   4,D,X
-   4,R,J
-   9,R
-   1,R,J
+  16,R,D,C
+   8,D
+   1,R,D
+  12,R,Z
+   3,R,J
    7,R,D,X
+   1,R,K,G
+   3
+   4,R
+   1,R,J
   43
 
 #lvl_dad outro room
-   7,R
+   2,R
+   1,R
    2,R,J
-   5,R,K,G
-   3,R
-  14,R,D,X
-   4,R,J
-  13,R,U,X
-   9,R,J,G
-  36,L,D,X
-   5,L,J
-  30,L,D,X
-   1,R,D
-  70,D
-#50.813
+   8,R
+  10,R,J
+   5,R
+   1,R,J
+   2,R
+   1,R,J
+  15,R,U,X
+ 133,D
+#50.439
