@@ -96,52 +96,52 @@ console load SpringCollab2020/4-Expert/Thegur90
   16,U,X
    6,L,J,G
    2
-   1,R,J,G
+   1,J,G
    4
-   2,R
-   3,L
-   6,D
-   9,L,X
-   1,J
-   1,K,G
-   1,R,K
+   3,R
+   9,L,Z
+   1,R,J
    5,R
+
   43
 
 #lvl_thegur90_FAB_3
-   2,R,K
-  10,R
-  21,R,J
-   5,J
-  10,U,X
+   2,R
+  15,R,D,J
+   5,R
+   4,R,J
+   9,U,X
   12,L,J
   15,L,U,X
   11,R,U,C
-   1,J
-   1,R,K,G
-  10,L,K
-   8,K
-   4,D,X
-  13,U,X
+   1,K
+   1,R,J,G
+  10,L,J
+   8,J
+  16,U,X
    1,L,J,G
    3,R,J
-   2,L,J
-   1,L
-   1,L,J,G
+   1,L,J
+   2,L
+   1,L,K,G
    7,L
   14,L,J
-   3
+   1
   15,U,X
    1,R
-   2,J
-  14,R,J
+   4,J
+   6,R,J
+   1,J
+   5,R,J
    1,R,K,G
-   1,R,J,G
-  12,R
+   2,R,J,G
+   9,R
+   1
+   1,R
   10,L,D,X
    1,J
-   6,K,G
-   5
+   5,K,G
+   6
    1,K
    5,R
    5,L,J
@@ -150,12 +150,12 @@ console load SpringCollab2020/4-Expert/Thegur90
    1,R,J,G
    3,L,J
    4,R,J
-   7,R,K,G
+   8,R,K,G
    5,R
    4,R,K
-   1,R
+
    1,R,J,G
-   4,R,K,G
+   3,R,K,G
   12,R
    4,R,D,X
    1,R,J
@@ -289,4 +289,4 @@ console load SpringCollab2020/4-Expert/Thegur90
 #lvl_thegur90_FAB_6
   14,R,U,X
  135,R
-#37.162
+#36.703
