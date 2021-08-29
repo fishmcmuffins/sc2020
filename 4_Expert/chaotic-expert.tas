@@ -110,17 +110,15 @@ console load SpringCollab2020/4-Expert/ChaotiC
    8
    9,R
    3,R,D
-   5,D
-   1,R
-   1,R,D
-   7,D
-   1,R,D
-  15,R,X
-  14
-   1,R,D
-   4,R,J
-  15,U,X
-   1,L,J,G
+   4,D
+   1
+  12,R
+
+  15,R,U,Z
+   5,R
+   2
+   1,L,K,G
+   6,L,J,G
    7,L
   10,L,D,C
    3,R,J
@@ -129,10 +127,11 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,J
   19,L,D
    4,R
-   3,R,D
+   1,R,D
+   2,R
   17,R
   15,U,X
-   4,R
+   3,R
   19,L,J
    3,L,K,G
    1,J
@@ -142,7 +141,8 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,R,J,G
   15,R
   10,D
-  15,R,D
+  14,R,D
+   1,R
    6,R,J
   15,U,X
    1,R
@@ -152,10 +152,13 @@ console load SpringCollab2020/4-Expert/ChaotiC
   15,R,D
    1,D
    4,R,D
-   2,D
-   3,R,D
-   3,D
-   4,R
+   1,D
+   4,R,D
+   1
+   1,D
+   3,R
+   1,R,D
+   1,R
    1,R,G
    6,R,J,G
    8,R
@@ -628,4 +631,4 @@ console load SpringCollab2020/4-Expert/ChaotiC
    7,L
   61,L,D,X
    1,R,J
-#68.153
+#67.864
