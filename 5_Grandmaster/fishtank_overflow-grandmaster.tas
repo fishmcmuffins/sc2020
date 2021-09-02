@@ -102,24 +102,21 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
   15,U,X
    1,R
    7,L,J
-  20,U,X
-  16,R
-   8
-   4,D,X
-  11,R,U,X
-   9,L
-   3,L,G
+  26,R,U,X
+  15,L,C
+   1,L,G
    6,D
    1,L,D
    1,R,D
   12,D
    2,J,G
    1,R,J
-   8,R
-   5,J,G
-   3,D
-  26,L,D
-   4,D,X
+   7,R
+   1,J,G
+   3,R,J
+   1,R
+  28,L,D
+   4,L,Z
    2,L,J
  102,U,X
    4,D,C
@@ -134,17 +131,14 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    3,R,K
    4,D,X
   19,R,U,X
-  12,R,J,G
-   1,R
-   3,R,J
-   1,L,J
-   9,K,G
-   1,R,K
-   2,L,K
-   1,L,J,G
-   4,L,K,G
-   4,R,K
-  24,R,J
+  11,R,J,G
+   3
+   5,L,J,G
+   1,K
+   5,L,K
+   5,L,J,G
+   4,J
+  24,R,K
    4,D,X
    4,L,X
    1,R,J
@@ -193,4 +187,4 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1,L,K
    1,L,J
   70,L,K
-#28.475
+#27.880
