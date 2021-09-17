@@ -1,4 +1,4 @@
-#Made by Sashabell, VampireFlower
+#Made by fishmcmuffins
 
 console load SpringCollab2020/5-Grandmaster/Thegur90
    1
@@ -79,39 +79,39 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   40
 
 #lvl_TheHeck90_02
-   4,D,X
+  11,R,Z
    1,R,J
-   7,R
-   8,R,J
-  16,R
-  29,R,J
-   1,J
-  10,R,J
-   1,R,K,G
-  15,R,J,G
-  15,R,U,X
-  15,U,C
-  15,L,U,X
-  13,L
-  14,L,D,X
-  13,L,J
-   1,J
-  14,L,J
-   5,L,K,G
-   2,L
-   7
-  14,R,D,X
-   9,R,J
    3,R
    1,R,J
-   1,R
+   3,R
    4,R,J
-  12,R
+   5,R
+   2,R,J
+   7,R
+  11,R,J
+  21,R
+  14,R,J
+  16,R,U,Z
+  15,U,C
+   6,L
+  15,L,X
+   5
+  11,L,Z
+  26,L,J
+   4,L,K,G
+   1,K
+   3
+   5,L
+  14,R,D,X
+   7,R,J
+   1,R
+  10,R,J
+  11,R,D
+   1,R
    4,D,X
   10,R,X
    6,R
-   9
-   2,D
+  11,D
   15,D,X
   15,R,C
   15,R,U,X
@@ -187,71 +187,27 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    3,L
    5
   12,L,J,G
-  12,L,K,G
-   7,L,J,G
-   4,L
+   9,L,K,G
+   1,K
+   1,L,K
+   1,K
+   1,J,G
+   2,R,J
+   2,K
+   2,R,K
+   1,K
    4,D,X
-   8,R,X
-  23,R,J
-  15,R,X
-  54,R
-  20,L
-   3
-   1,L,D
-   1,R,D
-   1,R,U
-   2,L,D
-   1,R,U
-   2,R,D
-   1,L,D
-   1,R,D
-   3,L,D
-   1,R,D
-   1,L,D
-   1,L,U
-   1,L,D
-   1,R,D
-   2,L,D
-   1,L,U
-   1,R,U
-   1,R,D
-   1,R,U
-   1,L,D
-   1,R,U
-   1,L,U
-   1,R,U
-   1,L,D
-   1,R,U
-   2,L,D
-   1,L,U
-   1,R,U
-   2,R,D
-   1,L,D
-   1,R,D
-   3,L,D
-   1,R,U
-   1,L,U
-   1,R,U
-   1,L,U
-   1,R,D
-   1,R,U
-   2,L,U
-   1,R,D
-   1,L,U
-   1,R,U
-   2,L,D
-   1,R,U
-   1,L,U
-   1,L,D
-   1,R,U
-   1,L,U
-   1,R,U
-   1,L,U
-   1,R,D
-   1,L,U
-   2,L,D
-   1,L,U
-  14,R
+   6,R,X
+  15,R,J
+  15,R,U,X
+  53,R
+  28,D
+   3,R
+   1,R,D,J
+   5,R
+   3,R,J
+  12,R
+  52
   12,J
   17,R,G
   12,R,K,G
@@ -287,75 +243,55 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   11,L
   15,U,X
    4,D,C
-   1,R,C
-   9,R,J
-   6,R
-   2,R,J
-  14,R
+   6,R,C
+   8,R,J
+   4,R
+   1,R,J
+  13,R
   43
 
 #lvl_TheHeck90_04
-   2,R
-   8,R,D,J
-   3
    1,R
+  10,R,D,J
    1,J
-  14,L,K,G
-   4,D,X
-   1,U,X
-   6,R,K
-   6,K
-   1
-  14,U,X
-  14,J
-   4,L,J
+   1,K
+  14,L,J,G
+   5,U,Z
+  12,J
+  15,U,X
+
+   1,L
+  17,J
    1,L,K,G
+
    7,L
-  13,L,J
-  12,K,G
-  12,J,G
-  12,K,G
-   1,J,G
-   1,L,J
-   7,J
-   1,L,J
+  16,L,J
+  12,L,K,G
+  11,J,G
    1,R,J
-   1,L,J
-  13,L,K,G
+  14,L,K,G
+  12,L,J,G
+  10,L,K,G
+  15,L,U,X
+   8
+   5,R,J
+  24,R
+   5,R,X
+   1,R,J
+   2,J
+   1,K,G
+   1,R,J,G
+  12,J
+   3,R,J
    1,J
-   7,U,X
-   1,R,J
-  17,R
-   4,D,X
-  10,R,X
-  20,R,J
-  12,R
-   2,R,K
-   5,U,X
-  10,L
-   6
-   3,J,G
-   2,L,J
-   1,L,K,G
-  18,L,J,G
-   9,J
-  14,R
-   4,D,X
-   1,R,X
-   6,R,J
+  15,R,U,Z
    1,R
-   1,R,J
-   2,R
-   6,R,J
-   1
-   9,R
-   4,D,X
-   8,R,U,X
-   5,J,G
-   2,R
-   1,L,J
-   4,L,K,G
-   1,J
+   1,R,J,G
+   1,R,K,G
+   7,R
+   2
+   3,J
+   8,L,K,G
   43
 
 #lvl_TheHeck90_05
@@ -480,4 +416,4 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   11,R,J
   14,R,U,X
  135,D
-#64.396
+#62.662
