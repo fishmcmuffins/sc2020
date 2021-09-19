@@ -161,31 +161,30 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    7,R
    1,R,J
   14,R
-   1,R,J
-   9,R
+  10,R,J
   40
 
 #lvl_TheHeck90_03
-   3,R
-  17,R,U,X
+  14,R,X
    1,R,J,G
-   2,L,J
-  12,L,K,G
-  12,L,J,G
-  11,K,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   3,R
+   1,L
+   1,K,G
+  10,L,K
+
    1,R,K
+   1,J
+  25,L,J
+  36,L,U,G
+   8,L,G
    1,R,J
-  52,R,K
-   8,R,D
-  10,J
-   1
-   4,L
-  10,L,J
-   3,L
+  40,R,K
   26,L,J
   15,L,X
-   3,L
-   5
+   8,L
   12,L,J,G
    9,L,K,G
    1,K
@@ -417,4 +416,4 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   11,R,J
   14,R,U,X
  135,D
-#62.543
+#62.492
