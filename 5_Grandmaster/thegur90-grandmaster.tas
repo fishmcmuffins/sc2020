@@ -220,9 +220,10 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
    7,L,X
    8,L,J
    5,L
-   3,L,J
+   2,L,J
+   1,L
    1,L,K,G
-  20
+  20,D
    1,J
    2,K,G
    1,R,K
@@ -357,31 +358,26 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   15,R,D,C
    1,R
    6
-  20,R
-  14
+  34,L
   15,U,X
-  21,R,C
+  20,R,C
   12,R,J
    7,K,G
    1,L,K
    1,L,J
   11,L,K
    1,L,J,G
-   7,L,K,G
-   8,K
-  15,U,X
-  12,L,J,G
-   8,K,G
-   2,R,K
-   4,D,X
-   1,R,X
-  11,R,J
-   1,J
-  34,D
-  12,R,D
-  18,L,D
-  10,D
-  11,R,D
+   1,L,K,G
+   9,K
+   5,L,K
+  14,U,X
+  14,R,J
+  15,R,U,X
+  30,R,D
+  12,D
+  14,R,D
+  19,L,D
+  20,R,D
   13,R,X
    4,R,J
   11,K,G
@@ -416,4 +412,4 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   11,R,J
   14,R,U,X
  135,D
-#62.492
+#62.458
