@@ -135,9 +135,12 @@ console load SpringCollab2020/5-Grandmaster/Cyber
   10,R
   13,R,U,X
    4,R,J,G
-   5,R,K,G
-  21,R,D
-  16,L,D
+   4,R,K,G
+   5,R
+   2,R,K
+  14,R,D
+   9,D
+   7,L,D
    7,R
   15,R,U,X
   12,R
@@ -190,42 +193,52 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    5,R,J
    1,R,K,G
    7,R
-   4,D,X
-   3,R,J
-   9,R
-   1,R,J
-  11,R,D,X
+  13,R,Z
+   2,R,J
+   6,R,D,X
+   1,R,K,G
+  10,R
   43
 
 #lvl_Cyber_03
-   1,R,D,X
-   3,R,J
-  14,R,D,X
-   4,R,J
-  16,R,D,X
-  13,R
+   3,R
+   7,R,J
+  21,R,D,X
+
+  11,R
   15,D,X
   37,R,D
-  16,D
+  17,D
   30,L,G
    7,L,G
    2,L,J,G
   10,L,K,G
   15,U,X
   13
-   6,R
-   8,R,D
-   2,R
-   4,D,X
-   8,R,X
-  56,R,J,G
-   8,L,D
+  13,R,D
+   4,R
+   2,R,D
+   5,R,X
+   6,R,J
+  11,R
+   8
+   1,L
+   1,K
+   3,J,G
+  15,R,D,X
+   8,R
+   6
   14,L,D,X
-  19,L,J
-  10,L
-  15,L,U,X
-  25,L,D
-  10,D
+   1,L,J
+   9,L,D,X
+  10,L,J
+  23,L
+   2,L,J
+   3,L
+   1,L,J
+   7,L
+   3,D
+  12,D,X
    1,R,J,G
    1,R,K,G
    2,R,J,G
@@ -235,8 +248,8 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    4,D,X
   11,R,X
   17,R,D
-  25,L,D
-   2,D
+  23,L,D
+   4,D
   15,L,X
    8,L
   17,R,D
@@ -282,8 +295,8 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    1,R,J,G
   18,R,D,G
    1,R
-   7,L,D
-  17,R
+  15,L,D
+   9,R
    9,U,X
   13,G
   11,L,G
@@ -389,4 +402,4 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    1,L,J
   31,L,D,X
   77,R
-#60.231
+#59.483
