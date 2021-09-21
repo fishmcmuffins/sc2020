@@ -28,12 +28,14 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
 #lvl_fishtank_01
   16,R,J
   13,R,X
-  29,R,G
-  15,L,J
-  22,J
-  52,R,X
-   4,R,K,G
-  11,R,Z
+   4,R,G
+   7,R,J,G
+   3,R
+  14,R,Z
+  14,R,J
+  11,R
+   1,R,J
+   8,R,D,X
   40
 
 #lvl_fishtank_02
@@ -169,4 +171,4 @@ console load SpringCollab2020/5-Grandmaster/fishtank_overflow
    1,L,K
    1,L,J
   70,L,K
-#27.387
+#26.180
