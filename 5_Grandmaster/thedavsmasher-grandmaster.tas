@@ -135,6 +135,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,L,J,G
   10,L,K,G
    9,L
+#***S
    7,R
   13,L,U,X
    7,L
@@ -151,24 +152,19 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   22,L,D,X
    2,R
   15,R,D,X
-  26,R
-   8,L
-  15,L,D,X
-   8,L
-   7,L,D
-   6,L
-  15,U,X
-   7,L,C
-   6,L,J,G
-   1,L
-  44,L,J
-   6,L,K,G
-   8,L
-  14,L,D,X
-   4,L,J
-  15,D,C
-   6
+#***S
+  15,R
+   9,R,D
+   2,R
    4,L
+  10,R,C
+   5,L,J
+  32,L,D,X
+   3,L,J
+  15,D,X
+  31,D
+   3,L
+   1
   14,R,D,X
    1,L,J
   14,L,D,X
@@ -177,8 +173,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    8,R
   15,R,X
   11,R
-   2,L
-   1,R
+   3,R
    4,D,X
    7,R,U,X
   10,L,J,G
@@ -333,28 +328,28 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,R,D
    4,D,X
   10,L,X
-   9,R,D
-   2,L
+  11,R,D
+   3,L
   14,L,D,X
    3,L
    3
-  30,D,X
+  29,D,X
+   1,L,D
   15,D,C
    6
    4,D
    1
    1,D
    1,L,D
-   1,L
-   3,L,D
-   4,L
-   1
-  31,L
-   3,L
    1,L,D
+   1,L
+  10,L,D
    1
-   4,D,X
-  25,L,U,X
+  25,L
+   5
+   1,L
+   1,L,D
+  29,L,U,Z
   14,L,U,C
    1,R,J
   11,U,X
@@ -374,7 +369,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   30,L,G
    1,L,J
   10,J
-   1,L,J
+   1,L
    4,L
    3,R
    9
@@ -426,4 +421,4 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    8,L,J
   14,U,X
  135,L,D
-#64.192
+#63.206
