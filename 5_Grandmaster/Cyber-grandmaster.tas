@@ -157,13 +157,14 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    2,J,G
   20,R,J
    1,R,K,G
-   3,L,K
-   4,R,K
+   4,L,K
+   1,R,K
    1,R,J,G
-   6,R,K,G
+   1,R,K,G
+   7,R,J,G
   26,R,D
   17,R,X
-   5,L
+   4,R
    4,D,C
   10,R,C
    5,R,J
@@ -402,4 +403,4 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    1,L,J
   31,L,D,X
   77,R
-#59.483
+#59.466
