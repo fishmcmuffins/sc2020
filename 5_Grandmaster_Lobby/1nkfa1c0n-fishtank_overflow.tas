@@ -5,15 +5,12 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 1192 472
   36
 
 #lvl_1
-   6,L,J
-   3,L
-   7,K,G
-   4,L,K
-   1,R,K
+   8,L,J
+   9,K,G
   15,U,X
-   1,J,G
-   1,L,J
-  10,R,K,G
+  12,R,K,G
+   1,R,J,G
+   2,L,J
    7,R
    4,D,X
    1,R,J
@@ -28,9 +25,9 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 1192 472
   14,R
   14,R,D
   10,D
-   1,R,D
+   2,R,D
   46,D
-  15,R,D
+  14,R,D
    1,D
    4,D,X
    1,R,J
@@ -42,4 +39,4 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 1192 472
    7,R,J,G
    7,R
    1,X
-#4.233
+#4.216
