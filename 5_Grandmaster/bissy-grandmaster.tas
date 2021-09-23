@@ -231,19 +231,22 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    7,L
    5,D,X
   10,L
-  63
-   6,J
-   1,R,J
-  21,K,G
-   3,J
-   4,L,J
-  14,R,U,X
-   2,R,J,G
+  28
+  28,L
+  12,U,X
+  15,J
+  12,R,J
+   7,R,K,G
+   3,K,G
+   2
+   2,J,G
    7,R
-  19,R,J
+  14,R,J
+   2,J
    7,L,U,X
-  32,L
-  14,L,U,G
+  31,L
+  13,L,U,G
+   2,L,G
    1,J,G
    1,K,G
    5,J,G
@@ -253,7 +256,8 @@ console load SpringCollab2020/5-Grandmaster/Bissy
   12,L
    8
   13,R,G
-   9,L,J
+   1,L,J
+   8,L,K
    9,U,X
    1,J
   21,R,D
@@ -461,4 +465,4 @@ console load SpringCollab2020/5-Grandmaster/Bissy
    8,R,U,X
    1
  134,R,D
-#60.843
+#60.707
