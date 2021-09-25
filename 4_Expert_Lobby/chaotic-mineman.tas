@@ -5,11 +5,11 @@ console load SpringCollab2020/0-Lobbies/4-Expert 872 816
   36
 
 #lvl_1
-  14,R,X
+   4,D,Z
    1,R,J
-  31,R,D,X
-   7,R
-  12,R,C
+  39,R,D
+   2,R
+  13,R,C
   10,R,J
   14,R,U,X
    1,K,G
@@ -21,13 +21,14 @@ console load SpringCollab2020/0-Lobbies/4-Expert 872 816
    3,R,J,G
    7,R
   10,R,X
-   7,R,J
-   1,J
+   8,R,J
   16,U,X
-   6,J,G
+   5,J,G
    3,R,J
+   1,R
    1,R,K,G
-   9,R
+   7,R
+   1,R,J
   16,R,U,X
    7,R,K,G
    7,R
@@ -91,4 +92,4 @@ console load SpringCollab2020/0-Lobbies/4-Expert 872 816
    7,L,J
    9,L
    1,X
-#9.690
+#9.622
