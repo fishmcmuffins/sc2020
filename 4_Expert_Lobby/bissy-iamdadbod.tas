@@ -21,17 +21,17 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2760 352
    2
   16,L,J,G
   12,U,X
-  14,R,J
+   5,L,J
+  11,R,J
   10,R
-   1,R,K,G
-   1,R,J,G
-   8,R,G
-   7
+   4,D,Z
+   1,R,J
+   5,R,G
+   4
   12,J
   13,R,G
-  15,R,U,G
-   2,R,G
-   4,K,G
+  12,R,U,G
+   7,K,G
    2,L,K
   18,L,J
    1,R,J
@@ -46,7 +46,7 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2760 352
    2,J
    2
    1,X
-#4.573
+#4.471
 
 #xpos < 2459.50
 #after coming to rest
