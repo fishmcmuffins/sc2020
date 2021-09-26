@@ -8,10 +8,10 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1808 176
    1,L,J
   14,R,D,X
    1,R,J
-  74,R,D,X
-   4,R,C
+  72,R,D,X
+   2,R
+   5,R,C
    6,R,J
-   1,R
-   9,R,J
+   8,R
    1,X
-#1.734
+#1.717
