@@ -22,14 +22,20 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2080 432
    8,R,J
   13,R,D,X
    1,R,J,G
-  32,R,K,G
-  11,U,X
-   6,R,J
-  11,R
-   2,R,J
+  27,R,K,G
+  14,R,U,Z
+   2,R,K,G
+   4,K
+   1,R,K
+   1,J
+   3,R,K,G
    4,D,X
-   3,R,X
-   1,R,J
-   7,R
+   1,R,X
+   3,R,J
+   1,R,K,G
+   1,R
+   1
+   1,R
+   8,R
    1,X
-#2.363
+#2.278
