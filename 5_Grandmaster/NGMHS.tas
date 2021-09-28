@@ -1080,7 +1080,6 @@ AnalogMode,Precise
   13,R
   12,R,U,Z
   21,R
-
 #Aquatic Underground
   26,R
   14,U,X
@@ -1341,10 +1340,18 @@ AnalogMode,Precise
    8,D
   13,U,X
   59,L,U,G
-  49,U,G
-  93,D
-  14,L
-  17,L,J
+  34,U,G
+  
+  30
+  10,R
+   5
+   1,R
+  14
+  15,L,X
+  15,D,C
+  29
+   9,L,J
+   6,L,K,G
    4,R,Z
    1,R,J
    7,R
@@ -1802,4 +1809,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:49.034(17002)
+ChapterTime: 4:48.847(16991)
