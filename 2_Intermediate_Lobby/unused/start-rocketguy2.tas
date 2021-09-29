@@ -7,16 +7,15 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
 #lvl_Biggo_1
   14,U,X
    6
-  17,R
-   7
+   8,L
+  17
   13,U,X
-  29,R,J
-   6,R
+  25,R,J
+   1,R,K,G
+   7,R
    4,R,Z
    1,R,J
-   1,R,K,G
-   1,R
-   1,R,K,G
+   3,R,K,G
   12,R
    5,R,J
    3,R
@@ -40,4 +39,4 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate
    1,L
   19,R,D,C
    1,X
-#4.199
+#4.182
