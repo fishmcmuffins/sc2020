@@ -11,21 +11,22 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 64 1520
   16,R,D
   14,L,D
    9,R,D
-  27,D
-   7,R,D
-  10,L,D,X
-   1,R,J
-   4,R
-  22,R,D,X
+  37,D
+   4,R,D
+  10,R,D,X
+   5,R,J
+  15,R,D,X
    1,R,J
    2,R
-  14,R,D,X
-   9,R
-   4,R,D
+  15,R,D,X
+   3,D
+   7,R,D
   15,D,X
-   1
+   1,D
+   2,L,D
+  10,L,D
    2,L
-  21,L,D
+   9,L,D
   15,R,D
   14,L,D,X
    1,L,J
@@ -34,4 +35,4 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 64 1520
   23,L,D,X
    5,L
    1,X
-#4.301
+#4.267
