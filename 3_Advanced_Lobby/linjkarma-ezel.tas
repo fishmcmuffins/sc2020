@@ -31,11 +31,10 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 2000 1528
   20,L,D
   31,R,D
    6,R
-  13,R,X
-   7,R,J
-  92,R,X
-   4,L,G
-  15,R,D,C
-   8,D
+  13,R,Z
+   4,R,J
+  97,R,X
+   5,R,D
+  16,D,C
    1,X
-#6.579
+#6.511
