@@ -156,11 +156,11 @@ console load SpringCollab2020/3-Advanced/Thegur90
    5,D,X
    5,L,D,C
   15,L,D,X
-  11,U,C
-  15,R,D,X
-  15,R,D,C
-  11,L,Z
-  14,R,U,X
+  12,U,Z
+  15,D,X
+   1,L
+  14,R,D,C
+  15,R,U,X
   15,R,U,C
   16,R
   10,U,X
@@ -222,4 +222,4 @@ console load SpringCollab2020/3-Advanced/Thegur90
    7,D,C
   48,R,X
   28,D,C
-#25.874
+#25.772
