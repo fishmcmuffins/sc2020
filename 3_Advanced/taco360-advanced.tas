@@ -362,27 +362,22 @@ console load SpringCollab2020/3-Advanced/taco360
    5,L,J
   25,L,K
    1,K
-  18,U,X
-   1,R
-  11,R,J
-   2,J
-   1,R,J
-  15,R,U,X
-  14,R,U,C
-  28,L
-   1
-   1,L
-   2
-   4,D,X
-  34,U,X
+  19,U,X
+  12,K,G
+   2,L,J,G
+   5,K,G
+  10,L,K
+  12,J
+  16,U,X
+  39,U,Z
    8,R
-  21,R,X
-   7,R,D,C
-   8,R
-  22,R,U,X
+  11,R,X
+   2,R,K,G
+  18,R
+  21,R,U,X
    2
-   1,R
-   1,R,J
+   2,R
+   1,R,D,J
   14,R,D,X
    1,L,J
    4,D,X
@@ -455,4 +450,4 @@ console load SpringCollab2020/3-Advanced/taco360
    9,R,J
   10,R,U,X
  135
-#71.519
+#71.247
