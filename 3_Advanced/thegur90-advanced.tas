@@ -78,19 +78,16 @@ console load SpringCollab2020/3-Advanced/Thegur90
 #lvl_3
    5
   69,O
-   8,R,J
-   3,R,K,G
+  10,J
+   2
+  10,R,X
    1,J
-  14,R,X
-   6,R,J
-   2,R
-   1,K
-  11,R,K
-   3,R
-   4,D,X
-   4,R,X
-   1,R,J,G
-   8,R
+   4
+  15,R,U,X
+   7
+   2,L
+   2,L,J
+  12,R,Z
   40
 
 #lvl_2
@@ -222,4 +219,4 @@ console load SpringCollab2020/3-Advanced/Thegur90
    7,D,C
   48,R,X
   28,D,C
-#25.755
+#25.687
