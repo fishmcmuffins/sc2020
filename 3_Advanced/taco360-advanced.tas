@@ -1,4 +1,4 @@
-#Created by Lanvilla
+sed#Created by Lanvilla
 
 console load SpringCollab2020/3-Advanced/taco360
    1
@@ -447,7 +447,12 @@ console load SpringCollab2020/3-Advanced/taco360
    1,R,J
   15,R,D,X
    6,R
-   9,R,J
-  10,R,U,X
- 135
-#71.247
+   1,R,J
+   9,R,U,X
+   6,R,K,G
+  21,L,D,X
+   1,L,K,G
+  34,L
+  30,L,J
+  53,L,D,X
+#71.213
