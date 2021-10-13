@@ -778,33 +778,34 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,J,G
    1,K,G
    1,R,J,G
-  25,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-  15,D,C
-  14,D
-   9,L,D
-   7,L
-   7,L,D
-   7,L,X
-   5,L,J,G
-  12,L
-   8,L,J,G
-  18,L
-   6,R
-   4,D,X
-   6,L,X
-   1,L,J
-  14,L
-  15,D,X
-   8,L,D
-   7,D
-  14,L,D
+  19,L
+  10,L,J
+   2,L
+  15,L,D,X
+   2,D
+  19,R,D
+  12,L,D
    1,D
+   3,L,D
    2,L
    1,L,D
-   1,L
+  11,L,X
+   1,L,J,G
+   1
+   4,L
+   1,L,J
+  13,L,X
+   7,L,J,G
+   5,L
+   1,L,J
+   4,L
+   1,L,J
+   6,L,D,X
+   6,L,J
+  45,L,D
+   3,R,D
+   9,L,D
+   4,L
    4,D,X
    3,L,X
    1,L,J
@@ -1110,4 +1111,4 @@ console load SpringCollab2020/2-Intermediate/aridai
   45,L,D,X
    1,L,J
    1
-#123.233
+#123.029
