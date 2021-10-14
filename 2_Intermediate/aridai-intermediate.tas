@@ -866,20 +866,20 @@ console load SpringCollab2020/2-Intermediate/aridai
   15,U,X
    5,R
    1,R,J,G
-   7
-   4,D,X
-   2,R,J
-   8,R
+   7,R
    1,R,J
+  14,R,Z
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_aridai-02 (6)
-  14,R,D,X
-  34,R,J
-  15,R,X
-   5,R
-   1,R,J,G
-  12,R
+   9,R,D,X
+  22,R,J
+   5,R,U,X
+   1,L,K,G
+  23,R,D
+  15
    2,D
    2
    2,D
@@ -915,11 +915,7 @@ console load SpringCollab2020/2-Intermediate/aridai
    2,D
    2
    2,D
-   2
-   2,D
-   2
-   2,D
-   3
+   5
   14,R,D,X
    1,L,J
   11,L,D,X
@@ -1081,4 +1077,4 @@ console load SpringCollab2020/2-Intermediate/aridai
   45,L,D,X
    1,L,J
    1
-#122.723
+#122.621
