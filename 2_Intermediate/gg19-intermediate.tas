@@ -120,9 +120,9 @@ console load SpringCollab2020/2-Intermediate/GG19
    4,L,D
   17,L,D,X
   15,U,C
-  15,U,X
-  16,L
-  16,L,U,X
+  15,U,Z
+  18,L
+  10,L,X
   12,U,C
    1,J
   34,U,G
@@ -224,4 +224,4 @@ console load SpringCollab2020/2-Intermediate/GG19
   18,L,C
    1,L,J
   81,L
-#33.269
+#33.252
