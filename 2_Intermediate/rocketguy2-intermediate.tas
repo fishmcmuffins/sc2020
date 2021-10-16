@@ -18,16 +18,18 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
    4,R
    4,D,X
   10,R,X
-   5,R,J
-  14,R,D,X
-   3,R,J
-   3,R
-   8,D,X
+   1,R,J
+   8,R,D,X
+   1,R,J
+  10,R
+  10,D
+
   40
 
 #lvl_RG2_1
-  25,D
-   2,L,D
+  21,D
+   3,L,D
+   2,D
   13,R,D,X
    1,R,J
    2,R
