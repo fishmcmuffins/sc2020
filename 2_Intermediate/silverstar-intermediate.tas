@@ -3,8 +3,10 @@
 console load SpringCollab2020/2-Intermediate/SilverStar
    1
 
+#fullgame sync
+   1
 #Start
- 102
+ 101
 
 #lvl_IntroRoom
   15,J
@@ -18,55 +20,53 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   65
    4,D,C
    1,R,J
-   7,R
-   3,R,J
-   1,J
+   3,R
    1,R,J
-   1,J
-   2
-   1,R
-  15,R,X
+   3,R
+   4,R,J
+   4,J
+   1,R,J
+  13,R,Z
+   1,L,J
+   1,L
   15,U,C
   15,U,X
-   2,L
-  27,L,D
-  54,F,257.09
+  28,L,D
+  50,F,257.09
    7,F,300
   11,F,
-  17,F,21.44
-   6,F,
-   4,D,X
-  11,L,X
-   6,L
-   2,L,J
-  15,U,X
-   3,R,J
-  14,J
-   1,R,J
-  15,U,X
-  26,R,J
-  15,R,X
-  29,R,D
-   9,R
-   4,D,X
-  11,R,X
+  17,F,29
+  34,F,
+   1,F,310,0.69
+   5,L
+   7
+   1,R
    1
    2,R
-   5
-  17,U,X
-  19,U,C
-  17,U,X
+  15,R,U,Z
+  15,R,C
+  21,R,D
+  13,D
+   4
+  15,R,X
+  18,R,U,C
+  15,U,X
+   1,L
   18,U,C
-   5,L
+   1,L
+  15,U,X
+   1,L
+  17,L,U,C
+   5,L,K,G
    4,D,X
-   8,L,X
+   6,L,X
   12,L,J
    2,L
-   2,L,J
-   1,L
-   2,L,J
-   6,L
-  27,L,U,X
+   3,L,J
+   2,L
+   1,L,J
+   5,L
+  28,L,U,X
    4,D,C
   11,L,C
   23,L,D
@@ -82,7 +82,8 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   40
 
 #lvl_Room2
-  73,O
+   1
+  72,O
 #spinner cycle, 0 for IL
    0
    5,L
@@ -491,4 +492,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   12,R,J
    9,U,X
  135
-#73.763
+#73.253
