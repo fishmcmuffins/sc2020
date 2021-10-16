@@ -77,26 +77,20 @@ console load SpringCollab2020/2-Intermediate/GG19
   10,R,D
   15,R
    6
-   5,R
-   9,R,J
-  38,R
-   4,R,D
-   2,L,D
-  31
-  33,R
+   4,R
+   1
    4,D,X
-   1,R,X
+   9,L,X
    1,R,J
-  10,R
+   9,R,K,G
+  31,R
    1,R,J
-  28,R,D
-   1,R,J
-  18,R
-  11,R,J
+  33,R
+  25,R,J
   11,R,K,G
   12,R,J,G
-  12,R,K,G
-   7,R,J,G
+  10,R,K,G
+   1,R,J,G
    6,K
    7,J
    6,R,K
@@ -138,11 +132,11 @@ console load SpringCollab2020/2-Intermediate/GG19
    5,R,K
   15,U,X
   18,L,U,C
-  32,L,U,G
-   3,G
-   1,R,J
-  15,R,U,X
-   8,U,C
+   9,R,J
+  12,R
+   4,D,X
+  16,R,U,X
+   7,U,C
   13,R,J
    2,R,K,G
    7,R
@@ -150,10 +144,11 @@ console load SpringCollab2020/2-Intermediate/GG19
   16,U,X
   18,L,J
    6,L,K,G
-   8,L
-  12
+   7,L
+  13
    4,R
-  15,R,J
+  10,R,J
+   5,J
   14,R,U,X
    2,R,J,G
   10,R
@@ -229,4 +224,4 @@ console load SpringCollab2020/2-Intermediate/GG19
   18,L,C
    1,L,J
   81,L
-#34.731
+#33.269
