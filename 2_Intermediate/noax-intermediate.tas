@@ -36,9 +36,9 @@ console load SpringCollab2020/2-Intermediate/Noax
    3,L
   15,L,K
    4,D,X
-   9,U,X
+   6,U,X
   22,L,J
-  10,R,U,X
+  12,R,U,X
   14,R,D,C
    2,J,G
    3
@@ -202,8 +202,8 @@ console load SpringCollab2020/2-Intermediate/Noax
    4,D,X
   14,R,U,X
   28,R,C
-  17,U,X
-  20,L,J
+  18,U,X
+  19,L,J
   30,L,X
    4,L,J
    2,L,K
@@ -253,4 +253,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    7,L
   13,L,U,X
  135
-#41.905
+#41.888
