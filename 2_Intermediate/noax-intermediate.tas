@@ -95,12 +95,12 @@ console load SpringCollab2020/2-Intermediate/Noax
   17
   21,R,X
    4,R,J
-  16,R,K
+  12,R,K
   15,R,D,X
-  22,R
-   1,L
-   1,J,G
-   2,R,J
+   8,R,D
+   7,D
+   4,R,Z
+   8,R,J
   35,U,X
   13,R,U,C
    4,L,G
@@ -113,34 +113,40 @@ console load SpringCollab2020/2-Intermediate/Noax
   77,R,C
    4,R,J
    8,R,K
-  12,R
-  18,R,U,X
+  13,R
+  17,R,U,X
    4,R,J
-  23,R,K
-  19,R
+   1,R
+   1,R,K
+   2,R
+   1,R,J,G
+   1,J
+   4,R,J
+  13,R
    1
+   1,R
+   1
+   8,R
    1,R,J,G
    2,R,K,G
-  15,R
-  27,R,X
+  16,R
+  22,R,X
    4,R,K
    2,R,J
   20,R
-  32,R,U,X
-   4,R,J
-  11,R,K
+  32,R,U,Z
+   5,R,J
+  12,R,K
    5,R
-   2,R,K
   13,R,X
    1,R,J,G
-   3,J,G
-   2
+   2,J,G
+   1,R,J
    2,R
    3,R,J,G
-   5,R
-   2,R,J
-   5,R
-  12,R,D,X
+  11,R
+   1,R,J
+  10,R,D,X
    2,R,J
   40
 
@@ -247,4 +253,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    7,L
   13,L,U,X
  135
-#42.296
+#41.905
