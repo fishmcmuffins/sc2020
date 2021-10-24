@@ -266,22 +266,15 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1,R,J,G
   10,R
    1,R,J
-   3,R
-  14,R,D,X
+   2,R
+   6,R,D,X
    1,R,J
-   8,R,D,X
-
-#lvl_room_1 (3)
+  13,R,D
+   1,R,D,J
    3,R
-   3,L
+  11,L,D,X
    1,L,J
-   4,D,X
-   1,L,J
-   7,L
-   1,L,J
-
-#lvl_room_1 (blue)
-   2,L
+   4,L
   14,L,D,X
    1,L,J
    6,L
@@ -289,8 +282,8 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1,L,J,G
   19,L,D,G
   31,R,D,G
-  24,G
-  17,R,G
+  21,G
+  20,R,G
   22,R,J,G
    1
    9,U,X
@@ -303,12 +296,12 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    6,R,K,G
    4
   22,D
-  11,U,X
-   2,L,J
-  20,R,J
-   5,R,J
-   5,R
-  15,R,X
+  12,U,X
+  10,J
+  13
+   4,R,X
+   2,R,J
+  17,R,G
    1,S
    1,D,J
   69,O
@@ -1333,4 +1326,4 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
   51
    4,D,X
   69,R,K
-#152.201
+#152.150
