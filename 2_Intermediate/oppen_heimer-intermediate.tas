@@ -381,12 +381,10 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1,L,J
   14,L,D,X
    1,L,J
-  14,L,D,X
+  10,L,D,X
    1,L,J
-  13,L,D,X
-   1,J
-   1,R,K
-   7,U,X
+  14,L
+   5,U,X
   20,G
 
 #lvl_room_1 (6)
@@ -1327,4 +1325,4 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
   51
    4,D,X
   69,R,K
-#151.929
+#151.861
