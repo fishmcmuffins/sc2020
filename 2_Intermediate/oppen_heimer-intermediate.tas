@@ -1129,38 +1129,28 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
   14,U,X
   18,J
   12,R,K,G
-   2,R,J,G
+   2,J,G
    6,R
-   1
+   1,L
    2,L,J
   14,U,X
-  24,L,J
-   5,L
-  14,U,C
-   6,L,J
-   2,R,J
-   3,L,J
-   1,L,K,G
+  14,L,J
    7,L
-   6
-   2
-   3,L
-   2
+   2,L,J
    2,L
    2
-   2,L
-   2
-   2,L
-   2
-   2,L
-   2
-   2,L
-   2
-   2,L
-   2
-   2,L
-   5
-  10,D,J
+   4,R,K
+   2,K
+  15,U,C
+   1,L,J
+   1,J
+   4,L,J
+   1,L,K,G
+   4,L
+  44
+   3,L,D,J
+   5,J
+   2,L,J
   14,U,X
   15,R,J
    1,K
@@ -1334,4 +1324,4 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
   51
    4,D,X
   69,R,K
-#148.189
+#148.138
