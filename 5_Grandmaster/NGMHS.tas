@@ -1,6 +1,11 @@
 #TAS of the New Grandmaster Heartside
 #By abiteofdata
 
+#Improvements by:
+#abiteofdata
+#Kirbz
+#fishmcmuffins
+
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -376,165 +381,147 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    3,R
   17,R,U,Z
   13,G
-  28,R,U,G
-   7,R,D,G
-   4,R
-   5,L,J
-  17,U,X
-   1,L
-  13,L,U,X
-   4,J
-   2,K
-   1,L
-#0:47.600(2800;-10f)
-#JellySpring1
-#-107f so far
-  12,R,U,C
-  21,G
-   1,L
+  32,R,U,G
    1,R
+  17,U,X
+   2,L
+  12,L,U,C
+   4,L
+   1,L,K
+   2,L
+  12,R,U,X
+  13,G
+   8,U,G
+   1,L
    7,R,X
-   2,K,G
-  21,R,D
-  17,R,X
-  11,L,D,C
-  34,L
-  14,L,Z
+   1,R,J,G
+   1,J
+  21,D
+   5,L,Z
    1,R,J
-   7,R
+   9,L
+   6,L,D,X
+   2,L,J,G
+  22,L
+   1,J
+   8
+   2,L,J
+   5,L
+   7,L,Z
+   1,R,J
+   6,R
    1,R,J
    6,R,D,X
-  21,R,U,G
+  13,G
+   8,R,U,G
    1,L
-  17,R,D,X
-  13,R
-  20,D,X
-  11,R,D,C
-   4,R,J
-   1,R,K
-   5,R
-  18,L,D,X
-   4,L,Z
-   1,L,J
-  10,R
-  20,R,D,X
-   4,R,Z
-  11,R,J
-  24,R,D,G
-   1,L
-   6,R
-  10,R,X
-   4,R,J
-   1,R,K
-   4,R
-  21,R,K,G
-   1,R
-  15,U,X
-   3,L
-  35,R,U,G
-   8,R
-   3
-  11,L,J
-   8,J
-  23,U,X
-  13,R,C
-  12,R,K,G
-
-#Gem Garden
-  14,R,D,X
-  11,R,D
-  13,L,D,X
-   1,K
-   4,R
-  17,D,X
-   5,L
-  21
-   6,L,Z
-   1,R,J
-   7,R
-   1,R,J
   15,R,D,X
-   2,R,D
-  11,R,J
-  10,R
-   1,R,G
-  11,R,D,G
-  24,R,G
-  12,U,X
-  12,J
-  17,L
-   3,G
-  12,L,K,G
-   4,L,J,G
-   8,L,D
-  10,L
-  22
-  14,L,Z
-   1,R,J
-  15,R,D,X
-   5,R,J
-  22,R
-  15,R,X
+   2,R
   13
-  15,L,D,X
-  12,L,D
-   7,D
-  15,R,D,X
+  14,D,X
+  10,R,D
+   1,D
    2,R,D
-  13,L,D
+   4,R
+  18,D
   15,L,X
-   4,L,J
-  37,L,K
-   1,L,J,G
-  13,L
-   6
-   1,D
+  15,R,D,C
+   4,R,J
+   4,R,Z
+  18,R,J
+   2,R,D
+  24,R,X
+  28,R,D
+  15,R,Z
+   3,R
+  15,R,Z
+#Gem Garden
+  15,R,D
+   2,R
+   1,J,G
+   4
+   1,R
+   1
+   1,R
+   1,L
+   2,R
+  13,R
+   6,R,D
+  15,L,Z
+  14,R,D,X
+   1,L,J
+   7,R,D
+  14,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,L,K
+   1,K
+   2,L,K
+   4,R,K
+   8,R,K
+   1,L,K
+   1,R,K
+   2,R
+   1,L
+   1,L,J
+  27,L,D
+   2,L
    1,L,D
-   1,R,D
-   1,D
-   1,L,D
-   1,R,D
-   1,D
-   1,L,D
-   1,R,D
-   1,D
-   1,L,D
-   1,R,D
-   1,D
-   1,L,D
-   1,R,D
-   1,D
-   1,L,D
-   1,R,D
-   2,D
-  12,L,Z
+   4,L
+  15,L,Z
+   6,D
+  13,L,D
+  15,R,Z
+  13
+   2,R
+   1
    1,R,J
    5,R
-  15,R,Z
-  21,R
-   9,R,D
-   2,R,J
-  13,R,Z
+   9,R,J
+  35,R
+   5,L,X
+   1,L,J,G
+  15,L
+   2,D
+   1,L,J
+   1,L
+   7
+   2,L,J
+   5
+   7,L,Z
    1,R,J
    6,R
-   1,R,J
-   5,R
-   9,R,D,X
-   3,R,K,G
+   6,R,J
+  15,R,D,X
    9,R
+  55,R,U
+  41,F,5.1
+  11,F,305
+  11,F,245
+   5,F,220
+  11,F,280
+  11,F,340
+  24,F,31
+   6,F,37
+   6,R
+  10,R,Z
+   5,R,J
+   2,R,K,G
+  14,R,D,X
+   4,R,J
+  12,R,D,X
   40
 
 #lvl_a-02b
 #Kevin Room
-   4,R
+   2,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-   3,R
-   7,L,D,X
+   7,R
+   6,L,D,X
    1,L,K,G
-  14,L
-  20,L
+  34,L
   10,R
    9,R,J
   15,R,X
@@ -1481,37 +1468,40 @@ AnalogMode,Precise
    9,L
   16,U,X
    5,R,K,G
-  15,R
-   4,L
+  13,R
+   7,L
    3
   14,L,Z
    1,R,J
-   8,R,D,X
+   7,R,D,X
    1,R,K,G
+   1
+   4,R
    1,R
-   2,R,J,G
-   5,R
-   6
+   1,S
+   1,C
+   9,J
+   1,R,J
+   1
+   2,R,J
+  25,R,D,X
    1,R,J
   15,R,D,X
-   9,R,D
-   1,R,J
-  15,R,D,X
-  20,R,D
-   5,R,D,X
+   1,D
+  19,R,D
+   5,R,D,C
   13,R,G
- 273,R,U,J,G
-   7,R,D,G
+ 252,R,U,J,G
+  15,R,J,G
+   1,R,D,J,G
    1,L
-  13,R
-  11,R,J
-   5,R
-   1,R,J
+  16,R
+  17,R,J
   14,R,U,Z
    1,R,K,G
-   2,R
+   1,R
    1,R,K,G
-   7,R
+   8,R
   14,R,X
    1,R,J
   15,U,C
@@ -1836,4 +1826,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:46.399(16847)
+ChapterTime: 4:44.002(16706)
