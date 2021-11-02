@@ -359,15 +359,18 @@ console load SpringCollab2020/2-Intermediate/phant
   10,J
    3,R,J
    1,R,D
-  19,R,D,J
-  15,R,D,X
-  15,R,D,C
-   8,R
+  15,R,D,J
+  18,R,D,X
+   5,R
+  13,R,D
+   3,R
   40
 
 #lvl_phant-end
-   6,R
-  15,R,U,X
- 133
-   1,L,D,J
-#36.618
+   3,R
+  12,R,J
+  41,U,X
+  24,U,C
+  11,L,J
+  66,L,K
+#36.601
