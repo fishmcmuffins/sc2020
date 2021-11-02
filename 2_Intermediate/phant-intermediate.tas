@@ -333,19 +333,22 @@ console load SpringCollab2020/2-Intermediate/phant
    4,R,J
   15,R,Z
   13
-   3,L,G
-   4,L,K,G
-  19,J,G
-  11,D
-   4,L,D
-   1,L
-   3,D
+   2,L,K,G
+   1,L,J,G
+   5,R,K
+   8,K
+   6,K,G
+  10,D
+   5,L,D
+   1
+   2,D
+   1
    4,D,X
    1,R,J
    1,R,K,G
    1,R,J,G
-   4,R,K,G
-   7,R
+   1,R,K,G
+  10,R
    9,R,D,X
    1,R,J,G
    1,R,K,G
@@ -367,4 +370,4 @@ console load SpringCollab2020/2-Intermediate/phant
   15,R,U,X
  133
    1,L,D,J
-#36.686
+#36.618
