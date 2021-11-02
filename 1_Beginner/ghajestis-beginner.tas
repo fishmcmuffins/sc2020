@@ -80,20 +80,19 @@ console load SpringCollab2020/1-Beginner/Ghajestis
    2,R,K,G
   55,R,D,X
    4
-  26,D,X
-   6,R,D
-   2,R,J
-  11,R,D,X
+  28,D,X
+   4,R,D
+  10,R,Z
+   1,R,J
   40
 
 #lvl_Ghaj_3
-   3,R,D,X
-   1,R,J
+   4,R
   14,R,D,X
    9,R,J
    3,R
-   2,R,J
-  15,R
+   4,R,J
+  14,R
   15,R,U,X
   24,R,D
    4,D,X
@@ -221,4 +220,4 @@ console load SpringCollab2020/1-Beginner/Ghajestis
  113,R,D
   21,R
    1,L,D
-#25.381
+#25.364
