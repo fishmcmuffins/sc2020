@@ -216,22 +216,25 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   13,R,D,X
    3,R,J
   15,R,D,X
-  14,R,D
+   1,D
+  15,R,D
   15,D,X
-  11,R,D,C
+   8,D,C
   40
 
 #lvl_aleph_down
-   4,D
+   1,D
+   2,L,D
+   2,L,D
+   2
   15,L,X
-  15,L,C
-   1,L,D
+   5,L
+   4
    4,D,X
   11,L,X
    4,D,C
   11,L,C
-   4,D,X
-  11,L,X
+  15,L,Z
   18,D,C
   15,L,U,X
   11,L,C
@@ -362,4 +365,4 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   15,L
   17,L,U,X
  135
-#46.733
+#46.699
