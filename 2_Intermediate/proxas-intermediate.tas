@@ -275,21 +275,24 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,O
   68
    8,L,J
-  15,R,K
+  11,R,K
+   4,J
   15,D,X
-  14,R,D,C
-   8,R,J
+  14,R,Z
+   5,R,J
   15,R,D,X
   12,R
-   3,R,D
+   3,R
+   1,R,J
   15,U,X
    5,R
   15,U,C
-   5,R
+   3,R
+   2
   15,R,U,X
   15,R,C
-  31,R,D
-  15,D
+  32,R,D
+  14,D
   16,D,X
   26,D,C
    4,J
@@ -639,4 +642,4 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,K,G
   15,R,U,X
  131
-#63.138
+#63.104
