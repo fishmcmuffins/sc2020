@@ -44,26 +44,31 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   20,R
    4,D,X
   10,R,X
-  24,R,J
-  14,R,U,X
-   1,R,J,G
-   2,J
-   7,R
-   1,R,J
-  13,R,D,X
+   9,R,J
+   5,R
+  14,R,U,Z
+   1,L,K,G
+   3,R,K
+   5,R
    2,R,J
-  15,R,D,X
-   5,R,D
+   1,R
+   4,R,Z
    1,R,J
-  11,R,D,X
+   6,R
+   1,R,J
+   3,R
+  15,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_int_heart_01
-   3,R,X
+   8,R,D,X
    1,R,J
-  10,R,D,X
-   1,R,J
-   5,R,G
+   6,R,G
    4,D,X
    8,L,X
    1,R,J
@@ -881,4 +886,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
   12,R,U,X
  135,R,D
-#150.236
+#150.127
