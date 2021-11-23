@@ -438,14 +438,18 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   14,U,X
    5,R,J
   14,R,U,X
-  49,L
+ 49,L
   15,L,X
    2,L
-  29,R
+  24,R
   15,R,U,X
-  10,R
-  14,U,X
-   8,R,J
+
+   6,U,C
+   5,R,J
+   5,R
+   2
+   2,L,K,G
+  12,R,J
   44,R
   15,R,D,X
    2,R
@@ -900,4 +904,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
   12,R,U,X
  135,R,D
-#148.920
+#148.835
