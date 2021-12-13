@@ -295,18 +295,21 @@ console load SpringCollab2020/1-Beginner/Skeleton
   18,L,K,G
    2,K
    3,R,J
-   8,R
+   6,R
+  15,R,X
    2,R,J
    2,R
    1,R,J
-  12,R,D
-  14,R,Z
-   5,R,J
+  11,R,D
+   4,R,Z
+   4,R,J
    2,R
    1,R,J
-  20,R
-  14,U,X
-  11,R,J
+   1,R
+   1,R,J
+  17,R
+  14,U,Z
+  12,R,J
    1,S
    1,D,J
   69,O
@@ -466,4 +469,4 @@ console load SpringCollab2020/1-Beginner/Skeleton
   15,R,U,X
   77,R,D
   57,R,J
-#58.837
+#58.803
