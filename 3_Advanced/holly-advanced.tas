@@ -182,6 +182,7 @@ console load SpringCollab2020/3-Advanced/Holly
    7,R
   11,R,J
   12,R,X
+***S
    1,L,J
    7,J
   20,U,X
@@ -234,6 +235,7 @@ console load SpringCollab2020/3-Advanced/Holly
   13,R,X
   11,R,J
    3,J
+***S
   14,K
   18,U,X
   15,R,J
@@ -273,23 +275,21 @@ console load SpringCollab2020/3-Advanced/Holly
   14,L,D,X
    1,L,J
   24,L,D,X
-   2,L,J
-   1,L
-   2,L,K,G
-   1,L
+   1,L,J
+   6,L,U,X
+***S
+   1,L,K,G
+   2,L
    1,L,J,G
    1,L
    1
    7,L
-   5,L,J
+   3,L,J
+   1,L
   43
 
 #lvl_Holly_05
-   3,L
-  17,L,D,X
-   2,R,J
-   1,L,J
-   2,R
+  21,L
   15,D,X
    5,L,D
    4,D,X
@@ -425,4 +425,4 @@ console load SpringCollab2020/3-Advanced/Holly
    8,K,G
   16,U,X
  135
-#48.994
+#48.977
