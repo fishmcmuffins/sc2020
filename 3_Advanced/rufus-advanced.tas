@@ -1,5 +1,3 @@
-#Made by Vamp
-
 console load SpringCollab2020/3-Advanced/Rufus
    1
 
@@ -23,23 +21,26 @@ console load SpringCollab2020/3-Advanced/Rufus
    4,D,X
    6,R,X
    8,R,J
+   3,R
    4,D,X
   10,R,X
    1,R,J
-   9,R,D,X
+   6,R,D,X
   40
 
 #lvl_Rufus_01
-   5,R,D,X
+   8,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
+   3,R
+   1,R,J
+   3,R
   14,R,J
-  30,R,X
+  31,R,X
    5,R,J
-   6,L,K
-   6,R,K
+   4,K
+   3,R,K
   20,R,U,X
    4,R,J
   20,R,X
@@ -52,11 +53,12 @@ console load SpringCollab2020/3-Advanced/Rufus
    4,R,J
    1,R,K
    2,R
-  17,R,X
+  18,R,X
    1,L,J
-  27,L
+  18,L
+   9,L,D
    4,D,X
-  20,L,U,X
+  21,L,U,X
    4,J
    1,L,J
    2,J
@@ -318,4 +320,4 @@ console load SpringCollab2020/3-Advanced/Rufus
    9,R,J
   14,R,U,X
  135
-#47.736
+#47.685
