@@ -2,9 +2,7 @@
 #By abiteofdata
 
 #Improvements by:
-#abiteofdata
-#Kirbz
-#fishmcmuffins
+#abiteofdata, kirbz, fish, aleph
 
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
@@ -1097,21 +1095,23 @@ AnalogMode,Precise
   21,R
 
 #Aquatic Underground
-  26,R
-  14,U,X
-  11,R,J
-  20,R
-   5,R,D
+  17,R
+  15,R,U,Z
+   1,L,J,G
+  20,R,J
+  11,R
   10,L,D,X
    5,R,J
   15,R,D,X
-  31,R,J
+  32,R,J
   12,U,X
-  57,R,U,G
+  56,R,U,G
    1,L
   15,R,D,X
-  26,R,D
-   6,L,Z
+  16,R,D
+   5,R
+   5,L
+   5,L,Z
    1,R,J
    1,R,K
    1,R,J
@@ -1134,15 +1134,15 @@ AnalogMode,Precise
   18,R,D,X
    4,R,J
   23,R,D,X
-  14,L
+  15,L
   12,U,X
    7,L
   29,R
    8,R,D
    1,R
   15,R,X
-  17,R,D
-  26,L,D
+  18,R,D
+  25,L,D
   15,L,X
   32,R,D
    7,R,D,X
@@ -1271,7 +1271,6 @@ AnalogMode,Precise
    1,R,J
    3,R
   18,R,D,X
-
    3,R,J
   15,R,D,X
   16,R
@@ -1356,7 +1355,6 @@ AnalogMode,Precise
   13,U,X
   59,L,U,G
   34,U,G
-  
   30
   10,R
    5
@@ -1564,46 +1562,54 @@ AnalogMode,Precise
    2,K
 #fuck this
   15,R,U,Z
-  43,R
+  39,L
   15,U,X
-   5,R
-   1,L,K
-  20,R,K
-   6,L,G
-   1,R,K
+   3,L
+  20,R,J
   12,R
-   1,L
-   2,L,J
+   3,L,J
+   2,L
   16,L,X
-   7,L,K
-  14,L,J
-  13,L,X
-   5,R,J
-  12,R,U,X
-   4,R,J
-   4,R,K
-   1,R
-   3,R
-  14,R,U,Z
-   6,R,K,G
-   3,L,K
+   5,L,J
+   3,J
+   1,L,K
+   6,K
+  21,R,U,Z
+   3
+
+   1,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,K
+  28,L,U
 AnalogMode,Precise
-  39,F,315
-  44,F,290
-   9,F,330
+  14,F,326
+  10,F,315
+  18,F,300
+  14,F,286
+   7,F,330
    7,F,0
-   6,F,30
-  23,F,34
-  21,F,0
-  15,U,X
-   4,R
-   1,L
-  24,L,J
-  15,L,U,X
-  23,L
-  37,L,J
-  16,U,Z
-  21,J
+  30,F,26
+   7,F,15
+  11,F,16
+   1,F,16,0.75
+   7,R
+   2,L
+   1,R
+  11,L
+   5,L,X
+  15,L,J
+  14,L
+  14,L,U,X
+  28,L,J
+  16,U,X
+  19,J
   12,L,K,G
   11,J,G
    1,R,J
@@ -1826,4 +1832,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:44.002(16706)
+ChapterTime: 4:42.931(16643)
