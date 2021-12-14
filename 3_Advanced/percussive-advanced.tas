@@ -116,11 +116,14 @@ console load SpringCollab2020/3-Advanced/Percussive
   60,R,X
    4,R,J
   13,R,K
-  16,U,X
+  18,U,Z
   10,R
-  17,L,U,X
-   8,R
-  14,R,J
+  14,L,U,X
+   5,L
+   3,R
+  12,R,J
+   1,R,K,G
+   1,R
   11,R,X
   15,R
    4,D,X
@@ -128,7 +131,7 @@ console load SpringCollab2020/3-Advanced/Percussive
    4,R,J
    4,R,K
    4,R
-   8,R,J
+   7,R,J
   15,R,D,X
    3,R,D
    1,R,J
@@ -141,4 +144,4 @@ console load SpringCollab2020/3-Advanced/Percussive
    1,R,K
   13,R,X
  135,R,D
-#24.004
+#23.970
