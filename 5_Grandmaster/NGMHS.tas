@@ -423,12 +423,10 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    4,R
   18,D
   15,L,X
-  15,R,D,C
-   4,R,J
-   4,R,Z
-  18,R,J
-   2,R,D
-  24,R,X
+  19,R,D,C
+   7,R,Z
+  22,R,J
+  18,R,X
   28,R,D
   15,R,Z
    3,R
@@ -679,30 +677,37 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    5,L,X
    1,L,K,G
    6,L,J,G
-  47,L
-  14,L,X
-  42,L,J
-  15,U,X
-   3,L
-   3,L,K,G
-   7,L
-  14,L,Z
-   1,R,J
-   6,R
+   4,L
+  23
    2,R,J
-  23,R,D,X
-   4,R,J
+  15,R,Z
+   8
+   2,J
+  15
+  15,L,X
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
   15,R,D,X
-   5,R
-  69,R,D
+  18,R
+   9,R,D
+   2,R,J
+  17,R,D,X
+   2,R,J
+  22,R,D,X
+   1,R,J
+  24,R,D
+  15,R,Z
 
 #Temporal Tower
-   6,D,X
-   1,L,K
-   7,L
-   6
-  15,L,X
-   3,R
+  35,D
+   5,D,X
+   1,J
+  14
+   8,R
+   2
+   4,R
    6,R,Z
    1,R,J
    6,R
@@ -723,21 +728,24 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    2,L,K,G
    9,L,X
   11,L,K,G
-   4,L,U,X
+   1
+   6,L,U,X
 AnalogMode,Precise
-  29,F,315
-  32,F,305
-  25,F,347
-  31,F,0.02
+  27,F,315
+   5,F,290
+  21,F,305
+  23,F,347
+  30,F,0.02
+   5,F,20
   22,F,45
-  29,F,55.75
-
-   8,R,X
+  24,F,53.5
+   9,R,X
    1,R,K,G
-  15,R,J,G
-  19,U,X
+  19,R,J,G
+  17,U,X
   40
 
+#lvl_a-04
 #Theo Hell
   19,L,J
   15,U,X
@@ -1832,4 +1840,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:42.931(16643)
+ChapterTime: 4:42.523(16619)
