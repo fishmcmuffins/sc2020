@@ -274,17 +274,23 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    4,D,C
    6,R,C
    1,R,J
-   7,R
-   6,R,J
-  18,R,D,X
-  22,D,C
+   1,R
+   6
+   1,R,J
+   5,J
+   2
+  16,R,D,X
+   1,R,K,G
+   1,R
+  19,D,C
+
    3,R,D
-   4
+   3
    4,L,D
    7,R,D
   14,R,D,X
    1,R,J
-  20,R,C
+  19,R,D,X
    4,R,J
    9,R,K
   15,U,X
@@ -292,25 +298,26 @@ console load SpringCollab2020/3-Advanced/LinjKarma
   26,U,C
    4,R
    4,D,X
-  16,R,J
+  18,R,J
   29,R,D,X
    1,L,J
-  36,L,D
-  20,R,D
-   4,D,X
+  35,L,D
+  21,R,D
+   5,R,Z
    1,L,J
-   1,L,D
-  10,R,D
+   1,R,D
+  10,L
   18,L,X
-   8,R
+   6,R
   15,D,X
   14,L,C
-   9,L,J
-   9,L
-   1,L,J
-   7
+  10,L,J
+   8,L
+   2,L,J
+   4
+   5,R
   31,R,D,X
-  27,R,C
+  26,R,C
    4,R,J
    1,R,K
   25,R
@@ -327,13 +334,13 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,J
    1,K
    1,J
-   7,L
+   8,L
  182,R,X
    4,R,J
    1,R,K
   15,R,D,X
-  27,R,D,C
-  30,R
+  22,R,D,C
+  35,R
    4,D,X
    1,R,J
    7,R
@@ -359,4 +366,4 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,J
   14,R,U,X
  135
-#60.299
+#59.772
