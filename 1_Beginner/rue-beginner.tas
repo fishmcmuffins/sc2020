@@ -446,8 +446,12 @@ console load SpringCollab2020/1-Beginner/Rue
   19,F,120
   10,F,20
   23,F,55
- 180,F,94
-  25,R
+  62,F,95.96
+   6,F,90
+   1,F,89.15
+ 115,F,94.91
+   5,F,95
+   7,R
    1,R,J
   14,R
    1,R,J
@@ -455,8 +459,10 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R
+   5,R
+   1
+   8,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -486,4 +492,4 @@ console load SpringCollab2020/1-Beginner/Rue
    5,R,J
   13,R,U,X
  135
-#1:09.887(4111)
+#1:09.734(4102)
