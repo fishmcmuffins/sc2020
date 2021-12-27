@@ -2,13 +2,15 @@
 #an important save file
 #before uncommenting this
 
-#console clrsav
+console clrsav
 
 console load SpringCollab2020/4-Expert/DeathKontrol
    1
 
+#fullgame sync
+   1
 #Start
-  71
+  70
 
 #lvl_start
   14,R,X
@@ -21,9 +23,11 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    2,R,K
    2,L,K
    7,L
-  10,L,X
-   4,L,J
-   6,L
+   4,D,Z
+   1,L,J
+   5,L
+   2
+   7,R,J
    1,S
    1,D,J
   34
@@ -712,4 +716,4 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    4,D,C
    1,L,J
   82,L
-#74.698
+#74.681
