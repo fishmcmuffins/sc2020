@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-
+RecordCount: 479
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -622,82 +622,101 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
   23,L,J
    5,L
    5,D,X
-  33,D
-  10,L,X
-  22,R,J
-   9,U,X
-  11,L,J
-  14,L,U,X
-   1,K
-   8,R,K
-  23,R,D,X
-  15,R,Z
-  28,L,D,X
-  31,D
-  15,L
-  12,R,D,X
-  18,R,J
-  13,U,X
-   2,J
-  20,L,D
-  10,L,Z
-   1,R,J
-   7,R
-   9,R,J
-  14,U,X
-  23,D
-  22,L
-  11,D
-   1,R
-  17,D
-  10,L,Z
-   1,R,J
-   7,R
    1,L,J
-   1,R,J
-   4,R
-  15,R,D,X
-   1,R,J
-  15,R,D,X
-  42,R,D
-  20,D
-   6,R,Z
+  13,L
+   8
+   4,L,Z
+   1,L,J
+   5,L
+   3,L,D,J
+   5,L
+  15,U,X
+  10,R
+   4,R,Z
    1,R,J
    8,R
-  25,R,J
-  15,R,U,X
-  34,R
-  12,U,X
-  10,L,J
-  13,L
-  15,D,X
-  22
-  19,R,X
-  28,U,C
-   5,L,X
-   1,L,K,G
-   6,L,J,G
-   4,L
-  23
-   2,R,J
+  11,R,J
+   8,L,X
+   1,K
+   1,R,K
+   8,R
+  23,R,D,X
   15,R,Z
-   8
-   2,J
-  15
-  15,L,X
-   6,L,Z
+   6,L,D,X
+   1,L,K,G
+  31,L
+  30,D
+   9,L,Z
    1,R,J
    7,R
+   4,R,J
+  11,R
+  15,U,X
+  17,L
+   4,R,Z
    1,R,J
+   6,R
+  12,R,J
+   9,U,X
+  15,L
+   7
+  15,R,X
+   8,R
+  15,L,X
+  12,R
+  20,R,D
+  10,L,Z
+   1,R,J
+   3,R
+   4
+   3,R,J
+   2,R
   15,R,D,X
-  18,R
-   9,R,D
    2,R,J
+  15,R,D,X
+   4,R,D
+  53,D
+   5,R
+   1,R,J
+  12,R,U,X
+   1,K
+  12,R,K
+  16,R
+  19,U,X
+   3,L,J
+  20,L
+  15,D,X
+  22
+  16,R,X
+   1,L,K,G
+  18,U,C
+   5,L,X
+   1,L,K,G
+   1,L,J,G
+  10,L
+  12,D
+   6,R
+   3,R,J
+   2,R
+  15,R,Z
+   6,R
+   4
+   4,R,J
+  17,R
+   4
+   7,L,Z
+   1,R,J
+   7,R
+   2,R,J
+  15,R,D,X
+  22,R
+   5,R,D
+   1,R,J
   17,R,D,X
-   2,R,J
+   1,R,J
   22,R,D,X
    1,R,J
-  24,R,D
+  26,R
   15,R,Z
 
 #Temporal Tower
@@ -738,18 +757,17 @@ AnalogMode,Precise
   30,F,0.02
    5,F,20
   22,F,45
-  24,F,53.5
-   9,R,X
+  21,F,48.2
+  13,R,X
    1,R,K,G
-  19,R,J,G
-  17,U,X
+  17,R,J,G
+  20,U,X
   40
 
 #lvl_a-04
-#Theo Hell
+#Theo Hell 
   19,L,J
-  15,U,X
-   2,L
+  17,U,X
   16,R,J
    2,R,K,G
    4,R
@@ -801,69 +819,69 @@ AnalogMode,Precise
   19,L
   15,U,X
    1,R
-   2,K,G
-  12
+   5,K,G
   19,L,J
-  22,L,G
+  19,L,J,G
+   5,L,G
    1,R
-  19,U,X
+   1,L
+  18,U,X
   15,R,D,C
-  24,R,U,Z
-   9,R
-   8,R,X
-  28,R,G
-   1,D
-  11,U,X
-  21,U,G
-   1,R
-  14,D
-  20,R,D
-   6
-  15,U,X
-  15,R,Z
-  17,D
-  13,R,D
-  12,G
-  12,R,J,G
+  15,R,U,Z
+   8,R,K
+  13,R
+  25,R,J,G
+  15,R,U,X
+  26,R,G
+   2,R,J,G
    4,R
-   3
-  10,U,X
-  21,U,G
+  15,R,Z
+  12,D
+  15,R,D
+   8,J
+   3,R,J
+  12,J,G
+   9,R,J,G
+   1,R
+   8,U,X
+  15,R,U,G
+   6,U,G
    1,R
   15,D
-  20,L,D
-   2,D
-  28,D,X
+  11,L,D
+   3,D
+   6,L,D
+   1,D
    4,R,Z
    1,R,J
    7,R
    1,R,J
-  15,R,U,X
+   2,R,K,G
+  13,R,U,X
   49,R
   14,U,X
   44,R
    6,U,X
-
+  
 #Forest of the Ancients
   37,R
+  13,R,D,X
+   1,L
+   1,K,G
+   2,K
+   6
+   2,R
   14,R,D,X
-   1,L,K,G
-   3,R,K
-   6,R
-   5
-   1,R,J
-   4,J
-  10,L,D,X
-  17,R,J
-  36,R,J,G
+  13,R,J
+  34,R,J,G
    1,R
-  15,U,X
-   5,R,J
+  12,U,X
+   3,R,J
   21,R,G
    1,L
   27,L,D
-  27,D
-   3,L,D
+  24,D
+   6,L,D
   15,R,X
   22,L,D
   10,R,D,X
@@ -1033,27 +1051,29 @@ AnalogMode,Precise
    5,R
   15,D,C
   12,R,X
-  15,R,J
-  20,R,U,X
-  15,U,C
-   4,R
-  15,U,X
-   4
-  11,R,G
+   8,R,J
+   3,R
+   9,L,D,X
+  18,R
+  20,U,X
+  17,U,C
+  18,U,X
   12,R,K,G
-   5,R,J,G
+   3,J,G
   15,U,X
-   3
-   8,R,G
-   3,K,G
-  10
+  21,G
+   5,L,K
   15,L,X
-  26,L,D
-   6,J
-   5,L,J
-  15,L,U,X
-  26,L
-  16,L,D
+   5
+  18,L,D
+   4,D
+   5,J
+   7,L,J
+   6,L
+  15,L,X
+  15,L,D
+   9,D
+   3
   15,R,U,X
   14,R,D,C
   30,R,J
@@ -1101,6 +1121,7 @@ AnalogMode,Precise
   13,R
   12,R,U,Z
   21,R
+
 
 #Aquatic Underground
   17,R
@@ -1482,11 +1503,7 @@ AnalogMode,Precise
    7,R,D,X
    1,R,K,G
    1
-   4,R
-   1,R
-   1,S
-   1,C
-   9,J
+   5,R
    1,R,J
    1
    2,R,J
@@ -1584,7 +1601,6 @@ AnalogMode,Precise
    6,K
   21,R,U,Z
    3
-
    1,L,J,G
    1,R,J
    1,L,J
@@ -1840,4 +1856,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:42.523(16619)
+ChapterTime: 4:39.888(16464)
