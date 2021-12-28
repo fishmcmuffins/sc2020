@@ -544,20 +544,19 @@ console load SpringCollab2020/4-Expert/DeathKontrol
   69,O
    2,R,J
    4,D,C
-   5,R,C
+   6,R,C
    1,R,J
-   6,R
-   2,R,D,J
-   2,R
+   4,R
+   9,R,D,X
   40
 
 #lvl_a-01
-   3,R
+   2,R
+   1,L
+   5,J,G
+  11,R,X
    3,R,K
    1,R
-   4,D,X
-  10,R,X
-   4,R,J
   30,R,D,X
    4,R
    9,R,D
@@ -714,4 +713,4 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    4,D,C
    1,L,J
   82,L
-#74.613
+#74.596
