@@ -136,14 +136,18 @@ console load SpringCollab2020/4-Expert/Bissy
   15,R,C
    4,R,D
   17,D
-   4,L,D
+   3,L,D
+   1,D
   15,L,D,X
   14,R,D,C
-  28,R,J
+  25,R,J
+   1,J
+   1,R,J
   15,U,X
-   1
   12,R,J
-   6,L,J
+   1,L,J
+   1,J
+   4,L,J
    4,J
    8,L,U,X
   44,R,J
@@ -320,4 +324,4 @@ console load SpringCollab2020/4-Expert/Bissy
    9,L,K,G
   15,L,U,X
  135,R,D
-#45.186
+#45.152
