@@ -210,27 +210,29 @@ console load SpringCollab2020/4-Expert/Zerex
    1,R,J
    6,R,D,X
    1,R,J,G
-  12,R
+  10,R
+   1
+   1,R
    1,R,J
   15,R,D,X
-   2,D
+   2,R,D
    2,R,D
    2,R
    1,R,J
   14,R,U,X
-   4,R,J,G
+   3,R,J,G
+   5,R
+   3,R,K
    9,R
-   1,R,K
-   6,R
-   2,R,J
-  15,R
+
+   1,R,J
+  14,R
    4,R,J
    5,R
   10,R,J
   18,R
   37,R,X
   30,R,D
-   1,R
    1,R,G
    4,R,J,G
    2,R
@@ -281,4 +283,4 @@ console load SpringCollab2020/4-Expert/Zerex
    3,R,K,G
   14,R,U,X
  135,D
-#36.091
+#36.040
