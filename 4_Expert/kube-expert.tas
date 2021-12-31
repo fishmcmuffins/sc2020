@@ -157,19 +157,21 @@ console load SpringCollab2020/4-Expert/Kube
    1,S
    1,D,J
   69,O
-   6,R,D,X
-   1,L,J
-   7,L
-   1,L,J
+  10,L,Z
+   3,L,J
   40
 
 #lvl_Kube_2 (2)
-   4,L,J
-   4,L,K,G
-  15,L,D,X
-  15,L,D,C
-  27,R,D
-  36,D
+   2,L,J
+   6,L,U,X
+   2,L,K,G
+   5,L
+   1,L,K
+   5,L,D
+  38,R,D
+   2,D
+   1,R,D
+  35,D
   40
 
 #lvl_Kube_1 (2)
@@ -446,4 +448,4 @@ console load SpringCollab2020/4-Expert/Kube
   38,L,U,X
   15,D,C
   89,R
-#80.546
+#80.495
