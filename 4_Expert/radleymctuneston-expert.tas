@@ -216,6 +216,7 @@ console load SpringCollab2020/4-Expert/RadleyMcTuneston
   40
 
 #lvl_?6
+**
    3,L
    3,R
    1,R,J,G
@@ -223,15 +224,18 @@ console load SpringCollab2020/4-Expert/RadleyMcTuneston
    3,R
    4,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    2,R,J
-  10,R,K,G
+   5,R,K,G
+   5,K
   14,U,X
-  11,R,J
+  10,R,J
   14,R,G
    6,R,D,G
   15,R,G
-   2,R,D,G
+   1,R,D,G
    1,R,J,G
    1,R,K,G
    1,R
@@ -420,4 +424,4 @@ console load SpringCollab2020/4-Expert/RadleyMcTuneston
    1,R,K
    1,R,J
    1,R
-#50.235
+#50.201
