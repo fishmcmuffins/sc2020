@@ -149,9 +149,11 @@ console load SpringCollab2020/4-Expert/Kube
    1,R,J
   20,R,K,G
    5,R,J,G
-  28,R,G
+  20,R,G
    1,L
+   2,R
   14,R,X
+   5,R,K,G
    1,S
    1,D,J
   69,O
@@ -444,4 +446,4 @@ console load SpringCollab2020/4-Expert/Kube
   38,L,U,X
   15,D,C
   89,R
-#80.563
+#80.546
