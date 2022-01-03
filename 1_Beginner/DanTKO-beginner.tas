@@ -65,16 +65,21 @@ console load SpringCollab2020/1-Beginner/DanTKO
   40
 
 #lvl_DanTKO_02
-   9,R,J
+   8,R,J
+   1,R
   14,R,U,X
   24,R,U,G
    1,L
   33,R,D
-  47,R
-  14,U,X
-  24,R,G
-   1,L
-  38,R,D
+  39,R
+  14,R,U,X
+ 
+   8,R,K,G
+   6,R
+   1
+   6,J
+  15,U,X
+  37,R,D
    4,D,X
   26,R,X
    4,R,J
@@ -320,4 +325,4 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,D,X
    1,R,J
   49,R
-#62.577
+#62.560
