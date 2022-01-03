@@ -473,23 +473,22 @@ console load SpringCollab2020/1-Beginner/Rue
 
 #lvl_Rue_Outro
    4,R
-   4,R,J
-  34,R
-   1,R,K,G
-   1,R,J,G
-   4,R
-   1,R,J,G
-   5,R
-   2,R,K,G
-  24,R
    1,R,J
-  26,R
-   1,R,J
+  30,R,D
+   2,L,D
+   1,J,G
+   3,R,J
    1,R,K,G
-   1,R,J,G
+   3,R,J,G
+   5,R,K,G
+   4,R,J,G
   22,R
-  10,R,D,X
+   1,R,J
+  10,R
+   2,R,J
+   9,R
+  10,R,Z
    5,R,J
   13,R,U,X
  135
-#1:09.734(4102)
+#1:09.173(4069)
