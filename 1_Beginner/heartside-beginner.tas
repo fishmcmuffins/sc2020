@@ -73,13 +73,16 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    1,R,J
    1,J
    1,R,J
-  12,R,K
-   7,K
-  10,R,X
-  14,R,J
-  15,R,U,X
-   9,L
-  20
+  19,R,K
+  14,R,X
+   1,L,K
+   6,L,D,X
+   1,R,J
+   4,R
+  17,J
+  15,D,X
+
+  10
   15,J
   15,U,X
   15,R,U,C
@@ -195,17 +198,16 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   13,R
   14,R,U,X
    7,R
-   9,R,D,X
-  18,R
+   7,R,X
+  20,R
   14,R,U,X
   15,R
-   8,R,J,G
-   1,K,G
+   4,K,G
    2,R,K
    1,K
-  16,R,K
-   1,J
-  18,L,J
+  13,R,K
+   2,J
+  17,L,J
   18,R,U,X
   16,R,J
   17,R,K
@@ -225,12 +227,14 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   14,R,K
   14,R,J
   14,R,K
-  14,R,J
+  15,R,J
+
    4,D,X
    1,R,J
    1,R,K
    1,R,J
-  19,R,K
+  18,R,K
+   1,R
   12,R,J
    7,R
    1,R,J
@@ -526,14 +530,16 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    4,D,X
   11,L,X
    2
-   1
+   4
+   1,L
    2,J
    4,D,X
   11,R,X
-  40,L,D
-   3,L
-   8,L,J
-   3,J
+  43,L,D
+
+   8,L,D,J
+   1,J
+   2,L,J
   15,R,D,X
    6,D,C
    2,L
@@ -589,6 +595,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    2,L
    2,R
    2,L
+  25
    4,D,X
   10,L,X
    1,R,J
@@ -621,7 +628,7 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    2,R
   22,R,J
   24,G
-  17,L,D,X
+  18,L,D,X
    2,R,J
   11,R,D,X
    8,R,J
@@ -877,4 +884,4 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   12,R
   14,R,U,X
  135,R,D
-#122.434
+#122.774
