@@ -414,7 +414,9 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   22,F,117.4
    5,F,90
    8,F,45
-  68,F,
+  58,F,
+   1,F,70
+   5
   15,U,X
    2,L
    1
@@ -884,4 +886,4 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   12,R
   14,R,U,X
  135,R,D
-#122.774
+#122.706
