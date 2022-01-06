@@ -723,20 +723,19 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    4,D,X
   37,R,X
    7,R,U,C
-   4,R,J
-   2,R,K
-  29,U,X
+   5,R
+   1,R,J
+  32,U,X
   28,R,C
-  22,U,X
-  11,L
-   1,R
+  21,U,X
+  10,L
   14,U,X
   13,R,J
   36,R,X
-   9,R,U,C
-   4,R,J
+  10,R,U,C
+   6,R
    3,R,K
-  40,U,X
+  41,U,X
    9,R
    3,R,K,G
    1,J
@@ -889,4 +888,4 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   12,R
   14,R,U,X
  135,R,D
-#122.672
+#122.638
