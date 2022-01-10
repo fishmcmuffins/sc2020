@@ -174,65 +174,67 @@ console load SpringCollab2020/3-Advanced/Ezel
   40
 
 #lvl_Ezel_02
-  14,R,D,X
-   1,L,J
-  15,L,D,C
-  10,L,X
-   5,R,J
-  12,L,C
-   3,R,J
-  17,D,X
-   1
-  10,L,C
+  12,R,D,X
    1,R,J
-   4,R
-  10,L,Z
-   1,R,J
-   2,J
-  39,D
-  17,L,D
-  15,L,X
-   5
-   1,L,D
-  17,D
-   5
-   1,L
-   2,L,J
-   5,L,X
-  10
-  15,L,U,C
-  23,L,D
-  33,D
+   1,R,D
+  45,D
    9,L,D
+   1,D
+  15,L,X
+   7,L
+  11,D
+   3,R,D
+   3,D
+   1
+   1
+   2,L
+   1,L
+   1,L,J
+   6,L,K
+  15,U,X
+  15,L
+   2
+   7,R,J
+   1
+  15,L,X
+  28,R,D
+  15,D
+  12,L,D
   15,R,X
   15,D,C
    6,D
    3
-   3,R
+   1,D
+   1
+  10,L,D,X
    1,R,J
-   6,R,K
-   5,R
-   2,R,K
-  11,L,Z
-   6,R,J
-  10,R
+   6,R
+  10,L,X
+  21,R,J
+   7,R
   15,R,U,X
-  32,R,D
-  37,L,D
-   2,D
+  33,R,D
+  39,L,D
+
   10,L,D,C
    1,L,J
   15,L
    5,L,D
-  20,D
-   4,R,D
-  13,L,D,X
-  19,R,J
-   8,R
+  26,D
+   5,L,D
+  23,R
   15,R,X
-  14,R
-  15,R,D
-  25,D
+  15,R
+   8,R,D
+   1,R
+   4,R,D
+  25,L,D,X
+  10,L,D,C
+   1,R,J
+   4,R
+  15,D,X
+  15,D
+   9,R,D
   14,R,D,X
    1,L,J
   14,L,D,X
@@ -527,4 +529,4 @@ console load SpringCollab2020/3-Advanced/Ezel
    1,R,J
   14,R,D,X
  135
-#74.358
+#74.239
