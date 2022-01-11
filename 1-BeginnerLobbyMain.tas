@@ -5,7 +5,7 @@ Unsafe
 console clrsav
 console load SpringCollab2020/0-Lobbies/1-Beginner
 EnforceMaingame
-1
+   1
 
 #Start
 Read,1_Beginner_Lobby\start-abby,Start
@@ -54,7 +54,7 @@ Read,1_Beginner\ghajestis-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\ghajestis-hennyburgr,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\hennyburgr-Beginner,Start
 Read,ExitLevel
 
