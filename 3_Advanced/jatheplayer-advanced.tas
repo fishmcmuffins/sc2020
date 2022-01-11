@@ -62,25 +62,26 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    7
    2,R
    5,U,X
-  12,R,Z
-   1,R,J
+  12,R,C
+   2,R,J
    1,R,K,G
-   3,K,G
-   1,R,K
-   1,R,J,G
-   3,J,G
-   3,R,J
-   3,R,J,G
-   5,R,D,X
-   9,L
-   4,R,D
+   2,K,G
+   2,R,K
+   1,R,K,G
+   1,K
+   3,R,K
+   5,Z
+   9,L,Z
    1,R,J
-  12,R,D,X
+  16,R,D,X
+   1,R,J
+  10,R
+   1,R,D,J
   40
 
 #lvl_JaThePlayer_3
-   4
-   4,D,X
+   4,R
+   4,R,Z
    1,R,J
    5,R
    4,U,X
@@ -139,7 +140,6 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
   13,L,U,X
    1,J
    6,L,J
-***S
   19,U,X
    4,D,C
   10,R,C
@@ -236,4 +236,4 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    8,J
   16,U,X
  135
-#46.325
+#46.461
