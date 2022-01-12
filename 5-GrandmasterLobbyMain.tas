@@ -2,78 +2,78 @@
 Unsafe
 #This will wipe the debug save!
 #Uncomment at your own peril.
-#console clrsav
+console clrsav
 console load SpringCollab2020/0-Lobbies/5-Grandmaster
 EnforceMaingame
-1
+   1
 
 #Start
 Read,5_Grandmaster_Lobby\start-thedavsmasher,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\thedavsmasher-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\thedavsmasher-thegur90,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\thegur90-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\thegur90-bissy,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\bissy-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\bissy-iamdadbod,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\iamdadbod-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\iamdadbod-hydro0,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\hydro0-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\hydro0-deathkontrol,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\deathkontrol-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\deathkontrol-problemstrol,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\problemstrol-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\problemstrol-woofwoofdoggo,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\woofwoofdoggo-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\woofwoofdoggo-cyber,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\cyber-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\cyber-canadian,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\canadian-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\canadian-1nkfa1c0n,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\1nkfa1c0n-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\1nkfa1c0n-fishtank_overflow,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\fishtank_overflow-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\fishtank_overflow-bob_dole,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,5_Grandmaster\bob_dole-Grandmaster,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,5_Grandmaster_Lobby\bob_dole-heartside,Start
-Read,EnterHeartside
+Read,EnterHeartside,Start,extra frame
 Read,5_Grandmaster\heartside-Grandmaster,Start
 
