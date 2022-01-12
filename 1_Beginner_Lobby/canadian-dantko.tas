@@ -7,14 +7,13 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3850 88
 #lvl_lobby_main
    1,L,J
    4,L
-  14,L,D,X
+  13,L,D,X
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J,G
-   2,R,K
-   5,R,J,G
+   2,R,K,G
+   2,R,J
+   5,R,K,G
   15,R,D,X
   11,R,J
    5,R
@@ -23,4 +22,4 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3850 88
    1,J
   18
    1,X
-#1.751
+#1.734
