@@ -24,33 +24,42 @@ unsafe
    3,L
    9,L,D,X
    1,L,J
-   7,L
+   3,L
+   1,L,J
+   3,L
   10,L,J
    5,L,K,G
-   9,L,J,G
-  14,U,X
-  18,L,J
-   1,L,K,G
+   8,L,J,G
+  15,U,Z
+  17,L,J
+   2,L,K,G
    7,L
    2,L,J
-   7,U,X
-   9,R,J
+   6,U,X
+  10,R,J
   11,R
-   7,J
+   6,J
+   1,R,J
   15,U,X
   25,L,K
-   7,L
-  15,L,J
-  12,U,X
-  14,L,J
-  11,L
-   4,D,X
-   4,L,J
-   1,K,G
-   7,L,K,G
-   7,L,J,G
-   5,L
+   2,L
    1,L,J
-   9,L
+   1,L
+   1,L,J
+   2,L
+  10,L,J
+   9,U,X
+   3,L,J
+  15,J
+   1
+   4,L
+   3
+   4,L,Z
+   5,L,J
+   6,L,K,G
+   3,J,G
+   3,L,J
+   8,L,K,G
+  14,L
    1,X
-#4.471
+#4.437
