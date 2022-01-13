@@ -213,9 +213,9 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   32,R,D
    5,D
    7,L,D,X
-  52,R
-  14,U,X
-   9,R,J
+  42,R
+  18,R,U,Z
+  10,R,K
   10,L,X
    7,R,J
   33,R,D
@@ -359,4 +359,4 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   47,R,X
   15,R,D,C
   27,L,D
-ChapterTime: 0:57.443(3379)
+ChapterTime: 0:57.358(3374)
