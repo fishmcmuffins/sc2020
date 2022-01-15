@@ -1,9 +1,4 @@
-#make sure youre not on
-#an important save file
-#before uncommenting this
-
-console clrsav
-
+#console clrsav
 console load SpringCollab2020/4-Expert/DeathKontrol
    1
 
@@ -711,4 +706,4 @@ console load SpringCollab2020/4-Expert/DeathKontrol
    4,D,C
    1,L,J
   82,L
-#74.596
+ChapterTime: 1:14.596(4388)
