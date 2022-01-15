@@ -1,3 +1,5 @@
+# console clrsav
+
 console load SpringCollab2020/5-Grandmaster/Thegur90
    1
 
@@ -227,9 +229,11 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   20,R,J
   22,R
   15,U,X
-   6,L
+# 6 L, 5 L here causes a desync
+# for openGL
+   7,L
   15,U,X
-   5,L
+   4,L
   14,U,X
    6,L,J
    5,L
@@ -406,4 +410,4 @@ console load SpringCollab2020/5-Grandmaster/Thegur90
   11,R,J
   14,R,U,X
  135,D
-ChapterTime:
+ChapterTime: 1:02.050(3650)
