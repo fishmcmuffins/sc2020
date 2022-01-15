@@ -1,5 +1,5 @@
-#Made by Vamp
-
+#openGL desync i think
+#happens late in last screen
 console load SpringCollab2020/3-Advanced/NeoKat
    1
 
@@ -386,4 +386,4 @@ console load SpringCollab2020/3-Advanced/NeoKat
    5,R,J
    9,R,U,X
  135,R,D
-#43.265
+ChapterTime: 
