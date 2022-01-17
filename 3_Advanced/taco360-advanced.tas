@@ -376,25 +376,24 @@ console load SpringCollab2020/3-Advanced/taco360
    1,R,K,G
   18,R
   20,R,U,X
-   2
-   2,R
-   1
-   1,R,J
-  14,R,D,X
-   1,L,J
-   4,D,X
-  10,L,X
-   2,R,J
-   6,R,D,X
-   1,R,J,G
-  12,R
-  27,R,J
-  15,R
-  18,R,D
-   1,D
-   5,R,D
    4,R
+   1,R,J
+   5,R
+   4
+   2,K
+   4
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  13,R
+  25,R,J
+  35,R,D
+   1,R
+   1
    1,R,D
+   4,R
+   1,D
    1,R,J,G
    3,R,K,G
    1,R,J,G
@@ -457,4 +456,4 @@ console load SpringCollab2020/3-Advanced/taco360
   34,L
   30,L,J
   53,L,D,X
-ChapterTime: 1:11.162(4186)
+ChapterTime: 1:11.128(4184)
