@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 479
+RecordCount: 531
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -42,34 +42,33 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    4,R,K
    3,L,K
    1,L,J,G
-   1,L,K,G
+   1,K,G
    1,L
    1
+   4,L
+   1,R
+   1,R,J
+  10,L,X
+   8,L,J
    5,L
-   4,L,J
-  10,L,D,X
-  11,L,J
-   1,L,K,G
-   3,R,K
-   1,L,J,G
-   1,L,K,G
+   2,K
    1,J,G
-   1,J
-   5,L,J
-   3,R,J
+   3,J
+   5,R,J
   15,U,X
    1,R,K,G
-  10,R
-   8
-   3,R
+   1,R,J,G
+   4,R
+  13
   11,L,Z
    1,R,J
-   8,R
-  20,R,J
+   7,R
+  22,R,J
 #Intro-3
   16,U,Z
   18,L,J
-  13,L,K,G
+  11,L,K,G
+   2,L
    2,L,J,G
    7,L
    1,L,J
@@ -78,9 +77,9 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
   15,R,U,X
    5,R
   11,R,J,G
-   5,R
+   4,R
    1
-   1,R
+   2,R
   12,R,Z
    3,L,J
   12,L,D,X
@@ -92,15 +91,16 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    4,L
   15,L,D,X
    1,D
-   9,L,D
-   5,L,Z
-   1,R,J
-   7,R
-   1,R,J
-   7,R
-  15,U,X
+   5,L,D
+   4,L
+  10,R,X
+   5,R,J
+  14,R,U,X
+   5,R,K,G
+   2,R
    1,J,G
-   6,R
+   5,R
+   1
    1,L
   12,L,J
   15,U,Z
@@ -1856,4 +1856,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:39.888(16464)
+ChapterTime: 4:39.752(16456)
