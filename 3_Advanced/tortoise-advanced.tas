@@ -761,23 +761,21 @@ console load SpringCollab2020/3-Advanced/Tortoise
    2,L,J
    6,L
    2
-  15,R,J
-   1,R,K
-  31,R,J
-   2
-   1,R,K,G
-   1
-   1,R,J,G
-   8,R
+  14,R,J
    1,L,J
-  49,R,J
-   1,R,K
-  14,R
+   3,L,K,G
+   2,R,K
+  33,R,J
+   1,R,K,G
+  15,R,J,G
+  42,R
    8,R,J
   47,R,G
-  28,D
+  27,D
    6,R,D,J
-  14,R,D
+   3,R,D
+   7,R
+   8,R,D
  136,D,X
    2,L,J
   15,L,D
@@ -921,4 +919,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,L,J
   31,R
   39,R,D
-ChapterTime: 2:01.482(7146)
+ChapterTime: 2:01.295(7135)
