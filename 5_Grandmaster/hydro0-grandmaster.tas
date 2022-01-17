@@ -2,14 +2,15 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    1
 
 #Start
-#hydro_00
  190
+
+#hydro_00
    4,D,X
    1,R,J
    1,R,K
    7,R
-  10,R,J
-  18,R,K
+  13,R,J
+  15,R,K
   15,R,U,X
    4,D,C
    1,R,C
@@ -18,29 +19,26 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    7,R
    1,R,J
    1,R,K
-  12,R,D,X
+   6,R
+   1,R,K
+   1,R
    1,R,J
-   2,R
-  13,R,D,X
+   9,R,K
+  16,R,D,X
    6,R,J
-  12,R,K
-  11,R,J
-  11,R,K
-  11,R,J
   10,R,K
-   4,R,J
-   2,R
-   5,R,J
-   2,R,K
-   8,R,U,X
-   1,R,J,G
+   9,R,J
+   9,R,K
+   9,R,J
+   3,R,K
+   1,R
+  14,R,U,Z
+   1,R,K,G
    5,R
-   1,R,J
   40
 
 #hydro_01
-   4,D,X
-   8,R,U,X
+  12,R,U,Z
   15,R,C
    4,D,X
    1,R,X
@@ -234,4 +232,4 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    4,D,X
    1,R,J
   94,R,K
-ChapterTime: 0:33.201(1953)
+ChapterTime: 0:32.980(1940)
