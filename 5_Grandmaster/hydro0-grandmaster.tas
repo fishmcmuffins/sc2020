@@ -57,10 +57,8 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    2,R
   17,D,C
   16,L,D
-  13,R,U,X
-   1,R,K
-   1,R
-   9,R,D,X
+   5,R,X
+  10,R,J
   18,L,C
   13,R,D
    4,D,X
@@ -232,4 +230,4 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    4,D,X
    1,R,J
   94,R,K
-ChapterTime: 0:32.980(1940)
+ChapterTime: 0:32.878(1934)
