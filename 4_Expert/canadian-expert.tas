@@ -57,20 +57,15 @@ console load SpringCollab2020/4-Expert/CANADIAN
    2,R,J
   19,D,X
   15,R,D,C
-   1,R,J
-  12,R
-   4,D,X
-   5,R,U,X
-   1,L
-   2,J,G
-   2
-   5,R
   15,D,X
-  15,D,C
+   8,D
   15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
+  12,R,J
+  15,R,U,X
+   4,R
+   4,J
+   7,R
+   7
    4,R,D,X
    1,R,J
    9,R
@@ -86,6 +81,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
   15,D,C
   15,D,X
   15,D,C
+   2
   14,U,X
   15,L,J
    3,R,J
@@ -137,37 +133,37 @@ console load SpringCollab2020/4-Expert/CANADIAN
 #lvl_2b
    5,R,D,X
    1,R,J
-   8,R
-   1,R,J
-   6,R,D,X
+   2,R
+   8
+   8,L,Z
    1,R,J
    7,R
-   2,R,J
-  17,R,D,X
+   1,R,J
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   2,R
    5,R,J
    5,R
-   2,R,J
+   1,R,J
    8,R,K,G
-  16,R,D,X
+  15,R,D,X
    1,R,J
-  10,R
+  14,R
   18,R,J
-   9,U,X
-  20,R,J
-  16,U,X
-   4,J,G
-   8,L
-  15,L,X
-  15,L,C
-  14,R,X
+  10,U,X
+  18,R,J
+  12,R,K,G
+  12,R,J,G
+   4,K,G
+   2,R,K
+  13,L,Z
    1,R,J
-  15,L,C
-  14,R,X
-   1,L,J
-  12,L,C
-   3,R,J
+   1,R
   15,D,X
-   6,R,D
+   3,L
+  18
+   7,R
   10,L,D,C
   14,L,J
    8,L
@@ -395,42 +391,32 @@ console load SpringCollab2020/4-Expert/CANADIAN
    9,L,G
   12,L,K
    5,J
-   8,U,X
+   8,U,Z
   12,L,D
    7,D
-   1,R,D
+   3,R
    4,D,C
-   5,R,C
    1,L,J
-   7,L
+   5,L
    6,L,D,J
-   1,L
-  12,L,J
+   5,L
+   7,L,J
   12,L
-  13,L,X
-   8,L,J
+  14,L,X
+   7,L,J
   15,U,X
   18,L,J
-   5,K,G
-   1,J
-   1,K,G
+   1,K
+   7,J,G
   40
 
 #lvl_5b
   11,R
-   4,D,X
-  10,R,X
-   1,L,J
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  13,R,D,X
-   1,L,J
-   1,L
-  10,R,C
-   7,R,J
-   2,R
+   5,R,Z
+   1,R,J
+   7,R
+   7,L,J
+   2
   16,U,X
    9,L,J,G
    5
@@ -452,31 +438,29 @@ console load SpringCollab2020/4-Expert/CANADIAN
   15,L,X
   11,R,J
    2,L,J
-  15,L,U,X
-  21,R
-  17,R,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-   4,D,X
-   6,L,X
-  16,L,J
-  13,R,U,X
+  19,L,U,X
+  15,L,C
+  15,U,X
+  11,R
   39,L,D
-  24,D
+  25,D
   18,L,D
   11,L,X
   19,L,J
   18,R,U,X
   11,U,C
   24,L,J
-  15,L,D
-   4,D,C
-   9,L,C
+  14,L,D
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  14
+   1,L,J
+  13,L,Z
    6,L,J
    6,L
    1,L,J
@@ -665,4 +649,4 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,L
    1,L,J
    8,L
-ChapterTime: 1:31.256(5368)
+ChapterTime: 1:29.097(5241)
