@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 1343
+RecordCount: 1561
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -338,14 +338,14 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    2,R
    1,R,J
   20,R,K
-  16,U,X
+  18,U,X
    2,R
-  13,R,U,X
-   4,R
+  13,R,U,C
+   2,R
   16,L,U,X
-   7,R
+   5,L
   12,R,Z
-  11,R,J
+  12,R,J
   13,R,D,X
   17,R
    1,R,J
@@ -357,18 +357,20 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
 #lvl_a-02
 #Tripeak Trail
 #Two dashes
+   2,R,J
+   5,R
+   1,R,K
+   5,R
+  14,R,D,X
    1,R,J
-  10,R
-   2,R,J,G
-  15,R,D,X
-   1,R
    6,L,D,C
-   1,L,J,G
-  12,L
-  15
-   1,L,J
-   8,L
-   2,L,J
+   9,L
+  15,L,D,X
+   7,R
+   1,R,J
+   5,R
+   3,L
+   2,L,K
    5,L
    5,L,Z
    1,R,J
@@ -715,21 +717,38 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    4
    7,L,Z
    1,R,J
-   2,R
-   2
-   3,R
+#One spinner cycle
+#   2,R
+#   2
+#   3,R
+#   2,R,J
+#  15,R,D,X
+#  22,R
+#   5,R,D
+#   1,R,J
+#   1,R
+#  17,R,D,X
+#   1,R,J
+#  22,R,D,X
+#   1,R,J
+#  24,R,D
+#  15,R,Z
+#Other spinner cycle
+   7,R
    2,R,J
   15,R,D,X
   22,R
-   5,R,D
+   4,R,D
+   1,D
    1,R,J
-   1,R
   17,R,D,X
+   2,R
    1,R,J
   22,R,D,X
    1,R,J
   24,R,D
   15,R,Z
+#
 
 #Temporal Tower
   35,D
@@ -1882,4 +1901,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:38.834(16402)
+ChapterTime: 4:38.817(16401)
