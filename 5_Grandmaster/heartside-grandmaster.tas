@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 1561
+RecordCount: 1643
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -443,33 +443,28 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    3,R
   15,R,Z
 #Gem Garden
-  15,R,D
-   2,R
+  17,R,D
    1,J,G
    4
-   1,R
-   1
-   1,R
-   1,L
    2,R
-  13,R
-   6,R,D
+   1,L
+  12,R
+   3,R,D
+   3,R
+   4,R,D
   15,L,Z
   14,R,D,X
    1,L,J
-   7,R,D
-  14,R,D,X
+   5,R,D,X
+   1,J
+   3,R,J
+   6,R
+   9,R,D,X
    1,R,J,G
-   1,R,K,G
-   1,L,K
-   1,K
-   2,L,K
-   4,R,K
-   8,R,K
-   1,L,K
-   1,R,K
-   2,R
    1,L
+   8
+   2,R
+   1
    1,L,J
   27,L,D
    2,L
@@ -718,36 +713,36 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    7,L,Z
    1,R,J
 #One spinner cycle
-#   2,R
-#   2
-#   3,R
-#   2,R,J
-#  15,R,D,X
-#  22,R
-#   5,R,D
-#   1,R,J
-#   1,R
-#  17,R,D,X
-#   1,R,J
-#  22,R,D,X
-#   1,R,J
-#  24,R,D
-#  15,R,Z
-#Other spinner cycle
-   7,R
+   2,R
+   2
+   3,R
    2,R,J
   15,R,D,X
   22,R
-   4,R,D
-   1,D
+   5,R,D
    1,R,J
+   1,R
   17,R,D,X
-   2,R
    1,R,J
   22,R,D,X
    1,R,J
   24,R,D
   15,R,Z
+#Other spinner cycle
+#   7,R
+#   2,R,J
+#  15,R,D,X
+#  22,R
+#   4,R,D
+#   1,D
+#   1,R,J
+#  17,R,D,X
+#   2,R
+#   1,R,J
+#  22,R,D,X
+#   1,R,J
+#  24,R,D
+#  15,R,Z
 #
 
 #Temporal Tower
@@ -1901,4 +1896,4 @@ AnalogMode,Precise
    2,J
   16,U,X
  135
-ChapterTime: 4:38.817(16401)
+ChapterTime: 4:38.630(16390)
