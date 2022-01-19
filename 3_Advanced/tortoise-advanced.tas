@@ -1,5 +1,5 @@
-console clrsav
-   1
+#console clrsav
+#   1
 
 console load SpringCollab2020/3-Advanced/Tortoise
    1
@@ -593,10 +593,10 @@ console load SpringCollab2020/3-Advanced/Tortoise
    5,L,J,G
    3,K
    7,L,J
-  45,L,X
+  46,L,X
    1,L,G
   15,R,D
-  30,L,D
+  24,L,D
    1,L,J
   21,L
    1,L,J
@@ -888,4 +888,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,L,J
   31,R
   39,R,D
-ChapterTime: 2:01.176(7128)
+ChapterTime: 2:01.091(7123)
