@@ -48,7 +48,8 @@ console load SpringCollab2020/3-Advanced/orbittwz
   40
 
 #lvl_02
-  11,R,J
+   6,R,J
+   5,R
   15,R,U,X
   39,R,D
   18,R,X
@@ -72,42 +73,41 @@ console load SpringCollab2020/3-Advanced/orbittwz
    1
    9,R
   18,R,D
-   1,D
-   1,R
-   1,R,D
-   5,R
-  21,R,X
-   4,D,C
-  18,R,U,C
-   9,U,X
-  13,R,J
-   1,J
+   1
+  13,R
+  16,R,U,Z
+   1,L
+   1,K,G
+   5
    3,R,J
-   1,K
-   5,L,K
-  26,L,D
-   8,L
-  19,L,J
+   1,R
+  15,R,U,X
+   2,L,K,G
+   9,J,G
+   4,L,J
+   1,L,K,G
+   2,L,J,G
+   1
+  10,L
+  22,L,J
   14,R,D,X
-   1,R,J
-  21,D
-   4,R,D
-  10,R
-   4,D,X
-  30,R,U,X
-   2,R,J,G
+  14,R,J
+   2,K
+   6,J
+  12
+  20,R,D
+  20,R
+  15,R,U,Z
+  17,R
+  13,U,Z
+   3,L,J
+  10,J
    1,L,J
-   1,R,J
-   7,J
-   7,K,G
    1,J
-   2,K,G
-  21,L,K
-  12,U,X
-   7,R,J
-   2,R
-   4,D,X
-   7,R,X
+   4,L,J
+   1,J
+  16,R,U,X
+   9,R,Z
    5,R,J
   40
 
@@ -503,4 +503,4 @@ console load SpringCollab2020/3-Advanced/orbittwz
   30,L,K,G
   73,L,D,X
    1,L,J
-ChapterTime: 1:08.850(4050)
+ChapterTime: 1:08.697(4041)
