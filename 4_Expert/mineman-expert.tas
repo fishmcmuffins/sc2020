@@ -93,15 +93,14 @@ unsafe
   12,R,U,C
   15,D,X
   12,D
-   7,R,D
-   4,D,C
-   6,R,C
+   8,R,D
+   9,R,C
   15,R,D,X
-   3,L,D
+   4,L,D
   15,R,U,X
-  18
-  22
-   3,L
+  15
+  21
+   4,L
   19,L,J
    4,D,X
    7,L,X
@@ -438,4 +437,4 @@ unsafe
   18,F,321
   15,L,U,X
  135
-ChapterTime: 1:18.336(4608)
+ChapterTime: 1:18.302(4606)
