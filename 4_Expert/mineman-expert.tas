@@ -203,19 +203,21 @@ unsafe
    8,L,D,X
    3,R,J
    7,R
-  15,R,J
-   6,L,J
+  15,R,D,J
+   5,L,J
    1,R,J
+   1,R
   15,L,U,X
   15,L,U,C
   15,L
-  41,U,X
-  14,U,C
+  50,U,X
+   5,R,U,C
   40
 
 #lvl_mineman_3
-  20,R
-  23,U,X
+   8,R
+   8,R,J,G
+  22,U,X
    4
   37,R
   10,L,D,X
@@ -435,4 +437,4 @@ unsafe
   18,F,321
   15,L,U,X
  135
-ChapterTime: 1:17.367(4551)
+ChapterTime: 1:17.282(4546)
