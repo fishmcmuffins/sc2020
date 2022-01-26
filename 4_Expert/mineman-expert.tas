@@ -418,15 +418,11 @@ unsafe
   12,R,J
   36,R,X
    4,R,J
-   1,R,K
-  15,R,U,X
-  23,L,U
+   7,R,U,X
+  27,L,U
   10,F,350
   10,F,356
-  10,F,9
-  10,F,1
-   9,F,15
-  66,F,9
+  97,F,7.8
   40
 
 #lvl_mineman_outro
@@ -436,4 +432,4 @@ unsafe
   18,F,321
   15,L,U,X
  135
-ChapterTime: 1:17.265(4545)
+ChapterTime: 1:17.214(4542)
