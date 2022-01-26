@@ -232,7 +232,8 @@ unsafe
    8,L,J
    4,D,C
   11,L,U,C
-  17,L
+  16,L
+   1
    4,D,X
    5,R,X
   23,R,J
@@ -251,9 +252,10 @@ unsafe
    4,R,K
   14,R,J
   15,L,U,X
-   4,K
-  14,J
-  34,U,X
+   8
+   7,J
+   2,L,J
+  33,U,X
    4
   15,U,C
   11,L,D,X
@@ -335,7 +337,7 @@ unsafe
    6,R,J
   14,U,X
   15,R,U,C
-  15,R,U,X
+  15,R,U,Z
   14,L
    1,L,J
   18
@@ -432,4 +434,4 @@ unsafe
   18,F,321
   15,L,U,X
  135
-ChapterTime: 1:17.214(4542)
+ChapterTime: 1:17.180(4540)
