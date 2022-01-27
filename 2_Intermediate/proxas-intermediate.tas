@@ -354,12 +354,12 @@ console load SpringCollab2020/2-Intermediate/ProXas
    7,R,J
    9,L,K
   10,L,X
-   6,L,J
-  11,U,X
+   7,L,J
+  10,U,X
   40
 
 #lvl_r-3
-   4,L,J
+   3,L,J
    6,L
    1,R,J,G
    1,R,K,G
@@ -570,4 +570,4 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,K,G
   15,R,U,X
  131
-ChapterTime: 0:58.820(3460)
+ChapterTime: 0:58.803(3459)
