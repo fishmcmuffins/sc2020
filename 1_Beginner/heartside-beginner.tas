@@ -585,16 +585,15 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   12,R
    2,R
   22,R,J
-  24,G
+  23,G
   18,L,D,X
    2,R,J
-  11,R,D,X
-   8,R,J
-   4,R
+   9,R,D,X
+   3,R,J
+   9,R
    1,R,G
-   7,R,J,G
-   3,R
-   5,R,J
+  12,R,J,G
+   4,K
    4,D,X
    7,R,X
    6,R,J
@@ -838,4 +837,4 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   12,R
   14,R,U,X
  135,R,D
-ChapterTime: 2:02.468(7204)
+ChapterTime: 2:02.434(7202)
