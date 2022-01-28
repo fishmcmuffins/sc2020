@@ -69,18 +69,18 @@ console load SpringCollab2020/1-Beginner/hennyburgr
    2,L,K
    2,R,K
    7,R
-  10,R,X
-  10,R,J
-   3,R
+  13,R,X
+   6,R,J
+   5,R
   15,R,U,X
-  37,R,D
-   6,D
-   1,R,D
-   4,D
+  33,R,D
+   8,D
+   4,R,D
+   1,D
    8,R,J
    6,R
-   3,R,J
-   7,R
+   2,R,J
+   8,R
    4
    6,J,G
    8,R,J
@@ -326,4 +326,4 @@ console load SpringCollab2020/1-Beginner/hennyburgr
   14,R,U,X
   89,R,D
   46,R,D,J
-ChapterTime: 0:39.236(2308)
+ChapterTime: 0:39.219(2307)
