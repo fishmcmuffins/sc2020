@@ -48,21 +48,20 @@ console load SpringCollab2020/4-Expert/iamdadbod
   20,R,J
   10,L,D,X
   27,R,J
-  38,U,X
-  12,L
-   4,D,X
-  10,L,X
+  40,U,X
+  10,L
+  14,Z
   21,L,J
   15,L,X
-  27,D
-   3,R,D
-  10,L,D,X
-   7,R,J
+  19,D
+  14,L,D
+   1,D
+   9,R,Z
+  10,R,J
    1,R
-  20,R,D,J
-  18,R,X
-  15,R,D
-  16,R,C
+  25,R,J
+   6,R,D
+  22,R,X
    4,R,J
    1,R,K
   45,R,Z
@@ -121,24 +120,21 @@ console load SpringCollab2020/4-Expert/iamdadbod
    4,R,J
    8,R,K
    6,R
-   1,R,K
-   6,R,K
-   5,R,K
+  12,R,K
    3,L,K
-   4,D,X
-  11,R,X
+  15,R,Z
    2,R
-   4,D,X
-  11,R,J
-   1,L,J
-   8,L
-  14,R,D,X
-   8,R,J
-   4,R
-  14,R,X
+   8,R,Z
    9,R,J
-  18,R
-   4,R,D
+   5,R
+   1
+   1,R,J
+  12,R,D,X
+  10,R,J
+   7,R
+   9,R,D,J
+  13,R,D
+   9,L,D
    7,L,D,X
   27,R
   35,U,X
@@ -151,8 +147,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
   14,R,D,X
   22,R,J
   26,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    9,R
    5,R,Z
    1,R,J
@@ -173,36 +168,32 @@ console load SpringCollab2020/4-Expert/iamdadbod
    8,R,J
   10,L,Z
   31,R,J
-  36,R,Z
+  36,R,X
+   4,R
+  17,R,U,Z
    4,R,J
-   5,R,K
-  11,L,U,X
-   4,R,G
-   3,R,J,G
-  14,R,X
-   4,R,J
-   1,R,K
-   5,R
-   1,R,J
-  10,R
+   6,R,K
+   1,R
+  21,R,K
+   1,K
   15,R,U,X
   39,R,D
-   7,L,D
-   2,L
-   1,L,D
+   6,L,D
+   4,L
   15,L,X
    8,D
   11,R,D
-   6,R
-   8,R,D
+   5,R
+   1,R,D
+   1,R
+   7,R,D
    1,R,K
   11,R,J
    6,R
   15,R,J
    5,R,D
   17,R,X
-   4,D,C
-  12,R,C
+  16,Z
    1,R,J,G
    1,L,J
    4,L
@@ -265,30 +256,29 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1
    1,R,G
    9
-   4,D,X
-   6,R,X
+  10,R,Z
    1,R,J
   19,R
   22,R,U,X
   45,R,C
    7,R,J
-   4,D,X
+   4,Z
   10,R,J
    1,R
   22,R,J
   10,L,D,X
-  10,R,J
+   6,R,J
    1,R
-  20,R,J
-  51,R,X
-   8,R,X
+  19,R,J
+  55,R,X
+   8,R
    1,R,J
    1,R
   10,L,D,C
   40,R,J
-  12,U,X
-  24,R,J
-  31,R,D
+   9,U,X
+  30,R,J
+  25,R,D
   28,R,X
   15,R,D,C
    8,R,J
@@ -321,4 +311,4 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1,R,J
   15,R,U,X
  133,D
-ChapterTime: 0:50.354(2962)
+ChapterTime: 0:49.997(2941)
