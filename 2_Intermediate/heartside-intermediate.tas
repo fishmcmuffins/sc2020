@@ -743,10 +743,7 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   25,L
    4,D,X
   10,L,X
-  10,L,J
-   1,L
-   2,L,J
-   3,L
+  15,L,J
   15,L,D,X
 #1 dash from now (or so) on
    4,L,D
@@ -917,4 +914,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
   12,R,U,X
  135,R,D
-ChapterTime: 2:26.319(8607)
+ChapterTime: 2:26.302(8606)
