@@ -12,15 +12,16 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
 
 #lvl_int_heart_00
   10,L,X
-  12,L,J
-  11,L,K,G
-   1
-   7,L,J,G
-   1
+   7,J
+   3
+  16,L,U,X
+   2,L,J,G
+   7,L
    4,D,X
-  10,L,X
+   9,L,X
    1,R,J
-   6,R
+   3
+   3,R
    6,R,D,J
    5,R
   18,U,X
@@ -906,4 +907,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
   12,R,U,X
  135,R,D
-ChapterTime: 2:27.713(8689)
+ChapterTime: 2:27.696(8688)
