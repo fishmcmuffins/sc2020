@@ -393,7 +393,6 @@ console load SpringCollab2020/3-Advanced/Ezel
    4,R
   12,R,K,G
   15,U,X
-#61.625
   43
 
 #lvl_Ezel_05
@@ -500,26 +499,30 @@ console load SpringCollab2020/3-Advanced/Ezel
    6,L,D
   15,D,X
   13,D,C
-  47,R
-   8,D,X
-  16,R
-  11,R,D,X
-  12,R,J
-   1,R
+  10,R
+   9
   15,R,D,X
-   5,R,D
+   8,L,D
+   6,L
+  13,R
+  12,R,Z
+   1,R,J
+   8,R
+   1,R,J
+   3,R
+  15,R,D,X
+   1,R,D
    4,R,J
-  10,R,K,G
-   6,R,D,X
+   2,R
   40
 
 #lvl_Ezel_06
-   9,R,D,X
-   1,R,D
-   5,R,J
-   6,R,K,G
-   8,R
+  11,R
+  14,R,Z
    1,R,J
-  14,R,D,X
- 135
-ChapterTime: 1:14.239(4367)
+  15,R,D,X
+   1,R,K,G
+   2,R,J,G
+   8,R,K,G
+ 124,R
+ChapterTime: 1:13.729(4337)
