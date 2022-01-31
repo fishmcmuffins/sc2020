@@ -619,28 +619,29 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    3,D,G
    5,U,X
   17,L,J
-  10,R,J
-   2,R,K,G
+   7,R,J
   15,U,C
+   1,R,K,G
+   4,R,J,G
   15,U,X
   19,D
-  20,R,D
+  17,R,D
+   7,L,D
    5,L,D,X
    1,R,J
-  23,D
-   4,R,D
+  23,R
    3,R
-  14,U,X
+  15,U,X
    2,R,J
-   5,L
-   7,R,X
+   4,L
+   6,R,X
   14,R,J,G
   11,R
   15,R,X
-   6,R
+   7
   10,R,D,X
-   1,L,J
-   8,L
+   2,L,J
+   7,L
    9,L,X
   21,L,J,G
   14,L,X
@@ -920,4 +921,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
   12,R,U,X
  135,R,D
-ChapterTime: 2:26.897(8641)
+ChapterTime: 2:26.846(8638)
