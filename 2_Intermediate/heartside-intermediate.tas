@@ -503,7 +503,6 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   15,R,U,X
    2,R,U
   15,R,C
-
    5,R
   15,R,D,C
   39,F,72.6
@@ -584,7 +583,6 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
 
 #lvl_int_heart_04
    8,R,U,X
-
    4,L,J
 #Section flag2
   31,U,C
@@ -743,18 +741,17 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   25,L
    4,D,X
   10,L,X
-  15,L,J
-  15,L,D,X
-#1 dash from now (or so) on
-   4,L,D
-  23,D
-  21,R,D
-  10,R,D,X
+   1,L,J
+   9,L,D,X
+   1,L,J
+  45,L,D
+
+  19,R,D
+  10,R,Z
    5,R,J
    1,R
    1,R,J
-   4,R
-   1
+   5,R
    4,D,X
   11,R,X
    6,R
@@ -914,4 +911,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    5,R,J
   12,R,U,X
  135,R,D
-ChapterTime: 2:26.302(8606)
+ChapterTime: 2:26.251(8603)
