@@ -94,58 +94,62 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   25,R,J
   13,R
   10,L,D,X
-  11,R,J
-   2,J
+  12,R,J
   15,R,D,X
-   2,L,D
-   4,D,X
-  10,R,X
-   7,R,J
-   5,R
-   3,R,J
-   7,R,D
-  18,R,G
-   1,R,J,G
-   6,R,K,G
-  15,R
-   7,R,G
-   1,R,D,G
-   1,R,G
-   1,R,D,G
-  29,R,G
-   1,R,D,G
-  10,R,J,G
-  20,R
-   3
-  15,R,X
-   1,R,J,G
-   7,R
-   8,L
-  27,R
-  15,R,X
-   4,D,C
-  20,R,U,C
-   3,R,G
-   6,R,J,G
-  23,R,D
-  11,D
-   1,R,D
-   4,D
-   1,L
-  26,R
-  13,R,D,X
-   1,R,J,G
+   2,R,D
    1,R
-  13,L
-  13,R
-  11,R,D,X
-  28,R
-  15,D
-   5,R,X
-   5,R,J,G
-   6,R
+   1,R,D,J
+   5,R
    1,R,J
-  16,R,D
+  15,R
+  10,R,D
+   9,R,U,Z
+  44,R,D,G
+   5,R,G
+   3,R,D,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   2
+   1,R
+  15,R,D,X
+   1
+  10,R
+   5,R,J,G
+   2,J
+  14,R,J
+   2,J
+   3
+  10,U,Z
+
+   1,R,J
+  12,R,G
+   1,R,J,G
+   4,L,J
+   1
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  17,R,D
+  15,D,X
+   5,R,D
+  29
+
+   2,R
+   1
+  16,R
+   1,R,K,G
+   8,R,G
+   4,R,K,G
+  14,R,Z
+   6,R,J
+   7,R,K,G
+   1
+   4,R
+   1,R,J
+  16,R
+   8,R,K,G
+  25,R
   15,L,X
    3,R
   17
@@ -1036,4 +1040,4 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,L
    1,D
    1,R,D
-ChapterTime: 2:16.714(8042)
+ChapterTime: 2:15.354(7962)
