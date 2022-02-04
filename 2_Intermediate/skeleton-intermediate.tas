@@ -402,30 +402,27 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   10,R
   10,J,G
    1,L,J,G
-   1,R,J,G
-   2,K,G
-  22,L,K,G
+   1,R,J
+   6,K,G
+  18,L,K
   10,J,G
-   1,R,J,G
-  12,L,K,G
-  10,J,G
-   1,R,J,G
+   1,R,J
   12,L,K,G
    9,J,G
    1,L,J,G
    1,R,J,G
    1,L,J,G
-   1,K,G
+   1,K
+   1,K
+   7,R,K
+  13,L,J
+   1,K
    1,L,J,G
-   1,R,J,G
-  35,R
-   5,R,D
-   1,R,J
-  23,R
-   7,R,J
-   3,R
-   2
-  13,U,X
+   6,R,J
+  40,R,D
+  10,R,J
+   3,J
+  12,U,X
   31,R,J
   15,R,X
   21,R
@@ -438,7 +435,8 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    1
   20,R,D
    5,R
-   7,R,D
+   4,R,D
+   3,R
    2,L,J
   17,R,X
   10,R,D,C
@@ -471,4 +469,4 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    8,L,K,G
   14,L,U,X
  135,L,D
-ChapterTime: 1:25.935(5055)
+ChapterTime: 1:25.595(5035)
