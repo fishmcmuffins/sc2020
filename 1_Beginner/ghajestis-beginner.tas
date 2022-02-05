@@ -181,24 +181,17 @@ console load SpringCollab2020/1-Beginner/Ghajestis
   13,R,X
    4,L
   23,U,C
-   7,L,D,X
+  14,R,Z
    1,R,J
-   7,R
-   1,R,J
-  11,R,U,X
-   2,R,J,G
+   9,R,U,X
+   1,R,K,G
    5,R
-   1,R,J
-   1
-   5,R,D
-   2
-   1,D
-   8,R,D
-   5,R
-   4,D,X
-  18,R,X
-   4,R,K
-   9,R,J
+   3,R
+  17,R,J
+   4,R,D
+  24,R,Z
+   4,R,J
+   9,R,K
   10,R,X
    4,R,K
    1,R,J
@@ -218,4 +211,4 @@ console load SpringCollab2020/1-Beginner/Ghajestis
  113,R,D
   21,R
    1,L,D
-ChapterTime: 0:25.364(1492)
+ChapterTime: 0:25.347(1491)
