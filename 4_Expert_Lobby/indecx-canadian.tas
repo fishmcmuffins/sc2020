@@ -49,16 +49,17 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1256 448
    9,L,U,X
    1,J
   14,L
-   2
-  25
-   4,D,X
-  11,L,X
-   6,L,D,J
-   6,L
+   2,D
+  16,L,D
+  14,R,D,X
+   1,L,J
+  15,L,D,X
+   7,L,D,J
+   5,L
    1,K,G
-  19,R,K
+  15,R,K
   12,J,G
    4,D,C
   11,L,C
    1,X
-#6.341
+#6.324
