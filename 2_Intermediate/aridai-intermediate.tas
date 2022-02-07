@@ -195,24 +195,36 @@ console load SpringCollab2020/2-Intermediate/aridai
   12,L,J
    5,L
   15,L,Z
-   1,L,J
-  14,L,C
-  22,L,J
-  15,L,X
-  26,L,D
-   5,D
-   1,L,D
-   1,D
+  11,R,J
+  25,D
+  13,R,D
+  11,U,X
+   1,J
+  36,R,J
+  27,R,U,G
+  40,R,G
+   1,J,G
+   1,L,J,G
+   1,R,K,G
+   1,R,J,G
+   5,L,J,G
+  15,L,D,X
+  11,L
+   9,L,D
+   3,L
+   2
+   4,R
+   1
    4,R,K
    5,R
    3,R,K
-  40,R,D
-   2,R
+  38,R,D
+   4,R
    1,J
    1,R,K,G
-   3,L,K
-  26,L,D
-   6,R,D
+   6,L,K
+  20,L,D
+  13,R,D
   15,R,U,Z
    1,J
   26,L,D
@@ -774,49 +786,18 @@ console load SpringCollab2020/2-Intermediate/aridai
    3,R,D
    9,L,D
    4,L
+   4,L,Z
    8,L,J
-  14,R,D,X
-   1,L,J
-   5,L,D,X
-   1,L,K,G
-  10,L
+   1,L
+   2,L,J
   40
 
-#lvl_aridai-04 (2)
-   4,L
-  14,L,D,J
-   1,J
-   3,L,J
-  14,L
-   4,L,D
-   1,L
-  11,L,K,G
-   1,L
-   1
-   5,L
-  11,L
-  
-   1,L,K,G
-  12,L,J,G
-  16,U,X
-  18,L,J
-  11,K,G
-   1,R,K
-   1,R,J
-  16,R,K
-  11,J,G
-   1,L,J
-   1,L,K
-  14,L,J
-   1,S
-   1,D,J
-  69,O
-   4,D,X
-   1,L,J
-  42,D
+   7,L,J
+  16,L,D
+  27,D
   11,L,D
    1,D
-  12,L,D
+   7,L,D
    4,L,Z
    1,L,J
   10,L,D
@@ -906,13 +887,7 @@ console load SpringCollab2020/2-Intermediate/aridai
    2,D
    2
    2,D
-   2
-   2,D
-   2
-   2,D
-   2
-   2,D
-   5
+   1
   14,R,D,X
    1,L,J
   11,L,D,X
@@ -1070,4 +1045,4 @@ console load SpringCollab2020/2-Intermediate/aridai
   45,L,D,X
    1,L,J
    1
-ChapterTime: 2:02.451(7203)
+ChapterTime: 2:00.122(7066)
