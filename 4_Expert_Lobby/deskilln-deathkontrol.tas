@@ -87,45 +87,23 @@ console load SpringCollab2020/0-Lobbies/4-Expert 444 1176
    9,J
    3,R,J
    1,R
-   2,R,J
-  11,R,D,X
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1,R,J,G
-   1,R,J,G
-   6,R
-   1,R,J
-   2,R
+   8,R,J
+  15,R,D,X
    4,R,J
-   2,R
-  14,R,D,X
-   1,R,J,G
-   1,R,K,G
+  10,R
+   8,R,J
+   7,R
+  15,R,D,J
+   6,J
+   2
+   2,J
+   3
    1,R
-   1,R,J,G
-   1,R,K,G
-   5,R
-   1,S
-   1,X
-   9,J
-   1,R,J
-   2,R
-   1
-   1,R,J
-   1,R
-   7,R,K,G
-   2,R
-   7,R,K,G
-   9,R
-   1,R,J
-   5,R
-   7,K,G
-   1,L,K
-  11,R,K
+   5
+  20,K,G
   15,U,X
-   6
-   5,R,G
+   3
+   8,R,G
    1,J,G
    3,R,J
    5,J
@@ -155,4 +133,4 @@ console load SpringCollab2020/0-Lobbies/4-Expert 444 1176
   15,L,D,X
    3,L
    1,X
-#12.716
+#12.767
