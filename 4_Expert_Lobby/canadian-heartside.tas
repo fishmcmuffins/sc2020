@@ -1,10 +1,9 @@
+console clrsav
+console hearts 22 SpringCollab2020/4-Expert
+
 console load SpringCollab2020/0-Lobbies/4-Expert 1280 248
    1
 
-console clrsav
-console hearts 200
-
-unsafe
 #Start
   36
 
@@ -38,29 +37,32 @@ unsafe
    1,L,J
    9,L
   13,L,J
-  16,U,X
-   2,L,J
-  16,R,J
-  12,R,K,G
-   1,R,J,G
+   1,K,G
+   3,R,K
+  12,L,J,G
+   1,K,G
+   5,L,K
+   1,R,K
+   1,L,K
+   2,J,G
+  13,R,J
+  15,U,X
    1,L,J
-   1,R,J
-   7,J
-   2,K,G
-   2,L,K
-  24,L,J
-   2,L
-   1,L,J
-   4,L
-  12,L,U,X
+   3,J
+  13,L,J
+   1,L,K,G
    1,L,J,G
-   3
+   7,L
+   2
+  13,L,U,X
+   2,L,J,G
    9,L
+   2
+   1,L,J
    4,D,X
   10,L,X
    3,L,J
-   1,L
-   2,L,J
+   3,L
    8,L,D,X
    1,L,J,G
    2,L,K,G
@@ -68,9 +70,8 @@ unsafe
    1,L,K,G
    6,L
    1,S
-   1,X
-   9,J
-   1,L,J
+  11,L,J
+
    1,L
    3,L,J
    7,L
@@ -101,4 +102,4 @@ unsafe
    9,R,J
   20,R
    1,X
-#8.415
+#8.449
