@@ -13,7 +13,8 @@ console load SpringCollab2020/3-Advanced/LinjKarma
   15,R,U,X
   10,R,C
    5,L,J
-   6,L
+   5,L
+   1
   15,U,X
   15,U,C
   10,R
@@ -281,7 +282,6 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,K,G
    1,R
   19,D,C
-
    3,R,D
    3
    4,L,D
