@@ -303,7 +303,6 @@ console load SpringCollab2020/3-Advanced/RealVet
   11,R,C
    5,R
   15,D,X
-
   17,R,D
    4,D,X
    4,R,X
@@ -312,7 +311,8 @@ console load SpringCollab2020/3-Advanced/RealVet
 
 #lvl_Room4
    9,R
-  27,R,J
+   1,R,K
+  26,R,J
    4,D,X
   12,R,X
   19,L,U,C
