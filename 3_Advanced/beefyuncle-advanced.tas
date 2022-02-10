@@ -158,10 +158,10 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
   17,U,X
   20,U,C
   15,L,U,X
-  18,L,U,C
-   2,L,J
+  19,L,U,C
+   1,L,J
    4,D,X
-   2,L,X
+   1,L,X
   36,R,J
   16,U,X
   23,L,J
@@ -258,4 +258,4 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    7,R
   13,R,U,X
  135,R,D
-ChapterTime: 0:42.551(2503)
+ChapterTime: 0:42.534(2502)
