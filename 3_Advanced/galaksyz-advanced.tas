@@ -172,17 +172,23 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    6,R,J
   26,R
   10,L,D,X
-  15,R,J
-   9,R
-  25,R,X
-  15,U,C
-  20,L,U,X
+   2,R,J
+   1,R
+   1,J
+   4,R
+   1,R,J
+  10,R
+   1,R,K,G
+   2,K,G
+  11,R,K,G
+  15,U,X
+   4,R
   20,R
   15,D,X
    9,R,D
-   5,D
-   2
-   3,D
+   6,D
+   1
+   1,D
    4,D,X
   11,R,X
    9,U,C
@@ -277,4 +283,4 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    2,R
    2,L
   79,L,J
-ChapterTime: 0:40.834(2402)
+ChapterTime: 0:40.358(2374)
