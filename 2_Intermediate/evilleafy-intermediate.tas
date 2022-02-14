@@ -188,25 +188,30 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    1,F,90.093
    2,F,90.086
    7,F,91.1
-   3,R
+   5,R
   14,R,Z
    1,R,J,G
    4,R,G
   40
 
 #lvl_Evilleafy_04
-  10,R,G
-   1,R
-  14,R,U,X
-  57,R,G
-   6,R,D,G
-   2,D,G
-  16,R,D,G
-   1,R,G
-   3,G
+   4,R,G
+   7,G
+   1,L,G
+   4,G
+   1,L,G
+   1,R,K,G
+   9,R,J,G
+  12,R,J
+   3,J
+  12,R,X
+  29,R,U,G
+   1,R,D,G
+   3,L,D,G
+   5,L,G
    5,R,G
-  25,G
-   3,R,G
+  23,G
+   5,L,G
   10,D
   12,U,X
   15,G
@@ -349,4 +354,4 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   94,R,D
    1,D,X
   40,R,J
-ChapterTime: 0:52.564(3092)
+ChapterTime: 0:52.292(3076)
