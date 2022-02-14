@@ -314,14 +314,14 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   14,R,U,X
   15,U,C
    9
-  28,D
-  16,R,Z
-   3,R
-  15,U,C
-  14,L
-  32,R
+  12,D
+  19,R,D
+  18,R,U,Z
+
+  14,L,U,C
+  31,R
   10,D,X
-  21,R
+  20,R
   15,R,U,X
   23,R,D
   12,D
@@ -480,4 +480,4 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   15,R,X
    1,R
  135
-ChapterTime: 1:02.441(3673)
+ChapterTime: 1:02.186(3658)
