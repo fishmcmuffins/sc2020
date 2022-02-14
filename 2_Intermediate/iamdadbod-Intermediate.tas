@@ -298,16 +298,14 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
 #lvl_dad4
    8,R,D,X
    1,R,J
-  14,R,D,X
-   2,R,J
-  12,R
-   4,D,X
-  10,R,U,X
    1,R
-  19,R,J
-  15,R,U,X
-   2
-  14,U,C
+  14,R,D,X
+  24,R,J
+
+   5,U,X
+  18,R,J
+  15,R,U,C
+  13,U,X
    2,L
    4,D,X
    3,L,U,X
@@ -482,4 +480,4 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   15,R,X
    1,R
  135
-ChapterTime: 1:02.526(3678)
+ChapterTime: 1:02.475(3675)
