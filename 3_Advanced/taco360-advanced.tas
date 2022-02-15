@@ -209,58 +209,46 @@ console load SpringCollab2020/3-Advanced/taco360
    7,U,X
   36,L
   40,L,X
-   6,L,J
- 148,L,U,K,G
+   4,L,J
+  45,L,K
+  14,L,X
+  76,L,U,G
    1,R
-   9,L
-   4,D,X
-  10,L,X
-   1,L,J
-   1,J
-   1,L,K,G
-   3,K
-   1
-   4,L
+  13,L
    5,L,D,X
-   1,L,J,G
-  11,L
-   1
-   2,L,J
+   3,L,J
+   5,L,K,G
+   9,L
+   7,L,K
   43
 
 #lvl_taco360_04
-   5,L,J
-   1,J
-   1,L,J
-   4,J
-  14,U,X
-  24,L,J
+  17,L,J
+  15,U,X
    1,L
-   7,L,J
-   1,J
-  27,R,U
-   7,F,81.69
-   7,F,75.26
-  12,F,10
-  11,F,310
-   9,F,304.65
-   7,F,314.7
-   1,F,316.26
-  47,F,327.61
-   3,F,326.65
-  15,F,270
-   1,L,D
-  11,L
-   3,L,D
-   2,L
-   1,L,D
-  18,L
-  31,L,D
-   1,D
-   1,L,D
-  16,R,D
+  11,L,J
+  17,L
+  26,R,U
+StartExportGameInfo infodump.txt
+   1,R,U
+FinishExportGameInfo
+  16,F,68.759
+   1,F,63.851
+  11,F,4
+   2,F,355.262
+  17,F,304.556
+   5,F,306.95
+   1,F,307.483
+  50,F,331.821
+   1,F,331.112
+  14,F,270
+  15,L,D
+  44,L
+  17,L,D
+   9,D
+   8,R,D
    4,R
-   1,R,D
+   1,D
    7,R,J
    5,R
    1,R,J
@@ -355,19 +343,20 @@ console load SpringCollab2020/3-Advanced/taco360
   33,L
   13,L,D
    1,L
-   5,L,D
+   2,L,D
+   2,L
+   1,L,D
+   1,L,D
   38,L,X
    5,L,J
   25,L,K
    1,K
-  18,U,X
-   1,R
-  12,L,K,G
+  19,U,X
+   8,L,K,G
+   4,R,K
    2,L,J,G
-   2,K,G
-   1,L,K
-   2,K
-   8,L,K
+   1,K,G
+  13,L,K
   12,J
   15,U,X
   39,U,C
@@ -456,4 +445,4 @@ console load SpringCollab2020/3-Advanced/taco360
   34,L
   30,L,J
   53,L,D,X
-ChapterTime: 1:11.128(4184)
+ChapterTime: 1:10.873(4169)
