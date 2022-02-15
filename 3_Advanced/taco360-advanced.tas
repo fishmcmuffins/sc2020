@@ -228,10 +228,7 @@ console load SpringCollab2020/3-Advanced/taco360
    1,L
   11,L,J
   17,L
-  26,R,U
-StartExportGameInfo infodump.txt
-   1,R,U
-FinishExportGameInfo
+  27,R,U
   16,F,68.759
    1,F,63.851
   11,F,4
