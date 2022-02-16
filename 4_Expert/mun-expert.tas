@@ -34,55 +34,73 @@ console load SpringCollab2020/4-Expert/Mun
    1,R,J
    9,R
    1,R,J,G
-  15,R
-   5,R,X
-  54,R,U,G
-   4,R,G
-   9,R,D,G
+  19,R,D
+   9,R,X
+  15,R,G
+   1,R,J,G
+  30,R,U,G
    1,R,G
-   1,R,D,G
-   7,R,J,G
-  11,R,G
-  33,R
-  14,R,X
-  15,R,J,G
-   3,R,K,G
-   5,R
-  39,R,K
-  15,U,X
-   2,R
-  15,G
-  12,R,G
+   2,R,D,G
+   1,R,U,G
+   7,R,D,G
+   8,R,J,G
+   8,R,G
    1,R
-   8,L
-  29,R
+  30,R
    4,R,D
-   4,D,X
-  24,R,U,X
-   2,R,J
-   9,R
-  54,R,D,G
-   3,R,G
+  14,R,X
+  11,R,J,G
+   3,R
+   4,R,K,G
+   5,R
+   9,R,K
+  28,R
+   2
+  14,U,X
+  14,G
+  13,R,G
+   3,G
+   1,R
+   4,L
+   8
+   6,R
+   3,R,D
+  11,R
+   2,R,D
+  27,R,U,Z
+   4,R,J
+   7,R
+  51,R,D,G
+  11,R,G
+   1,R,D,G
    1,R
   20,R,U,X
-  17,R,G
-   7,L,G
+  14,R,G
+  14,L,G
    1,L
-  15,D
-  10,R,D
-   1,R
-   1,R,D
-   1,R
-  15,U,X
-  22,R,U,C
+  17,R,K
+  17,R,U,Z
    1,R,J,G
-   2,R,K,G
-  44,R,D
-   8,L,D
+   3,L,J
+   1,R,J
+   1,L,J
+   1,R
+   5,K,G
+   1,R,K
+   1,R,J,G
+   1,R,K,G
+   5,R
+   7,R,K
+   2,L,D,J
+   5,L
+  15,R,D,X
+  28,L,D
+   4,R,D
   40
 
 #lvl_2
-  15,L,D
+  12,R,D
+   3,D
    2,R,D
   10,L,D,X
    1,R,J
@@ -288,4 +306,4 @@ console load SpringCollab2020/4-Expert/Mun
   17,R,D,X
   61,R,D
   61,L,D
-ChapterTime: 0:56.508(3324)
+ChapterTime: 0:56.389(3317)
