@@ -94,20 +94,22 @@ console load SpringCollab2020/4-Expert/Mun
    2,L,D,J
    5,L
   15,R,D,X
-  28,L,D
-   4,R,D
+  24,L,D
+   8,R,D
   40
 
 #lvl_2
-  12,R,D
-   3,D
-   2,R,D
-  10,L,D,X
+   8,R,D
+   2,D
+   5
+  14,L,D,X
    1,R,J
-   8,R
-   6,R,U,X
-  73,R,U,G
-  27,R,G
+   9,R,D,X
+   5,R,J
+  84,R,U,J,G
+   1,R,D,G
+   1,D,G
+   2,R,D,G
    1,R
   15,R,U,X
   10
@@ -129,8 +131,10 @@ console load SpringCollab2020/4-Expert/Mun
   20,D
   14,R,D
   13,R
-   3,R,D
-   2
+   2,R,D
+   1,D
+   1
+   1,D
    4,D,X
   11,R,U,X
   12,L,J,G
@@ -306,4 +310,4 @@ console load SpringCollab2020/4-Expert/Mun
   17,R,D,X
   61,R,D
   61,L,D
-ChapterTime: 0:56.389(3317)
+ChapterTime: 0:56.219(3307)
