@@ -168,59 +168,67 @@ console load SpringCollab2020/4-Expert/Mun
    3,R
    5,R,J
   15,R,D,X
-   9,R,J
+   8,R,J
+   1,R
   14,R,D,X
    1,R,J,G
-  12,L
-  21,L,G
+   4,R
+   7
+  13,R,U,J,G
+   2,U,J,G
+   6,R,U,J,G
    1,R
   15,L,D,X
-  11,L
-  19,L,Z
-   1
-   1,L
-   3
-   7,R,X
-  39,R,U,G
-   3,R,D,G
-   1,R
-  20,R,U,X
-  14,R,G
-  12,L,G
-  23,R,J,G
-   1,R
-  20,R,D
-  34,R,D,G
-   1,R
-  20,R,U,X
-  21,R,G
-   1,R
-   8,R,D,X
-  34,R,D,G
-   4,R,G
-  10,R
+  13,L
+  26,L,Z
+   8,R,X
+  37,R,U,G
+   1,R,D,G
+   5,R
   14,R,U,X
-  38,R,G
-   1,R,D
-  30,R
+  20,R,J,G
+  34,R,G
+  10,R
+   5,U,X
+  32,R,D,G
+   3,G
+   1,R
+   5,L
+   4
+  20,R
+  14,R,X
+  25,R,U,J,G
+   4,R
+   1
+   1,R
+   4
+  14,R,U,X
+  30,R,G
+   9,R,U,K,G
+   1,R,D,K
+   5,R,K
+  25,R
   14,R,X
 # this section will never be optimal
-  26,R,D,G
+  26,R,U,J,G
    6,R
   15,U,X
+   1,R
   58,R,G
    1,R
-  11,R,D
+  10,R,D
   25,L,D
-  18,L,D,G
+  19,L,D,G
   39,R,G
    1,R
   11,R,U,X
   21,R,G
    1,L
-  26,R
+  25,R
   10,R,D
-   2,R
+   1,R
+   1,R,D
+   1,R
   15,R,X
   21,R
    5,R,D
@@ -311,4 +319,4 @@ console load SpringCollab2020/4-Expert/Mun
   17,R,D,X
   61,R,D
   61,L,D
-ChapterTime: 0:56.100(3300)
+ChapterTime: 0:55.760(3280)
