@@ -158,31 +158,28 @@ console load SpringCollab2020/4-Expert/Mun
   10,R
    4,D,X
   10,R,X
-   2,R,J
+   1,R,J
+   1,R
    2,R,K,G
    7,R
   40
 
 #lvl_3
-   6,R
-   1,L
-   1,R,J
-  14,R,D,X
-   9,R,J
-   1,L,J
+   3,R
+   5,R,J
   15,R,D,X
-   1,L
+   9,R,J
+  14,R,D,X
    1,R,J,G
-   9,R
-   4,L
+  12,L
   21,L,G
    1,R
   15,L,D,X
-   3,L
-   6,L,D
+  11,L
+  19,L,Z
+   1
    1,L
-   4,D,C
-  20,L,C
+   3
    7,R,X
   39,R,U,G
    3,R,D,G
@@ -203,9 +200,7 @@ console load SpringCollab2020/4-Expert/Mun
    4,R,G
   10,R
   14,R,U,X
-  23,R,G
-   1,L,G
-  15,R,G
+  38,R,G
    1,R,D
   30,R
   14,R,X
@@ -223,14 +218,21 @@ console load SpringCollab2020/4-Expert/Mun
   11,R,U,X
   21,R,G
    1,L
-  27,R
-  11,R,D
+  26,R
+  10,R,D
+   2,R
   15,R,X
-  27,R
-  21,R,J
-   3,J
-   1,R,K,G
-  18,R
+  21,R
+   5,R,D
+   1,R,D
+   1,J
+   4,K
+  17,R,K
+   1,R
+   1
+   1,R,J,G
+   3
+  15,R
    4,D,X
    1,L,X
    1,R,J
@@ -309,4 +311,4 @@ console load SpringCollab2020/4-Expert/Mun
   17,R,D,X
   61,R,D
   61,L,D
-ChapterTime: 0:56.151(3303)
+ChapterTime: 0:56.100(3300)
