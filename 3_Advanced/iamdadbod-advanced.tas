@@ -228,7 +228,6 @@ console load SpringCollab2020/3-Advanced/iamdadbod
   11,D,X
    8,L,D,C
   30,R,J
-
   13,U,Z
   14,R,J
   14,R,X
@@ -237,17 +236,19 @@ console load SpringCollab2020/3-Advanced/iamdadbod
    4,R,J
    5,R
   17,D,X
-  41,R
-   7,L,D,X
-  10,R
-  12,R,X
-  12,U,C
-  13,R,J
-  24,R,D
-  18,L,D
-   8,R
-   4,D,X
-   3,R,X
+  53,R
+  15,R,Z
+   9,R
+   1,R,G
+   3,L
+   4
+   3,J
+   2
+   6,R,Z
+   1,R,K,G
+   6,K
+   9,R
+   7,R,Z
   11,R,D,C
    1,J
    7,R,J
@@ -414,4 +415,4 @@ console load SpringCollab2020/3-Advanced/iamdadbod
    2,R
   14,R,U,X
  135,R
-ChapterTime: 1:10.924(4172)
+ChapterTime: 1:10.363(4139)
