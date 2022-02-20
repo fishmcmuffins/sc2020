@@ -303,6 +303,7 @@ console load SpringCollab2020/3-Advanced/RealVet
   11,R,C
    5,R
   15,D,X
+
   17,R,D
    4,D,X
    4,R,X
@@ -311,67 +312,60 @@ console load SpringCollab2020/3-Advanced/RealVet
 
 #lvl_Room4
    9,R
-   1,R,K
-  26,R,J
+  27,R,J
    4,D,X
   12,R,X
   19,L,U,C
-   4,D,X
-   8,U,X
-  10,L,C
-   1,J
-   3,L,K,G
-   1,L
-   4,D,X
-   7,L,X
-   1,J,G
-   4
+  10,U,X
+  12,L,Z
+   1,K
+   2
+   5,L,Z
+   1,L,K,G
+   2,K
    5,L
-   2,L,K
-   1,L,J
-   4,R,J
-   2,L,J
-   1,L
+   1,L,K
+   2,L
+   6,L,J
+   3,L
    4,D,X
-   8,L,X
+  10,L,X
    1,L,J
   11,L,K,G
    1,L
-  12,L,J,G
-  11,R,K
+  11,L,J,G
+   1,L
+   7,K
+   4,R,K
   15,U,X
-  10,R
+   9,R
+   1
    4,D,X
    1,R,J
    6,R
   10,R,J
-   7,R
-  10,R,J
-   8,R,D
-  13,R,X
-   1,R,J
-   2,L,J
-   1,R
-  14,U,X
-   1,L,J
-   7,L
    6,R
-   5,L,X
-   4,L,K,G
-   9,L
-   1,L,J
-   4,L
-   3,L,J
-  10,L,X
-   9,L,J,G
-  17,L
+   4,R,J
+  15,R,D
+  17,R,J
+   9,R,K,G
   10,L,J
-   6,R,J
+   5,L,X
+   2,L,K,G
+   8,L
+   2,L,K,G
+   4,L
+  14,L,X
+   7,L,K,G
+  18,L
+   2,L,J
+  11,J
+   3,L,J
   15,U,X
    6,R
    6,R,J,G
   12,R
-   3,L
+   4,L
   18,R
   14,R,D,X
    1,L,J
@@ -491,4 +485,4 @@ console load SpringCollab2020/3-Advanced/RealVet
   11
   14,U,X
  135
-ChapterTime: 0:52.581(3093)
+ChapterTime: 0:52.411(3083)
