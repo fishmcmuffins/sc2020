@@ -263,31 +263,28 @@ console load SpringCollab2020/5-Grandmaster/dog
    3,R,J,G
    3,R
    3,R,J,G
-   1,R
-   5,R,D,X
-   1,R,J,G
-   5,R
+   6,R
   40
 
 #lvl_doggo_04
-   6,R
-   1,D,J
+   1,R,J
+   4,R
    5,R,D,J
-   7,R
-   8
+   5,R
+   9
    4,D,X
   11,R,X
-  22,L,D,G
-   1,R
-  11
+   6,R,D
+  10,D
    4,D,C
   16,R,C
   18,R,U,X
    4,D,C
   12,R,C
    4,D,X
-  16,R,X
-  21,R,C
+  15,R,X
+  15,R,C
+   7
    4,D,X
   28,R,X
   16,R,C
@@ -295,8 +292,8 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,U,C
   32,R,X
    4,D,C
-  21,R,C
-   3
+  22,R,C
+   2
   18,U,C
   16,R
    4,D,X
@@ -304,15 +301,16 @@ console load SpringCollab2020/5-Grandmaster/dog
    4,D,C
   38,R,C
    8,R,D
-  14,R,D,X
+  13,R,Z
    1,R,J
-   1,R,K,G
+   1,K,G
    6,R
    1
    1,J
    1,R,J
-   9,J
-   2
+   6,J
+   3,R,J
+   2,R
   15,R,U,X
   31,R,D
   15,R,X
@@ -322,7 +320,7 @@ console load SpringCollab2020/5-Grandmaster/dog
    8,R,D,G
    1,R
    1,D
-   1,R,D
+   1,D
    7,R,D
    3,R
   15,R,D,X
@@ -340,22 +338,24 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,R,U,X
  110,R,U,G
    8,R,D,G
-  26,R,U,G
+  19,R,U,G
+   6,R,G
+   1,R,U,G
    6,R
    8,L
   15,R,X
    4,D,C
   11,R,C
   15,L
-  41,L,U,G
-   3,L,G
+  43,L,U,G
+   1,L,G
   21,R,U,G
    1,L
-  12,R,J
+  12,R
   23,R,X
    4,D,C
-   8,R,J
-   1,R
+   7,R,J
+   4,R
    1,R,J
    6,R
   10,L,D,X
@@ -364,14 +364,16 @@ console load SpringCollab2020/5-Grandmaster/dog
    1,R,J
    1,R,K
    1,R,J
-   4,R,K,G
-   9,R,J,G
+   5,R,K,G
+   8,R,J,G
   15,R,D,X
    1,R,J
    1,R,K
    2,R,J
-   3,R,K
-   8,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R
+   8,R,K,G
   40
 
 #lvl_doggo_outro
@@ -387,13 +389,16 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,U,C
   15,R,J
   14,U,X
-  31,R,J
-  12,K
+  30,R,J
+   1,J
+   4,L,K
+   7,K
+   1,R,K
   12,J,G
    4,K,G
    2,L,K
    5,R,K
-  15,J,G
+  16,J,G
    1,K,G
    9,R
   12,R,J
@@ -406,4 +411,4 @@ console load SpringCollab2020/5-Grandmaster/dog
    9,L,K
   16,L,U,X
  135,L,D
-ChapterTime: 1:10.380(4140)
+ChapterTime: 1:10.023(4119)
