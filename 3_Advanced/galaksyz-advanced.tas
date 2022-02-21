@@ -253,7 +253,8 @@ console load SpringCollab2020/3-Advanced/Galaksyz
 
 #lvl_Galaksyz_05
    7,R,D,X
-   5,R,J
+   1,R,J
+   3,R,K
   10,R,D,X
    1,R,J
    1,R,K
@@ -283,4 +284,4 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    2,R
    2,L
   79,L,J
-ChapterTime: 0:40.358(2374)
+ChapterTime: 0:40.341(2373)
