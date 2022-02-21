@@ -119,35 +119,33 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1,L,J
   13,K
    4,D,X
-   8,L,X
-   1,L,J
-   2,L
-#spike wallbounce to puffer would probably save time
-#but have to wait absurdly long time for cycle
-  14,L,D,X
-   1,L,J
-   9,L,D,X
-   1,L,J
-   5,L,G
-  16
-  11,R
-   1
-   1,R,J
-  10,L,X
-   3,R,J
-  20,J
-   1,K,G
+   7,L,X
+   3,L,J
+   1,R,K,G
+  10,L,K,G
+   5,K
    1,L,K
-   1,R,K
-  12,R,X
-  17,R
-   5,L,D,X
+  15,U,Z
+   1,L
+   1,J
+  27,R,J
+   3,R
+   6
+   1,J,G
+   6,R,J,G
+   9,R
+   1,R,J
+   3,R
+   1,L
+   1,R
+   1,L
   13,L,J
-   6,R,J
-   1,L,J
-  16,L,U,X
+   3
+  15,U,X
+  14,L
    1,L,J,G
-  21,L,K,G
+  23,L,K,G
+   1,L
   14,U,X
   18,G
   10,R,G
@@ -230,4 +228,4 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
  117,L,D
    1,D,X
   17,L,U,X
-ChapterTime: 0:31.501(1853)
+ChapterTime: 0:31.280(1840)
