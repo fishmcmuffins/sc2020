@@ -700,54 +700,64 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1,D
    9,R,J
    1,J
-   3,R,J
+   2,R,J
    5,R
-   2,R,K
+   3,R,K
    1,R
-  17,R,Z
-  22,R,U,X
-  16,R,U,C
+  15,R,Z
+   4,R
+  18,R,U,X
+   2,R
+  15,R,U,C
+   1,R
   15,R,X
-  13,R
-   4,D,X
-  13,R,X
+  12,R
+  17,R,Z
    1,R,J
   14,R,D,X
    1,R,J
-  10,R,D,X
+   2,R
+   8,R,D,X
   40
 
 #lvl_int_heart_05
-   4,R,D,X
+   6,R,D,X
    1,R,J
-  14,R,D,X
-   8,R,J
-   5,R,D
-  14,D
-   4,D
-   9,R,D
-   7,R
-  15,R,U,Z
+   3,R
+   1,R,K
+   3,R
+   4,R,J
+  15,R
+  11,D
+  11,R,D
    4,R
+  15,R,U,Z
+   3,R
   15,R,X
   14,R,D
-  25,D
+  14,D
+  13
+   2,L
+   2
+   2,L
    3,L,D
-   1,L
-   9,L
-  10
-  19,R,U,X
+  17,L
+  18,R,U,X
   15,R,D,C
   12,L,D
-  12,L
+  13,L
+   6
+   4,L
+   3
    1,L
-  16
+   2
    8,R
-   1,R,J
-   6,R,J
-  35,R,D
-  13,L,D
-  25,L
+   5,R,J
+  13,R
+   1,R,K
+  20,R,D
+  11,L,D
+  27,L
    4,D,X
   10,L,X
    1,L,J
@@ -920,4 +930,4 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    3,R,J
   14,R,U,X
  135,R,D
-ChapterTime: 2:22.732(8396)
+ChapterTime: 2:22.698(8394)
