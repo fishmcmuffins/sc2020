@@ -585,23 +585,25 @@ console load SpringCollab2020/3-Advanced/_sleepie
   32,D
  205,U,C
    8,R,X
-   4,R,J
-   4,R
+   7,R,J
   43
 
 #lvl_room_5
-   6,R
-   5
+   9,R
+   1
+   1,L,K,G
    9,U,X
    2,R,J
-   4,R
+   1
+   3,R
    1,R,J,G
   10,R
-  10,J
+   6,J
+   4,R,J
    2,R
   15,U,X
    2,R,J,G
    7,R
    6,R,C
  135
-ChapterTime: 1:24.167(4951)
+ChapterTime: 1:24.150(4950)
