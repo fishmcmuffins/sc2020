@@ -8,67 +8,67 @@ console load SpringCollab2020/3-Advanced/Bissy
    8,L,J
    1,J
    5,U,X
-   6,L,U,X
-   3,X
-   1,U,X
-   5,X
-   3,U,X
+   6,L
+   3
+   1,U
+   5
+   3,U
   18,R,J
    4,D,X
-   1,R,U,X
-   1,U,X
-   1,X
-  11,R,X
-   4,R,D,C
-   1,R,U,C
-   9,U,C
-   7,C
-   1,U,C
-   1,C
+   1,R,U
+   1,U
+   1
+  11,R
+   4,R,D,X
+   1,R,U
+   9,U
+   7
+   1,U
+   1
    4,D,X
-  12,L,X
+  12,L
    4,L,U,X
-   4,L,D,X
+   4,L,D
   11,R,J
    1,L,J
    1,J
   24,U,X
    4,R
-   4,D,C
-   1,R,U,C
-   7,U,C
-  11,C
+   4,D,X
+   1,R,U
+   7,U
+  11
    5,U,X
-   4,R,U,X
-  12,X
-   1,R,U,X
-   1,X
-   5,U,C
-   1,R,U,C
-   1,L,U,C
-   6,C
-  10,L,U,C
-   7,L,C
+   4,R,U
+  12
+   1,R,U
+   1
+   5,U,X
+   1,R,U
+   1,L,U
+   6
+  10,L,U
+   7,L
    1
    1,L
    2,J
    3,L,J
    4,J
    4,D,X
-   1,L,U,X
-   3,L,X
-   6,X
-   1,L,X
-   7,X
-   2,U,X
+   1,L,U
+   3,L
+   6
+   1,L
+   7
+   2,U
    7,R
   12,R,J
    4,D,X
-   1,R,X
-   1,U,X
-   3,X
-  14,U,X
-   1,X
+   1,R
+   1,U
+   3
+  14,U
+   1
    4,R
    5
    8,L,J
@@ -80,13 +80,13 @@ console load SpringCollab2020/3-Advanced/Bissy
   10,L
    1
    5,L,D,X
-   9,L,X
+   9,L
    1,L,J
-   5,L,U,C
-  10,U,C
-   3,L,C
-   1,C
-   5,L,C
+   5,L,U,X
+  10,U
+   3,L
+   1
+   5,L
    8
    2,R,J
    1,J
@@ -96,73 +96,73 @@ console load SpringCollab2020/3-Advanced/Bissy
    4,J
   26,U,X
    5,R,U,C
-  10,R,C
+  10,R
    4,R,D,X
-   1,R,U,X
-   7,R,X
-   2,R,D,X
-   9,X
-   4,L,D,C
-   1,R,U,C
-   6,R,C
-   3,C
-   1,R,D,C
-   7,C
-   4,R,U,C
+   1,R,U
+   7,R
+   2,R,D
+   9
+   4,L,D,X
+   1,R,U
+   6,R
+   3
+   1,R,D
+   7
+   4,R,U
    5,U,X
-   3,L,U,X
-   4,X
-   1,L,U,X
-   9,X
-   5,L,U,C
-  12,L,D,C
-   1,L,J
-   6,L
-   1,L,J
-   4,L,K
-   7,L
-   1,L,J
-   1,L
+   3,L,U
+   4
+   1,L,U
+   9
    5,L,U,X
-  10,U,X
-   1,X
-   1,U,X
-   9,X
-   5,U,C
-   2,L,C
-  12,R,U,C
-   4,R,C
-   1,C
-   6,U,X
-   1,L,X
+  12,L,D
+   1,L,J
+   5,L,D,X
+   4,U
+   1
+   5,L,D
+   5,L,U,X
+   7,U
+   1
+  12,U
+   1,R,U
+   5,U,X
+  11,R
+   1
+   2,R
+   5,U,X
+   1
+   1,L
   28,R
   19,R,U,X
-   1,U,X
-   4,X
+   1,U
+   4
   14,R
    5,L,X
-   5,L,U,X
+   5,L,U
+   4,L,D
+   1
    4,L,D,X
-   1,X
-   4,L,D,C
-   1,L,U,C
-   1,U,C
-   8,L,C
-   1,L,D,C
-   1,C
+   1,L,U
+   1,U
+   8,L
+   1,L,D
+   1
    4,L,D,X
-   1,L,U,X
-   1,U,X
-   1,X
-   1,U,X
-   8,X
-   8,U,X
+   1,L,U
+   1,U
+   1
+   1,U
+   8
+   8,U
   27,R,D
-   6,F,135.846
+AnalogMode,Precise
+   6,F,135.8139
    8,F,90
-  52,F,34.83
+   5,F,34.84
+  47,F,34.8415
   10,F,
-  23,U,X
+  24,U,X
   40
 
 #lvl_Bissy_02
@@ -173,19 +173,19 @@ console load SpringCollab2020/3-Advanced/Bissy
    6,X
    1,L,J
    5,L,D,X
-   3,L,U,X
-   2,L,D,X
-   1,L,U,X
-   6,L,D,C
-   1,L,U,C
+   3,L,U
+   2,L,D
+   1,L,U
+   6,L,D,X
+   1,L,U
    4,R,D,X
-   1,L,U,X
-  18,U,X
-   3,R,U,X
-   5,R,U,C
-   2,R,C
-   3,C
-   5,U,C
+   1,L,U
+  18,U
+   3,R,U
+   5,R,U,X
+   2,R
+   3
+   5,U
   12,U,X
   10,R
    5,R,U,X
@@ -196,15 +196,15 @@ console load SpringCollab2020/3-Advanced/Bissy
    4,R,D,X
   17,R
    5,L,U,X
-  10,L,X
-   4,L,D,C
-   1,L,U,C
-  12,U,C
-   6,R,U,C
+  10,L
+   4,L,D,X
+   1,L,U
+  12,U
+   6,R,U
    5,R,U,X
-   9,U,X
-   9,R,X
-   1,X
+   9,U
+   9,R
+   1
   27,L,D
    7,F,193.99
    5,F,225
@@ -215,28 +215,29 @@ console load SpringCollab2020/3-Advanced/Bissy
    1
    2,F,4.78
    4,D,X
-   6,L,X
-   4,L,U,X
-   5,L,D,X
-   1,X
+   6,L
+   4,L,U
+   5,L,D
+   1
    1,L,J
    5,L,D,X
-   7,X
-   1,L,D,X
-   2,X
-   5,L,U,C
-   1,C
-   1,L,C
+   7
+   1,L,D
+   2
+   5,L,U,X
+   1
+   1,L
   40
 
 #lvl_Bissy_03
-   1,L,C
-   1,C
-   9,U,C
-   1,C
-   2,L,C
-   1,C
+   1,L
+   1
+   9,U
+   1
+   2,L
+   1
   36
+AnalogMode,Ignore
    3,F,261.5
    3,F,265.9
    4,D,X
@@ -247,31 +248,31 @@ console load SpringCollab2020/3-Advanced/Bissy
    1,X
   10,R
    4,D,X
-   1,R,U,X
-  11,R,D,X
-   7,X
+   1,R,U
+  11,R,D
+   7
    1,R,D,X
    4
    5,U,X
-   6,R,U,X
-   2,X
-   1,L,U,X
-   1,X
-   7,L,U,X
-   1,X
-   4,D,C
-   1,L,U,C
-   4,U,C
-  14,L,C
-   1,L,D,C
-   2,C
+   6,R,U
+   2
+   1,L,U
+   1
+   7,L,U
+   1
    4,D,X
-   1,R,U,X
-   5,R,X
-   1,X
-   2,R,X
-   1,X
-  10,U,X
+   1,L,U
+   4,U
+  14,L
+   1,L,D
+   2
+   4,D,X
+   1,R,U
+   5,R
+   1
+   2,R
+   1
+  10,U
   12,L
   30,R,D
    8,F,90
@@ -286,53 +287,43 @@ console load SpringCollab2020/3-Advanced/Bissy
   15,F,10
    7,F,
    5,U,X
-   1,R,U,X
-  17,X
-   5,U,C
-   1,R,U,C
-  13,C
-   1,R,U,C
-   3,C
+   1,R,U
+  17
    5,U,X
-   2,R,U,X
-  13,X
-   6,R,U,X
-   4,D,C
-   4,R,C
-   6,R,U,C
+   1,R,U
+  13
+   1,R,U
+   3
+   5,U,X
+   2,R,U
+  13
+   6,R,U
+   4,D,X
+   4,R
+   6,R,U
   40
 
 #lvl_Bissy_04
    2,U
-  20,U,C
+  20,U,X
    5,R
-   6
-   1,R
-   1
-   1,R
-   4,D,X
-   3,L,X
-   1,R,J
-   6,R
-   1,R,J
+   9
    5,R,D,X
-   5,X
-   1,R,D,X
-   4,X
-   5,R,D,C
-   1,R,U,C
-   3,C
-   1,R,D,C
-   9,C
+   1,R,D,J
+   4,R
+   1,R,J
+   3,R
+   1,R,J
+   6,R,D,X
+   9
    5,R,U,X
-   4,R,D,X
-   6,X
-   5,R,D,C
-   4,R,U,C
-   6,C
-   1,R,D,C
-   1,R,U,C
-  14,R,D,X
-   8,R,U,X
- 113,R,X
-ChapterTime: 0:31.246(1838)
+   4,R,D
+   9
+   5,R,D,X
+   4,R,U
+  15
+   1,R
+  14,R,D
+   8,R,U
+ 113,R
+ChapterTime: 0:30.957(1821)
