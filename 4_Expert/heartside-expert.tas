@@ -247,10 +247,9 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   18,D,X
    9,L,C
    1,J
-   1,L,K,G
-   6,R,K
-  19,R,D,X
-  12,R,Z
+   6,K,G
+  18,R,D,X
+  13,R,Z
   17,U,X
   17,U,C
   18,R,U,X
@@ -266,14 +265,17 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,R,J
    8,R
   10,R,J
-   7,R
+   2,R
    1
    2,R
+   2,R,J
+   3,R
   14,R,U,X
    1,R,J,G
-  12,R
+  10,R
   15,D,C
-  24,L,D
+   4,L,D
+  23,D
    4,D,X
    1,L,J
   12,L
