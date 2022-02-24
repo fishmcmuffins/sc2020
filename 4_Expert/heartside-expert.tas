@@ -424,57 +424,63 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    4,D,X
    1,R,J
    6,R
-  10,R,J
-   5,R
-   3,R,J
-   5
-  15,U,X
-   9,L
-   1,J,G
-   7,L,J,G
-  11,R,J
+   7,R,J
+   7,R
+  16,R,U,Z
+  12,L,U,C
+   4,J,G
+  12,R,J
   15,R,U,X
   11,R,C
-   1,R,J,G
-   2,J
-   2,R,J
-  21,R,D
+   3,R,J,G
+   1,J
+   1,R,J
+   5,R
+   2,R,K
+  15,R,D
   15,D,X
    2,R,D
   10,L,D,X
   16,R,J
   14,R,D,X
-  25,R,J
-   4,D,X
-   8,U,X
-   5,R,J
+  24,R,J
+  12,U,X
+   2,R,J
+   4,R
    4,D,X
    6,L,X
    7,R,J
-  15,R,D,X
-  11,R,D
-  43,R,D,J
+  15,R,D,J,X
+   2,R,D,J
+   1,R,J
+   2,R,D,J
+   4,R,J
+  44,R,K
   15,R,U,X
-  15,R
-  15,R,U,X
-   5,R
-   9,L
-  27,U,X
+  14,R
+   1
+  15,U,X
+   5,L
+   1,R
+  26,U,X
    6
    6,L,U,X
-  45,R
-   5
+  47,R
+   1
+   1,R
+   1
   15,R,U,Z
    6,L,U,C
-  46,R
-  17,R,X
-   8,R,D,C
-  16,R
-  23,R,U,X
+  50,R
+  15,R,U,Z
+   6,R
+  15,R,U,X
+   5,R
+   8,R,U
    4,R,J
    7,R,Z
-   4,R,J
-   5,R,K
+   6,R,J
+   3,R
   24,R,D,X
    4,D,C
   28,R,J
@@ -482,9 +488,9 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    5,U,C
 #Unsure if this is actually faster or old tas just sucked
   17,R,J
-   8,R
+  10,R
    1,R,J
-   5,R
+   3,R
    8,L,Z
    1,R,J
    6,R
@@ -990,4 +996,4 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   78,D
   56,R,Z
    1,L,J
-ChapterTime: 2:11.325(7725)
+ChapterTime: 2:10.951(7703)
