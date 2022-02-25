@@ -682,18 +682,15 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    5,R
    1,R,K
    6,R
-   7,R,J
+  12,R,J
    4,R
-  15,R,D,X
-   1,D
-   1,R,D,J
-  12,R,U,C
-   5,L,K
-  10,R,X
+  12,R
+  14,R,Z
    2,R,J
-  10,J
-  15,R,X
-  12,R,D,C
+  24,R,U,X
+  15,R,D,C
+   1,D
+   4,D,Z
    1,R,J
    3,R
    1,R,K
@@ -1000,4 +997,4 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   78,D
   56,R,Z
    1,L,J
-ChapterTime: 2:10.135(7655)
+ChapterTime: 2:10.084(7652)
