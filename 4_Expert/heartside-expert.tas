@@ -16,26 +16,32 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    6,R,J
    5,R
    1,J,G
-  17,R,J
+  16,R,J
   15,U,X
+   2
    1
-   2,R,J,G
-   2,R
-   1,L,J
-   7,L
-  21,L,J
-   3,L
-  15,L,D,X
+   1,R,K,G
+   1
+   1,K,G
+   2
+   1,L
+   1
+   1,L
+   2
+   4,X
+   5,L,J
+  12,L
+   5
+   1,L
+   1,D
    1,L,D
-   4,D,X
+   4,Z
    1,L,J
    6,L
-  13,L,J
-   5,J
-   1,L,J
-   1,J
+  19,L,J
   13,U,X
-  25,R,J
+  24,R,J
+   2,J
   14,R,D,X
    1,R,J
    9,R,D,X
@@ -100,43 +106,38 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    2,R,D
    1,R
    1,R,D,J
-   5,R
-   1,R,J
-  15,R
-  10,R,D
+  30,R,D
    9,R,U,Z
   44,R,D,G
-   5,R,G
-   3,R,D,G
+   6,R,G
+   1,R
+   1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
-   2
-   1,R
-  15,R,D,X
    1
-  10,R
-   5,R,J,G
-   2,J
-  14,R,J
-   2,J
-   3
+  15,R,D,X
+   4,R
+   1,R,D
+   1,R
+   2,R,D
+   4,D
+   5,L,J,G
+   5,R,J
+   3,R
   10,U,Z
-
    1,R,J
   12,R,G
    1,R,J,G
    4,L,J
-   1
+   1,R,J
    1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  22,R,D
-  15,D,X
-   3,D
-   3,L,D
-  26,R,D
-  16,R
+   6,R
+   1,R,J
+  18,R,D
+  13,L,D
+   2,L
+  42,R
    1,R,G
    1,R,J,G
    1,L,J,G
@@ -152,7 +153,7 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1
   14,R
    6,R,K,G
-   5,R,D
+   5,R
    2,R,J
   17,R,D
   15,L,X
@@ -184,29 +185,32 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
 
 #lvl_ExHS_02
    2,R
-   5,D
-   5,L,J
-   5
-  10,J
-   5,R,D
-   8,D
-  14,R,D
-   7,R
-   4,D,X
-  13,U,X
+   1,R,D
+   1,D
+   3,R,D
+   1,L,J
+   4,R,J
+   9
+   2,K
+  22,D
+   2
+  10,R
+  13,U,Z
   21,R,J
   11,U,X
   12,R,J
   10,L,Z
-   8,R,J
+   7,R,J
   15,R,U,X
-  22,R
-  20,L,D,X
+  23,R,D
+  18,L,D,X
   15,D,C
   10,R,D
   14,R,Z
   15,R,J
-   8,R
+   2,R
+   1
+   4,R
   15,R,U,Z
    9,L,J,G
    4,K,G
@@ -226,8 +230,8 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   16,R,C
   10,U,X
   12,L,C
-   4,R,J
-   4,R
+   3,R,J
+   5,R
   15,R,D,X
    4,R
   13,R,J
@@ -250,11 +254,13 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    6,K,G
   18,R,D,X
   13,R,Z
-  17,U,X
-  17,U,C
-  18,R,U,X
-  15,R,U,C
-  14,R,X
+  15,U,X
+   5,L
+  15,U,C
+   5,L
+   6,L,Z
+  16,R,J
+  15,R,U,X
    8,L,U,C
    7,L,K,G
    9,L,D,X
@@ -265,17 +271,16 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    1,R,J
    8,R
   10,R,J
-   2,R
    1
-   2,R
-   2,R,J
-   3,R
+   7,R
+   1,R,J
+   1,R
   14,R,U,X
    1,R,J,G
   10,R
   15,D,C
    4,L,D
-  23,D
+  25,D
    4,D,X
    1,L,J
   12,L
@@ -922,7 +927,7 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
    4,R
   40
 
-  #lvl_ExHS_Outro
+#lvl_ExHS_Outro
    1,R,K
    2,R
    8,R,J
@@ -996,4 +1001,4 @@ console load SpringCollab2020/4-Expert/ZZ-HeartSide
   78,D
   56,R,Z
    1,L,J
-ChapterTime: 2:10.951(7703)
+ChapterTime: 2:10.339(7667)
