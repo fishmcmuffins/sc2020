@@ -348,13 +348,11 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   15,R,X
   15,D,C
   10,L,D
-  10,L,D,G
-  18,R,D,G
-   2,L,D,G
+   5,D
+  13,L,G
+   8,R,G
    1,L
-   4,L,D
-  10,R,J
-  11,L,D,X
+  11,L,Z
    1,R,J
    3,R
   17,R,D,X
@@ -461,148 +459,30 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   14,R,D,X
    5,R,J
   15,R,D,X
-   1,R,J
-  11,R
+   2,R,J
+   2,R
   15,R,D,X
-  14,R,J
-  15,R,D,X
-  60,R,U,G
-   4,R,G
-  40,R,U,G
+   4,R,J
+   9,R
+  15,R,X
+  34,R,D,G
+  75,R,U,G
    1,R
-   1
-  24,R,U,X
-  20,R,D,G
-  23,L,D,G
-   1,R,D,G
-   1,R
-  19,D,X
-  14,R,D
-   6,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,R
-   1,D
-   1,L
-   1,D
-   1,L
-  18
+  15,D,X
+  16,D
+  33
+   2,L
   14,R,D,X
    1,R,J
   16,R,D,X
-   6,R,J
+   9,R,J
   14,R,U,X
-  85,R,U,G
-  48,R,D,G
-  40,L,D,G
-  55,D,G
+  88,R,U,G
+  52,R,D,G
+  32,L,D,G
+  20,D,G
+   2,L,D,G
+  40,D,G
    1,L
   66,R,D
  487,U
@@ -621,4 +501,4 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,D,X
    1,L,J
   46,L
-ChapterTime: 1:34.962(5586)
+ChapterTime: 1:31.817(5401)
