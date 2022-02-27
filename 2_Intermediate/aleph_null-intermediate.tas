@@ -107,11 +107,11 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   13,L
    1
    1,L,G
-   3,L,J,G
+   2,L,J,G
    1,L
-   2,L,J
-  12,L,D
-  12,D
+   4,L,K
+  17,L,D
+   5,D
   39,U,X
    4,D,C
   10,R,C
@@ -364,4 +364,4 @@ console load SpringCollab2020/2-Intermediate/aleph_null
   15,L
   17,L,U,X
  135
-ChapterTime: 0:46.597(2741)
+ChapterTime: 0:46.580(2740)
