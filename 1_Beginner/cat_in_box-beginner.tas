@@ -153,25 +153,26 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    6
   10,L
   12,L,J,G
-  56,R,K
-  13,J
-  10,K,G
+  26,R,K
+  22,R,D
+  12,D,J
+  12,K,G
+   4,J,G
   15,R,D,X
-   7,L,D
-   7,R,D
+  13,R,D
+   2,D
+   1,R,D
   15,D,X
-   8,L,J
-   1,R,J
+   1,L
+   6,L,J
+   2,J
+   1,L,J
+   9,U,X
+  15,R,J
+  12,R
    4,D,X
-   8,U,X
-  11,R,J
+   2,R,J
    8,R
-   1,R,J
-   7,R
-   4,D,X
-   2,R,X
-   1,R,J
-   7,R
    1,R,J
   11,R,D,X
   40
@@ -265,18 +266,26 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    5,R,K,G
   11,R,J,G
   15,R,D,X
-   5,R
-  20,D,X
-  19,D,C
+   4,R
+  15,D,X
+   7
+   1,J
+   8
+   2,K
+   5
    6,L,Z
    1,L,J
-   7,L
-   3,L,D,J
+   6,L
+   3,L,J
    5,L,D,X
-   4,L,J,G
-   2,L,K,G
-  12,L
+   1,L,J,G
+   2,L
+   1,L,J,G
+   1,L
+   1,L,K,G
+  11,L
    1,L,J
+   1,L
   12,L,D,X
    1,L,J
    7,L
@@ -286,9 +295,8 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
 
 #lvl_cat-05
    4,L
-   1,L,J
-   3,L
+   3,L,J
   14,L,U,X
  106,L,D
   29,R,D,J
-ChapterTime: 0:41.208(2424)
+ChapterTime: 0:41.140(2420)
