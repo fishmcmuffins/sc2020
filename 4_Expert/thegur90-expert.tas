@@ -243,23 +243,21 @@ console load SpringCollab2020/4-Expert/Thegur90
   14,L,U,X
    1,J
    1,L,K,G
-  20,R,K
-  13,U,X
+  21,R,K
+  14,U,Z
   20,L,U,C
    1,L,J,G
-   1,K,G
-   1,L,J,G
-   1,R,K
-  28,R,D
+   1,L,K,G
+  10,L,J,G
+   2
    1,R
-   4,R,J,G
-   3,J
-   1,R,J
-   1
   15,R,D,X
-   6,R
    8,R,D
-  13,D
+   7,R
+   1
+  13,R
+   5,R,D
+  16,D
   15,R,X
   15,R,C
    9,R,D
@@ -286,4 +284,4 @@ console load SpringCollab2020/4-Expert/Thegur90
 #lvl_thegur90_FAB_6
   14,R,U,X
  135,R
-ChapterTime: 0:36.567(2151)
+ChapterTime: 0:36.533(2149)
