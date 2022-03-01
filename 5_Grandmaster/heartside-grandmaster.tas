@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 3199
+RecordCount: 3403
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -407,33 +407,33 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    8,R,X
    1,R,J,G
    1,J
-  21,D
-   5,L,Z
-   1,R,J
+   2,R,J
+   8,R
+   2,R,K
+  11,R
+   3,R,D
+   5,L,D,X
+   1,L,J,G
    9,L
-   6,L,D,X
-   2,L,J,G
-  15,L
-   1,L,J
-   7,L
-   3
-  14,L,D,X
-   1,R,J
-   7,R
-   1,R,J
-   1,R
-   5,R,D,X
-   1,L,K,G
-   5,R,K
-   6,R
-  15,R,D,X
-  18,R
-   4
+   1,L,K
+   4,L
+  15,L,D,X
+   7
    2,L
+   7,L,Z
+   1,R,J
+   4
+   2,R
+   2,R,J
+   5,R,D,X
+   1,L
+   1,L,J,G
+   8,R,J,G
+  15,R,D,X
+  18,R,D
+   2,R
   14,D,X
-   1,D
-   8,R,D
-   2,D
+  11,D
    1,R,D
    1,J
    1,L,K,G
@@ -441,7 +441,6 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
   12,D
    4,L,D
   15,L,Z
-
   20,R,D,C
    7,R,Z
   21,R,J
@@ -568,7 +567,6 @@ AnalogMode,Precise
    1
    2,J
   40
-
 
 #lvl_a-03
 #Crypt of the Kevins
@@ -711,36 +709,36 @@ AnalogMode,Precise
    7,L,Z
    1,R,J
 #One spinner cycle
-#   2,R
-#   2
-#   3,R
-#   2,R,J
-#  15,R,D,X
-#  22,R
-#   5,R,D
-#   1,R,J
-#   1,R
-#  17,R,D,X
-#   1,R,J
-#  22,R,D,X
-#   1,R,J
-#  24,R,D
-#  15,R,Z
-#Other spinner cycle
-   7,R
+   2,R
+   2
+   3,R
    2,R,J
   15,R,D,X
   22,R
-   4,R,D
-   1,D
+   5,R,D
    1,R,J
+   1,R
   17,R,D,X
-   2,R
    1,R,J
   22,R,D,X
    1,R,J
   24,R,D
   15,R,Z
+#Other spinner cycle
+#   7,R
+#   2,R,J
+#  15,R,D,X
+#  22,R
+#   4,R,D
+#   1,D
+#   1,R,J
+#  17,R,D,X
+#   2,R
+#   1,R,J
+#  22,R,D,X
+#   1,R,J
+#  24,R,D
+#  15,R,Z
 
 #Temporal Tower
   35,D
@@ -784,7 +782,7 @@ AnalogMode,Precise
   13,R,X
    1,R,K,G
   17,R,J,G
-  17,U,X
+  16,U,X
   40
 
 #lvl_a-04
@@ -1148,7 +1146,6 @@ AnalogMode,Precise
    8,R
   12,R,U,Z
   21,R
-
 #Aquatic Underground
   18
   13,R,U,X
@@ -1772,4 +1769,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:28.481(15793)
+ChapterTime: 4:28.209(15777)
