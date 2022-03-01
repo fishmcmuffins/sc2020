@@ -351,9 +351,9 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    7,R
    1
    1,R,D,J
+  15,R
    1,R
-  17,R,J
-  13,R,D,X
+  14,R,D,X
   37
   15,R,X
   20,D
@@ -413,51 +413,56 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
   15,R,D,X
    3,R,D
   28,R
-  55,L
+  57,L
   15,R,D,X
-  20,L
-  21,R
-  11,R,D,X
-   1,R,J,G
-  11,R
-   1,R,J
+   7,L
+   5,D
+
+  19,R,D
+  15,R,D,X
+   2,R,J
    4,R
-   7,R,K,G
-  14,R,D,X
+   6,R,D,X
+   1,R,K,G
+  13,R
    1,R,J
-  13,R,D,X
+   7,R,D
+   1,R,J
+   3,R
   43
 
 #lvl_b-00b
-   1,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
+   5,R,D
    3,R,J
-   2,R
-   4,D,X
-  10,R,X
-   3,R,J
-  14,R,D,X
+   1,R
    1,R,J
-   6,R,D,X
+   4,R
+   3,R,J
+   1,R
+   1,R,J
+   4,R
+   2,R,K
+   8,R,D
+   4,R,J
+   4,R,D
   40
 
 #lvl_b-01
-   1,R,J
-   7,R
-   4,R,J
-   3,R,K,G
-  14,R,U,X
+   4,R,D
+  12,R,J
+   5,R,K,G
    1,S
    1,D,J
   34
-  10,R,J
    1,J
-   7,R,J
-   7,R,K,G
-   8,R
+   5
+   1,J
+  13,R,U,X
+   2,K,G
+   1
+   6,R
+   1,R,J
   12,U,X
  135
-ChapterTime: 1:14.171(4363)
+ChapterTime: 1:13.423(4319)
