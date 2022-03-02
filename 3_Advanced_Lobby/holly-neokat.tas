@@ -7,24 +7,19 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1352 320
 #lvl_Adv_01
    4,D,X
    1,L,J
-  10,L,D
-  15,L,D,X
-   3,D
-   3,R,D
-  15,L,D
-  15,D
-   3,L,D
-  39,R,D
+  47,L,D
+  52,R,D
   10,R,D,X
-  13,R,J
-   5,U,X
-  12,R,J
-   3,R,K,G
-   1,R
-   3,R,J,G
-   6,R
-   1,R,K
-   1,R
+   9,R,J
+   2,J
+   1,R,J
+   1,J
+   6,U,X
+  10,R,J
+   1,R,K,G
+   2,R
+   5,R,J,G
+   7,R
    2,R,J
    1,R
   13,R,U,X
@@ -32,9 +27,9 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1352 320
    1,R
    2,J,G
    7
-   5,J
-   1,R,J
-  16,U,X
+   6,L,D,J
+  15,U,X
+   1,L
    2,R,J
   16,L,J
    2,K,G
@@ -69,4 +64,4 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1352 320
    4,R,K,G
   17,R
    1,X
-#7.106
+#7.072
