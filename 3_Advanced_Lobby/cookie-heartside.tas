@@ -1,7 +1,7 @@
+console clrsav
+console hearts 26 SpringCollab2020/3-Advanced
 console load SpringCollab2020/0-Lobbies/3-Advanced 1454 2352
    1
-console clrsav
-console hearts 200
 
 unsafe
 #Start
