@@ -527,42 +527,34 @@ console load SpringCollab2020/3-Advanced/Tortoise
   10,R
    1,R,J
    1,L,J
-  11,J
-   1,K
-  33
-   3,L
-   7
-   1,R
-   3
-  14,D,J
-  12,K,G
-   5,J,G
-   3,L,J
-
+  26,R,D
+  27
+  12,R,D,J
+  12,R,K,G
+   6,J,G
+   1,L,J,G
+   1,R,J,G
+   1,K,G
    1,L,K,G
    1,L,J,G
+   1,L,K,G
    4,L
-  11,J
-   2,K
-   7,L,K
-   6,L,J
-  12,L,G
-   3,R,J
-   2,K
-   2,J
-   2,K
-   2,J
-   2,K
-   2,J
-   2,K
-   2,J
-   4,K
-   3,J
-   2,K
-   2,J
-  22,L
-   4,L,J
+  15,L,J
+   4,K,G
+   1,J,G
+   4,L,J,G
    8,L,G
+   1,J
+   2,R,J
+  32,G
+   1,D,G
+   1,G
+  15,L
+   3,L,J
+   1,J
+   5,G
+   1,L,G
+   2,G
   13,L
    1,L,J
   14,L
@@ -586,11 +578,11 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,R,K
   29,R
   25,R
-  67
+  66
   10,D,J
   10,L,J
    1,L,K,G
-   5,L,J,G
+   4,L,J,G
    3,K
    7,L,J
   46,L,X
@@ -605,37 +597,58 @@ console load SpringCollab2020/3-Advanced/Tortoise
 #lvl_BTortoise_B1 (2)
    3,L,J
   38,L,D
-  29,L,J,G
-  17,L
    1,L,J
   14,L
    1,L,J
-   8
-  12,L
-  15,L,D,J
-  20,R,J,G
-  45,L,K,G
-   1,J,G
+  14,L
+   1,L,J
+  14,L
+  31,L,J,G
+   1,R,K
+   1,R,J
+  23,R,D
+   7,J
+   2,R,J
+  10,R,G
+   1,K
+   1,J
+   1,K,G
+   2
+  22,L,D
+  10,J
    6,L,J
+   1,J
+   1,L,J
+   1,L,K,G
+   7,L,J,G
+   5,L
+   3,L,D
+   1,L,D,J
+  15,L,G
    1,R
-   4,R,D,J
-   6,R
-   4,J,G
-   6
+   1,J
+   2,K
+  10,R
+   3,R,G
+   1,J,G
    1,L
+   1,K
+   1,L,K
+  10,L
+   1,L,J,G
+   1,L,K,G
+   4,L
    1,L,J
    1,L,K
-   7,L,J
-  13,L,D
-  10,L,J
+   3,L
+   5,L,D
+   3,L,J
    5,L
-  11,L,J
-  12,R,K,G
-   3,J,G
-   6,R
-   1,L
    7,L,J
-  14,L,D
+   1,R,J
+   1,K,G
+   3
+   9,L
    1,L,D,J
    6,L
  104,R,X
@@ -888,4 +901,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,L,J
   31,R
   39,R,D
-ChapterTime: 2:01.091(7123)
+ChapterTime: 2:00.700(7100)
