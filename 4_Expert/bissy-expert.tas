@@ -37,21 +37,22 @@ console load SpringCollab2020/4-Expert/Bissy
    1,R,J
    9,R,D,X
    3,R,J
-   9,R
-  10,L,D,C
+   2,R
+  13
+  10,L,Z
    1,R,J
-  10,R
-   5,R,D,J
-   1,R
-   5,R,J
-   1,R
-   1,R,J
-  15,R,D
-  14,L,D,X
-  27,R,J
-  12,U,X
-  13,L,J
-  21,L
+   7,R
+   5,L,J
+  31,R
+   4
+  15,U,X
+   3,L
+   1,J
+  12,L,J
+   8,L
+   1,L,J
+   9,L
+   4
   15,U,X
    1
   15,L,C
@@ -139,18 +140,19 @@ console load SpringCollab2020/4-Expert/Bissy
   15,L,D,X
    2
   14,R,D,C
-  23,R,J
+  21,R,J
+   1,R
+   1,R,J
  
   15,U,X
   12,R,J
    1,L,J
    1,J
-   7,L,J
+   2,L,J
+   6,J
   10,L,U,X
-  43,R,J
-  10,U,X
-   2,R,J
-  12,R
+  36,R,J
+  25,R,U,Z
    2,R,J
    1,R
   12,R,Z
@@ -316,4 +318,4 @@ console load SpringCollab2020/4-Expert/Bissy
    9,L,K,G
   15,L,U,X
  135,R,D
-ChapterTime: 0:44.982(2646)
+ChapterTime: 0:44.625(2625)
