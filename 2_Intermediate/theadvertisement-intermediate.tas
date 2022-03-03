@@ -131,43 +131,29 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 #lvl_TheAd_03
   15,R,J
   24,R,D,X
-  37,U,C
-   4,D,X
-   6,L,X
+  47,D,C
+  15,L,Z
+   5,L
+   3
+   1,L
+   7
+  10,L,U,X
+  17,L,C
+  14,L,D,X
+  11,L,J
+   1
+   2
+  15,L,D,X
+   7,D
+  15,D,X
+   4,D
+  10,J
+  14,U,X
+   1,S
+   1,D,J
+  69,O
+  74
    8,L,J
-   4,L
-   7,L,J
-   4,D,X
-  10,L,X
-   1,L,J
-  14,L,D
-   4,D,X
-   3,L,U,X
-   1,R,J,G
-   1,L,J
-  23,L
-   4,D,X
-   3,L,J
-   2,L,K,G
-   2,L,J,G
-   2,L,K,G
-   2,L,J,G
-   1,K
-   1,J
-  78
-   9,L,X
-  15,L,C
-  38,L,U,X
-  10,D
-   4,D,C
-  10,L
-   1,R,J
-  14,R,D,C
-   2,R,J
-  16,R,D,X
-   3,R,J
-   8,U,X
-   9,R
   86,R,X
   63
 
@@ -357,26 +343,21 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    3,R,J
   10,L,X
    1,R,J
-  21,R,J,G
-   1,R,J
-   1,R,K,G
-   5,K
-   1,J
-  23,R,J,G
-   5,R,G
-   1,R,J,G
-   2,R,G
-   2,R
-  15,R,X
+  32,R,J,G
+   1,K,G
+   1,J,G
+  13,R,J,G
+   5,L,J,G
+  16,R,X
    4,R
-   1,R,G
   10
    2,R
+   3
    4,D,X
    8,L,X
    1,R,J
    3,R,K,G
-   2,R,J,G
+   3,R,J,G
    5,R,D,X
   13,R,G
    1,R,J,G
@@ -395,5 +376,5 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   53,R,D
   22,R,D,J
    1,K,G
-  59,L,K
-ChapterTime: 0:53.941(3173)
+  60,L,K
+ChapterTime: 0:53.788(3164)
