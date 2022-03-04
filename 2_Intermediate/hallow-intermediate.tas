@@ -120,15 +120,16 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1
   10,R,D,X
    1,R,J
-  17,R,D
+   6,R
+   1,R,J
+  12,R
+   1
    4,D,X
   10,R,U,X
-   1,L
-   1,J
-   2,K,G
-  22,R,K
-  32,R
-   5,L
+   7,L,K,G
+   5,R,K
+  38,R
+   6,L
   15,R,X
   22,R,D
   15,R,X
@@ -421,4 +422,4 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1,L,K
   13,L,J
   52,L,K,G
-ChapterTime: 1:04.617(3801)
+ChapterTime: 1:04.549(3797)
