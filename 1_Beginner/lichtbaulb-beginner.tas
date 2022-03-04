@@ -301,12 +301,15 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
   12,R,J
   15,U,X
   12,L,J,G
-  12,K,G
-   4,J,G
-   1,K,G
+   7,K,G
+   1,L,J,G
+   3,R,J
+   4,L,J
+   1,J
+   1,L,K,G
    7,L
    7,L,J
-  12,L,X
+  10,L,X
    1,L,J
    1,L
    3
@@ -355,4 +358,4 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    1,D,X
   45,L,X
    1,R,J
-ChapterTime: 0:38.182(2246)
+ChapterTime: 0:38.148(2244)
