@@ -149,13 +149,11 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    3
   15,L,D,X
    4
-   3,D
+   3,L,D
   14,R,J
   15,U,X
-   4,R
-   1,S
-   1,D,J
-  69,O
+   5,L
+  72,O
   74
    8,L,J
   86,R,X
@@ -381,4 +379,4 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   22,R,D,J
    1,K,G
   60,L,K
-ChapterTime: 0:53.584(3152)
+ChapterTime: 0:53.567(3151)
