@@ -331,33 +331,29 @@ console load SpringCollab2020/5-Grandmaster/dog
   95,R,U,G
   40,R,D,G
   44,R,U,G
-   5,R,D,G
-  15,R,D,G
-   2,R,D,G
-   4,R,G
-  15,R,U,X
- 110,R,U,G
-   8,R,D,G
-  19,R,U,G
-   6,R,G
-   1,R,U,G
-   6,R
-   8,L
-  15,R,X
-   4,D,C
-  11,R,C
-  15,L
-  43,L,U,G
-   1,L,G
-  21,R,U,G
+  36,R,U,G
+   7,R
+  14,R,U,X
+  95,R,U,G
+  12,R,G
+  15,L,G
+  13,L,D,G
+   5,L,U,G
+   1,R,G
+   1,R
    1,L
-  12,R
-  23,R,X
-   4,D,C
-   7,R,J
-   4,R
+  18,R
+  15,R,Z
+   8,U,X
+   5,J
+  32,R,G
+   1,L
+  23,R
+  21,R,X
+   2,R,J
+  10,R,Z
    1,R,J
-   6,R
+   4,R
   10,L,D,X
    1,R,J
    1,R,K
@@ -411,4 +407,4 @@ console load SpringCollab2020/5-Grandmaster/dog
    9,L,K
   16,L,U,X
  135,L,D
-ChapterTime: 1:10.023(4119)
+ChapterTime: 1:09.564(4092)
