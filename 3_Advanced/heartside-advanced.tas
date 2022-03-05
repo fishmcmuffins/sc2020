@@ -14,7 +14,7 @@ Set,SuperDashing,false
   36
 
 #Spinner cycle
-   1
+   0
 
 #lvl_Heartside_0
   12,R,Z
@@ -269,12 +269,14 @@ Set,SuperDashing,false
    6,R
    1,R,J
    1,R
-  14,R,Z
+  10,R,Z
    1,R,J
-   1,J
+   2,R
    1,R,J
-   3,R
-   8,R,U,X
+   1,R
+   1,R,J
+   2,R
+   9,R,U,X
    2,R,J,G
    1,R,K,G
    6,R
@@ -282,8 +284,11 @@ Set,SuperDashing,false
    1,R,J
   13,R,U,X
    1,R,J,G
-   3
-  13,R
+   1,R
+   1
+   4,R
+   1
+   9,R
    2,R,J
    5,R
    4,J
@@ -307,57 +312,80 @@ Set,SuperDashing,false
    1,R,J,G
    4,L,J
    6,R,J
-   7,R
-   5,R,X
-   1,L,J
-   2,J
-   7
-   5,L,D,X
-  21
-  21,U,X
-  21,U,C
-  15,U,X
-  25
-   2,D
-   5,L,D,X
-  15
-  15,U,X
-  21
-   1,R
-   1
-   9,R
-   2
-   1,J
-  24,R,J
+   5,R
+   2,L
+   2,L,J
+  11,J
    1,K
-  25,R,K
-   1,J
-  19,L,J
-   4,D,X
-  13,U,X
-  20,L,J
-  13,L,X
-  10,R,J
-   8,R
-  15,R,X
-   4,D,C
-   5,L,C
+   8,R,J,G
+  14,L,J
+   3,J
+  18,U,X
+  10,R
+   1
+   1,K
+   7,L,J,G
+   7,R,J
+   1,K,G
+   3,R,K
+   1,L,K
+   5,R,K
+   1,R,J,G
+   8,J
+   2,R,J
+  15,U,X
+   1,R
+  15,L,J
+   8,L
+   2,L,J
+   4,L
+   2
+   1,L
+   1,G
    1,R,J
-   6,R
+  20,R,K
+  15,U,X
+   4
+   1,L
+   7,R,J
+   7,L,J
+   7,J
+   1,R,J
+   2,K,G
+   2,L,K
+  12,L,J
+   4,L
+   1
+   1,J
+   2,L,J
+   1,J
+   7,L,J
+   1,L,K,G
+   3,R,K
+  12,L,K
+   7,R,J
+  13,L,X
    9,R,J
-   9,J
+   6,R
+   1,R,J
+   5,R
+  11,R,X
+   1,J,G
+   3
+   5,R
+   1,R,K
+  19,R,J
   15,R,U,X
-   5
+   6,R
    1,J
   25,R,J
    1,K
   25,R,K
    1,L,J
-  34,L,K
+  33,L,K
   14,U,X
   16,R,J
   14,U,X
-#midflag3
   14,R,C
   11,R,J
    8,R
@@ -366,43 +394,31 @@ Set,SuperDashing,false
   10,R,J,G
    5,U,X
   35,R,J
-   1,K
-   7
-   1,R
-   1
-   6,L
-   1,D
-  10,R,D,X
-   1,R,J
-   4,R,K
-  14,U,X
+   3,L,K
+   6
+  15,R,D,X
+   1,R,D,J
+   9,R,K
+  11,U,X
   14,L,J
   12,L
-   4,D,X
-   6,L,X
-  15,R,J
-   9,R
-   4,D,X
-   9,R,U,X
+  10,L,Z
+  16,R,J
+   7,R
+   2
+  14,R,U,Z
    1,L
+   1,J,G
+   2,R,J
+   6,L,J
    1,K,G
    1,R,K
-   4,K
-   3,R,K
-   1,L,J,G
+  11,L,K
+   2,K
+  10,J
+   7,R,K
+   7,R
    1,R,J
-   7,L,J,G
-   2,R,K
-   1,R,J
-  21,R,K
-   1,K
-   1,R,J,G
-   2,J
-   1,L,J
-   1,R,K,G
-   2,R
-   1
-   4,R
    4,D,X
    2,R,X
    1,R,J
@@ -412,7 +428,7 @@ Set,SuperDashing,false
    1,R,J
    5,R
    4,D,X
-  18,R,X
+  17,R,X
    4,R,J
    1,R,K
   17,R,U,X
@@ -979,4 +995,4 @@ AnalogMode,Precise
   46,D
    5,L,D,X
   72,D
-ChapterTime: 1:32.786(5458)
+ChapterTime: 1:32.327(5431)
