@@ -127,22 +127,26 @@ console load SpringCollab2020/3-Advanced/Cookie
   15,R,D,X
   16,R
   23,R,D
-  19,R
-   5,U,X
-  27,R,J
-  15,R,U,X
-  26,R,D
-  36,R,U,X
-  19,R,C
-   5,L
-  10,R,J
-  31,R,D
+  16,R
+   1
    2,R
-   1,R,D
+   5,U,X
+  28,R,J
+  15,R,U,X
+  29,R,D
+  15,R,U,X
+   1
+   6,R
+  11
+  13,R,X
+  10,R,J,G
+   5,R
    9,R,J
-  30,R,D
-   7,D
-   2,R,D
+   1,R
+  37,R,D
+   2,D
+   1,R,D
+   1,D
   11,L,D,X
   10,R,J
    1,J
@@ -424,4 +428,4 @@ console load SpringCollab2020/3-Advanced/Cookie
   13,R,J
   14,R,U,X
  135
-ChapterTime: 0:56.848(3344)
+ChapterTime: 0:56.236(3308)
