@@ -346,44 +346,35 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,R,Z
    8,U,X
    5,J
-  31,R,G
+  28,R,G
    1,L
   24,R
   20,R,X
-   2,R,J
-  10,R,Z
+   3,R,J
+  14,R,Z
    1,R,J
-   4,R
-  10,L,D,X
+  11,R,D,X
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   5,R,K,G
-   8,R,J,G
-  15,R,D,X
-   1,R,J
-   1,R,K
-   2,R,J
    1,R,K,G
    1,R,J,G
-   2,R
-   8,R,K,G
+   3,R,K,G
+  11,R,D,X
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+   2,R,J,G
+  12,R
+   2,R,J
   40
 
 #lvl_doggo_outro
    1,R,J
-  15,R,D,X
-   1,R,J
-   7,R,K,G
-   2,R
-  16,R,D,X
-   3,R,J
-   6,R,K,G
+  22,R
   18,R,U,X
   15,U,C
-  15,R,J
+  13,R,J
+   2,L,J
   14,U,X
   30,R,J
    1,J
@@ -407,4 +398,4 @@ console load SpringCollab2020/5-Grandmaster/dog
    9,L,K
   16,L,U,X
  135,L,D
-ChapterTime: 1:09.547(4091)
+ChapterTime: 1:08.952(4056)
