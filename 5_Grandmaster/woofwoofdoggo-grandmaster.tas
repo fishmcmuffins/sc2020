@@ -346,10 +346,10 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,R,Z
    8,U,X
    5,J
-  32,R,G
+  31,R,G
    1,L
-  23,R
-  21,R,X
+  24,R
+  20,R,X
    2,R,J
   10,R,Z
    1,R,J
@@ -407,4 +407,4 @@ console load SpringCollab2020/5-Grandmaster/dog
    9,L,K
   16,L,U,X
  135,L,D
-ChapterTime: 1:09.564(4092)
+ChapterTime: 1:09.547(4091)
