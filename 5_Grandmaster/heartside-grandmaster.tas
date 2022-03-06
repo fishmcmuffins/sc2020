@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 3720
+RecordCount: 3868
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -277,123 +277,69 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
   13,R,U,X
    2,R
    6,R,U,X
-  15,R
+  18,R
   13,R,D,X
-   6,R,D
-  16,R
+   5,R,D
+  17,R
   15,R,D,X
    3,R
    1,R,J
-   3,R
-   3,R,J
-  12,R,U,X
-   5,R,J,G
-   6,R,K
    6,R
+  11,R,U,X
+   2,R,J,G
+  36,R,K,G
+  15,L,U,X
+   4,R
    1,R,J
-   9,R,D
-   2,D
-  13,D,X
-   1,D
-  20,R,D
-  17,L
-  13,L,D,X
-   2,L,D
-  13,D,X
-  23,D
-   7,R,D
-  12,R,Z
-   2,R,J
-   2,R
-   3,R,J
-  12,R
+  15,R,Z
+   3,R
+  12
+   5,R,D
+   1,R
+   6,J
+   9,R,J
   13,R,Z
-   2,G
-   1,R,J,G
-   3,L,J
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   2,R,K,G
-  20,R,D
-  28,D
-   7,L,D
-  13,L,Z
-  22,L
-  12,L,Z
-   6,L,J
-  35,L,D
-  15,L,Z
-   6,R,J
-   3,R
-   1,R,J
-   2,R
-  13,D,X
-  26,D
-  10,D
-   4
-   2,D
-   4,Z
-   1,R,J
-   2,R
-   1,R,J
-  20,R,K
-  17,U,X
-   3,R
-  13,R,U,C
-   2,R
-  16,L,U,X
-   5,L
+   2
+   8,R
   12,R,Z
-  11,R,J
-  13,R,D,X
-  16,R
-   1
-   1,R,J
-   7,R,D,X
-   1,R,J
-   3,R
-   1,R,K
-   3,R
-   2,R,J
-  15,R,D,X
-   2,R,J
+  63,R,J
+  89,R,D
   40
 
 #lvl_a-02
 #Tripeak Trail
 #Two dashes
-   1,R,J
-  11,R
-  14,R,D,X
-   1,R,J
+   1,D
+  72,O
+  12,R
    6,L,D,C
    9,L
   15,L,D,X
-   7,R
+   6,R
    1,R,J
    5,R
    3,L
    2,L,K
    5,L
-   5,L,Z
+   5,R,Z
    1,R,J
    6,R
    3,R,J
    9,U,X
-   8,R,J
-  13,G
-  16,R,U,G
-   1,L
-  10,R
-  13,G
-  10,R,D,G
+   6,R,J
    3,R
-  17,R,U,Z
-  13,G
-   8,R,U,G
+  13,R,G
+  22,R,U,G
    1,L
    4,R
+  12,R,G
+  12,R,D,G
+   5,R
+  15,R,U,Z
+  12,G
+  12,R,U,G
+   1,L
+   3,R
   15,R,U,Z
   14,U,C
    4,R
@@ -1797,4 +1743,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:27.053(15709)
+ChapterTime: 4:24.299(15547)
