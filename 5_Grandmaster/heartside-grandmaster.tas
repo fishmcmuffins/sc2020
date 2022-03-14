@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 4120
+RecordCount: 4125
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -299,11 +299,13 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    6,J
    9,R,J
   13,R,Z
-   2
-   8,R
+   1
+   5,R
+   1
+   3,R
   12,R,Z
-  63,R,J
-  89,R,D
+  60,R,J
+  91,R,D
   40
 
 #lvl_a-02
