@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 5649
+RecordCount: 5829
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -545,21 +545,25 @@ AnalogMode,Precise
   19,L,D
    6,D,X
    1,L,J
-  10
-  12,R
-  14,R,Z
+   8
+  14,L,D,X
    1,R,J
-   6,R
-  45,R,K
-  12,R,D
-   1,R
-  21,R,X
-   2,R,J,G
-   1,R,K,G
-  21,L,J
-   3,J
-  21,R,U,X
-  16,R,C
+   5,R,D,X
+   1,R,J,G
+  17,R
+   1,R,J
+   2,J
+   9,R,J
+  40,R
+   3,R,D
+  16,R,Z
+   1,J,G
+  10,L,J,G
+   5,L
+   8,L,J
+
+  21,R,U,C
+  16,R,X
    5,R,K,G
    8,R,J,G
   11,K,G
@@ -570,27 +574,28 @@ AnalogMode,Precise
   11,R,K
    1,J
    7
-   4,J
-  17,U,X
-  19,L,J
-  12,L,D,X
-   1,R,J
-  16,L
+   2,J
    2
-   6,R,Z
+  17,U,X
+  24,L,K
+  11,L,D,X
    1,L,J
-   5,L
-   5,L,D,J
    6,L
-  15,U,X
-  10,R
+   8,R
+   3,L,K
+  11,K
+  15,L,Z
+   1
+  15,D,X
+   4,R
+   2
    4,R,Z
    1,R,J
    8,R
   10,R,J
    7,L,D,X
    1,K
-   1,R,K
+   1,R
    9
   23,R,D,X
   15,R,Z
@@ -729,13 +734,13 @@ AnalogMode,Precise
    1,F,353
   36,F,353.32
    8,F,44.87
-  25,F,27.5
+  25,F,29.1
   14,R,X
    1,R,J,G
    1,R,K,G
    3,K
    7,R,K
-  17,R,J,G
+  18,R,J,G
    2,R,K
   15,U,X
   40
@@ -826,7 +831,7 @@ AnalogMode,Precise
    1,J
    7,R,K
   10,R
-  43
+  44
    8,R
    8
    1,J
@@ -847,24 +852,24 @@ AnalogMode,Precise
    7,R,D,J
    5,R
    1,R,K,G
-  68,R,J,G
-  13,R
+   7,R,J,G
+   7,L,J,G
+   1,L,K,G
+  11,K
+  17,R,K
+  54,R
   15,U,X
-  15
-   4
-   6,L
-   1
-  15,U,Z
-   9,R
+  16
+  13,R,U,Z
    1,R,J,G
-   1,R,K,G
+   2
    7,R
-   3,R,J
-   6,R
-  11,R,K
-   5,R
-   1,R,J
-  12,R
+   1,L
+   2,R
+   1,L
+   3,J,G
+   7,R,J,G
+  18,R
 #Forest of the Ancients
   14,R,D,X
   13,R,J
@@ -875,18 +880,32 @@ AnalogMode,Precise
   21,R,G
    1,L
   27,L,D
-  13,D
-  12,R,D
+   5,D
+   3,R,D
+   2,D
+   1,R,D
+   2,D
+  10,R,D
+   2,D
   11,R,D,X
    1,R,J
-  26,D
+  22,D
    3,L,D
+   3,D
+   1,L,D
   10,R,D,X
-  39,L,J
+   4,L,J
+   2,L
+   1,L,J
+   1,L
+   1,L,J
+  11,L
+   4,L,D
+  10,L,J,G
   18,L,U,X
   18,R
    5,R,K
-   7,U,X
+   6,U,X
   14,J
    2
   15,R,Z
@@ -981,12 +1000,11 @@ AnalogMode,Precise
   20,R,J
    1,J
   15,R,K,G
- 146
-  16,R
-  20,L
-   5
-   1,L
   10
+  25,R
+ 116
+  24,L
+  23
   20,L,J
   14,R,D,X
    1,R,J
@@ -1187,14 +1205,17 @@ AnalogMode,Precise
 #lvl_a-06
 #KoKoDoKo
    1,L,K
-  12,L,J
-   4,L,K,G
-   4,L
-  12,U,X
-  18,R,J
-  18,R
-   1,R,K,G
-   4,R,J,G
+  10,L,J
+   2,L
+   2,L,K,G
+   1,L
+   5,L,J,G
+  11,J,G
+   2,L,J
+  15,U,X
+   9,R
+   1,R,J,G
+   5,R,K,G
   15,L,X
   18,U,C
    7,R,J
@@ -1214,13 +1235,12 @@ AnalogMode,Precise
    4,L,X
    1,J,G
    1,L,J
-   8,J
-   2
+  10,J
    1,R
    2,L,J,G
   14,K
    2,L,K
-   6,K
+   5,K
    1,J
   18,L,J
    3,L
@@ -1716,7 +1736,7 @@ AnalogMode,Precise
    5,R,D,X
    1,R,J,G
    2,R
-  
+
 #lvl_a-end
 #Post-Heart Room
   13,R
@@ -1764,4 +1784,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:22.497(15441)
+ChapterTime: 4:21.936(15408)
