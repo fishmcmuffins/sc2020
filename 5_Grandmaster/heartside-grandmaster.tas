@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 5644
+RecordCount: 5649
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -1672,8 +1672,9 @@ AnalogMode,Precise
   14,U,X
  171
   30,L,X
-  15,U,C
-  19,R,D
+  15,U,Z
+  17,R,D
+   1,R
   10,L,X
   11,L,J
    9,L,K,G
@@ -1696,7 +1697,8 @@ AnalogMode,Precise
   15,R,X
    4,R
   14,L,D
-   3,L
+   2,L
+   1,L,D
   15,R,U,X
    1
   15,R,U,C
@@ -1762,4 +1764,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:22.514(15442)
+ChapterTime: 4:22.497(15441)
