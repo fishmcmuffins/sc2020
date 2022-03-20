@@ -152,8 +152,8 @@ console load SpringCollab2020/2-Intermediate/Goat
    2,L
    5,U,C
   20,L
-  18,U,X
-   3,R
+  18,U,Z
+   1,R
   31,U,C
    7,L
   13,U,X
@@ -165,7 +165,8 @@ console load SpringCollab2020/2-Intermediate/Goat
    1,L,X
    1,L,J,G
    5,L
-   2,L,J
+   1,L,J
+   1,L
    6,L,K,G
    5,L
    4,L,J
@@ -319,4 +320,4 @@ console load SpringCollab2020/2-Intermediate/Goat
    7,L,J
   43,L,D,X
   56,D,C
-ChapterTime: 0:39.270(2310)
+ChapterTime: 0:39.236(2308)
