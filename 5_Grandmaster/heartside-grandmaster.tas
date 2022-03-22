@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 6973
+RecordCount: 7777
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -775,63 +775,74 @@ AnalogMode,Precise
   15,R,U,Z
    9
    6,J
-  26,J,G
+  21,J,G
    1,R
-  25,D,X
-  46,L
-  15,R,U,X
-  18,L
-   1,R,D
-  18,R
+  16
+  20,L
+  15,L,U,X
+   5
+   1,L
+   6
+   9,L
+   1,G
    1
-  19,R,X
+   1,J
+   1,G
    1
-  22,R,C
+   3,J
    1
-  15,R,X
-  15,U,Z
+   1,G
+   1
+   1,J
+   1
+   1,G
+   1,R,J
+   2,R,K
    5,R
+   7,R,K
+   2,R
+  17,R,K
+  15,R,Z
+   5,R
+  18,R,Z
+   1,R
+  15,R,X
+   1,R
+  15,U,C
+   4
+   6,L
+   1,G
    1,L,J,G
-   2,R,J,G
-   2,J
-   2
-   6,L,G
-   1,L,J,G
-  11,L
+   7,L
+   1,L,J
+   3,L
    9,L,J
    1,R,J
    2,K,G
   28,L,K,G
    3,L,J,G
-   5,L
-   6,L,J
-   5,R,J
-   1,L,J
-   6,R,J,G
-   1,R,K,G
-   3,R,J,G
-   5,R
-   3,R,J
-   4,R
-  26,L,U,G
-   1,J,G
-   1,K,G
-  19,R,K,G
-  32,R,X
-   1,J
-   3,R,J
-   9,R
-   1
-   9,R,X
+   3,L
+   2
+   7,L,J
+  12,R
+  13,U,G
+   1,R,J,G
+   2,R,K,G
   21,R,J,G
    1,R
-  13,R,U,X
-  22,R,J,G
-   9,R
-  10
-  15,L,X
-  27,R,D
+  15,R,X
+   7,R
+  15,R,X
+  21,G
+   1
+  10,R,U,X
+  21,R,G
    1,R
+  22
+  15,L,X
+  24,R,D
+   1,R
+   3,R,D
   26,R,Z
    1,J
    9,R,J
@@ -839,7 +850,7 @@ AnalogMode,Precise
    1,J
    7,R,K
   10,R
-  44
+  39
    8,R
    8
    1,J
@@ -863,20 +874,18 @@ AnalogMode,Precise
    7,R,J,G
    7,L,J,G
    1,L,K,G
-  11,K
-  17,R,K
-  54,R
-  15,U,X
-  16
+  13,K
+  16,R,K
+  57,R
+  15,U,Z
+  12,L
   13,R,U,Z
    1,R,J,G
-   2
+   5
+   1,J
    7,R
-   1,L
-   2,R
-   1,L
-   3,J,G
-   7,R,J,G
+   1
+  11,R,J
   18,R
 #Forest of the Ancients
   14,R,D,X
@@ -893,14 +902,16 @@ AnalogMode,Precise
    2,D
    1,R,D
    2,D
-  10,R,D
-   2,D
+   8,R,D
+   1,D
+   2,R,D
+   1,D
   11,R,D,X
    1,R,J
   22,D
+   2,L,D
+   2,D
    3,L,D
-   3,D
-   1,L,D
   10,R,D,X
    4,L,J
    2,L
@@ -1807,4 +1818,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:20.865(15345)
+ChapterTime: 4:19.981(15293)
