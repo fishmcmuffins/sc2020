@@ -341,23 +341,20 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   10,R,J
   17,R
    3,L
-   1,J
+   1,R,J
   15,D,X
    2,R,D
-   3,L,D
-   1,J
-  15,D,X
-   6,R
-   4,R,J
-   3,R
-   2,R,D,K
-   1,L,J,G
-  10,L,K,G
-   2,J
-  15,U,X
-  24,R,J
-   1,R
+   5,L,D
+   1,D
+  12,R,D
+
+  11,R,D,J
    2,K
+
+  15,U,X
+  25,R,J
+
+   5,K,G
    7,R
   13,U,X
   40
@@ -422,4 +419,4 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   42,L,D
    4,D,X
   73,L,U,X
-ChapterTime: 0:44.710(2630)
+ChapterTime: 0:44.540(2620)
