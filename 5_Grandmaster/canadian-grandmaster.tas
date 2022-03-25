@@ -259,32 +259,39 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   22,R,U,X
   29
   17,J
-  10,R,J
-   5,U,X
-   1,L,J
-   1,R,K,G
-  10,L,K
-   9,L,D,X
-   1,L,J,G
-  23,L,D
-   9,L,J
+   5,R,J
+   4,R,K,G
+   5,R,D,X
+   1,K
+   1,R,J,G
+   4,L,J
    5,L
-  19,L,U,X
+   2,L,J
+   6,L
+   1,L,J
+   3,L
+  15,L,D,X
+
+   8,L,J
+   6,L
+  15,L,U,X
    5
-   9
-  14,L,D,X
+  14
+  14,L,Z
    4,L,J
-  16,L,D,X
-   4,L,J
-  16,L,D,X
+  15,L,D,X
+   2,L,J
+   2,L
+  15,L,D,X
    3,L,J
   18,L,D,X
-  10,L,J
+   9,L,J
   11,L
+   1
    4,D,X
   16,L,U,X
-  10
-  11,L,X
+  11,R
+  10,L,X
   28,R,J
   19,U,X
    5,R,J
@@ -495,4 +502,4 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,D,X
    1,L,J
   46,L
-ChapterTime: 1:31.749(5397)
+ChapterTime: 1:31.596(5388)
