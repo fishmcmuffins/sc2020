@@ -3,7 +3,7 @@
 
 #Improvements by:
 #abiteofdata, kirbz, fish, aleph
-RecordCount: 7777
+RecordCount: 7858
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -272,35 +272,42 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
 #dashes last 13f instead of 15f
 #jump height is halved
 #2 dashes, 1 midair jump
-  35,D
-   7,R,D
+  25,D
+   2,R,D
+   2,D
+  13,R,D
    4,R
   14,R,Z
-  18,R,J
+  16,R,J
   12,R,Z
-   3,R,J
+   2,R,J
+   1,J
   19,R,U,X
-   2,R
+   2
    6,R,X
   11,R,J
-   2,R
-   2,R,J
    1,R
-  15,U,X
-   3,R
+   1,R,J
+   1,J
+   2
+  16,U,X
+   2,R
   13,R,U,X
    2,R
    6,R,U,X
-  18,R
+  17,R
   13,R,D,X
-   5,R,D
+   2,D
+   4,R,D
   17,R
   15,R,D,X
    3,R
    1,R,J
-   6,R
-  11,R,U,X
-   2,R,J,G
+   4,R
+   1,R,J
+  12,R,U,X
+   1,R,J,G
+   1,R
   36,R,K,G
   15,L,U,X
    4,R
@@ -1818,4 +1825,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:19.981(15293)
+ChapterTime: 4:19.947(15291)
