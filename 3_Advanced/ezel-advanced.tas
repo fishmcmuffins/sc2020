@@ -130,58 +130,54 @@ console load SpringCollab2020/3-Advanced/Ezel
   11,R
   14,R,D,X
    3,R,K,G
-   4,R,J,G
-  19,R,D
-   4,R
-   1
-   1,D
+   3,R,J,G
+   5,R
+   2,R,K
+  15,R,D
    6,L,D
-   3,L
-   3,L,D
-   6,L
+   1,R,D
+   1,L,D
    1,L
-   1,L
-   5,R,Z
-   1,R,J
-   1,R,K,G
-   7,R
-   1,R,J
-   2,R
-   8,R,D,X
+   8,L,D
+   2,L
+   3,L,J
+  13,R,Z
+   2,R,J
+   6,R,D,X
    1,R,J,G
    1,R,K,G
-   1,R
    1,R,J,G
    1,R,K,G
-   6,R
-   1,S
-  10,J
-   1,R,J
-   1,R
+   9,R
+   6,R,J
+   2,J
   12,R,J
-  17,R
+  11,R
    1,R,K,G
+   2,R
   21,R,D,X
    1,R,J
-   2,R
+   7,R,D,X
   40
+#0:16.150(950) 846
+
 
 #lvl_Ezel_02
-  12,R,D,X
+   7,R,D,X
    1,R,J
-   1,R,D
-  45,D
-   9,L,D
-   1,D
+   7,R,D
+  34,D
+  15,L,D
   15,L,X
-   7,L
-  11,D
-   3,R,D
-   3,D
-   1
-   1
-   2,L
+   6
    1,L
+  11,D
+   1,R,D
+   5,D
+   2
+   3,L
+#0:18.632(1096)
+
    1,L,J
    6,L,K
   15,U,X
@@ -209,260 +205,278 @@ console load SpringCollab2020/3-Advanced/Ezel
   33,R,D
   39,L,D
 
-  10,L,D,C
-   1,L,J
+   4,D,C
+   4,L,J
   15,L
-   5,L,D
-  26,D
-   5,L,D
-  23,R
+  12,L,D
+  20,D
+   2
+   1,L
+   1,L,D
+  28,R
   15,R,X
-  15,R
-   8,R,D
-   1,R
-   4,R,D
-  25,L,D,X
-  10,L,D,C
-   1,R,J
-   4,R
-  15,D,X
-  15,D
-   9,R,D
-  14,R,D,X
-   1,L,J
+  26,R
+  13,R,D
+  22,D
+   2,R,D
+#0:25.959(1527)
+
   14,L,D,X
    1,R,J
-   6,R,D,X
+   5,R,D,X
    1,R,K,G
   12,R
-   2,R,J
   40
+#0:27.319(1607)
+
 
 #lvl_Ezel_03
-   4,R,J
-   3,R
+   1,R
+   7,R,J
   15,R,D,X
-   5,R,J
-   5,R
-   1,R,J
-  10,R
+   6,R,J
+  14,R
   14,R,X
-   5,R,J,G
+   4,R,J,G
    7,R,K,G
    4,R
-  20,K,G
+   8,K,G
+  13
   15,R,D,C
-  15,L,X
-  24,R,U,X
+   6,L,X
+  23,R,U,X
   15,R,C
   20,R
    9,R,U,Z
    1,L
    5,K,G
-  53,R,K
+  21,R,K
+  26,R
+   5,R,D
   14,R,X
    9,R,J,G
-  13,R
+  15,R
   15,D,C
-  12
-  10,L,J
-   2,R,J
-   2,R
-  13,R,D,X
-   2,R,J
-   1,R
-   1,R,J
-  12,R,D,X
-   2,R,K,G
-   1,R,J,G
-   2,R,K,G
-   5,R
-   2,R,J
-   1,R
-   1,R,J
-   4,R
-  19,R,K
-  20,R
-  13,R,U,X
-  14,R,K,G
-  12,R,J,G
+   0
+   7,R
+  12,R,J
+  12,L,D,C
+   3,R,J
+  11,R,D,X
    1,R,K,G
-   2,L,K,G
-  39,R,K
-   9,R,D
-   3,D
+   1,R,J,G
+   1,R
+   1,R,K,G
+   6,R
+   1,R,K
+   4,R
+  16,R,J
+   5,R,K,G
    1
-   5,L,Z
+   4,R
+   2,R,K
+  16,R
+  12,R,J,G
+   1,K
+  24,R,K
+   5,R,J,G
+  10,R,K,G
+   8
+   7,R
+   5
+   7,J
+  30
+   7,L
+   2
+   3,D
+  13,R,Z
    1,R,J
    6,R
-  32,R,D,J
+  31,R,J
   15,U,X
-  22
-  20,R,J
-  22,R
-  10,R,J
-  10,J
-  29,R
+  23
+  11,R,J
+  27,R
+   3
+   1,R
+  11,R,J
+  21,R
+   1
+   1,R
    2
-   5,R,D,X
-  12,R
-  18,R,C
-   7,R
-  14,R,Z
-   5,R,J
+   1,D
+   5
+   1,D
+   3,R,D
+   1,R
+   1,R,D
+   4,R
+   1,R,D
+   1,R
+   6,R,Z
+  26,R,J
+  11,R
+   4,R,Z
+   7,R,J
+   2,R,K,G
+   1,R,J,G
+   9,R
+   2,R,J
   15,R,D,X
-   4,R,D
-   5,R,J
-  15,R,D,X
-   2,R,D
-   1,R,J
+   5,R,D,C
   40
+#0:39.831(2343)
 
 #lvl_Ezel_04
-  14,R,D,X
+   9,R,D,C
    1,R,J
-  15,R,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-   4,D,C
-   7,L,C
+   4,R,D,X
    5,R,J
-  10,R,K,G
-   9,R,X
-   4,R
+   8,R,K,G
+   3,K
+  13
+  10,L
   15
   15,U,X
-   3,R
-   3
+   8,L
+   2
   15,U,X
-  18,U,C
-   6,L
-  15,L,X
-   1,L
+   2,L
+   5
   18,U,X
-   3,R
-  15,U,C
-   3,R
-  15,R,U,C
-   8,R
-   4
-  25,L
-  15,L,X
    7,L
+  15,L,U,C
+   3
+   2,L
+  18,L,U,X
+   1,R,J,G
+   1,R,K,G
+   2,L,K
+   3,K
+  11,L,J
   15,U,X
-   1,L
-   7,R,X
-   5,R
-   7
-  14,L,U,X
-   5,L,J,G
-   1,R
-   6,L,U,X
-  27,R
-  15,R,X
-   7,R
-  18,U,X
   18,U,C
-  15,R,U,X
-  15,R,U,C
-   4,R
-  15,L,X
-  15,L
-   1,L,J
-  20,L,K
-  15,L,U,X
-  17,L
   15,U,X
+   1
+  15,U,C
    1,R
-   4,G
-   9,K,G
+#0:45.696(2688)
+
+  37,R,J
+   1,R,K,G
+  14,R
+   1,J
+  10,R,J
+   5,J
+  15,U,X
    7
-  15,D,X
+  15,U,Z
+   2
+  15,L,U,X
+   1,L
+  15,L,U,C
+   1,L
+  15,U,X
+   2
+   1,L
+  13,L,J
+   2,R,J
+   1,R,K,G
+   8,R,J,G
+   7,R
    2,R,J
   10,R,X
-   6,R,J
-   4,R
+   8,R,J
   12,R,K,G
-  15,U,X
+  13,U,X
+   1,L
   43
+#0:50.966(2998)
 
 #lvl_Ezel_05
-   1,L,J,G
-  10,L
-  10,L,X
-  10,L,J
-   1,L
-   5,L,K,G
-   1,L
-  13,L,Z
-   1,R,J
-   1,R
-  15,R,D,X
-   1,R
-   8,R,J
-   5,R,D,X
-   2,R,J,G
-   3,R
-   1,R,K,G
-  11,R
-  29,R,J
-  13,R,U,X
    1,J,G
-   4,R
-   9,L
-   3,R
-  15,U,Z
-   1
-  12,R
-   5,L
-   5
-   4,L
-  14,R,Z
+  10,R
+   4,L,D,X
+   1,L,J
+   7,L
+   3,L,J
+  12,L,U,X
+   3,L,K,G
+  10,L,J,G
+   8,L
+   1,L,J
+  13,L,D,X
    1,R,J
-  27,L,D
-  15,R,U,X
-  12,L,G
-  15,R,X
-   7,R
-  15,R,X
-  14,R
-   5,R
-   7,D
-   4,D,X
    1,R,J
-   8,R
-   1,J
-   1,R
-  15,L,D,X
+  15,D,X
   15,D,C
   15,D,X
-  14,R,D,C
+  15,D,C
+  15,D,X
+  15,D,C
+   5
+   5,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   7,R,J
+  15,R,D,X
+   1,R,K
+  15,R,D,X
+   2,D
+   2,R,D
+   1,R,D,J
+   8,R,U,X
+   2,R,K,G
+   1,R
+   2
+   1,R,J,G
+  10,R
+  18,R,D,J
+   1,J
+   3,R,J
+  14,R,U,X
+   1,L,K,G
+  27,R,K
+  15,R
+  19,R,U,X
+  18,R,C
+  15,R,Z
+  25,R,D
+  12,R,D,X
+   1,L,J
+   2,J
+  15,D,X
+  15,D,C
+  14,R,D,X
    1,L,J
    4,D,X
   10,L,D,X
    1,R,J
-   9,R,D,X
+   8,R,D,X
    1,R,K,G
-   1,R,J,G
    1,R
    1,R,K,G
    1,R,J,G
-  10,R
-  31,R,J
-  15,R,U,X
-  27,R
-  15,R,U,X
-  37,R
-   1,R,D
-  18,R,U,X
   11,R
-  10,R,J
-  20,R
-  15,R,D,X
-   4
-   2,L
+   4,R,J
+   1,J
+   2,R,J
+   5,R
+   5,R,J
+  28,R,K,G
+  15,R,X
+  19,R
+  13,R,C
+   1,L
+   1,J,G
+  11,J
+   7,R,J
+  12,R
+   9,R
+   5,R
+ 
    8,D,X
   45,R
    4,R
@@ -481,24 +495,24 @@ console load SpringCollab2020/3-Advanced/Ezel
   15,R,J
   20,R
    7,L
-  11,L,J
-   2,R,G
-  11,R,Z
-   2,R,J
-   2,R
-  17,R,D,X
-   2,R,J
-   7,R,K,G
-   3,R
+   5,L,J
+   8,L,J
+   5
+   6,R,Z
+   1,R,J
+   8,R
+   4,R,J
+  15,R,D,X
+   7,R,J
   40
 
 #lvl_Ezel_06
-  11,R
-  14,R,Z
-   1,R,J
-  15,R,D,X
+   2,R,J
+  13,R,D,X
    1,R,K,G
-   2,R,J,G
-   8,R,K,G
- 124,R
-ChapterTime: 1:08.680(4040)
+   6,R,J,G
+   7,R
+   1,R,J
+  12,R,D,X
+ 135,R
+ChapterTime: 1:04.974(3822)
