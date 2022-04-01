@@ -159,7 +159,6 @@ console load SpringCollab2020/3-Advanced/Ezel
    1,R,J
    7,R,D,X
   40
-#0:16.150(950) 846
 
 
 #lvl_Ezel_02
@@ -176,8 +175,6 @@ console load SpringCollab2020/3-Advanced/Ezel
    5,D
    2
    3,L
-#0:18.632(1096)
-
    1,L,J
    6,L,K
   15,U,X
@@ -204,7 +201,6 @@ console load SpringCollab2020/3-Advanced/Ezel
   15,R,U,X
   33,R,D
   39,L,D
-
    4,D,C
    4,L,J
   15,L
@@ -219,15 +215,12 @@ console load SpringCollab2020/3-Advanced/Ezel
   13,R,D
   22,D
    2,R,D
-#0:25.959(1527)
-
   14,L,D,X
    1,R,J
    5,R,D,X
    1,R,K,G
   12,R
   40
-#0:27.319(1607)
 
 
 #lvl_Ezel_03
@@ -257,7 +250,6 @@ console load SpringCollab2020/3-Advanced/Ezel
    9,R,J,G
   15,R
   15,D,C
-   0
    7,R
   12,R,J
   12,L,D,C
@@ -325,7 +317,6 @@ console load SpringCollab2020/3-Advanced/Ezel
   15,R,D,X
    5,R,D,C
   40
-#0:39.831(2343)
 
 #lvl_Ezel_04
    9,R,D,C
@@ -360,8 +351,6 @@ console load SpringCollab2020/3-Advanced/Ezel
    1
   15,U,C
    1,R
-#0:45.696(2688)
-
   37,R,J
    1,R,K,G
   14,R
@@ -391,7 +380,6 @@ console load SpringCollab2020/3-Advanced/Ezel
   13,U,X
    1,L
   43
-#0:50.966(2998)
 
 #lvl_Ezel_05
    1,J,G
@@ -476,7 +464,6 @@ console load SpringCollab2020/3-Advanced/Ezel
   12,R
    9,R
    5,R
- 
    8,D,X
   45,R
    4,R
