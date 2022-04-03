@@ -277,7 +277,6 @@ console load SpringCollab2020/3-Advanced/Spoopy
   14,U,C
    9,L
   20,D,X
-#yes, this is faster
   15,L,U,C
    5,U,X
    1,L,J
@@ -375,17 +374,21 @@ console load SpringCollab2020/3-Advanced/Spoopy
    8,R
    1,L,K
    1,L
-  15,L,D,X
-   5,L,D
-  12,R
-  15,R,Z
-  15,R,V
+  24,L,D,X
+  14,L,Z
    1,R,J
+   7,R,Z
+   2,R,J,G
+   5,R
+   1,R,J
+   5,R
+   1,R,J
+   2,R
   15,D,X
-  11,R,D
+  10,R,D
    4,R,Z
    1,R,J
-  11,R
+  12,R
    1,R,J
   10,R,D,X
    3,R,J
@@ -483,12 +486,18 @@ console load SpringCollab2020/3-Advanced/Spoopy
   11,R
   13,R,J
   11,U,X
-  30,R,J
+  20,R,J
+  15,R,U,X
+   3,L
+   9,U,C
+   5,R
+#never knew that
+#spring direction lock
+#could force speed gain from
+#neutral cbs
+  15,J,G
   15,U,X
-   2,R,J
-  25,R
-  15,U,C
-   6,L
+   7,L
   74,R,U,X
   15,U,C
    3,R
@@ -518,4 +527,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
    3,R,J
   14,R,U,X
  135,R
-ChapterTime: 1:07.320(3960)
+ChapterTime: 1:07.184(3952)
