@@ -130,11 +130,11 @@ console load SpringCollab2020/1-Beginner/Skeleton
   11,U,X
    2,L,K,G
    1,L,J,G
-   7,L,K,G
-   8,L
-   5,L
-   3
-  12,L,X
+   8,L,K,G
+   1,L,J
+   6,L
+   9,L
+  10,L,X
    1,L,J,G
    1
    4,L
@@ -145,8 +145,8 @@ console load SpringCollab2020/1-Beginner/Skeleton
   15,L,J,G
    1,J
    5,L,J
-   6,L,K,G
-   2,L
+   7,L,K,G
+   1,L
    1,R,J
   12,R,K
    7,R
@@ -154,23 +154,22 @@ console load SpringCollab2020/1-Beginner/Skeleton
   15,U,X
   12,L,K,G
    5,L,J,G
-   4
-   3,R
+   7
    4,D,X
   11,U,X
    1,R
    4,J
   11,L
    6,L,D,C
-   2
-  12,L
-   1
+  14,L
   15,U,X
    1,L
   14,R,J
-  10,R
-   5,R,J
-   2,R
+   8,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
    1,R,K,G
   15,R,J,G
   23,R,X
@@ -469,4 +468,4 @@ console load SpringCollab2020/1-Beginner/Skeleton
   15,R,U,X
   77,R,D
   57,R,J
-ChapterTime: 0:58.803(3459)
+ChapterTime: 0:58.769(3457)
