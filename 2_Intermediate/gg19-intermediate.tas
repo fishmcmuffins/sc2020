@@ -78,10 +78,11 @@ console load SpringCollab2020/2-Intermediate/GG19
    9,L,X
    1,R,J
    9,R,K,G
-  31,R
-   1,R,J
   33,R
-  25,R,J
+   1,R,J
+  28,R,D
+   3,R
+  24,R,J
   11,R,K,G
   12,R,J,G
   10,R,K,G
@@ -207,4 +208,4 @@ console load SpringCollab2020/2-Intermediate/GG19
   18,L,C
    1,L,J
   81,L
-ChapterTime: 0:31.824(1872)
+ChapterTime: 0:31.807(1871)
