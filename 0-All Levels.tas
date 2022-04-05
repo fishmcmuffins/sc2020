@@ -1,7 +1,10 @@
 #To sync:
 #Use Celeste v.1.4.0.0
-#Use Everest v.1.3205
-#Use Spring Collab 2020 1.6.1
+#Use Everest v.1.3282
+#Use Spring Collab 2020 1.6.2
+#Please let us know if future versions
+#Appear to be desyncing the TAS
+
 #Use the bindings in the CelesteTAS readme
 #Turn on speedrun timer
 #Turn on show Mod Options in game
@@ -9,10 +12,17 @@
 #Start from Begin
 #Make sure map select shows up
 #Open and close Mod Options if it doesn't
+
+#!!!!!
 #Make sure to turn off the
 #"Display End Screen for All Maps" option
 #In the Collab Utils 2 mod
+#!!!!!
 
+#As of 4/4/2022
+#Max's Helping Hand mod (not a dependency)
+#Causes a desync in neokat-adv
+#Until it's fixed, disable it before playing the TAS
 
 Read,StartFullCollabFile
 
