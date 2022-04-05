@@ -40,22 +40,22 @@ console load SpringCollab2020/3-Advanced/Spoopy
 #lvl_spoopy_02
   12,R
    1,R,G
-  22,L
-   4,D,X
-  10,L,X
+  24,L
+  14,L,Z
    1,R,J
   15,R,D,X
-   2,R,J
+   1,R,J
+   1,R
   15,R,D,X
-  17,R
+   1,D
+  13,R,D
    1,R,J
   18,R
-  16,R,J
+  10,R,J
    1,J
-   4,D,X
-   7,U,X
+  12,U,Z
    7,R,J
-   7,L,J
+   8,L,J
    1,L,K,G
    9,R,J
    2,R
@@ -527,4 +527,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
    3,R,J
   14,R,U,X
  135,R
-ChapterTime: 1:07.184(3952)
+ChapterTime: 1:07.099(3947)
