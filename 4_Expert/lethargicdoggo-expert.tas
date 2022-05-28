@@ -163,38 +163,41 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
    1,R,J
   13,R
   50,R,X
-  35,D,C
-  44,R,X
-  36,U,C
+   4,C
+  14,D,C
+  17
+  27,R,X
+  17
+  18,U,X
+  17
   18,R,X
    4,R,K
-   6,R,J
-  18,R
+   7,R,J
+  17,R
    4,R,D
   43,R,C
   15,R,X
   13,R
-   1
-   4,D
-   5,R,D
+   1,R
+   3,D
+   6,R,D
   20,R
   29,R,X
   12,R,D
-  23,R
-  24,R,X
-   4,D,C
+  24,R
+  23,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
-   2,R
-  10,R,D,X
+   8,R,D,X
    1,R,J
    1,J
   40
 
 #lvl_5
    1,J
-   2
+   4
   15,R,D,X
    7,D
   12,R,D,X
@@ -292,7 +295,6 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   18,R,Z
    7,R,J
   20,R,K
-
   15,R,D,X
    5,R,D
   15,D,X
@@ -353,4 +355,4 @@ console load SpringCollab2020/4-Expert/LethargicDoggo
   57,R,X
   15,L,D,C
   17,L,D
-ChapterTime: 0:57.205(3365)
+ChapterTime: 0:57.188(3364)
