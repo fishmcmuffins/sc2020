@@ -48,9 +48,9 @@ console load SpringCollab2020/2-Intermediate/Goat
   40
 
 #lvl_1
-  15,R,J
-  12,R,K,G
-   1,R,J,G
+   5,L
+  21,R,J
+   1,R,K,G
   30,R,X
    4,R,J
    4,D,X
@@ -320,4 +320,4 @@ console load SpringCollab2020/2-Intermediate/Goat
    7,L,J
   43,L,D,X
   56,D,C
-ChapterTime: 0:39.236(2308)
+ChapterTime: 0:39.219(2307)
