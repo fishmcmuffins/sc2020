@@ -249,19 +249,18 @@ console load SpringCollab2020/1-Beginner/CANADIAN
   10,L,K,G
   14,L,D,X
   12,L
-  61,R,U,C
-  14,L,U,X
-   3,L
-  34,L,X
-  14,L,U,C
-   4,R
-  14,R,U,X
+  63,R,U,C
+  19,L,U,Z
+  28,L,X
+  15,U,C
    5,L
-  14,L,U,X
-  25,R
+   6,R,G
+  15,R,U,X
+  11,L,U,C
+  27,R
   14,R,X
-  31,R
-  12
+  26,R
+  13
    4,D,X
    8,L,X
    1,R,J
@@ -286,4 +285,4 @@ console load SpringCollab2020/1-Beginner/CANADIAN
   12,K,G
   16,U,X
  135,R,D
-ChapterTime: 0:41.140(2420)
+ChapterTime: 0:41.089(2417)
