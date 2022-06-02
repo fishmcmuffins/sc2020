@@ -71,47 +71,60 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    5,Z
    9,L,Z
    1,R,J
-  16,R,D,X
+   5,R,D,X
+   6,L,D
+   4,D
+   1,R,D
    1,R,J
-  10,R
-   1,R,D,J
+   6,R
+   8,R,U,Z
+   1,L
   40
 
 #lvl_JaThePlayer_3
-   4,R
-   4,R,Z
-   1,R,J
-   5,R
-   4,U,X
-  20,U,C
+   4
+   1,K,G
+   1,R,K
+   9,L,K
+   5,R,J
+   8,R,K
+
   18,R,U,X
-  15,U,C
-  31,R,X
-   7,U,C
-  11,R,J
-  22,R,X
+   3,R,J,G
+   2,R
+  13,U,C
+   1,L,J
+   1
+  15,R,Z
+  14,R
+   9,U,C
+   3,R,J
+   8,R,K
+  20,R
+   1,L,J
+  18,R
   14,R,U,C
    9,L
-  14,L,U,X
-  47,L,C
-   7,J,G
-  10,L,D,X
-   5,R,J
-   4,D,X
-  12,R,U,X
-   4,R,J
-   5,U,C
-   1,R
-  56,U,X
-  14,R,U,C
-  21,L,U,X
-  37,U,C
-  57,U
-  23,L,U,X
-  12,L,Z
-   2,L,K,G
-   6,L
-  61,U,X
+  14,L,U,Z
+  21,R,U,C
+  78,U,X
+   5,L,U,Z
+  25,U,C
+  10,L,Z
+   1,L,J
+   3,L,K,G
+  14,L,J,G
+  12,U,X
+   5,L,U,C
+   9,R,D
+   4,D,Z
+   1,R,J
+  27,R
+   7,U
+  14,U,X
+   5,R,U,C
+  15,U,X
+  47,R
    5,U,C
   40
 
@@ -239,4 +252,4 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    8,J
   16,U,X
  135
-ChapterTime: 0:46.376(2728)
+ChapterTime: 0:45.475(2675)
