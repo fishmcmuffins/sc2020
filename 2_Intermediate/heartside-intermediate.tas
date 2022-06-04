@@ -379,7 +379,7 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   22,R,G
   10,R,D,G
    8,R,J,G
-  40,J
+  40
 
 #lvl_int_heart_03
   13,R,J,G
@@ -406,6 +406,7 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    1,R
    1,R,J
    8,L,D
+
   15,L,D,X
   78
    1,J
@@ -421,9 +422,10 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    3,R
    1,R,J
    3,R
-   7,R,K
-   6,R,D,X
-   2,R,J,G
+   4,R,K
+   4,R
+   5,R,D,X
+   1,R,K,G
   12,R
    6,R,J
   15,R,D,X
@@ -551,19 +553,17 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    4,D
    6,R,D,X
    1,R,J
-   7,R
+   6,R
+   1
    1,R,J
-   1,R
+   1
    5,R,D,X
    1,R,K,G
    1,R
-  62,R,J
-   3,J
-  15,R,J
+  80,R,J
   10,R
-   6,R,D
   14,R,U,X
-   1,R,J,G
+   2,R,J,G
    6,R,U,X
   40
 
@@ -666,9 +666,6 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   15,L,U,X
   15,R,C
    6,R
-
-
-
   25,L,C
   34,G
    2,D,G
@@ -699,137 +696,68 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
   14,R,D,X
    1,R,J
   15,R,D,X
-  15,R,D,C
- 181,R
+ 207,R,D
+  48,D
+  14,R,D
   40
 
 #lvl_int_heart_05
-   1,S
-   1,D,J
-  69,O
-   1,R
+   4,R,D
+   2,D
+  14,R,D,X
    1,R,J
-  10,R,Z
-   5,R,J
-   1,R
-   1,R,J
-   5,R
-   4,D,X
-  11,R,X
-   6,R
-  13,R,G
-  11,R,J,G
-   1,K,G
-   2,L,K,G
-   3,L,G
-   1,R
-  11,U,X
-  21,L,G
-   1,R
-  24,R,D
-   4,D
-   6,R,D
-   6,D
-  14,L,D,X
-   1,R,J
-  11,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  11,R,J
-  22,R,X
-   8,R,J
-  22,R,K
-  24,L,U,Z
-   4,R,G
-   1,J
-   1,L
-  10,R
-  43,R,Z
-   4,R,J
-   2,R,K
-   5,R
-  14,R,J
-   8,U,Z
-  12,R,J
-  15,R,G
-   4,D,X
-  11,R,X
-   9,L
-  17,R
-  14,R,U,X
-   8,R,J
-  19,R,K
-  15,U,Z
-   3,L,J,G
-   7,L
-   6,R,Z
-   1,L,J
-   6,L
-   8,L,J
-   6,L
-   1,L,J
-   7,L
-   1,L,K,G
-   1,R,K,G
-   5,L,K,G
-   2,L
-   1
-   1,L
-   3,J,G
-   6,L,J,G
-   1,L,K,G
-   9,L,G
-   1,J,G
-   1,L,J,G
-   1,R,J,G
-   1,L,J,G
-   2,K,G
-  20,R,K,G
-   9,R,J,G
-   1,R
-  52,R,X
-   8,R,Z
-   1,R,J
-  16,R,D
-  40,L,D
-  32,D
-  16,R,D
+   5,R,D,X
+   2,R,K,G
+  15,R
+   3,R,J
   15,R,D,X
-  40,R,D
- 100,D
-  30,R,D
-  20,D
-  20,L,D
-  68,D
-  27,R,D
+  15,R,D,C
+   2,R,J
+   7,R,D,X
+   1,R,K,G
+  12,R
+   3,R,J
+   7,R,D,X
+   8,R,K,G
+   3,R
+  15,R,D,X
+   6,R
+  53,R,D
+  15,R,Z
+  14,R,U,X
+   3,R,K,G
+   7,R
+  15,U,X
+   7,R,Z
+   2,R,J
+  10,R,K,G
+   2,R
+  15,R,D,X
+   3,R,D
+   1,R
+  15,R,Z
+  15,R,X
+  15,R,Z
+  15,R,D,X
+   7,R,D
   40
 
 #lvl_int_heart_06
-  63,R,D
-   4,D,X
-  10,R,X
-   3,R,J
-   4,R,K,G
-   6,R
-   2,R,J,G
-   5,R
-   2,R,K
-   1,R
-  14,R,U,X
-   6,R,J,G
-  12,R,K,G
-   4,J,G
-   6,R
-   1,L
-   1,L,J
-   6,J
-  10,R,Z
+   1,S
+   1,D,J
+  69,O
+  15,R,U,C
+   5,R,X
+   3,R,J,G
+   7,R
+  15,U,C
+   2,R
+  12,R,Z
    1,R,J
    5,R,K,G
-   3,R,J,G
-  16,R,K,G
+
+   2,R,J,G
+  17,R,K,G
   15,R,D,X
    4,R,D
    3,R,J
@@ -872,20 +800,27 @@ console load SpringCollab2020/2-Intermediate/ZZ-HeartSide
    3,R,J,G
    1,J
    1,R,J
-   2,R,K,G
-  14,R,J,G
+   4,R,K,G
+   6,K
+   1,R,K
+   1
+   1
   15,U,X
-  10,R
-   7,R,J
+  12,R,U,C
+   1,K,G
+   8,R
   10,R,X
-  16,R,J
-  16,R,U,X
-   1,R,J,G
-   5,R,K,G
-   4,R
-   2,R,K,G
-   7,R
-   3,R,J
+   5,R,J
   15,R,U,X
- 134,R,D
-ChapterTime: 2:16.323(8019)
+  11,R,U,C
+   3,R,J,G
+   1,J
+   5,R,J
+   4,R
+   1
+   2,R
+   4,R,X
+  12,R,J
+   8,U,C
+ 135,R,D
+ChapterTime: 2:03.692(7276)
