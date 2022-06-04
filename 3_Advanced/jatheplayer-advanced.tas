@@ -88,7 +88,6 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    9,L,K
    5,R,J
    8,R,K
-
   18,R,U,X
    3,R,J,G
    2,R
@@ -100,9 +99,7 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    9,U,C
    3,R,J
    8,R,K
-  20,R
-   1,L,J
-  18,R
+  22,R,X
   14,R,U,C
    9,L
   14,L,U,Z
@@ -252,4 +249,4 @@ console load SpringCollab2020/3-Advanced/JaThePlayer
    8,J
   16,U,X
  135
-ChapterTime: 0:45.475(2675)
+ChapterTime: 0:45.186(2658)
