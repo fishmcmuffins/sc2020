@@ -522,16 +522,12 @@ console load SpringCollab2020/1-Beginner/Thegur90
    5,R
    3,R,J
   30,R
-  25,R,J
-  11,R,D
-   6,R
-   1,R,D
-   1,R,J,G
-   7,R,K,G
-   8,R,J,G
-   1,R,K,G
-   3,L,K
-   1,R,K
+  38,R,K
+   3,R,D
+   2,R
+   9,R,J,G
+   9,R,K,G
+   2,R,J,G
    7,R
    5,R,J
    4,J
@@ -710,4 +706,4 @@ console load SpringCollab2020/1-Beginner/Thegur90
   19,L,D,X
    4,L,J
  102,L,D,X
-ChapterTime: 1:03.682(3746)
+ChapterTime: 1:03.665(3745)
