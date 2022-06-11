@@ -471,31 +471,31 @@ console load SpringCollab2020/3-Advanced/Spoopy
   11,R,J
   14,L,D,X
    2,R,J
-  20,R,D,X
-   4,D,C
-  10,L,C
-   8,R,J
-  15,R,D,X
+  17,R,D,X
+   3,D
+  11,L,D,J
+
+  14,L,D,X
+   2,R,J
+  19,R,D,X
+   9,R,J
+  16,R,D,X
    1,R
-   1,R,D,J
-   3,R
-  15,R,D,X
-  11,R,J
-  15,R,D,X
-   8,R,J
-  11,R
-  13,R,J
-  11,U,X
-  20,R,J
+   9,R,D,J
+   5,R
+  12,R,J
+   1,J
+   9,U,X
+  19,R,J
   15,R,U,X
    3,L
    9,U,C
-   5,R
+   6,R
 #never knew that
 #spring direction lock
 #could force speed gain from
 #neutral cbs
-  15,J,G
+  15,R,J,G
   15,U,X
    7,L
   74,R,U,X
@@ -527,4 +527,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
    3,R,J
   14,R,U,X
  135,R
-ChapterTime: 1:07.099(3947)
+ChapterTime: 1:06.844(3932)
