@@ -69,17 +69,14 @@ console load SpringCollab2020/3-Advanced/_sleepie
 
 #lvl_room_2
   20,R,D,X
-   7,R,J
-  15,L,D,X
-   1
+   5,R,J
+  15,D,C
+   1,X
    1,L,J
-   1,L
-  15,D,X
-   1
-  10,R
-   1
-   4,D,X
-  10,R,X
+   2,L
+  15,D,C
+  13,L
+  14,R,Z
    7,R,J
   25,R
   14,R,Z
@@ -143,164 +140,52 @@ console load SpringCollab2020/3-Advanced/_sleepie
   15,U,X
   16,L,G
    1,U,G
-   8,G
+   1,G
+   1,U,G
+   6,G
    1,L
    1,J
    1,K,G
    1,J,G
    3,K,G
    5,R,D,X
-   1,L,J,G
-  22,R,D
-   6,R,J
-  15,R,D,X
-   9,R,K
-   6,R,J
-   3,J
-   1,R,K,G
-  15,R,D,X
-   5,D
-   1,R,D
+   2,L,J,G
+  22,R,J
+   4,R
+  12,R,J
+   1,J
+  13,R,D,X
+   3,R,J,G
+   3
+   2,R
+   1,R,K
+  17,R
+   7,R,U,Z
   40
 
 #lvl_room_3
-   6,R
-  14,R,Z
-   8,R,J,G
-   4,R
+  29,R,J
    1,R
-   2
-   4,R,D,X
-   2,R,J
-   4,R
-   1,R,J
-  11,R
-  18,U,X
-   7,U,Z
-  26,R
-  18,U,X
-   3,K
-  28,R,K
-   5,R
-   5,D
-   2
-   1,R
-   2,R,D
-   1,R
-   4,R,Z
-   3,R,J
-  15,R,D
-   5,D
-  15,R,D,X
-  16,R,D,C
-   4,D
-   8,R,D,X
-   1,R,K
-   3
-   6,R,D
-   1,R,D,J
-   5,R
-  14,R,X
- 195,R,C
-   3,R,J,G
-  15,R,U,X
-   4,D,C
-   6,R,C
-  10,R,J
-  15,R,D,X
-   3,R
-   8,R,J
-  15,R,D,X
-   3,R,J
-  14,R,K,G
-  16,R,D,X
-   1,R,J
-  15,R,U,X
-  24,R,D
-   8,R,J
-   2,R
-   4,D,X
-  14,R,X
-   3,R,J
-  15,R,D,X
-   9,R,J
-  16,U,X
-   7,R,J
-   3,R
-   7
-   1,R
-  15,R,D,X
-   9,D
-   5,R,D
-   4,D,X
-  10,R,X
-  22,R,C
-  25,R,D,X
-  15,U,C
-  15,R,U,X
-  14,R,G
-   1,R,J,G
-   1,K
-  16,R,J,G
-   2,R,K,G
-  11,R
-   1
-   4,R,D,X
-   1,R,J
-   6,R,D
-   1,R,J
-  17,R,D
-   4,D,X
-   6,R,X
-   1,R,J
-   4,R
-   1,R,J
-  14,R,D,X
-  15,R,D,C
-   1,R,J
-   3,L,J
-   1,R,J
+  11,R,K
+  12,R
+   6,L
+   4,R,K
+   1,L,K
+  10,R,K
+   9,L,K
+   6,L
+   5,L,D
    8,L,J
-  12,L
-   1,L,K,G
-   1,L,J,G
-   1,K,G
+  10,L,K,G
+   4,L
   15,R,D,X
-   4,J
-  14,R,U,X
-  13,L
-  15,U,X
-   2,R
-  10,U,C
-  12,R,J
-  10,R
-   1,R,K,G
-   1,R,J,G
-   7,R
-   2,R,J
-   1,J
-  15,R,U,C
-  17,R,D
-  11,L,D
-   1,D
-  11,L,D
-   5,L
-  27,R,D
-  22,L,D
-  26,R,X
-  16,R,U,Z
-  15,U,X
-   4,R
-   7,R,J
-  39,R,U,X
-   4,R,D,C
-   1,R,J
-   4,R
-   1,R,J
-   4,R,Z
-   1,R,J
-   8,R
-  11,U,X
+   1,R
+   1,R,D
+   6,D
+# idk if skipping this bubble is possible
+# i probably lost more speed than needed
+# up to this point, so you can maybe save
+# a frame or two losing less speed
   15,R,C
   15,D,X
    1,R
@@ -606,4 +491,4 @@ console load SpringCollab2020/3-Advanced/_sleepie
    7,R
    6,R,C
  135
-ChapterTime: 1:24.150(4950)
+#1:24.150(4950)
