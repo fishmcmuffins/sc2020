@@ -50,14 +50,22 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
    1,K
    7,L,K
    8,R,J,G
-  10,R,X
+  10,R,Z
    4,R,J
-   4,R,K
-  10,R,X
-   4,R,J
+   5,R,K
+  10,R,D,X
+   4,L,J
+   7,L,D
+   8,R,D
+   7,L,D
+   1,X
+   7,L,J
+  11,U,Z
+   3,L,J
+   1,L
    1,R,K
-   4,R
-  15,R,D,X
+   7,R
+  20,R,X
    4,R,J
   15,R,D,X
    4,R,J
@@ -95,16 +103,16 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
   40
 
 #lvl_2
-  64
+  12,R
+   1,K
 #spinner cycle
  #  1
-   4,D,X
-   1,R,X
-   7,R,J
-   2,R
-   4,R,J,G
-   1,R,K,G
-   2,R
+   5,R,Z
+   7,R,K
+   2,R,J,G
+   1,J
+   1,R,J
+   4,R,K,G
   14,R,D,X
    1,L,J
    6,L,D,X
@@ -280,4 +288,4 @@ console load SpringCollab2020/5-Grandmaster/Problemstrol
   15,R,U,X
  134,L
    1,R,D,J
-ChapterTime: 0:40.086(2358)
+ChapterTime: 0:40.069(2357)
