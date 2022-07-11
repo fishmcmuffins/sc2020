@@ -80,16 +80,17 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   40
 
 #lvl_TheAd_02
-   6,R,J
+   1,R,J
+   2,J
+   4,R,J
   15,R,D,X
-   1
-   4,R
+   3,R
   15,D,X
-   1,L
-  10,L,C
-   7,R,J
-  12,R
-   2,R,J
+   1
+  14,L,Z
+   1,R,J
+   7,R,K,G
+   8,R
   14,R,Z
    2,R,J
   14,U,X
@@ -377,4 +378,4 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   22,R,D,J
    1,K,G
   60,L,K
-ChapterTime: 0:53.312(3136)
+ChapterTime: 0:53.278(3134)
