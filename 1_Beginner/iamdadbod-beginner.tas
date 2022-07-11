@@ -157,10 +157,12 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   12,R,X
   25,L,J
    3,K
-   9,L,J,G
-  14,R,K
+   1,L,J,G
+   1,R,J,G
+   1,K
+  20,R,K
   15,R,X
-  10,R
+   5,R
   40
 
 #lvl_totk3
@@ -419,4 +421,4 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   42,L,D
    4,D,X
   73,L,U,X
-ChapterTime: 0:44.540(2620)
+ChapterTime: 0:44.455(2615)
