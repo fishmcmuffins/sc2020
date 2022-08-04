@@ -70,104 +70,94 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   10,L,X
    5,R,J
   12,R,U,X
-  52,R,G
-   7,R,D,G
-   1,R,G
-   3,R,D,G
-   1,D
-  20,D,X
-  23,R,D
-  17,L,D
-  25,L
-  14,U,X
-  34,L,J
-   7,R,U,X
-  57,R,D,G
-   2,R
+  55,R,G
+   2,R,D,G
+  30,L,D,G
+  25,D,G
+  22,D
+  15,U,X
+   7,L
+  31,L,U,J,G
+   9,L,D
+   1,L,G
+   1
+   1,K
+   6,L,J,G
+   5,L,J
+  18,L
+   1,L,D
    1,L
-   1,R
-   8,L
-   4,X
-  14,R,J
-   2,R,K,G
-   8,R
+   6,L,Z
    1,R,J
-   4,D,X
-   6,L,X
+  13,R,G
+   7,R,J,G
+  28,R,G
+   4,R,J,G
+   3,R,G
+  38,L,G
+  27,L,D,G
+  15,L,U,G
+   1,R
+  15,L,X
+  11,L,D
+  26,R,D
+   3,D
+  12,R,Z
    1,R,J
    7,R
-   1,R,J
-  15,L,J,G
-  41,L,G
-   8,L,D,G
-   7,L,G
-   1,R
-  22,L
-  15,L,X
-  18,L
-  27,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  20,R
-  25,R,J
+  21,R,J
   15,U,X
-  14,R
-  15,U,X
-   1,R
-  31,R,J
-  36,R,D
+   5,R
+  40,R,D,G
+   1,L
+  37,R,D
   12,D,X
    1,J
   12
   17,D,X
-   8,L,J
-   2,L
+  10,L,J
+   1,L
   14,L,U,X
-   2,L,J,G
+   1,L,J,G
+   1,L
+   1,L,J,G
    7,L
-   4,D,X
+   4,L,D,X
    1,L,J
-   6,L
-   4,L,D
-   4,L,J
-   4,L
+   6,L,D
+   3,L,D,J
+   3,L
   19,L,D,X
-   7,L,J
-   4,L
-  15,L,D,X
-   1,J
-  17,L,U,C
-   4,R,J
+   1,L,J
+  14,L
+  14,L,J
+   3,J
+   1,L,J
   15,U,X
-   8,L
-   1,L,K,G
-   5,J
-   4,D,X
-   3,L,X
+   7,L
+   1,L,J,G
+   1,L
+   2,L,K,G
+   7,L
+   5,R,D,X
    1,L,J
    6,L
    1,L,J
-  17,L,D,X
-   2,L,J
-   5,L
-   2,J
-   2,L,J
-  15,L,U,X
-  15,U,C
-  10,L
-   4,D,X
+   2,L
+  18,L,D,X
+  12,L,J
+  14,L,U,X
+  12,K,G
+   7,L,J,G
+   7,L
+   4,L,D,C
    1,L,J
-  10,L
+   7,L
+   3,L,D
   15,D,X
-  50,D
-   5,R,D
+   6,L,D
+  40,D
+   9,R,D
   40
 
 #lvl_bonicle_02
@@ -218,24 +208,26 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   15,L,D,C
    3,L,D
    1,L
-   2,R
-   1,R,J
-   1,R,K
-  52,R
+   2
+   1,J
+   1,K,G
+   1
+  40,R
+   9,R,D
    4,D,X
   11,R,U,X
-   3,R
+   4,R
   15,R,U,X
-   6,R
-  20,U,X
+   5,R
+  19,U,X
    6
    7,U,X
   12
    8
   15,D,X
   26,L,D
-   3,L
-   5
+   1,L
+   7
    1,D
    4,D,X
    4,L,J
@@ -267,9 +259,11 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1,R,J
    7,R
    9,R,J
-  12,U,Z
-   2,R,J
-  11,R
+  13,U,Z
+   1,R,J
+   8,R
+   3,R,N
+   1,R
    4,D,C
    1,R,J
    7,R
@@ -277,33 +271,43 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    7,L,K
   13,L,U,X
   42,L,U,G
-   7,L,J
+   3,L,J
+   4,L
   14,L,U,X
   42,L,U,G
    7,L,D
    2
   12,U,X
   16,L,U,G
-   6,U,G
-  34,R,D,G
+   7,U,G
+  27,R,D,G
    1,R
-   3,R,D
-   4,R,J,G
-  14,R,U,X
-  21,R,U,G
-   5,R
-  25,D
-   4,D,X
-  10,L,X
-  11,L,J
-  17,L,U,X
+   7,R,D
+   9,L,Z
+   1,R,J
+   3
+   4,R
+   1,J
+  10,R,U,X
+  23,L,G
+   1,R
+  16,L,D
+   8,D
+   4,L,D,X
+   1,L,J
+   7,L
+  15,L,J
+  15,L,U,X
+   4,L
   12,L,J,G
-  12,L,K,G
-  11,L,J,G
+  11,L,K,G
+   1,L
+   1,L,J,G
    1,J
    7,K,G
-   2,R,K
-  15,R,J
+   1,R,K
+   1,R,J
+  15,R,K
    4,D,X
    7,U,X
    8,R,J
@@ -317,78 +321,87 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1,R,J
    5,R
    5
-   2,L,J,G
+   1,L,J,G
+   1,L
    4,L,K,G
-  10,L,J,G
+   1,L,J,G
+   1
+   8,L,J,G
    2,R,J
-   4,R
-   3
+   7,R
    6,L,D,X
    1,R,J
-   1
    6,R
    1,R,J
    1,R
    5,R,D,X
    1,R,J,G
-   1,R
-   2
-  10,R
-   3,R,J
-   7,R,D,X
+  14,R
+   1,R,J
+   6,R,D,X
   40
 
+
+Set,Player.StateMachine.State,0
 #lvl_bonicle_05
-   1,R,J,G
-   6,R
-   3
-   5,R
-   9,R,J
-  10,R,U,X
-  16,R,D,G
-  93,D,G
-  10,R,D,J,G
-  65,R,D,J,G
-   3,R,U,J,G
-   8,R,J
-  15,U,X,G
-  16,R,D,G
-  30,L,D,G
-  20,D,G
+  16,R,J
+  14,R,U,X
+  53,R,D,G
+  47,R,U,G
+   6,U,G
+   1,R,D,J
+   8,R,K,G
+   6
+   1,K
+   2,J,G
+  57,L,U,J,G
+   8,D,J,G
   12,D
   15,U,X,G
-  15,G
-  35,R,D,G
-  28,R,U,J,G
+  14,G
+  32,R,D,G
+   3,D,G
+   1,R,D,G
+  29,R,U,J,G
    1,D,J
    4,R,G
    7,R,K,G
-   4,L,K
-   1,K
-  18,L,J,G
-   5,L,J
+   5,L,K
+  20,L,J,G
+   2,L,G
+   1,L
    4,D,X
    6,R,X
    5,L,J
-  11,L,U,X
-  80,L,D,G
-  54,L,U,J,G
-   1,R
-  15,L,D,X
-  31,L
-   4,D,X
-   2,L,U,X
+  10,L,U,X
+  60,L,D,G
+   8,L,G
+  14,L,D,G
+  29,L,U,G
+   1,R,J
+  19,L,D
+   7,L
+   4
+   1
+   1,D
+   1
+   1,L
+  15,L,Z
+   1,J
+   5,L,J
+  25,L,D
+  13,L,U,Z
   14,L,D
   16,D
-   3
+   5
   15,U,X
   12
   15,R,D,X
   53,R,D
-  29,D
+  28,D
   40
 
-#lvl_bonicle_06
+#lvlty_bonicle_06
   10,D
   21,R,D
   10,R,D,X
@@ -402,4 +415,4 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1,D,X
    1,L,J
   46,L
-ChapterTime: 1:03.869(3757)
+ChapterTime: 1:00.690(3570)
