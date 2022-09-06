@@ -134,7 +134,6 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,L,J,G
   10,L,K,G
    9,L
-#***S
    7,R
   13,L,U,X
    7,L
@@ -151,7 +150,6 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   22,L,D,X
    2,R
   15,R,D,X
-#***S
   15,R
    9,R,D
    2,R
@@ -365,22 +363,18 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    2,R
    1
    2,R
-  30,L,G
-   1,L,J
-  10,J
-   1,L
-   4,L
-   3,R
-   9
-   4,J
-   7,R,J
-  14,U,X
+  20,L,G
+  16,L,U,G
+   1,L,J,G
+  17,R,J,G
+  15,U,X
   40
 
 #lvl_Dav_04
    1,R,J,G
-   1,R,K
-   9,R
+   1,K
+   9,L
+   1,L,J
   12,R,X
    1,R,J,G
    5,R
@@ -396,17 +390,20 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   45,R,D
   14,R,J
   12,U,X
+   8,R
+  16,R,U,X
    9,R
-  17,R,U,X
-   7,R
-   4,D,X
-  10,R,X
+  14,R,Z
+   1,J,G
+   1,L,J
+   5,J
+   1
+   9,J
+   1,R,J
    1,J
-   7,R,J
-   4
-  13,J
-   5
-  18,R
+  11
+   8,R
+   8,L
    4,D,X
   11,L,X
    6,L,J
@@ -420,4 +417,4 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    8,L,J
   14,U,X
  135,L,D
-ChapterTime: 1:02.645(3685)
+ChapterTime: 1:02.390(3670)

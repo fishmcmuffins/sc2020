@@ -326,12 +326,9 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   18,R
    4,D,X
   11,R,X
-  21,D
-   1,D
+  22,D
    2
-   2,R
-   3,R
-
+   5,R
   15,U,X
   11,L
    3
@@ -349,76 +346,48 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,L,D
    1,D
   12,R,D
-
   11,R,D,J
    2,K
-
   15,U,X
   25,R,J
-
    5,K,G
    7,R
   13,U,X
   40
 
 #lvl_totk_exit
-   7,U,X
+   3,U,X
   12,L,J
-   4,L,J
-  12,L,U,X
-  24,R,G
-  10,R
-   2,R
-   8,L
-   4,D,X
-   2,L,X
-   1,R,J
-   6,R
-   1
-   1,R,J
-  13,R,D,X
-   2,L,J
-   5,L,D,X
-  13,L,G
-  11,L,J,G
-   1,D,J
-   2,L,J
-  10,R,X
-  20,L,G
-   7,R,G
-   5,G
-   5,R,G
-   3,G
-   2,L
-   1,R
-   2
-  13,R,D,X
-   1,L,J
+   6,R,J
+  13,L,U,X
+  63,R,G
+  46,G
+   2,R,G
+   2,G
+  36,L,G
+  14,L,J,G
+   3,J,G
+   2,L,D,J
+   1,L
    4
    3,L
-   3,L,D,J
-   1,R,D,J
-  15,L,U,X
-   4,D,X
-   9,L,X
-   4
-   4,D,X
-  28,L,X
-  19,U,C
-  10,R,U,X
+   7,U,Z
+  16,L
+  16,U,C
+  15,R,U,X
    1,R,J,G
-  11,R
-   4,D,X
+   2,R
+   6,R,D,X
    1,R,J
    7,R
+   1,R,J
+   1,R
    1,S
    1,D,J
   34
-   1,R,J
-   2,R
-  12,R,U,X
+   5,R
+  11,R,U,X
   19,R
   42,L,D
-   4,D,X
-  73,L,U,X
-ChapterTime: 0:44.455(2615)
+  78,L,U,X
+ChapterTime: 0:43.894(2582)

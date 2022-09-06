@@ -362,14 +362,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   15,R,D,X
   15,D,C
    8,L,D
-   7,R,D
-  14,R,G
-   9,R,D,G
-   3,D,G
-   1,L
-   6,L,X
-   4,J,G
-   5
+   5,R,D
    2,L
   11,L,Z
    2,R,J
@@ -379,90 +372,69 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    3,R
   15,R,D,X
   17,R,J
-   1,L
+   3,L
+   8
    5,R
-   1
-   3,R
-  31,R,G
+  56,R,D,G
    1,R
-  34,R,D
-   7,D
+  23
+   2,R
+   1,R
+   1,R
+   2,R
+   1,R,D
+   1,D
+   1,R,D
+  13,R,X
+  20,R,D,J,G
+  14,R,G
+   9,R
+  15,R,U,X
+  20,R,G
+  23,G
+   1,D
+  15,U,X
+  35,D
+  11,L,D
+   4,L
+   1,L,D
+   1,L
+  15,L,U,X
+  10
+  43,D,G
+   2,G
+  18,R,D,G
    7
    1,R
-  13,R,X
-  33,R,U,J,G
-   1,R
-  21,R,X
-  13,U,C
-  24,R,G
-   4,G
-   1,D
-  11
-   9,U,X
-  26,G
-   1
-  16,R,D
-   6,L,D
-   1,R,D
-   4,L,D
-  17,D
-  11
-   1,D
-  10
-  15,L,X
-  15,L,C
-  11,R
-  53,R,D,G
-   4,R,G
-   1,R,D,G
-   5,R,G
-   2,R
-   5
-  13,R,D,X
+  12,R,Z
    1,R,J
   13,R,G
-   4,R,J,G
-   9,R,D,G
-   1,R,D,J,G
-  21,R,D,G
-   1,R
-  26,R,X
-   6,L,D,C
+   4,R,U,J,G
+  35,R,G
+  17,R
+   7,R,Z
    1,R,J
    7,R
+  16,R,D,J
+  19,R,D,X
    1,R,J
-   5,R,D,X
-  13,R,G
-   2,R,J,G
-   6,R,G
-   1,L
-  15,R,D,X
-   1,R,J
-  25,R,D
+  14,R,D,X
+  55,R,J
   15,D,X
-#since bottleneck is waiting
-#for final jelly to fall low enough,
-#stalling for higher jelly ladder
-#for fastest inputs, hold down here
-#and remove downdash
-  20
-   1,R
-   1
-   7,L
-   1
-   1,L
-  15,D,X
-  19
+   8,D
+   7,L,D
   14,L,Z
    1,L,J
   19,L,D,X
-  12,L,J
-  71,L,U,J,G
+   9,L,J
+  73,L,U,J,G
   17,L,D,G
    1,L,G
-   7,L,D,G
-   7,L,G
-   1,L
+   9,L,D,G
+   1,L,G
+   1,G
+   1,L,G
+   1
   40,L,U,X
   38,L,U,C
   15,L,U,Z
@@ -471,81 +443,81 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    1,D
   12,L,D
    4,L
-   2,L
+   2,L,D
   15,L,C
   18,U,X
   11,L
   15,L,D,C
    6,L
    4
-  12,D
-   1
-   1,L,D
-   1,R,J,G
-   6,L,J
-  31,J
-   1,L,J
-   1,R,K,G
-   6,R
-   8
-Repeat,22
-   1,D
-   1
-EndRepeat
-  14,R,Z
-   1,R,J
-  11,R,D,X
-   1,R,J,G
-   1,R
-   1
-   9,R
-   3,R,J
-  15,R,D,X
-   1,R,J
-   8,R
-   1,R,J
-  14,R,X
-   6,R,J
-  30,R,D,G
-  12,R,U,G
-   1,R,D,G
-  26,R,U,G
-  11,R,D,G
-   1
-  26,D
-   1,L,D
-   7,D
-   1,R,D
-Repeat,42
-   1
-   1,D
-EndRepeat
-   1
+  12,R,D
+   3,R
   14,R,Z
    1,R,J
   16,R,D,X
-  20,R,J
-  30,R,J,G
-   1,R,G
-   3,R,J,G
-  27,R,U,G
-   7,R,D,G
-   4,R
-   2
+   1,R,J
+   3,R
+  16,R,D,X
+   1,R,J,G
+  12,R
+   3,R,J
+   3,R
+  11,R,X
+  34,R,D,G
+  15,D,G
+  15,G
+   3,U,G
+   1,G
+   3,U,G
+  11,J
+  11,R,U,X
+  26,R,G
    1,R
+  15,R,X
+  35,R,D
+   1
+   1,R
+  20,U,G
+ 119,G
+   1,U,G
+   1,G
+   1,U,G
+   5,R,J,G
+   3,R
+   5
+  20,D,G
+   6,R,D,G
+   6,R,D,G
+   1,G
+   1,R,G
+   4,D
+  14,L,Z
+   1,R,J
+   6,R,D,X
+  13,R,G
+  50,R,J,G
+  10,R,D,G
+   7,R,G
+   1,R,D,G
+   9,R,G
+   7,G
+   9
   14,R,U,X
  119,R,U,J,G
    6,R,D
    3
   12,U,X
   25,R,G
-  15,G
+   6,G
    1,D,J
-Repeat,5
-  22,G
+Repeat,4
+  21,G
    1,D,J
 EndRepeat
-   3
+  22,G
+   1,D,J
+  21,G
+   4,D
    5,R,Z
    1,R,J
    3,R
@@ -561,4 +533,4 @@ EndRepeat
    1,D,X
    1,L,J
   45,L
-ChapterTime: 1:24.116(4948)
+ChapterTime: 1:23.640(4920)

@@ -58,13 +58,18 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    4,D,X
   10,L,X
    1,L,J,G
-   2,R,J
-   1,L,J
+   1,R,J
+   1,L
+   1,J,G
    7,L
-  11,L,X
-  19,L,J
+   6,R,D,X
+   1,L,J
+   6,L
+  12,L,J
+   1,J
+   1,L,J
    7,U,X
-  14,R,J
+  15,R,J
   10,R
   14,R,D,X
    1,R,J
@@ -77,8 +82,10 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   11,R
   25,L,D
    6,D
-  11,R,D
-   4,D
+  10,R,D
+   2,D
+   1,R,D
+   2,D
   13,R,X
    1,K
   12,L
@@ -107,11 +114,13 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    2,L,J
   11,R,J
   10,L,D,X
-  29,R,J
+  15,R,J
+   3,R
+   2,R,J
+  12,R
    4,D,X
   11,R,U,X
-  30,R,D
-   4,L,D
+  29,R,D
   21,L,J,G
    1,D
   11,U,X
@@ -140,15 +149,21 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    3,R,J
    4,L,J
    1,J
-   8,L,J
+   4,L,J
+   4,J
    4,D,X
-   1,L,X
+   2,L,X
    1,L,J
    7,L
-   9,L,J
+   1,L,J
+   8,L,D,X
+   2,L,J,G
    5,L
-  15,L,D,X
-  10,L,J
+   1,L,J
+   1,J
+   9,L
+   2,L,J
+   8,J
    2
   15,U,X
   21,U,G
@@ -223,20 +238,32 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    9,R,J
    4,R
   15,R,D,C
-   9,R,D
-   2,R
-  18,R,D,X
-   7,R,D
-  15,R,X
-   7,R
-   4,D,X
-   9,U,X
-  44,R,J
-   1,K
-  25,R,K
-  34,L,J
-  15,L,U,X
+  10,R,D
+   1,D
+   1,R,D
+   1,D
+   1
+   1,D
+  15,R,D,X
    1,L
+   1,J,G
+   5
+  14,R
+  15,R,X
+   6,R
+  12,J
+   6,L,J
+   1,K
+  24,R,J
+  15,R,U,X
+   5,R
+   1,J
+   1,K
+  30,L,K
+   1,L
+   1
+  15,L,U,X
+   2
   15,L,C
    2,L,J,G
   16,R,J
@@ -384,7 +411,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    2,R
   40
 
-#lvl_iamdadbod_berry_2 
+#lvl_iamdadbod_berry_2
    3,R
    1,R,J
    3,R
@@ -479,13 +506,13 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   15,U,X
    1,L
   14,L,Z
-   6,L,J
-   3,L
-  18,L,U,Z
+  11,L,J
+   1,J
+  17,L,U,Z
+  12,R,J
   18,U,X
-  14,L,C
-  19,R
-  14,U,X
+  12,R
+  16,U,X
   14,L,J
    7,L
   18,U,X
@@ -601,21 +628,21 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    8,L
    4,D,X
   14,L,U,X
-  11,U,C
-  14,L,J
-  12,R
-  14,R,X
-  31,R,D,G
+  12,U,C
+   9,L,J
+   4,L
+   1
+   2,R
+  28,R
+  26,R,G
    1,R
-   1,R,D
-   5,D
-   2
-   5,L,D
-  15,U,X
-   7,L
-   6,R,U,X
-  28,R,G
-  15,L,D,G
+  14,R,U,X
+  44,R,G
+   3,L,D,G
+   1,L,G
+   1,L,D,G
+   2,L,G
+   1,L,D,G
   34,R,G
    1,R
   18,R,U,X
@@ -628,8 +655,8 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   11,R,X
   26,D
   10,R,D
-   2,R
-   5
+   3,R
+   4
   16,L,J
    1,K
   20,U,X
@@ -663,7 +690,8 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    1,R,K,G
    6,L,K
   10,K
-   9,R
+   1,R,J
+   8,R
    1,L
    3,R
    1,R,D
@@ -676,68 +704,59 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   14,R,X
   10,L
    4,D,X
-  11,R,X
-   6,R,D,C
-  21,L,G
-   1,R
-  28,D
-   5,R,D
-   2,G
-   1,R,J,G
-   5,L,J
-   2,R,J
-  11,R
-  10,R,D,X
-   1,L,J
-   4,L
-   5,U,X
-  21,G
-   1,R
-  16
-  20,R
-   6,J,G
-  28,R,J
-#167,G
-  20,G
-   1
-   6,G
-   1
-   6,G
-   1
-  13,G
-   1
-  20,G
-   1
-  13,G
-   1
-  13,G
-   1
-  13,G
-   1
-   6,G
-   1
-   6,G
-   1
-  41,G
-   2,K,G
-   4,L,K
-   5
-  14,R,D,X
+   6,R,X
    1,R,J
-  12,R,D,X
-  10,R,J
+   9,D
+   1,J
+   8,D
+   5,L,U,C
+  24,L,J,G
+   6,R,G
    1,R
+  15,R,Z
+   7
+  11,R
+   1,R,J
+   9
+   2,R
+  15,R,Z
+   4,R
+  15,R,D,X
+   4,R
+   2,R,J,G
+   1,L
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   4
+   1,R
+   1,L,J
    6,R,J
-   6,R
+  15,R,Z
+   8,R
+  13,D
+  16,L
+  10,R
+  27,R,G
+ 136,G
+   1,J,G
+   2,G
+   6,L,G
+   2,L,J,G
+   5,L,G
+   9,L,J,G
+  13,L
    4,D,X
   11,R,X
   12,R
-   2,R,J
+   2,L,J
    4,D,X
   11,R,X
   19,L,D
-   1,L
-   4,L,D
+   5,L
   15,U,X
    3,L
    4,D,X
@@ -840,4 +859,4 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    2,R
    2,L,D
    1,R
-ChapterTime: 1:48.222(6366)
+ChapterTime: 1:47.729(6337)

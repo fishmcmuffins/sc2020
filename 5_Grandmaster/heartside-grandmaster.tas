@@ -257,7 +257,7 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
 #It might be possible to
 #skip Error418 if we
 #can get under/over the
-#temple block while 
+#temple block while
 #preserving our speed,
 #but it's really hard if so
   15,R,D,X

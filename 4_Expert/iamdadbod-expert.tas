@@ -24,23 +24,22 @@ console load SpringCollab2020/4-Expert/iamdadbod
    6,L
    9,R,Z
   12,R,J
-   8,R
-   9,R,D,J
-   5,R
-   3,R,J
-   9,R
+   1
+   8
+  13,R,D,X
+  14,R,J
+   3,R
   15,R,Z
-  12,R,D
-   2,R,J
+   7,R
    6,R,Z
    1,R,J
-   4,R
+   2,R
   40
 
 #lvl_dad4
-   3,R
+   5,R
    1,R,J
-  26,R,X
+  24,R,X
    4,R,J
    7,R,Z
   10,R,J
@@ -226,19 +225,21 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1,K
   24,R,K
    1,R
-   6,R,Z
-   7,R,J
-  10,R
+   8,R,Z
+   5,R,J
+  11,R
   40
 
 #lvl_dad3
-   4,R
+   3,R
    1,N
-   3,R,J
-  13,R,Z
    1,R,J
-   1,R
-  43,R,D,X
+   2,R
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  42,R,D,X
    4,R,J
    1,R,K
    6,R,D,X
@@ -303,4 +304,4 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1,R,J
   13,R,U,X
  135,D
-ChapterTime: 0:49.725(2925)
+ChapterTime: 0:49.589(2917)

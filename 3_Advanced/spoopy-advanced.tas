@@ -200,28 +200,27 @@ console load SpringCollab2020/3-Advanced/Spoopy
   10,L,D,X
    3,L,J
   24,L
-   4,D,X
-  11,U,X
+  15,U,Z
    1,R,K,G
    8,R,G
    1,K,G
    1,L,K
    7,R,J,G
-  29,R
-#fun fact, you can hyper off the top of this block
-#couldn't make it faster though
-  37,L
-   4,D,X
-  10,L,X
-   1,L,J
-  10,L,D,X
+   7,R
+  16,R
+   2,J,G
+   3,L,J
+  15,L
+  15,L,Z
+  17,L
+  14,L,Z
    2,L,J
-  11,L
+  13,L
    1,R
    2
    4,L,D
   11,R,D
-   6,R
+   4,R
   15,R,X
    9,R,D
   15,L,D,C
@@ -235,7 +234,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,L
    1
    9,L
-   1
+   1,L
    1,L
    1,L,D
   10,L,D,X
@@ -254,7 +253,6 @@ console load SpringCollab2020/3-Advanced/Spoopy
    4,D,X
   11,L,X
   16,R
-#lmao
    8,L,D
    1,L,G
    4,L,K,G
@@ -527,4 +525,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
    3,R,J
   14,R,U,X
  135,R
-ChapterTime: 1:06.844(3932)
+ChapterTime: 1:06.810(3930)

@@ -214,61 +214,66 @@ console load SpringCollab2020/4-Expert/ChaotiC
    3,R,J
    2,R
   14,R,U,X
-   1,R,J,G
-   1,K,G
-   9,R
-   1,L
-   4
-   6,L,J
-  10,R,D,X
-   7,R,J
-   1,R
+  10,R,J,G
+   5,R
    2,R,J
-   2,R
-   9,R,D
-   3,D
-   3,R,D
-   4,D
-   1,R,D
-  15,R,U,Z
-   4,L,J,G
-   2,R,J
-   1,R,K,G
-  18,R
-   2,R,D
-   8,D
-   4,R,D
-   2,D
-   1,R,J,G
-   7
-   4,J
-   4
-   2,R
-   1
-#this part doesnt
-#feel very optimized
-#but oh well
-  10,L,D,X
-   2,R,J
-   2
-   3,R
-   4,R,D
-  15,R,J
-  24,R,K,G
-  23,R,D
-   3,R
-   2,R,D
-  13,R,X
-   1,J,G
-   7
-   2,L
+  20,R
+   1,R,G
+   6,R,J,G
+  15,R,D
+  17,R
+  10,L
    1,L,J
-   4,J
-   5,L,J
-  14,R,U,X
+   9,L
+   1
+  15,R,U,Z
+   2,L,J,G
+   1,K,G
+   4
+   2,R,G
    1,R,J,G
-  16
-  14,R,D
+   1,R,K,G
+   5,R
+   2,R,J
+   9,R
+   3,L
+   6,L,J
+   2
+   1,L
+   1
+  10,R,D,X
+   1,R,J
+   1,R,D
+   1,R,J
+  21,D
+   7,R,D
+   2,R
+   1,D
+   1
+   1,R
+   1,R,D
+   1,R
+  15,R,U,Z
+   1,R
+   5
+   1,R
+   1
+   1,R
+   2,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+  16,R,K
+   1,R,J,G
+  30,R,D
+   1,R
   40
 
 #lvl_ChaotiC_02
@@ -628,4 +633,4 @@ console load SpringCollab2020/4-Expert/ChaotiC
    7,L
   61,L,D,X
    1,R,J
-ChapterTime: 1:04.005(3765)
+ChapterTime: 1:03.750(3750)

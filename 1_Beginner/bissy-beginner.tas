@@ -240,27 +240,28 @@ console load SpringCollab2020/1-Beginner/Bissy
   15,J
   20,U,X
   17,J
-  22,U,X
-  10,J
-   5,L,J
+  19,U,X
+   8,J
+   4,L,J
   12,K,G
   12,J,G
+   2
 #ARB5
   12,K,G
-   9,J,G
+  12,J,G
    4
    3,R
   10,L,X
-   6,L,J
-  10,J
+   7,L,J
+   9,J
   17,U,X
-  10,J
+   9,J
    8,L,J
   15,R,U,X
   12,R
-  12
-   7,D
-  20
+  13
+   2,R,D
+  21
    8,L,J
    4,J
    3,K
@@ -324,4 +325,4 @@ console load SpringCollab2020/1-Beginner/Bissy
   13,J
   18,U,X
  135
-ChapterTime: 0:43.945(2585)
+ChapterTime: 0:43.911(2583)

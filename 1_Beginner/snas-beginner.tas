@@ -59,22 +59,19 @@ console load SpringCollab2020/1-Beginner/Snas
    1,K
    8,R,J,G
   28,R,X
-   1,R,G
-   5,D
+   1,G
    8,L,D
-   1,D
-   1,L,D
-   1,D
-   8,L,D
-   4,L
-   1,L,D
-  12,L
-   1
-  18,U,X
-   4,L
-   1
-  11,R,J
-  15,R,U,X
+  17,D
+   5
+  15,U,X
+   8,R
+   1,J,G
+   1,L,J,G
+   1,R,K,G
+   1,L,K,G
+  16,R,K,G
+   1,R,J,G
+   1,R,K,G
   32,R,D
   53,R,X
   14,R,D,C
@@ -101,8 +98,7 @@ console load SpringCollab2020/1-Beginner/Snas
    4,D,X
   11,L,X
   35,R,D
-   4,D,X
-   1,R,X
+   5,R,Z
    3,R,J
    2,R,K,G
    9,R
@@ -213,4 +209,4 @@ console load SpringCollab2020/1-Beginner/Snas
   16
   15,L,U,X
  135,D
-ChapterTime: 0:32.300(1900)
+ChapterTime: 0:32.130(1890)

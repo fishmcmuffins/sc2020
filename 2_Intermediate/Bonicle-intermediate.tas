@@ -3,7 +3,7 @@ console load SpringCollab2020/2-Intermediate/Bonicle
 
 #Start
  106
- 
+
 #lvl_bonicle_00
    4,D,X
    2,R,J
@@ -130,25 +130,29 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   19,L,D,X
    1,L,J
   14,L
-  14,L,J
-   3,J
    1,L,J
-  15,U,X
-   7,L
-   1,L,J,G
+   5,L
+   2,L,J
    1,L
-   2,L,K,G
+   1,L,J
+   6,L
+
+  15,U,X
+  15,L,U,C
+   3,L,J,G
    7,L
    5,R,D,X
    1,L,J
-   6,L
+   7,L
    1,L,J
-   2,L
-  18,L,D,X
-  12,L,J
-  14,L,U,X
-  12,K,G
-   7,L,J,G
+   1,L
+  17,L,D,X
+   2,L,J
+   5,L
+   4,L,J
+  15,L,U,X
+  15,U,C
+   1,L,J,G
    7,L
    4,L,D,C
    1,L,J
@@ -161,7 +165,8 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   40
 
 #lvl_bonicle_02
-  30,R,D
+  27,R,D
+   3,D
   12,R,D,X
   26,R
    4,D,X
@@ -169,19 +174,18 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   33,R
   16,R,X
   15,R,D,C
-  22,R
-  15,R,X
-  12,R
-   2,L
-  22,R,U,C
-  24,L,J
-  15,L,X
-  17,L
-   1
-  11,R,J
-   3,R
-  15,U,X
-  11,R
+   1,L,D
+  12,R,D
+  19,R
+  15,R,D,X
+   8,R
+  10,R,D,X
+  45,L
+  15,L,U,Z
+  15,L
+  12,R,J,G
+   9,R,K,G
+   7,R
    4,D,X
    2,R,X
    1,R,J
@@ -230,8 +234,13 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    7
    1,D
    4,D,X
-   4,L,J
-  41,L,D
+   2,L,J
+   3,L
+   1,L,J
+  11,L
+   2
+   1,L
+  25,L,D
   18,L,U,X
    4,D,C
   11,U,C
@@ -240,7 +249,7 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   15,U,Z
    2,R
   19,R,U,C
-  19,R,U,X
+  18,R,U,X
   14,R,Z
    1,R,J
    9,R,D,X
@@ -341,8 +350,6 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    6,R,D,X
   40
 
-
-Set,Player.StateMachine.State,0
 #lvl_bonicle_05
   16,R,J
   14,R,U,X
@@ -415,4 +422,4 @@ Set,Player.StateMachine.State,0
    1,D,X
    1,L,J
   46,L
-ChapterTime: 1:00.690(3570)
+ChapterTime: 1:00.452(3556)
