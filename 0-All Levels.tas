@@ -19,11 +19,6 @@
 #In the Collab Utils 2 mod
 #!!!!!
 
-#As of 4/4/2022
-#Max's Helping Hand mod (not a dependency)
-#Causes a desync in neokat-adv
-#Until it's fixed, disable it before playing the TAS
-
 Read,StartFullCollabFile
 
 Read,0-CollabPrologue,Start

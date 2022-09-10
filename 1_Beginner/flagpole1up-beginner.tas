@@ -294,10 +294,9 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
    1,L,K,G
   23,L
    2,L
-   1,X
-   2
-   4,D,C
-  10,R,C
+   1,N
+   1
+  14,R,D,C
    1,R,J
    1,R
   10,R,U,X
@@ -515,4 +514,4 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
   11,L,J
   17,R,K
   15,L,J
-ChapterTime: 0:50.371(2963)
+ChapterTime: 0:50.354(2962)
