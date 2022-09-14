@@ -5,8 +5,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   54
 
 #lvl_0
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -35,8 +34,7 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    5,R
    1,R,K
   25,R
-   4,D,X
-  10,R,X
+  14,R,Z
   10,R,J,G
   40
 
@@ -45,44 +43,50 @@ console load SpringCollab2020/5-Grandmaster/BobDole
   15,U,X
    1,L,J,G
   44,L,U,G
-   4,D,X
-   3,R,X
-  13,R,J
+   6,R,Z
+  12,R,J
   15,R,D,X
-   1,R,J
-   9,R,D,X
+   1,R,D,J
+  10,R,D,X
   13,R,G
-  27,R,J,G
+   5,R,J,G
+  30,R,G
    1,L
   15,R,D,X
-   9,R,D
+   2,R,D
    2,R,J
-   5,R
-   1,R,K
-   1,R
-   1,R,K
-   6,R
-  14,R,U,X
-  76,R,D,G
-   8,G
-   1,L
-  18,R,D,X
+   9,R
+   1,R,J
    3,R
-   2,J
-   8,R,U,X
-   5,R,J,G
-   6,R
-   4,D,X
-  10,R,U,X
+  14,R,U,X
+  77,R,D,G
+   1,L
+  15,R,D,X
+#+120 speed
+#   8,R,D
+#   1,R,J
+#   9,R,U,X
+#   5,R,J,G
+#   4,R
+#  14,R,U,Z
+   7,R,D
+   2,R
+   1,J
+   9,R,U,X
+   6,R,J,G
+   1,R
+   5
+  13,R,U,Z
    4,L,J,G
-   7,L
+   6
+   1,R
    1,D,J
    9,R,J
-  24,R,D,X
+  15,R,D,X
+   9,R,D
    1,R,D,J
   13,R
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
   12,R,J,G
    6,R,K,G
   12,U,X
@@ -352,4 +356,4 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    5,K,G
   14,R,U,X
  135,R
-ChapterTime: 0:47.549(2797)
+ChapterTime: 0:47.464(2792)

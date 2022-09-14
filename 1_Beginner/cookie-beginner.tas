@@ -62,90 +62,99 @@ console load SpringCollab2020/1-Beginner/Cookie
    7,R
    4,D,X
    1,R,J
-   1,R
-   1,R,J
+   1,L
+   1,L,J
    8,L
-  16,D,X
-  13,L,U,C
+  15,D,X
+   3,R
+   1,L,K
+   7,R,K
+  12,L,U,X
    1,L,J,G
-   4,R
-   6,L
-   1,L,K,G
-   1,L,J,G
-  16,L,D
-   5,R,D
-   1,L
-  15,R,D
-  23,R,U,X
-  17,R,D
-  14,L,D,X
-   1,R,J
-   5,R,D,X
-  13,R,G
-   1,R,J,G
-  14,R,G
-   5,R,J,G
-   1,R,G
-   1,R
-  15,U,X
-   2,J,G
-   1,R,J
-   6,R
-   1,L
-   2,L,J
-   2,L
-   7,L,D,X
-   1,R,J
-   6,R
-   1,R,J
-   6,R
-   7,R,J
+   1,L,D
+   1
+   1,L,D
+  16,D
+   9,R,D
+   1,D
+   3,R,D
+   1,D
   15,R,U,X
-  16,R,D
-   5,R
-   3,R,J
-  14,R,X
-  11,D
-  20,L,D
-   4,D,X
-  10,L,X
+   8,R,D
+  13,D
+   2
+   2,D
+   4,Z
    1,R,J
+  17,R,J,G
+  19,R,K,G
+   1,R,K
+   7,U,Z
+   3,R,K
+   9
+   2,R
+   4,L,J
+   1,L
+   8,L,D,X
+   1,K
+  21,R,G
+   1,R,J
+   5,R
+   5,L,D,X
+   1,R,J
+   6,R
+   2,R,K
+   3,R
+  16,R,G
+   1,R,K,G
+   5,R,G
+   1,R,D
+  15,R,D,X
+   7,R,D
+   5,D
+  13,L,D,X
+   2,R,J
    5,R,D,X
   13,R,G
-   1,R,J,G
-  14,R,G
-   1,R,J,G
-   3,R,G
+   1,R,K,G
+  10,R,G
   40
 
 #lvl_ CookieBeg_2
-  11,R,G
-  14,R,J,G
-   1,L
+   5,R,G
+  16,R,J,G
+   3,L,J,G
+   1,R,J,G
+   1,L,J
   14,U,X
   22,L,G
+   1,R,K,G
   19,R,J,G
-  17,L,K,G
-  21,R,J,G
-  18,L,K,G
-   1
-  16,R,D
-  44,L,D
-   1,L
-   2,L,D
-   4,D,X
-   2,L,J
-   4
-   4,L
-   1,J
-  14,L,D,X
-   1,R,J
-  10,R,D,X
-  13,R,G
+  16,L,K,G
+   2,K,G
+  17,R,J,G
+   1,J,G
    1,R,J,G
+   1,G
+   1,R,G
+  12,L,K,G
+   4,L,G
+   1
+  43,D
+  19,L,D
+   1,L,J
+  15,L
+   1,D
+   1
+   1,L
+  14,L,Z
+   1,R,J
+   5,R,D,X
+  13,G
+   1,R,K,G
   14,R,G
-   2,R,J,G
-   4,L,J,G
+   1,R,J,G
+   5,L,J,G
    3,L,G
    1,L
   10,L,D,X
@@ -384,72 +393,81 @@ console load SpringCollab2020/1-Beginner/Cookie
   14,L,D,X
    1,R,J
    8,R,D,X
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   6,R
-  13,R,G
-  13,R,J,G
-   6,R,G
-   2,R
-  13,R,U,X
-   8,R,J,G
-  13,R,G
-   1,L,J
-  20,L,D
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  12,L,D,X
-   1,L,J
-  18,L,D
-
-   8,L,Z
-   1,L,J
-   7,L
-  11,L,D,J
-  11,K
-  15,D,X
-  13,R,Z
-   2,R,J
-  11,R,D,X
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   3,R,J,G
-   3
-   4,R
-   2,R,J
-  14,R,U,X
-  25,R,G
-   1,G
-   1,R,D,J
-  14,R,D,X
-   1,L,J
-   6,L
+   3,R,K,G
+   5,R
    2
+   5,R,D,X
+  13,R,G
+   6,R,G
+  10,R,J,G
+   9,R,J
+   7,R,K,G
+  10,R
+   2,G
+  10,L,D,X
    1,L,J
-  15,L,D,X
-  28,R,G
-  13,L,G
-   1,L
-   1,L,K,G
-  27,L,G
-   8,L,D
+   7,L
+   1,L,K
   14,L,D,X
+   1,L,J
+  18,L
+  14,L,Z
    1,R,J
-   5,R,X
-  12,R,G
-   6,R,J,G
-  23,R,G
+   5,L,Z
+  10,L,J
+   2,J
+   1,K,G
+   2,L,K
+   1,R,J
+   1,R,K,G
+   8,R,J,G
+   5,L,K
+  15,D,X
+   4,Z
+   1,R,J
+  12
+   2,G
+   3
+   3,R
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,K
+  12,R,U,X
+   1,R,J,G
+  11,R,J
+   9,R
+   1,R,K
+   8,R,D,X
+   1,L,J
+   7,L
+   1,L,K
+  14,L,D,X
+  16,L,J
+   1
+  17,L,D,X
+   4,Z
+   1,R,J
+  13,R,G
+  11,R,K,G
+   5,G
+   1
+  28,R,D
+  10,G
+  14,L,Z
+   1,R,J
+   7,R,D,X
+  13,R,G
+   1,R,J,G
+  22,R,D,G
   40
 
 #lvl_ CookieBeg_Outro
    1,L
-   6,R,J
-  14,R,X
-  79,R,D
-   1,D,X
-  55,R,J
-ChapterTime: 0:51.544(3032)
+   1,R,D
+   5,R,K
+  11,R,X
+ 135,D
+ChapterTime: 0:50.762(2986)

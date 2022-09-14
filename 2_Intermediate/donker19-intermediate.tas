@@ -395,15 +395,21 @@ console load SpringCollab2020/2-Intermediate/Donker19
   10,R,J
    7,R
    1,R,D,J
-   8,R,K,G
-  15,D,X
-   4,D,C
-   9,R,C
+   2,R,K,G
+   7,R
+   2,R,G
+   6,L,Z
+   2,R,J
+   3,R
    1,R,J
-   2,L,K,G
-   3,L,J
-  12,L,K,G
-   3,L,J,G
+  10,R,D
+   3,R,J
+   1,K
+   2,L,K
+  11,L,J,G
+   1,L
+   1,L,K,G
+   1,L
    4,D,X
 
 #lvl_9 CP 2
@@ -467,4 +473,4 @@ console load SpringCollab2020/2-Intermediate/Donker19
    6,R,K
   14,L,U,X
  135,L,D
-ChapterTime: 0:42.806(2518)
+ChapterTime: 0:42.789(2517)
