@@ -8,7 +8,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    4,L,X
    1,L,J
    8,L,G
-   8,R,D
+   8,R
    6,J
    2,L,J
    1,K
@@ -18,8 +18,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   13,R
    5
    2,R
-   4,D,X
-   1,R,U,X
+   5,R,U,Z
    1,L
    9,K,G
    1,R,K
@@ -50,7 +49,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    2,L,D
   34,D
   11,L,D
-  17,L
+  16,L
   15,L,D,X
   10,L,D,C
    1,R,J
@@ -61,8 +60,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1,L,D
   24,D
    8,L,D
-   4,D,X
-   9,L,X
+  13,L,Z
    2,L,J
    9,L,D,X
    6,L,K,G
@@ -75,14 +73,13 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   40
 
 #lvl_1c
-   9,L,U,X
+   9,L,U,Z
    1,L,J
    9,U,C
    2,L,J
   11,L
    7,L,J
-   4,D,X
-   1,L,X
+   5,L,Z
    1,L,J
    7,L
    1,L,G
@@ -107,8 +104,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   43,L,D,G
    1,L
   18,L,D
-   4,D,X
-  10,L,X
+  14,L,Z
    8,L
   15,U,X
   45,R,D,G
@@ -132,8 +128,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1,L,J
   11,K
    2
-   4,D,X
-   7,L,X
+  11,L,Z
    3,L,J
    1,R,K,G
    9,L,K,G
@@ -146,7 +141,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    3,R
    6
    1,J,G
-   6,R,J,G
+   6,R,J
    8,R
    1,R,J
    5,R
@@ -171,7 +166,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   17,R,D
   37,D
   21,R,D
-   4,D,X
+   4,R,Z
    5,R,J
   40
 
@@ -180,8 +175,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,R,G
    8,J,G
    6,L,K
-   4,D,X
-   6,R,X
+  10,R,Z
    2,R,D,J
    3,R
    6,R,K
@@ -194,33 +188,38 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   34,L,D
    4,R,D
   15,D,X
-  23
-   2,L
-  13,L,K
-   1,J
-   5,L,J
-   1,R,J
-  15,U,X
+   2,R
+   5
+   5,R
+   8
    1,R
-   9,R,J
-  15,R
-   9,R,J
-   2,R,D
-   1,R,K,G
-   3,R,K
+   1
+  11,L,J
+   1,L,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   9,J
+   4,R,J
+  15,R,U,X
+  18,R
+   4,R,K,G
    1,R
    2,L
    4,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
    7,R,D,X
    1,R,J
   13,R
    1,R,J
    5,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    1,L,J,G
    1,L,K,G
    1,L,J,G
@@ -232,13 +231,12 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1,L,J,G
    1,L,K,G
    9,L
-   4,D,X
-   1,L,X
+   5,L,Z
    1,L,J
    7,L
    5,L,J
   14,L,U,X
  117,L,D
    1,D,X
-  17,L,U,X
-ChapterTime: 0:31.178(1834)
+  17,L,J
+ChapterTime: 0:31.025(1825)

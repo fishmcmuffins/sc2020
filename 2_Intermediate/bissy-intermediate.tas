@@ -66,78 +66,72 @@ console load SpringCollab2020/2-Intermediate/Bissy
    5,L,J,G
   17,L
   25,L,J
-  13,L
-  15,U,X
-  12,R,J,G
-   4,R,K,G
+   8,L
+   5,D
+  11,U,X
+  28,R,J
+  10,R
    1,R,J,G
-   7,J,G
-   5,L,J
-   2,L
-  20,R,X
-   4,D,C
-   9,R,U,C
-   1,L
-   2,K,G
-   5
-   8,R
-   4,D,X
-   1,R,X
-   1,R,J
-   3,R
-   1,R,J
-   7,R
-   1,R,J
-   4,D,X
-  10,R,X
-   1,R,J
-  12,R,D,X
-   1,R,J
+   4,R,K,G
+   5,R
+   1,J
+   2
+   1,J
+   6
+  15,R,U,Z
+   4,R
+   4
    1,R
-   1,R,J
-   6,R
-   4,D,J
+   2
+   1,R
+   2,L,J,G
    1,R,J
    1,J
-  14,R,U,X
-   1,L,K,G
-  16,R,K
-  15,R,U,X
-   4,R
-  20,U,X
-  18,U,C
-   2,L
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+  16,K
+  15,U,X
+   5,L
+   1
+   8,L
+   1,L,J,G
+  22,L,K,G
+  15,L,X
+   6,L
+  15,U,C
   18,U,X
-   2,L
+  15,R,U,C
+   1,R
+   2
+   2,R
+  13,U,Z
+   7,R,J
+  11,R
+   4,R,Z
+   1,R,J
+   7,R
+  14,R,J
   15,U,X
-   9,L
-   1,L,K,G
-  11,L
-  10,L,X
-  11,L,J
-   4,D,X
-  11,U,X
-  18,L,J
-   4,L,K,G
-   1,L
-   1,L,K,G
-   2,R,K
-   1,L,K
-   7,L
-  10,L,X
-   5,L,J
+   1,R,J,G
+   4,L,J
+   5,R,J
+   7,R
+  10,R,J
   15,U,X
-  12,R,K,G
-   7,R,J,G
-  11,R,G
+  13,L,K,G
+  13,L,J,G
+  11,L,K,G
+  11,L,G
   40
 
 #lvl_Bissy_06
-   1,L,J
+   1,R,J
   10,U
-  15,L,U,X
+  15,R,U,X
   31,U,C
-  35,L,U,X
-  57,L,D,C
-  30,R,X
-ChapterTime: 0:18.904(1112)
+  35,R,U,X
+  57,R,D,C
+  30,L,X
+ChapterTime: 0:18.615(1095)
