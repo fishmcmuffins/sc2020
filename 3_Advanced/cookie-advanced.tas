@@ -313,23 +313,25 @@ console load SpringCollab2020/3-Advanced/Cookie
    1,R
    1,L
    4,J,G
-   3
-   4,R
-   4,D,X
-   8,R,X
-  14,R,J
+   6
+   1,R
+  11
+  10,R,Z
+  12,R,J
+   1,J
   15,R,X
-  16,L
-  30
-   5,L,J
-  15,R,J
+   2,L,J
+   6
+   1,J
+   9
+  21,J
   15,U,X
-   5,R
+   8,L
   40
 
 #lvl_CookieC_5
-   5
-   6,R
+   2
+   9,R
   10,R,D,X
    2,R,J
    1,R,K,G
@@ -425,4 +427,4 @@ console load SpringCollab2020/3-Advanced/Cookie
   14,R,J
   14,R,U,X
  135
-ChapterTime: 0:55.743(3279)
+ChapterTime: 0:55.471(3263)
