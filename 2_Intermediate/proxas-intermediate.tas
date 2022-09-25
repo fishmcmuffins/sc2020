@@ -138,20 +138,21 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,D
    2,R,D
    1,R
-  10,L,D,X
-   5,R,J
-  16,R
-   3
+  10,R,D,X
+   2,R,J
+   9,R
+   1
+   1,R
+   7
   15,U,X
-   1,L
+   1,R
   19,R,J
    3,J
    1,R,J
   15,R,U,X
   15,U,C
    1,L
-   1,F,6
-   1,F,3
+   2,F,6
    1
   15,U,X
    1,L
@@ -449,31 +450,38 @@ console load SpringCollab2020/2-Intermediate/ProXas
    8
    2,L,J
    1,L
-   4
-  14,L,Z
+   4,L
+  13,L,Z
    1,R,J
    6,R
    6,R,J
-   4,R,K,G
-  10,R,U,Z
-   1,L,K,G
-   3,R,K
-   1,R,J
-   1,R,K
-   2,R,J
-   1,R,K
-   2,R,J
-  29,R,K
+   5,R,K,G
+   9,R,U,Z
+   1,L
+   2,J,G
    1,R,J
    1,R,K
    1,R,J
+   6,R,K
+  16,R,J
+   1,J
+   8,R,J
+   1,R,J
    1,R,K
-   1,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
   15,R,D,X
-  15,R,D,C
-   5,R,D
+   2,R
+   6,R,D
+   3,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
    8,R,D,J
-   3,K
+   2,K
   15,U,X
    1,L
    6,J
@@ -507,7 +515,6 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,L,K
    1,L,J
    2,K
-
    9,L,K
    4,L,K
    2,L,J
@@ -570,4 +577,4 @@ console load SpringCollab2020/2-Intermediate/ProXas
    1,K,G
   15,R,U,X
  131
-ChapterTime: 0:58.803(3459)
+ChapterTime: 0:58.633(3449)

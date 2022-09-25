@@ -138,33 +138,31 @@ EndRepeat
    1,L
    1
    1,R
-  32,L,D,G
-   8,L,G
-   1,L,D,G
-   6,L,G
-   1,L,D,G
-   1,L,G
+  31,L,D,G
+  18,L,G
    1
    1,J
-   4,K,G
+   1,L,K,G
+   3,R,J,G
    1,L,J,G
-  15,R,J
-   4,K,G
-   1,L,K,G
-   1,J
+  11,K,G
+   1,R,K,G
+   3,J,G
+   1,R,J,G
+   1,L,J,G
    1,K
-   9,L,K
-   1,R,K
-   1,R
+   1,J
+   7,L,J
+   3,R,J
    1,K,G
-   1,L,K,G
-  16,R,J,G
+   1,L,G
+  11,R,J,G
+   5,R
    1,R,K,G
    1,R,J,G
   11,R
-   5,R,D,J
-   4,J
-   2
+   8,R,D,J
+   4,R
   40
 
 #lvl_TheHeck90_03
@@ -442,4 +440,4 @@ EndRepeat
   11,R,J
   14,R,U,X
  135,D
-ChapterTime: 0:59.449(3497)
+ChapterTime: 0:59.398(3494)
