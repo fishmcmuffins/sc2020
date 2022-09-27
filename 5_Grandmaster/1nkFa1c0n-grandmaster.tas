@@ -243,25 +243,20 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   15,U,X
    1,R,J,G
    3
-   3,R
-   1
-   4,D,X
-   1,L,X
-   1,R,J
+   4,R
+   5,L,Z
+   1,R,K
   12,R,D
    5,R,J
    5,R
    3,R,J
-   4,R
-   4,D,X
-  10,L,X
-  16,R
-  18,R,D
-  26,R,X
-   1,R,J,G
-   5
-   1,R
-   1
+   5,R
+  15,L,Z
+  28,R,D
+   6,R
+  23,R,X
+   1,K,G
+   7,R
   10,R,Z
    1,R,J
    7,R
@@ -277,137 +272,145 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    5,R,D,X
   13,R,G
    3,R,J,G
-   5,R,G
+   9,R,G
    1,R,J,G
-  17,R,G
-   3,R,K,G
+  11,R,D,G
+   1,D,G
+   4,K,G
   40
 
 #lvl_1nkFa1c0n_03
-   1,K,G
-   4,G
-   1,L
-  12,U,X
-  39,R,G
-   2,R
-   4,D,X
-  18,R,G
-  26,L,D,X
-   7,L,J
-   8,J
-  21,R,K
-  21,R,U,X
-   4,D,C
-  15,R,C
-  15,U,X
-  18,R,G
-  10,R,J,G
-   7,R
-   6,R
-   4,D,X
-  10,R,X
-   8,R,J
-   1,R
-  13,R,J
-  41,L,U,X,G
-   1,J,G
-   6,L,J,G
-   1,L,J
-  13,L,U,X
-  20,G
-   1,L,G
-   5,L
-  15,L,X
-   4,D,C
-  10,L,C
-  32,L,J,G
-   2,D,J
-   1,L,D
-   1,D
-  10,U,X
-  13,J,G
-   3,L,J,G
-   4,J,G
-   4,R,J,G
-   1,J,G
-   7,R,J,G
-   1,J,G
-   1,D
-   8,L,Z
-   1,R,J
-   4,R
-  13,R,G
-  16,R,K,G
-   1,K,G
-   2,R,K,G
-   1,R
-  14,R,Z
-   2,R,J
-  10,U,X
-  15,G
-  15,L,G
-   1,L
-   2,L,G
-   1
-   2,J
-   5,L,X
-   5,L,J,G
-   8,L
-   5,L,J
-   5,U,X
-  30,R,G
-   1,D
-  10,U,X
-  22,R,G
-   1,D
-  10,U,X
-  22,R,G
-   1,R
-  36,R,U,G
-  24,R,J,G
-   1,R,J
-  15,R
-   4,D,X
-  10,R,X
-   1,R,J
-   5,R,D,X
-  13,R,G
-   1,J,G
-   2,R,J,G
-   9,R,G
+   6,K,G
+   1,J
+   8,R
+  11,R,U,X
+   1,R,J,G
+   5,R,J
+  16,R,J,G
+   8,J,G
    4,L
-   8,U,X
-  20,L,G
-   9,L
-   4,L,D,X
-  15,L,J
+   3,R
+   1,G
+   8,L,K
+  25,L,Z
+   6,U,X
+  17,L,G
+   1,G
+   1,L,G
+   2,G
+   1,R
+  30,R,U,X
+  10,R,C
+  23,R,G
+   4,R
+  10,R,U,X
+   1,R,K,G
+  13,R
+  12,R
+  14,R,Z
+   7,R,J
+   2,R
+   2,J
+   3,K
+   6,L,U,Z
+   1,L,J,G
+  12,L
   13,L,G
-   9,L,J,G
-   2,J,G
-   3,G
+   8,L,K,G
+   2,L,K
+   1,K
+   9,U,X
+  32,L,G
+   1
+   5,R,Z
+   2,L,J
    1,L
-   4,D,X
-   9,L,U,X
-  23,L,G
-  13,R,D
+   1,L,J
+   5,L
+   5,L,K
+  14,L,K,G
+  10,L,G
+   6,L,K,G
+   2,D,K
+   7,U,X
+  17,L,G
+  10,R,G
+   1,R,K,G
+   1,R,G
+   1,L,K,G
+   5,L,G
+   1,R
+   7,R,Z
+   1,R,J
+  13,R,J,G
+   1,J,G
+   2,G
+   1,R,K,G
+   2,K,G
+  22,R,K,G
+   3,R,G
+   3,R,D,K
+   7,U,X
+  30,L,G
+   1,L,J
+  14,L,U,X
+  17,L,G
+   1,K,G
+   4,L,G
+   4,G
+   1,J,G
+  19,K,G
+   1,D
   10,U,X
   21,R,G
-   1,R,D
-   6,R
-   1
-   1,R,D,K
-   3,K
-  14,L,D,X
+   8,R
+   1,G
+   4,J,G
+   2
+  17,R,J,G
+   6,R,K,G
+   1,K,G
+   2,G
+   1,J,G
+   6,R,J,G
+   2,R,J
+   2,L,J
+   8,R,Z
    1,R,J
-   7,R,D,X
+   7,R
   13,R,G
-  11,R,J,G
-  22,R,G
-  11,R,J,G
+   4,R,K,G
+  10,R,G
+   4,L
+   8,U,X
+  21,L,G
+   8,L
+   4,Z
+  14,L,J
+   1,L
+  13,L,G
+  11,L,K,G
+   3,L,G
+   1,L
+  13,L,U,Z
+  21,L,G
+   9,G
+   5,D
+   1
+  10,U,X
+  21,R,G
+  10
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,K
+  12,R,D,K,X
+  33,R,K,G
+  10,R,J,G
   40
 
 #lvl_1nkFa1c0n_04
-   5,R,J,G
+   4,R,J,G
    1,R
   11,J
    4,D,X
@@ -516,4 +519,4 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   10,R,J
    9,U,X
  135
-ChapterTime: 1:11.859(4227)
+ChapterTime: 1:09.904(4112)
