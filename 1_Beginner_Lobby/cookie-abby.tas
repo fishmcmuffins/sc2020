@@ -1,0 +1,13 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner 3192 160
+   1
+#begins from lower spawn point
+
+#Start
+  36
+
+#lvl_lobby_main
+   2,L,J
+  10,L,Z
+   1,L,K
+   1,X
+#0.187
