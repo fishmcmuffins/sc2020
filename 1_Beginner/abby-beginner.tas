@@ -10,18 +10,18 @@ console load SpringCollab2020/1-Beginner/Abby
    1,R,X
    1,R,J
    6,R
-   1,R,J
-   2,R
-  14,R,D,X
-   1,R,J
+   6,R,J
+   9,R
   83
   40
 
 #lvl_Jude_01
    8
   36
-  15,R,X
-  30,R,D
+   6,R
+  15,R,D,X
+   8,R
+  16,R,D
   36
    6,R
   15,R,X
@@ -38,14 +38,13 @@ console load SpringCollab2020/1-Beginner/Abby
    1,R,K,G
   15,R
   36
-   1
-   4,D,X
-   6,L,X
-   3,R,J
+   5,L
+  15,R,X
+  10,R,J,G
    4,R
-  18,R,U,X
-  23,R,D,C
-  39,R
+  22,R,D,C
+  36
+   3,R
   15,R,X
   29,R
   39
@@ -128,9 +127,10 @@ console load SpringCollab2020/1-Beginner/Abby
   10
   38
    3
-  50,R
-  15,D,X
-  22,D
+  34,R
+  15,R,X
+   5,R,D
+  33,D
   37
   15,R,X
    8,R
@@ -146,12 +146,11 @@ console load SpringCollab2020/1-Beginner/Abby
    4
   31,R
   17,R
-  37
-  21,R,U,X
-  45,R
-   3
+  38
+  21,R,U,Z
+  46,R
   15,R,D,X
-  19,L,D
+  20,L,D
   41
    3
   13,R,Z

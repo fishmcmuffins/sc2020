@@ -91,31 +91,29 @@ console load SpringCollab2020/5-Grandmaster/dog
    1,R,J
    1,J
    5,R,K,G
-   7,R
-   2,R,J
-   1,R
-   1
+   8,R
+   3,R,J
    5,R,D,X
    1,R,K,G
-   6,R
+   7,R
   40
 
 #lvl_doggo_02
-   6,R
+   4,R
    1,R,J
-   8,R
+   9,R
   13,R,U,Z
    1,L
    1,J,G
    5
-   5,J
-   1,R,J
+   4,J
+   1,R
   10,R,D
    4,D
    2
    1,R
-   1,R,D
-   1
+   1,D
+   1,R
   20,R
 
    8,U,X
@@ -133,14 +131,18 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,R,J
    1,L,J
   10,K,G
-   6,R,K
-   1,K
-   3,R,K
-   3,J
+   5,R,K
+   2,K
+   1,R,K
+   2,K
+   2,J
+   1,R,J
    6,U,X
   14,J
    5,R,J
-  30,R,U,G
+  19,R,U,G
+   1,U,G
+  10,R,U,G
    5,L
   19,U,X
    4,L
@@ -248,22 +250,24 @@ console load SpringCollab2020/5-Grandmaster/dog
   15,R,X
   23,R,D
   15,D,X
-  54,D
-  12,R,D
-   6,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   2,R
-  24,R,D,X
-   7,R,J
+  53,D
    1,R
-  17,R,J
-  10,U,X
-  42,R,J
-   6,U,X
-  30,R,J
-  13,R
+   9,R
+   4,R,D
+   9,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+  23,R,D,X
+   1,R,J
+  16,R
+  17,R,U,Z
+   1,L,J,G
+  30,R,J,G
+  11,U,X
+  35,R,J
+  10,R
    4,D,X
    1,R,J
    7,R
@@ -338,21 +342,39 @@ console load SpringCollab2020/5-Grandmaster/dog
    4,D,C
   19,R,U,C
   15,U,X
-  95,R,U,G
-  40,R,D,G
-  44,R,U,G
-  36,R,U,G
+   8,R
+  70,R,G
+  44,R,D,G
+  59,R,U,G
+  20,R,U,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
    7,R
   14,R,U,X
   95,R,U,G
-  12,R,G
+   5,R,G
+   1,L,G
+   1,R,G
+   1,L,G
+   1,R,U,G
+   1,L,G
+   1,R,U,G
+   1,L,G
+   1,R,U,G
   15,L,G
   13,L,D,G
    5,L,U,G
    1,R,G
    1,R
    1,L
-  18,R
+  11,R
+   6,R,D
   15,R,Z
    8,U,X
    5,J
@@ -375,7 +397,7 @@ console load SpringCollab2020/5-Grandmaster/dog
    1,R,K,G
    2,R,J,G
   12,R
-   2,R,J
+   1,R,J
   40
 
 #lvl_doggo_outro
@@ -387,27 +409,20 @@ console load SpringCollab2020/5-Grandmaster/dog
   12,L,K,G
   12,J,G
   11,K,G
-   1,R,K
-   7,L,J,G
-   1,K
-  11,L,K
-   7,J,G
-   1,R,J
-   1,K
-   6,R,K
-   6,L,K
-   1,J,G
-   1,R,J
-  12,L,K,G
-   3
-   9,L
-  11,L,K
-   1,J,G
-   1,R,J
-  14,R,K
-  11,U,X
-  20,R,K
-   4,L,C
-  15,D,C
- 120
-ChapterTime: 1:08.289(4017)
+   1,J
+   6,R,J
+  20,K
+   1,L
+   6,K,G
+  10,R,K,G
+   6,L,J,G
+  10,J
+   8,L,J
+   5,R,K
+  17,K
+  15,U,X
+   5
+  20,R,J
+   4,X
+ 135,D,X
+ChapterTime: 1:08.170(4010)

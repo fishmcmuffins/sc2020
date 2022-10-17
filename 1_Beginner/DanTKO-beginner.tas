@@ -136,39 +136,35 @@ console load SpringCollab2020/1-Beginner/DanTKO
   61,R
   23,U,X
    7,R
-  68
+  66
+   2,R
   15,D,X
-  11,D
+  11,R,D
    5,D,C
   12
    4,R
-  11,R,J
+  10,R,J
+   2,J
   15,U,X
-   1,R
-   2
-  12,J
-   6,R,J
+   1
+  13,L,J
+  11
+   5,R,D,X
+   1,R,J
    1,R,K,G
-   3,R,J,G
-   1,K
   40
 
 #lvl_DanTKO_04
-   2,R,J,G
-   1,K,G
-   1,R,K
-   1
-   6,R
-   4,D,X
-   1,R,X
-   8,R,J
-   4,R
-  11,R,K
+   4,R,J,G
+   3,R
+   3,R,K,G
+   7,R
+   9,R,J
   24,R,X
    4,R,J
-   3,R,K
+   5,R,K
    4,D,X
-  25,R,X
+  23,R,X
    4,R,J
    3,R,K
   16,U,Z
@@ -200,29 +196,27 @@ console load SpringCollab2020/1-Beginner/DanTKO
   21,D,X
    6,L
   18,R,X
-  16,R,U,V
-   8,R,U,X
+  15,R,U,V
+   9,R,U,X
   21,R,G
    3,L
    1,R
-   9
+   7
+   1,R
    5,D,X
    6
    1,J
    8
-   1,L
-   1
-   1,L
+   4
    5,D,X
   12
-   1,L
-   3
+   4
    1,J
    4,R,J
    1,J
   13,U,X
-   4,R,J
-   1,R
+   3,R,J
+   2,R
    1
    1,R
    1,R,K,G
@@ -327,4 +321,4 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,D,X
    1,R,J
   42,R
-ChapterTime: 1:02.288(3664)
+ChapterTime: 1:02.186(3658)

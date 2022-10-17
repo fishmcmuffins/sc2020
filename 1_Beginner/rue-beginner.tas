@@ -90,9 +90,15 @@ console load SpringCollab2020/1-Beginner/Rue
   69,O
    1,R,J
   12,R
-   3
-  39,R,J
-  18,R,G
+   2
+   1,R
+  38,R,J
+   9,R,D,G
+   3,G
+   1,D,G
+   1,G
+   1,D,G
+   3,R,G
    3,R,U,G
    5,R,G
    1,R,D,G
@@ -122,7 +128,6 @@ console load SpringCollab2020/1-Beginner/Rue
   11,R
    6,R,J
   29,R,D
-
    4,R,D,J
    5,R
    1,R,J
@@ -249,19 +254,32 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R
    6,R,J,G
   10,R
-  15,R,X
+  25,R,D,X
+   1,R
+   2,L
+   1,R
+   6,L,D
+   1,L,K
+   1,J
+   1,K,G
+   6
+   1,J
+   1,R,J
    1
-  10,R
+   3,R
+   1,R,K,G
    1,R,J,G
-  14,R
-   7,R,J
-  49,R,D
+  11,R
+   1,R,J
+   5,R
+   1,R,J
+  23,R,D
    1,R,J
   14,R
    1,R,J
   14,R
    5,R,J
-  28,R
+  27,R
    9,R,D,J
    5,R
    3,R,J
@@ -423,18 +441,27 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R,D
    4,R
    7
-  24,R
+  10,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   6
+   2,J
+   4,R,J
+   1,L,J
+   1,K,G
+   6
+   4,R
    1,R,J
+   1,J
    1,R,K,G
-   2,R,J,G
-   5,R
-   4,R,K
-   9,R
-  23,R,D
-   5,R
+   1,R,J,G
+  17,R
+  10,R,D
+   2,R
    1,R,D,J
-  14,R
-   1
+  15,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -503,4 +530,4 @@ console load SpringCollab2020/1-Beginner/Rue
    5,R,J
   13,R,U,X
  136
-ChapterTime: 1:08.204(4012)
+ChapterTime: 1:08.051(4003)

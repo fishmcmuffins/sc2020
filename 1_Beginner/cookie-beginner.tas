@@ -348,19 +348,17 @@ console load SpringCollab2020/1-Beginner/Cookie
    4,L,Z
    1,R,J
   13,R,J,G
-   1,R,K,G
-   7,R,G
-   1,R,J,G
-  14,R,G
-   5,R,J,G
+   3,R,K,G
+   5,R,G
+   6,R,J,G
+   4,R,G
+  10,R,J,G
    1,R,J
-  15,U,X
-  30,J,G
-   5,L,K,G
-   1,R,J,G
-   4,R,J
-   2,R
-   2,R,K,G
+  14,U,X
+   3,J,G
+  27,L,J,G
+   4,R,K,G
+   5,R,K
    7,R
    4,D,X
    2,R,X
@@ -454,20 +452,22 @@ console load SpringCollab2020/1-Beginner/Cookie
   11,R,K,G
    5,G
    1
-  28,R,D
-  10,G
+  16,R,D
+  13,L,D
+   1,L,J,G
+   8,L
   14,L,Z
    1,R,J
-   7,R,D,X
+   1,R,K
+   1,R,J
+   5,R,D,X
   13,R,G
    1,R,J,G
-  22,R,D,G
+  16,R,G
   40
 
 #lvl_ CookieBeg_Outro
    1,L
-   1,R,D
-   5,R,K
-  11,R,X
+  13,R,X
  135,D
-ChapterTime: 0:50.762(2986)
+ChapterTime: 0:50.490(2970)

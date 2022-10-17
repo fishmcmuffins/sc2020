@@ -159,13 +159,19 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   10,R,G
    1,R,D
    1,J,G
-   8,R,J
+   7,R,J
+   1,R
    5,R,X
-  23,R,K,G
+  20,R,K,G
+   3,R
   15,R,X
   17,R,D
-  37,D
-  21,R,D
+  33,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  20,R,D
    4,R,Z
    5,R,J
   40
@@ -239,4 +245,4 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
  117,L,D
    1,D,X
   17,L,J
-ChapterTime: 0:30.974(1822)
+ChapterTime: 0:30.957(1821)
