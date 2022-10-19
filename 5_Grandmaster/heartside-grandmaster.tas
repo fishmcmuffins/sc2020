@@ -1,4 +1,4 @@
-RecordCount: 7982
+RecordCount: 8043
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -934,37 +934,39 @@ AnalogMode,Precise
   15,R,G
    2,R,D,G
    1,R
-  14,L,J
-  21,L,X
+   6,J,G
+   1
+  25,L
   22,R
-  20,U,X
-  14,J
-   4,L
+  15,U,X
+   5,J
+  10,L,J
+   3,L
   18,U,Z
-  11,R,U,C
+   3,R
+  14,R,U,X
   24,R,D,G
    1,R
-  25,R,D
-  15,R,U,X
-  10,R,C
-  31,R,D,G
-   2,D,G
-   1,L,D,G
-   2,R,D,G
-   4,D,G
-   4,R,D,G
+  19,R,D
+  18,R,Z
+   6,R,C
+  14,R,J,G
+   9,R,G
+  15,D,G
+   3,R,D,G
    8,R,K,G
   26,R,D,G
    1,R
-  15,D
+  14,D
    1,L,G
-   1,L,K,G
-   1,R,K
-   3,K
-   5
-   3,K
-  32,D
-   7,R,D
+   3,K,G
+  18,D
+   1
+   1,D
+   1
+   1,D
+   7
+  20,D
   26,R
   14,R,X
   28,R,J,G
@@ -1010,9 +1012,10 @@ AnalogMode,Precise
   20,R,J
    1,J
   15,R,K,G
-  10
-  26,R
- 124
+   8
+   8,J
+  30,R
+ 114
   24,L
   10
   20,L,J
@@ -1811,4 +1814,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:19.199(15247)
+ChapterTime: 4:18.927(15231)
