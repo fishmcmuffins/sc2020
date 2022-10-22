@@ -4,74 +4,76 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   36
 
 #lvl_Evilleafy_00
-   3,R,J
-   2,R
-  14,R,U,X
-   1,R,J,G
+  10,L,D,X
+   1,R,J
+   2,J
+   5,R,J
+   1,K,G
+   3,R,K
+  14,R,U,Z
+   3,J,G
+   1,K,G
+  10,R,K,G
    6,R
    1,R,J
+  16,R
+   2,R,D
+   1,J
+  13,R
+   5,R,Z
+   1,R,J
+   6,R
+   7,R,J
    1,R
-  25,R
-  20,R,X
-   2,R,J,G
-   1,L
-   1,R,K,G
-   2,R
-   1
-   4,R
-   4,D,X
-   1,R,X
-   1,R,J
-   8,R
-   1,R,J
-  19,R,D,X
   40
 
-#lvl_Evilleafy_01
-   1,D
-   3,R,D
-   3,R
-  11,R,U,X
-  27,L,U
-  22,F,0.02
-  30,F,350.41
-  28,F,31.51
-  10,F,90
-   6,F,105.38
-   8,F,76.79
-  10,F,135
-   5,F,180
-   1,L
-   7,L,D
-   8,R,D
-  19,D
-   1,L
+  15,R,D,X
+   9,R,D,J
+   5,R
+   2,J
    1
-   1,L,D
-  15,R,X
-  13
-   4,L
-   1,L,J
-   2,L
-   4,D,X
-  11,R,X
-   2
-   2,R
-   1
-   4,J
-   3,R,J
-   4,D,X
-  11,R,X
-   6,R
-   1
+  18,R,U,Z
+   5,U,C
+  64,R,D,G
+   1,R,G
+   2,R,D,G
+  15,R,U,G
+   3,R,G
+   1,R,U,G
    1,R
-   1
-   5,R,U,X
+  15,R,U,X
+   5,R
+   2
+  31,R,J,G
+   1,L
+  15,L,U,Z
+   9,L
+  21,L,U,J,G
+   1,R
+   2,L,G
+   1,L
+   1,L,G
+   1,L
+   1,L,G
+   1,L
+   1,L,G
+   1,L
+   1,J
+   2,K,G
+   5,R
+   1,R,J
+   1,J
+  14,J,G
+   9,R,J,G
+   1,L,J
+   5,R,J
+   6,R,U,Z
   27,R,U
-  39,F,357.8
+  36,F,357.8
   17,F,322.6
-  14,F,320
-   1,F,300
+  15,F,320
+   2,F,300
+   1,F,320
   40
 
 #lvl_Evilleafy_02
@@ -355,4 +357,4 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   94,R,D
    1,D,X
   40,R,J
-ChapterTime: 0:52.241(3073)
+ChapterTime: 0:52.037(3061)

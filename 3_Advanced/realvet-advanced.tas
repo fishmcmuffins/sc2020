@@ -211,19 +211,23 @@ console load SpringCollab2020/3-Advanced/RealVet
    1,J,G
    5,R,J
    7
+
 #cycles
-   8
-  15,R,U,X
-  23,R
-  14,R,D,X
-   9,R,J
-   2,J
-   5
-   7,U,X
+   5,L,Z
+   1,R,J
+   6
    1,J
-   6,L,J
-   6,R,J
-   1,R,K,G
+   1,R,J
+   1,K,G
+  13,R,K
+  15,R,Z
+   5,R
+  11,R,X
+   9,R,J
+   4,J
+   8,K
+   6,R,K
+   7,R,J,G
    7,R
    4,R,Z
    3,R,J
@@ -469,4 +473,4 @@ console load SpringCollab2020/3-Advanced/RealVet
   11
   14,U,X
  135
-ChapterTime: 0:49.266(2898)
+ChapterTime: 0:49.198(2894)
