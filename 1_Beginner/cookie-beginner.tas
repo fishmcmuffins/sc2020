@@ -296,68 +296,69 @@ console load SpringCollab2020/1-Beginner/Cookie
   12,R,U,X
    2,R,K,G
    7,R
-   4,D,X
-   1,R,J
-   6,R
-   4,R,J
-  11,R
-  15,L,D,X
-  10,L,D,C
-   1,R,J
-  31,R,G
-   1,D
-   3,G
-   4,D,X
-   7,U,X
-   5,R,J
-  27,R
-   4,D,X
-  10,L,X
-   1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  27,L,D,X
-  10,R,D
-  14,R,U,X
-   1,R,J,G
-  11,L,J
-   9,J
-   3,R,J
-  10,R
-   1,R,K,G
-   1,R,J,G
-  16,R,D
-   6,R,J
-   5,R,D
-   5,D
-   7,R,D
-   2,D
-   1,R,D
-   1,D
-   1,R
-  13,R,U,Z
-  12,J
-  17,D
-   1,L,D
-   1,L
-  14,L,D
-   4,L
    4,L,Z
    1,R,J
-  13,R,J,G
-   3,R,K,G
-   5,R,G
-   6,R,J,G
-   4,R,G
-  10,R,J,G
-   1,R,J
-  14,U,X
-   3,J,G
-  27,L,J,G
-   4,R,K,G
-   5,R,K
+   6,R
+   2,R,J
+  41,R,D,G
+   3,D,G
+   1,R
+   4,L,D
+   3,L
+  10,L,X
+  10,L,J
+   1,R
+   1,L
+   1,K
+   1,J,G
+   2,R,J,G
+   4,J
+  12,R,U,Z
+   3,R,J,G
+  12,R
+   2
+   3,L,J
+   5,J
+   7
+  14,L,D
+   4,D
+   3
+  10,R,D,X
+   1,L,J
+   1,J
+   1,L,J
+   1,L,J
+   1
+   8,L,U,Z
+   1,R,J,G
+   7,L
+   8,L,D
+   3,L
+   9,R
+  15,R,D
+  17,R,D,X
+   1,R,D,J
+   4,R
+   4,R,J
+   1,R,K,G
+   1,R,K
+   1,L
+   2,J,G
+   5,R,D,X
+   1,L
+   1,K,G
+   6
+  21,R,G
+  12,R,J,G
+   1,K,G
+   1,R,K
+  15,U,X
+   1,J
+  24,J,G
+   4,R,J,G
+   5,K
+   1,R
+   1,R,J,G
    7,R
    4,D,X
    2,R,X
@@ -469,4 +470,4 @@ console load SpringCollab2020/1-Beginner/Cookie
    1,L
   13,R,X
  135,D
-ChapterTime: 0:50.269(2957)
+ChapterTime: 0:48.569(2857)

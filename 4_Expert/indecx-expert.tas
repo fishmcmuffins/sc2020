@@ -89,37 +89,34 @@ console load SpringCollab2020/4-Expert/Indecx
    1,R,J,G
    2,R,J
   15,R,J,G
-  21,R,D,G
-  36,D,G
-   3,D,G
-   3,L,D,G
+  16,R,D,G
+  15,D,G
+   1,R,D,G
+  20,D,G
    1,L
-  20,L,D
-   4,L
-  18,R
-   7,L
-   1,L
-   2,R
-   1,J,G
-   2,R,J,G
+   2,R,D
+   9,D
+  15,L,D
+  15,R,X
+  11,R
+   6,J,G
   11
-   5,L
-   4,L,Z
+   7,L
+   5,L,Z
    2,R,J
    4,R
-   1,R,J
-   5,R
-   1,R,J
-  12,R,U,X
-  46,R,D,G
-  10,R,U,G
-  16,R,G
+   4,R,J
+   6,R
+  14,R,U,X
+  55,R,D,G
+  10,R,G
+   3,R,G
    1,L
    4,R
   10,L
    6,U,X
-  15,G
-   7,R,G
+  14,G
+   8,R,G
    1,L
   29,R,D
    4,Z
@@ -218,26 +215,22 @@ console load SpringCollab2020/4-Expert/Indecx
   23,R,G
    7,R
   14,R,U,X
-  44,R,D,G
-  21,R,G
-   1,R
-  14,D
-  22,L,D
-  15,R,D,X
-   1,R
-   9,L
-  14,R,D,X
-   1,L
-   6,R,D,X
-  10,L
-  24,R
+  44,R,U,J,G
+  23,R,U,J,G
+   1
+  19
+  26
+   9,R
+  11,L
+  23,R
   14,R,D,X
    2,R,J
    1,R
   14,R,U,X
   59,R,U,G
    5,R,D,G
-   2,R,G
+   1,G
+   1,R,G
    1,R
    5,R,D
    1,D
@@ -262,6 +255,7 @@ console load SpringCollab2020/4-Expert/Indecx
    6,L,X
   19,R,J
   15,U,X
+   1
    7,R
   68,R,G
    1,L
@@ -300,4 +294,4 @@ console load SpringCollab2020/4-Expert/Indecx
   12,R,J
   14,R,U,X
  135
-ChapterTime: 0:42.364(2492)
+ChapterTime: 0:41.973(2469)

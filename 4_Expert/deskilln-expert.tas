@@ -359,23 +359,27 @@ console load SpringCollab2020/4-Expert/deskilln
    4,D,X
   11,R,X
   11,U,C
-   3,J
-  16,R,J,G
-  16,R,G
-  26,R
-   6,R,D
-   4,D
-  15,U,X
-  15,R,C
-   8,R,U,X
-  57,R,D,G
+   1,J
+  19,G
+  14,R,D,G
+  30,R
+   8,L,Z
+   1,J
+  12,R
+  10,L,Z
+   3,R,J
    1,R
-  12,L
+   1,R,J
+  12,R,U,X
+  26,R,G
+   3,G
+   1
+  19,L,D
   15,U,X
-   7
-   5,L
-   4,D,X
-  15,R,X
+   9
+   2
+   3,L
+  18,R,Z
   14,R,D,C
    1,R,J
    5,R,D,X
@@ -404,4 +408,4 @@ console load SpringCollab2020/4-Expert/deskilln
    1,L,J
   30,R,J
   58,R
-ChapterTime: 0:52.547(3091)
+ChapterTime: 0:52.258(3074)

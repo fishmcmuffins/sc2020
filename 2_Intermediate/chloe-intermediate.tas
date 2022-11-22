@@ -95,22 +95,16 @@ console load SpringCollab2020/2-Intermediate/Clover
    2
   11,L
   17,R,C
-  20,R,X
-  26,R,C
-  11,R,D,X
-  13,R
-   1
-  15,R,D,X
-   2
-   5,R,D
-  24,L,D
-  11,R,D
-  19,L,D
-  15,R,D
-   1,D
-  10,R,D
+  25,R,X
+  32,R,C
   15,R,X
-   1,R
+   8,D
+   5,R,D
+  11,L,D
+  22,D
+  23,L,D
+  27,R,D
+  15,R,X
   40
 
 #lvl_a-02
@@ -229,4 +223,4 @@ console load SpringCollab2020/2-Intermediate/Clover
    1,L,J
    4,L
   41,L,D,X
-ChapterTime: 0:39.542(2326)
+ChapterTime: 0:39.491(2323)

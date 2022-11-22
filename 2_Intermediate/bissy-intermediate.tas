@@ -57,14 +57,13 @@ console load SpringCollab2020/2-Intermediate/Bissy
   14,U,X
   21,J
    5,L,J
-  12,L,K,G
+   2,L,K,G
+   5,J,G
+   1,R,J,G
+  14,L,K,G
    1,L,J,G
-   3,R,J
-   4,J
-   2,L,J
-   1,L,K,G
-   5,L,J,G
-  17,L
+   4,L,K,G
+  16,L
   25,L,J
    8,L
    5,D
@@ -134,4 +133,4 @@ console load SpringCollab2020/2-Intermediate/Bissy
   35,R,U,X
   57,R,D,C
   30,L,X
-ChapterTime: 0:18.615(1095)
+ChapterTime: 0:18.581(1093)

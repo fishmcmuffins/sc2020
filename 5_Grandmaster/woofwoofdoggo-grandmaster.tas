@@ -57,27 +57,30 @@ console load SpringCollab2020/5-Grandmaster/dog
    5,D
    3
   20,D,G
-  24,R,D,G
-  20,R,U,G
-  15,R,U,X
-  38,R,D,G
-  23,D,G
-   7,R,D,G
-   2,D,G
-   7,R,G
-   1,R,D,G
+   9,R,D,G
+  38,R,U,G
    1,R
-   4,D
+#You can go through the gap here to the right but I couldnt find a way to make it faster than just going over
   15,R,U,Z
-   6
-   9,R
-  44,R,D,G
+  14,R
+   5,U,X
+  13,L,K,G
+   9,L,K,G
+  44,R,U,K,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
+   2,R,G
+   4,R,U,G
+  46,R,D,G
    1,R
-  10,R,D
-   2,D
-   1
-   1,R
-   4
+  13,R,D
+   6,D
+   1,R,D
+   4,D
   10,U,X
   27,L,J
    1,J
@@ -425,4 +428,4 @@ console load SpringCollab2020/5-Grandmaster/dog
   20,R,J
    4,X
  135,D,X
-ChapterTime: 1:08.170(4010)
+ChapterTime: 1:08.102(4006)

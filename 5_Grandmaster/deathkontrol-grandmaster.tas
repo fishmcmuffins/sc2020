@@ -351,8 +351,7 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    7,R
    1
    1,R,D,J
-  15,R
-   1,R
+  16,R
   14,R,D,X
   37
   15,R,X
@@ -363,106 +362,118 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    4,D,X
    7,L,X
    1,R,J
-  16,R
-  15,R,U,X
+   7,R
+   5,R,D
+   1,R,J
+   1,R
+   6,R,J
+   9,R,U,X
   30
   12,R,J
    4,D,X
    7,L,X
    1,R,J
-  16,R,D
-   2,R,G
+  14,R
+   1,R,G
+   5,R,Z
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   5,R,K,G
-   5,R
-  24,R,J
-  14,R,U,X
+   1,J,G
+   2,K,G
+   2
+   4,R
+   1
+   1,R,J
+  15,R
+   1
+   6,R
   37
-  14,R,J
+   8,R,J
+   6,R
   30,R,X
    4,R,J
   17,R,K
   18,R,D,X
   33
    1,L,J
-  29,L,D
+  28,L,D
+   3,L
    4,D,X
-  16,L,X
+   6,L,X
    4,L,J
-   1,L,K
-  11,L,D,X
+  13,L
   37
-  23,D
-   6,R,D
-   4,D,X
-  10,R,X
-   4,R,J
+  25,R,D
+   2,R
+   1,R,D
+   1,R
+   4,R,Z
    1,R,K
-   8,R
-  24,R,X
+   4,R
+   1,R,D
+  12,R,D,J
+   1,R
+  23,R,J
+  37,L
+  15,L,X
+   1,R,G
+   3
+  14,R,X
    4,R,J
-   7,R,D,X
-  37
-  20,R,D
-   4,D,X
-  10,R,X
-   4,R,J
-  23,R,K
+  16,R,K
   15,R,D,X
    3,R,D
-  28,R
-  57,L
+   1,R
+   1,R,D
+  31,R
+  57,L,D
   15,R,D,X
-   7,L
-   5,D
-
-  19,R,D
+   9,L,D
+   4,L
+  17,R
   15,R,D,X
+   1
    2,R,J
    4,R
    6,R,D,X
    1,R,K,G
   13,R
    1,R,J
-   7,R,D
+   1,R
+   2,R,J
+   4,R
    1,R,J
-   3,R
+   4,R
   43
 
 #lvl_b-00b
-   1,R,J
-   5,R,D
-   3,R,J
-   1,R
-   1,R,J
-   4,R
-   3,R,J
-   1,R
-   1,R,J
-   4,R
-   2,R,K
-   8,R,D
+   5,R
    4,R,J
-   4,R,D
+   6,R
+   4,R,J
+   6,R
+   2,R,D,J
+   7,R
+   1,R,D,J
+  10,R
   40
 
 #lvl_b-01
-   4,R,D
-  12,R,J
-   5,R,K,G
+   2,R,J
+   8,R
+   3,R,J
+   1,R
+   3,R,K,G
+   5,R,J,G
    1,S
    1,D,J
   34
-   1,J
-   5
-   1,J
+   2,J
+   6
   13,R,U,X
    2,K,G
    1
    6,R
-   1,R,J
   12,U,X
  135
-ChapterTime: 1:13.423(4319)
+ChapterTime: 1:12.998(4294)

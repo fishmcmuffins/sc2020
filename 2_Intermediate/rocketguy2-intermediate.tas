@@ -192,7 +192,6 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
    7,L,D
    2,D
   13,L,D
-
    1,L,D,K
    3,L
    1
@@ -204,17 +203,11 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
    8,L,D,X
    1,L,J
    7,L
-   1,L,J
-   2,L
-   9,L,K,G
-  14,L,D,X
-  21,L
-  15,U,X
-   1,L,J,G
-   6,R,J
-   1,K
-  10,L,K
-   2,L
+   3,L,J
+   1,L,K,G
+  43,L,J,G
+  12,K
+   3,R,K
   14,L,Z
   11,L,D
    2,R
@@ -294,10 +287,11 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
    3,L,K
   12,R,J,G
   14,J
-  10
+  11
    1,K
-   2,L
-   6,R,Z
+   1,L,K
+   3,L
+   7,R,Z
    1,R,J,G
    3,R
    1,R,J
@@ -465,4 +459,4 @@ console load SpringCollab2020/2-Intermediate/Rocketguy2
   18,L,U,X
   18,K,G
   39,R,K
-ChapterTime: 0:48.161(2833)
+ChapterTime: 0:48.042(2826)
