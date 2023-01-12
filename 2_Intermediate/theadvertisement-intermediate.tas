@@ -45,23 +45,26 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1,R,K,G
    1
    1,R,J,G
-   4,R
-  13,R,D,X
-   2,R,J
-  15,R,D,X
-   3,R,G
+   4,R,D
+  12,R,D,X
+   1,R,J
+  16,R,D
+   2,R,G
+   5,R,X
    1,R,J,G
    1,R,K,G
+   1,R
    1,R,J,G
-   2,R
-   2,R,K,G
-   8,R
-   3,R,J
-  11,R
-  16,R,U,Z
+   1,R,K,G
+  10,R
+   1
+   6,R
+   1
+  13,R,U,Z
    1,L
-   5,J,G
-   3,R,J
+   1,J,G
+   5,R,J,G
+   4,R
   15,L,U,X
    1
    1,R,J
@@ -347,4 +350,4 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   22,R,D,J
    1,K,G
   60,L,K
-ChapterTime: 0:52.479(3087)
+ChapterTime: 0:52.411(3083)

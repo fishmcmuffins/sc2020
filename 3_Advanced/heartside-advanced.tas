@@ -470,17 +470,6 @@ Set,SuperDashing,false
    4,R,K
    2,R
 
-#if you come across
-#this skip from just skimming the SC2020
-#repository, then congrats
-#please keep this skip a secret until
-#i (fish) do a formal showcase of the TAS
-#in a couple of months
-#(this was written 12/24/2021)
-#no videos or comments about it, etc
-#DM me for questions or whatever.
-#thanks :^)
-
 #skip idea by fish
 #skip TAS'd by vasher
 #majority of the rest of it TAS'd by hane
@@ -583,7 +572,7 @@ AnalogMode,Precise
    5,R,D,X
   40
 
-#lvl_Heartside_3
+#lvl_Heartside_3 (1)
    1,U
    3
    7,U
@@ -712,173 +701,149 @@ AnalogMode,Precise
    9
    2,R
    1,J
-  15,L
-  18,R,J
-   4,R,K,G
-   1,K
-   1,J
-  11,R,J
-   5,R
-   5,R,X
-   2
-   1,R,J,G
-   1,J
-   6,R
-   5,R,X
-  48
-   5,R,U,X
-   5,U
-  18,R
-   4,R,J
-   1,R,K
-  37,L,K
-   5,U,X
-   1,R
-   6
-  15,R
-   5,R,D,X
-   7,D
-   9
-   4,D,X
-   1,L,U
-  13,L
-   5,L,J
-  15,L,K
-  27,R,D
-   5,R,X
-  11
-   5,L,D,X
-  11
-   5,R,D,X
-  10,R
-   4,R,J
-   1,R,K
-   2,R
-  23,R,D
-   1,R
-   1
-   2,R
+   2,L
+   1,L,J
+   1,L
+   2,L,J
+   5,L
+   5
    5,R,Z
-   1,D
-   4
-   1,D
-   9
+   3,R,D
+   2,R,U
+   1,L,J
+   4,L
    1,L,J
    5,L,D,X
+   7,U
    1
-   1,L,D
-   8
-   5,L,D,X
-   4
-   1,L,D
-   5
-   5,L,D,X
-   4,U
-   4,L,D
+   5,L,D
+   1
+   3,L,D
    2
-   1,L,D
+   3,L
    2
+   1,J
+   2,R,J
+   5,D,X
+   9,R
    1,R,J
    5,R,D,X
-  13
-   1,R,D
+   8,U
+  10,R,D
+   5,R,D,X
+   3,R,U
+StunPause
+   2,R,U
    5
+   1,R,U
+   5
+   1,R,D
+   2
+SkipInput,3,1
+   5,R,D,X
+   2,U
+EndStunPause
+   1,U
+   3
+   3,R,D
+StunPause
+   1,R,D
+   7
+   1,R,D
+   3,R
+EndStunPause
+   1,R
+   3,R,J
+   5,R,U,Z
+   7,U
+   1
+  10,U
+   3,R
+   4,R,X
+   1,R,U
+  16,U
+   1,L,U
+   7
+   5,U,X
+  16
+  16,R
+   5,L,Z
+   3,L,D
+   2,L,U
+   1,R,J
+   4,R
+  10,R,J
+   5,R,U,X
+  10,U
+  40
+
+#lvl_Heartside_4 (1)
+   2,U
+   7,R
+   5,L,Z
+   1
+   6,U
+  40
+
+#lvl_Heartside_3 (2)
+   3
+   5,U,X
+  11
+  11,R
+  40
+
+#lvl_Heartside_4 (2)
+   5,R,Z
+   1,R,D,J
+   8,R
    1,R,J
    6,R,D,X
    9
+   6,R,D,X
+   9
+   6,R,D,X
+   9
+   6,R,D,X
+   9
    5,R,D,X
-   1,U
-   7
-   1,R,D
-   3
-   1,R,D
-   5,R,D,X
-   2,U
-  40
-
-#lvl_Heartside_4
-  12,U
-   7,R
-   4,R,X
-   1,R,U
-  10,U
-   2,R
-   1
-   4,R
-   3,R,J,G
-   1,R
-   4,R,K,G
-   2
-   5,R
-   5,R,D,X
-   6,U
-   1
-   2,R,D
-   1
-   6,R,D
-   1,R,U
-   2
-   3,R
-   5,R,Z
-   1,U
-   1
-   8,U
-   1
-   1,R
-   7
-   5,R,U,X
-   4,U
-   1
-  10,U
-   1
-   3,R
-   4,R,D,X
-   1,R,U
-   1,R
-   1
    5,U
-   1,R,D
-   1
-   9,R,D
-   5,R,U,X
-   8,U
    3
-   1,R
+   5,R,D
+   2
+   1,R,D
+   5,R,D,X
+   2,R,D
+   2,R,U
+   1
+   9,R,U
+   5,R,D
+   5,R,U,X
+   7,U
+   2
+   2,R,D
+   6,R,D,J,G
+   5,R,D,X
+   4,U
+   9
+   5,R,D
    1
    8,R
-   5,R,J,G
-   3,R
-  33,R,K,G
-   5,R,U,X
-   9,U
-  12,R,D
    5,R,D,X
-   3,R,U
-  13
    1,R,D
-   4
-  11,R,D
-   1,R,J
-   5,R,D,X
-   1,U
-   3
+   1,R,U
+   2
+   4,R,U
+   2
    1,R,D
-  13
-   1,R,D
-   3,R
-   1,R,J
-   9,R,K,G
-   5,R,U,Z
-   4,U
   40
 
 #lvl_Heartside_5
-   2,U
-   8,R,D
-   5
-   5,R,U,Z
-   4,U
+   3,R,D
+   4,R,D,X
+   1,R
    1
-  25,R,D
- 116,L,J
-ChapterTime: 1:31.545(5385)
+   3,U
+   6
+   5,D,X
+ 135
+ChapterTime: 1:30.763(5339)

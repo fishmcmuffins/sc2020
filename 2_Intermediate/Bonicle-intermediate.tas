@@ -61,101 +61,23 @@ console load SpringCollab2020/2-Intermediate/Bonicle
 #lvl_bonicle_01
    3,R,U,X
    1,L
-   8,J,G
-   1,R,J
-  10,U,X
-  15,R,U,G
-  21,L,U,G
-   1,R
-  10,L,X
-   5,R,J
-  12,R,U,X
-  52,R,G
-  23,R,D,G
-  17,D,G
-   1,R,D,G
-  15,D,G
-   2,D
-   7,L,D
-   6,D
-   1,L,D
-   1,D
-   1
-   1,L,D
-   2,L
+   1,J,G
+  10,J
+   4,R,J
   15,U,X
-   8,R
-  31,R,U,J,G
-  11,R,J
-   8,R,X
-  30,R,U,J,G
-   2,R
-   1,R,K,G
-   7,R
-  10,R,Z
-   2,R,J
-  46,L,G
-  39,L,D,G
-   3,L,G
-   1,L,D,G
-   8,L,G
-   1,R
-  15,L,X
-   9,L,D
-  28,R,D
-  12,R,Z
-   1,R,J
-   7,R
-  10,R,J
    5,R
-   3,R,J
-   4,R
-  15,U,X
-   6,R
-  42,R,D,G
-   1,L
-  32,R,D
+   4
    1,R
-  12,D,X
-   1,J
-  14
-  17,D,X
-   9,L,J
-   4,L
-  12,L,U,X
-   3,L,J,G
-   7,L
-   7
-   4,L,Z
-   1,L,J
-   6,L
-   4,L,D
-   5,L,D,J
-   5,L
-   1,L,J
-   1,K
-   1,J
-  10,L,J
-   3,J
-  14,R,Z
-   1,L,J
-   5,L,D,X
-  13,L,G
-   7,L,J,G
-  27,L,G
-  10,L,J,G
-  16,L,G
-   4,L,G
-   3,L,D,G
+  10,D,X
+StunPause
+  18,D
+   3,R,D
    1,D
-  14,L,U,X
-   1,L,K,G
-   5,L,D
-   7,R,D
-  15,D,X
-  10,L,D
-  33,D
-  12,R,D
+SkipInput,3,1
+  15,R,D,X
+   6,L,D
+EndStunPause
+   7,L,D
   40
 
 #lvl_bonicle_02
@@ -345,66 +267,22 @@ console load SpringCollab2020/2-Intermediate/Bonicle
   40
 
 #lvl_bonicle_05
-  16,R,J
-  14,R,U,X
-  53,R,D,G
-  47,R,U,G
-   6,U,G
-   1,R,D,J
-   8,R,K,G
-   6
-   1,K
-   2,J,G
-  57,L,U,J,G
-   8,D,J,G
-  12,D
-  15,U,X,G
-  14,G
-  32,R,D,G
-   3,D,G
-   1,R,D,G
-  29,R,U,J,G
-   1,D,J
-   4,R,G
-   7,R,K,G
-   5,L,K
-  20,L,J,G
-   2,L,G
-   1,L
-   4,D,X
-   6,R,X
-   5,L,J
-  10,L,U,X
-  60,L,D,G
-   8,L,G
-  14,L,D,G
-  29,L,U,G
+  13,R
+   1,X
+ 127,R,U
    1,R,J
-  19,L,D
-   7,L
-   4
-   1
-   1,D
-   1
-   1,L
-  15,L,Z
-   1,J
-   5,L,J
-  25,L,D
-  13,L,U,Z
-  14,L,D
-  16,D
-   5
-  15,U,X
-  12
+  18,R
   15,R,D,X
-  53,R,D
-  28,D
+   8,D,C
+StunPause
+  12,D
+EndStunPause
+   8,R,D
   40
 
 #lvlty_bonicle_06
-  10,D
-  21,R,D
+   8,D
+  24,R,D
   10,R,D,X
    1,R,J
    7,R
@@ -416,4 +294,4 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1,D,X
    1,L,J
   46,L
-ChapterTime: 0:59.874(3522)
+ChapterTime: 0:42.772(2516)

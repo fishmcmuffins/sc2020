@@ -92,7 +92,7 @@ console load SpringCollab2020/3-Advanced/LinjKarma
   13,R,J
    5,R,U,C
   40
- 
+
 #lvl_3
    9,R,U,C
   71,R,X
@@ -106,72 +106,73 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    8,R,Z
    7,R,J
   36,R,X
-   4,R,J
-  20,R,K
-  12,R,U,X
-   8,L,J
-   8,L,K
-  22,L,D
-   3,L
-   1,L,D
-  36,L,X
-   4,L,K
-   1,L,J
-  15,L,D,X
-   9,L,D,J
-   3,L
-  15,D,X
-  13,L,D
-  28,L,U,X
-  21,L,U,Z
-  12,R,J
-   4,R,J
-   3,J
-  15,D,X
-  11,D
-  36,R,Z
-   4,R,J
+   8,R,J
+  18,K
    1,R,K
-  15,R,D,X
-   3,R
-  41,R,C
+   2,K
+   1,R,K
+   3,R,J
+  14,L,X
+   1,L,J
+  19,L,U,X
+   4,L,J
+   4,L,Z
+   1,L,J
+  13,L
+  15,L,X
+  33,L
+  18,R,D,X
+  15,R,D,C
+   1,L,J
+  14,R,D
+   2,R
+   1,R,D
+   2,R
+  15,L,U,X
+  15,R,C
+  15,L,U,X
+  18,R,C
    4,J
-  12,U,X
-   4,R,J
-   3,R
-  15,L,Z
-   3,L
-   7,L,Z
+   2,R,K
+  14,L,U,X
+   4,L,J
+
+  12,L,U,C
+   4,L,J
+   2,L
+   4,L,Z
    1,L,J
-   6,L
-   1,L,J
-  14,L,Z
-   1,L,J
-  14,L,Z
-   1,L,J
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,D,J
-   5,J
-   1,L,J
-   1,J
-  15,D,X
-   7,R,D
-  51,R,C
-   4,R,Z
+  11,L
+   9,L,J
+   6,J
+
+  14,R,X
+   9,R,D,J
+   6,R,Z
    1,R,J
-   5,R,D
-   2,R,J
-   3,R
-  19,U,Z
-  16,R,D,X
+   8,R
+   1,R,J
+  10,R,D,X
+   4,R,J
+   4,R,K
+  15,R,X
+   2,R
+   1,R,D,K
+  18,R
+   4,R,J
+   4,R,K
+  15,L,U,X
+  15,L,C
+  13
+  18,D,X
+  19,R,U,C
    4,R,J
    7,R,Z
-   6,R,J
-  35,R,D
-  14,R,Z
    1,R,J
+  39,R,D
+  12,R,Z
+   1,R,J
+   2,R
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -180,10 +181,10 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
+  13,R,D,X
    1,R,J
    7,R
-   7,R,J
+   8,R,J
   40
 
 #lvl_4
@@ -344,4 +345,4 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,J
   14,R,U,X
  135
-ChapterTime: 0:57.273(3369)
+ChapterTime: 0:55.743(3279)

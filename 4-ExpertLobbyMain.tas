@@ -2,10 +2,10 @@
 Unsafe
 #This will wipe the debug save!
 #Uncomment at your own peril.
-#console clrsav
+console clrsav
 console load SpringCollab2020/0-Lobbies/4-Expert
 EnforceMaingame
-1
+   1
 
 #Start
 Read,4_Expert_Lobby\start-deskilln,Start
@@ -54,9 +54,9 @@ Read,4_Expert\chaotic-Expert,Start
 Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\chaotic-mineman,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,4_Expert\mineman-Expert,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,4_Expert_Lobby\mineman-thegur90,Start
 Read,EnterLevel,Start,extra frame
@@ -82,6 +82,7 @@ Read,4_Expert_Lobby\indecx-canadian,Start
 Read,EnterLevel,Start,extra frame
 Read,4_Expert\canadian-Expert,Start
 Read,ExitLevel,Start,extra frame
+
 
 Read,4_Expert_Lobby\canadian-heartside,Start
 Read,EnterHeartside
