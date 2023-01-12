@@ -83,64 +83,48 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1
   72,O
 #spinner cycle, 0 for IL
-   0
-   5,L
    1,L,J
-  13,L
-   1
-   1,X
-  73,R
-   1,X
-  18
-  10,L,X
-   8,L,J
-   4,D,X
-  11,L,U,X
-  12,J,G
-   6,K,G
-   1,R,K
-   4,J
-  15,U,X
-  26,L,J
-   1,K,G
-   1,R,K
-   1,J
-   1,K
-  11,L,K
-   1,J,G
-   3,L,J
-   6,J
-   1,R,J
-   1,K
-  12,J
-  10,L,K,G
-   2,L
-   4,J,G
-   2
-   1,K,G
-   1,L
-   1
-   1,L
-   3
-   1,L
-   2,R
-   1
-   2,R
-   5
-   4,D,X
-  11,R,X
-  15,D,C
-   1,L
-   1,D
-   1
-   1,R
-   1
+  14,R,Z
+   1,L,J
    7,L
-  10,R,X
-   4,J
-   2,R,J
+   9,L,D,J
+   4,L
+   1,S,N
+  10,O
+   1,L
+   1,L,J
+
+StunPause
+   2,L,J
+
+   1,L,J
+SkipInput,3,1
+   4,L,U,Z
+
+   2,L,U,Z
+EndStunPause
+   9,L,U,Z
+  10,L,J,G
+   1,K
+  18,U,X
+  26,L,J
+   8,K,G
+   1,R,K,G
+   1,L,K,G
+   1,J
+   7,R,J,G
+   9,L,K,G
+   1,J
+  10,R,J
+   3,R
+  15,R,Z
+  10,R
    1
    2,R
+  10,L,X
+   9,R,J
+   1,J
+   3,R,J
    4,D,X
   11,R,X
    3,R
@@ -177,10 +161,12 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    2,J
    1,L,J
    4,L
-  22,L,K
+#Spinner Cycle: +1f
+  18,L,K
+   4,K
   15,L,U,X
    4,D,C
-   3,L,C
+   4,L,C
    1,L,J
    6,L
    1,L,J
@@ -363,109 +349,38 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    9,J
    1,R,J
    3,J
-
   16,L,K
   16,R,J
   16,L,K
-  11,J,G
+  10,J,G
    1,L,J
-  10,K
-
-  11,R
-  15,R,X
-  34,R,D
-  15,R,X
-  32,R,D
-   4,D,X
-  11,R,X
-  15,R,C
-  21,R,D
-   6,D
-   1,R,D
-   6,D
-   1,R,D
-   9,R,Z
-   1,R,J
-   5,R
-  19,R,D,X
-  12,R,J
-   5,R
-   5,R,J
-   7,R
-  14,R,C
-   1,R,K,G
-  13,R,X
-   7,R,J
-   5,R
+   1,K
+   1,L,J,G
+StunPause
    3,R,J
-  15,R,X
-  14,R
-  15,R,Z
-  14
-
-  25
-   6,J
-   2,R,J
-  13,R
-   2,J
-  22,L,K
    1,J
-
-   7,L,J
-   6,L
-   2,L,J
-   1,L
-   2,L,J
+  10,L,J
+SkipInput,3,1
+  15,U,Z
    4,L
-   4,D,X
-  22,L,X
-  20,L,D,C
-   3,L
-
-  13,L,D,X
-   2,L,J
-   4,D,X
-  17,L,X
-  24,L,C
-  15,L,U,Z
-  15,L,C
-  13,L,D
-  13,L,Z
-  11,L,J
-  16,L,D,X
-   6,L
-  15,L
    4
-   1,L
-  29,L,Z
-   1,L,J,G
-   5,L,K,G
-   1,L
-   1
-   3,L
-   1,L,K
-   2,L
-   6,L
-   1,L,J,G
-  23,L,K,G
+SkipInput,3,1
+  15,U,X
+EndStunPause
+  18,L
+  15,U,X
+  11,L
+  18,R,U,X
+  16,U,C
+  19,R,U,X
+  17,U,C
   14,U,X
-   2,L,J
-   9,L
-   1
-   1,L
-   7,L,J
-   5,L
-   3,L,J
-   4,D,X
-  16,L,X
-  18,U,C
-  18,U,X
-  18,U,C
-  10,U,X
   40
 
 #lvl_OutroRoom
-  14
+   6
+   7,L
+   1
   19,U,X
   25,U,C
    1,J
@@ -485,4 +400,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
   12,R,J
    9,U,X
  135
-ChapterTime: 1:12.063(4239)
+ChapterTime: 1:04.243(3779)

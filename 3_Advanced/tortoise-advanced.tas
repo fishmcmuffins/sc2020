@@ -773,116 +773,80 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,R,J
   14,R
    1,R,J
-   4,R
+   3,R
+   1,L
   40
 
 #lvl_Tortoise_5
-  11,R
+   1,S
+   1,D,J
+  69,O
+   5,R
    1,R,J
-  14,R
+   8,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  23,R,D
-   1,R,J
-  23,R
-   1
-   1,R
-   1
-   1,R
-   1,R,J
-   1,R,K,G
-   5,R,J,G
-   4,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-  14,R
-   1,R,J
-  23,R,D
+  25,R,D
+   8,R
   10,R,J
+   2,R
+   1
    1,R,K,G
-  11,R,J,G
+   1,R,J,G
+  10,R
    9,U,X
    4,L,J
    2,K,G
-   6,L
+   4,L
+   1
+   1,L
    1,R
-  11,R,D,J
-   9,R
-   1,R,J
+   8,R,D,J
    4,R
+   1
+   1,R
+   1,R,K,G
+   1,R,J,G
+   2,J
+   4
    1,R,J
-  14,L,G
+  17,L,G
    1,J
-  22,D
-  13,L,D
+  22,L,D
+   1,L,K,G
    1,L,J,G
-  12,L,K,G
+  21,L,D
    9,U,X
-  16,L,J
-   1,G
+  49,L,J
+   2,G
+
+  27,R,J
+   3,R,K
+  19,R,D
+   1,L,J
+  13,L
+   1,L,J
+  20,L
+  15,L,Z
+  37,R,D
+  20,D
+  10,R,D
+  28,R
+  12,L,Z
    1,R,J
-  24,R,G
-   6,R,D
-  10,R
-   2
-   6,R,J,G
-  20,R
+  12,R,D
    1,R,J
   14,R
-   1,R,J
-  44,R
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  11,L,J
-   7,L
-# <crouch spam>
-   1,R,D
-   1,L,D
-   1,R
-   1,L,D
-   1,R,D
-   1,L
-   1,R,D
-   1,L,D
-   1,R
-   1,L,D
-   1,R,D
-   1,L
-   1,R,D
-   1,L,D
-   1,R
-   1,L,D
-   1,R,D
-   1,L
-# </crouch spam>
-   2,L
-   1,L,J
-  12,L
-   6,U,X
-   5,J
+  12,U,X
+  17,L,J
+  46
+   8,L
+   1,L,D,J
+   2,J
    1,L,K,G
-   8,L,G
-   1,R,J
-  13,R,D
-   4,D
-  19,D,J
-   3,K,G
-   3,R,K
-   1,R,J,G
-   1,R,K,G
-  22,R
-  11,L
-   5,L,D,J
-   2,L
+   3
   10,R,J,G
    1,R,K,G
-  52,R,J,G
+  46,R,J,G
   40
 
 #lvl_BTortoise_Outro
@@ -907,4 +871,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,L,J
   31,R
   39,R,D
-ChapterTime: 2:00.496(7088)
+ChapterTime: 1:59.748(7044)

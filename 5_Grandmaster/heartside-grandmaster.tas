@@ -1,4 +1,4 @@
-RecordCount: 8379
+RecordCount: 8519
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
@@ -238,97 +238,35 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
   23,D
    1,J
   23,D
-   1,J
-  23,D
-   1,J
+   1,L,J
+   4,L,D
   17,D
-   3,L,D
-   3,L,D
-   9
-   6,L,D,X
-   1,R,J
-   6
-   3,R,J
-#It might be possible to
-#skip Error418 if we
-#can get under/over the
-#temple block while
-#preserving our speed,
-#but it's really hard if so
-  15,R,D,X
-  19,R
-   1,J
-   1,R,K,G
-  10,L,K
-   7,L,D
-  60,R,D
-  74,D
-#Error418
-#dashes last 13f instead of 15f
-#jump height is halved
-#2 dashes, 1 midair jump
-  25,D
    2,R,D
-   2,D
-  13,R,D
-   4,R
-  14,R,Z
-  16,R,J
-  12,R,Z
-   2,R,J
+   1,L,J
+  10,J
+  15,D,X
+   7
    1,J
-  19,R,U,X
-   2
-   6,R,X
-  11,R,J
-   1,R
-   1,R,J
-   1,J
-   2
-  16,U,X
-   2,R
-  13,R,U,X
-   2,R
-   6,R,U,X
-  17,R
-  13,R,D,X
-   2,D
+   4,L,K,G
+   5,R,D,X
+   2,R,J,G
+   1,L,K,G
+   7,R
+  28,R,D,X
+StunPause
    4,R,D
-  17,R
-  15,R,D,X
-   3,R
-   1,R,J
-   4,R
-   1,R,J
-  12,R,U,X
-   1,R,J,G
-   1,R
-  36,R,K,G
-  15,L,U,X
-   4,R
-   1,R,J
-  15,R,Z
-   3,R
-  12
-   5,R,D
-   1,R
-   6,J
-   9,R,J
-  13,R,Z
-   1
-   5,R
-   1
-   3,R
-  12,R,Z
-  60,R,J
-  91,R,D
+EndStunPause
+ 169,D
+  10,L,D
+  22,R,D
   40
 
 #lvl_a-02
 #Tripeak Trail
 #Two dashes
-   1,D
-  72,O
+   1,S
+   1,D,J
+  70,O
   12,R
    6,L,D,C
    9,L
@@ -881,79 +819,45 @@ AnalogMode,Precise
   18,R
 #Forest of the Ancients
   14,R,D,X
-  13,R,J
-  34,R,J,G
-   1,R
-  12,U,X
-   3,R,J
-  21,R,G
-   1,L
-  27,L,D
-   5,D
-   3,R,D
-   2,D
-   1,R,D
-   2,D
-   8,R,D
-   1,D
-   2,R,D
-   1,D
-  11,R,D,X
-   1,R,J
-  22,D
-   2,L,D
-   2,D
-   3,L,D
-  10,R,D,X
-   4,L,J
-   2,L
-   1,L,J
-   1,L
-   1,L,J
-  11,L
-   4,L,D
-   3,L,J,G
-   7,L
-  18,L,U,X
-  18,R
-   3,R,K
-   2,R
-   5,U,X
-  14,J
-   2
-  15,R,Z
-   8,L,V
-   1,R,J
-   1
-   7,R
    9,R,J
-   5,R
-   4,R,J
-  16,R,J,G
-  18,R,D,G
-  15,R,G
-   2,R,D,G
-   1,R
-   6,J,G
+  21,R,J,G
+   1,L
+  15,R,D,X
+  25,R
+  37,R,K
+  15,R,U,X
+  14,R
+  15,J
+   4,U,Z
+AutoInput,2
+   1,S,N
+  10,J
+StartAutoInput
+  11,U
+   1,L,K,G
+   4,L,J,G
+   2,J,G
+EndAutoInput
+   1,R,J
+   1,L,K,G
+   6,L,J,G
    1
-  25,L
-  22,R
-  15,U,X
-   5,J
-  10,L,J
-   3,L
-  18,U,Z
-   3,R
+   1
   14,R,U,X
-  24,R,D,G
+  16,G
+   5,R,G
    1,R
-  19,R,D
-  18,R,Z
+   2,R
+   3
+  10,R
+   2
+   2,D
+  18,R,X
    6,R,C
   14,R,J,G
    9,R,G
-  15,D,G
-   3,R,D,G
+  16,D,G
+   2,R,D,G
    8,R,K,G
   26,R,D,G
    1,R
@@ -979,7 +883,8 @@ AnalogMode,Precise
    1,D
   10,U,X
   17,G
-   7,L,G
+   6,L,G
+   1,G
    1,L
    6,L,U,X
    3,R
@@ -1826,4 +1731,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:18.910(15230)
+ChapterTime: 4:08.897(14641)

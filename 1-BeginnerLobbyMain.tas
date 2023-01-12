@@ -9,47 +9,47 @@ EnforceMaingame
 
 #Start
 Read,1_Beginner_Lobby\start-cookie,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\cookie-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\cookie-abby,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\abby-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\abby-lichtbaulb,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\lichtbaulb-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\lichtbaulb-rue,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\rue-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\rue-canadian,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\canadian-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\canadian-dantko,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\dantko-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\dantko-flagpole1up,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\flagpole1up-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\flagpole1up-cruor,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\cruor-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\cruor-ghajestis,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\ghajestis-Beginner,Start
 Read,ExitLevel
 
@@ -59,42 +59,42 @@ Read,1_Beginner\hennyburgr-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\hennyburgr-snas,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\snas-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\snas-itsabrody,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\itsabrody-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\itsabrody-skeleton,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\skeleton-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\skeleton-isagoodfriend,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\isagoodfriend-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\isagoodfriend-cat_in_box,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\cat_in_box-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\cat_in_box-iamdadbod,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\iamdadbod-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\iamdadbod-bissy,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\bissy-Beginner,Start
 Read,ExitLevel
 
 Read,1_Beginner_Lobby\bissy-thegur90,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,1_Beginner\thegur90-Beginner,Start
 Read,ExitLevel
 

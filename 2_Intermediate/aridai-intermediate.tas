@@ -23,11 +23,15 @@ console load SpringCollab2020/2-Intermediate/aridai
    5,R
    2,R,J
    2,R
-  30,R,J
+  28,R,J
+   1,J
+   1,R,J
   12,U,X
-  14,R,J
-  39,R,D
-  18,D
+  13,R,J
+   8,R
+   1,R,J
+  31,R,D
+  17,D
    9,R,D
   40
 
@@ -959,4 +963,4 @@ console load SpringCollab2020/2-Intermediate/aridai
   45,L,D,X
    1,L,J
    2
-ChapterTime: 1:51.962(6586)
+ChapterTime: 1:51.945(6585)

@@ -94,9 +94,9 @@ Read,3_Advanced\jatheplayer-Advanced,Start
 Read,ExitLevel,Start,extra frame
 
 Read,3_Advanced_Lobby\jatheplayer-linjkarma,Start
-Read,EnterLevel
+Read,EnterLevel,Start,extra frame
 Read,3_Advanced\linjkarma-Advanced,Start
-Read,ExitLevel
+Read,ExitLevel,Start,extra frame
 
 Read,3_Advanced_Lobby\linjkarma-ezel,Start
 Read,EnterLevel,Start,extra frame
