@@ -406,27 +406,27 @@ EndStunPause
 StunPause
   32,L,D
 EndStunPause
-  18,L,D
-  15,L,D,X
-  10,L,D
+  37,L,D
 StunPause
-  27,L,D
+  24,L,D
 EndStunPause
-  17,L,D
+  19,L,D
 StunPause
-  21,L,D
-   4,D
-EndStunPause
+  11,L,D
    2,D
+   1,L,D
+   2,D
+SkipInput,3,1
+  15,L,D,X
+EndStunPause
   40
 
 #lvl_7
-  15,D
-   8,L,D
-   6,L
-  10,L,X
+  19,R,D
+  12,L,D
+  11,L,X
   47,L
   45,U,X
   45,L,J
    1,R,K
-ChapterTime: 1:08.833(4049)
+ChapterTime: 1:08.646(4038)
