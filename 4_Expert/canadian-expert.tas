@@ -106,6 +106,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
   15,D,C
   15,D,X
   15,D,C
+   6
   17,R
   10
    5,R
@@ -139,33 +140,32 @@ EndStunPause
   11,L,D,C
    1,L,J
    7,L
-  11,L,J
-   5,L
-   2,R,J
-  18,R,D
-   1,R,J
-   4,R
-   4,L
-   1,L,J
-   2,L
-   1
-   6,L
-   4,L,G
+   4,L,J
+  36,L,G
+   1,L,D,G
+   1,L,G
+   1,L,D,G
+   1,L,G
+   5,L,U,G
    1,L
-   1,L,K,G
    1,L,J,G
    1,L,K,G
-   5,L,U,Z
    1,L,J,G
-   8,L
+   5,L,D,X
+   1,L,K,G
+   6,L
    1,L,J
-  17,L,D,J,X
+   3,L
+   1,L,J
+  15,L,D,J,X
+   2,D,J
   13,L
    4,L,D
   14,L,Z
    1,L,J
    4
-  21,L,J
+   5,J
+  16,L,J
   15,U,X
    6,L,K,G
    7,L
@@ -205,7 +205,7 @@ EndStunPause
    8
    1,L,J,G
   14
-  65,L,G
+  43,L,G
    2,K,G
   15,J,G
   15,U,X
@@ -429,4 +429,4 @@ EndStunPause
   45,U,X
   45,L,J
    1,R,K
-ChapterTime: 1:08.646(4038)
+ChapterTime: 1:08.238(4014)
