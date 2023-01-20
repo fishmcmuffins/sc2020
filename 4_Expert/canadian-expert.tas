@@ -28,62 +28,71 @@ console load SpringCollab2020/4-Expert/CANADIAN
    2,L,J
   16,D,X
    2,L,J
-  15,D,X
-   9,L,D,J
-  15,D
-  15,L,Z
-  19,R,D
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  10,R,C
-   6,R,J
-  17,L,D,X
-   2,J
-  17,D,X
-   2,R,J
-  17,D,X
-   2,R,J
-  19,D,X
-  15,R,D,C
-  15,D,X
-   5,D
-  15,D,X
-  12,R,J
-  15,R,U,X
-   4,R
-   4,J
-   7,R
-   7
-   4,R,D,X
-   1,R,J
-   9,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   4,D,X
-  11,R,X
-  15,D,C
-  15,D,X
-  15,D,C
-  14,U,X
-  15,L,J
-   3,R,J
-  12,R,K
-  11,L,J
-  11,R,K
-  11,L,J
-   4,L,K,G
-   5,K
-   1,L,K
+  10,D,X
+   6,L,J,G
    1,L
-   7
+  13,D
+  15,L,Z
+  20,R,D
+  15,R,X
+  15,R,C
+  15,R,X
+  15,R,C
+  15,R,X
+  11,R,C
+   4,R,J
+  10,L,D,X
+   1,R,J
+   4,R,D
+  15,D,X
+  15,D,C
+   2,R,J
+  15,D,X
+   2,R,J
+  15,D,C
+   3,L,J
+  16,R,D,C
+  12,R,J
+   2,J
+  15,R,X
+   7,R
+   1
+  10,R,J,G
+   7,R
+  15,D,X
+  10
+   8,R,D,X
+   1,R,K
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  15,D,C
+  15,D,X
+  18
+  14,U,X
+  16,L,J
+   2,R,J
+   1,K
+   1,J
+  11,R,J
+   1,K
+  11,L,K
+  11,L,J,G
+   1,L
+   4,K,G
+   4
+   1,L,J,G
+   6,R,J,G
+   2,J,G
+   1,R
+   5
+   1,R
   15,D,X
   15,D,C
   15,D,X
@@ -106,8 +115,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
   15,D,C
   15,D,X
   15,D,C
-   6
-  17,R
+   9,R
   10
    5,R
    1,R,J
@@ -205,7 +213,9 @@ EndStunPause
    8
    1,L,J,G
   14
-  43,L,G
+  45,L,G
+#Lightning Cycle in lvl_6
+   1,L,G
    2,K,G
   15,J,G
   15,U,X
@@ -429,4 +439,4 @@ EndStunPause
   45,U,X
   45,L,J
    1,R,K
-ChapterTime: 1:08.238(4014)
+ChapterTime: 1:08.034(4002)
