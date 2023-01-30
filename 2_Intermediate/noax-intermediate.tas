@@ -77,11 +77,10 @@ console load SpringCollab2020/2-Intermediate/Noax
   15,R,D,X
   12,R
   35,R,X
-   4,R,J
-   1,R,K
-   9,R,X
-   1,R,J,G
-  15
+   5,R,J
+   4,Z
+   1,R,J
+  15,R,D
    4,D,X
   10,R,X
    4,R,J
@@ -248,4 +247,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    7,L
   13,L,U,X
  135
-ChapterTime: 0:40.987(2411)
+ChapterTime: 0:40.902(2406)

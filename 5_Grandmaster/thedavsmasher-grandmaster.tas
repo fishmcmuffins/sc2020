@@ -142,16 +142,18 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   19,R
    9,R,U,X
   27,R,D
-   1,F,115
-  19,F,140
-  11,F,79
-  12,L,U
+   2,F,120
+  10,F,180
+  10,F,120
+   8,F,80
+   5,F,20
+  29,F,309
 StunPause
-  14,L,U
-  26,F,280
+  18,F,309
+   2,L
 EndStunPause
-  11,F,310
-  10,U,X
+  13,L
+   6,U,X
   40
 
 #lvl_Dav_03
@@ -319,4 +321,4 @@ EndStunPause
    8,L,J
   14,U,X
  135,L,D
-ChapterTime: 0:55.386(3258)
+ChapterTime: 0:53.499(3147)

@@ -69,14 +69,26 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    4
    1,R
   10,D,X
-StunPause
-  18,D
-   3,R,D
+Repeat,9
+   1,S,N
+  10,J
+   2,D
+EndRepeat
+   1,S,N
+  10,J
+   2,R,D
+   1,S,N
+  10,J
+   1,R,D
    1,D
-SkipInput,3,1
-  15,R,D,X
-   6,L,D
-EndStunPause
+   1,S,N
+  10,J
+   5,R,D,X
+Repeat,8
+   1,S,N
+  10,J
+   2,L,D
+EndRepeat
    7,L,D
   40
 
@@ -184,11 +196,9 @@ EndStunPause
    1,R,J
    7,R
    9,R,J
-  13,U,Z
-   1,R,J
-   8,R
-   3,R,N
-   1,R
+  12,U,Z
+   2,R,J
+  11,R
    4,D,C
    1,R,J
    7,R
@@ -246,52 +256,47 @@ EndStunPause
    1,R,J
    5,R
    5
-   1,L,J,G
-   1,L
+   2,L,J,G
    4,L,K,G
-   1,L,J,G
-   1
-   8,L,J,G
-   2,R,J
+  12,R,J
    7,R
-   6,L,D,X
+   5,R,Z
+   4,R,J
+   5,R
    1,R,J
-   6,R
+  14,R,D,X
    1,R,J
-   1,R
-   5,R,D,X
-   1,R,J,G
-  14,R
-   1,R,J
-   6,R,D,X
   40
 
 #lvl_bonicle_05
-  13,R
-   1,X
- 127,R,U
+  14,R,D,X
+   1,R,J
+   4,R
+   3
+   1,N
+ 105,U
    1,R,J
   18,R
   15,R,D,X
-   8,D,C
-StunPause
-  12,D
-EndStunPause
+  10,D,C
+Repeat,5
+   1,S,N
+  10,J
+   2,D
+EndRepeat
    8,R,D
   40
 
 #lvlty_bonicle_06
    8,D
-  24,R,D
-  10,R,D,X
+  27,R,D
+   4,R,D,X
    1,R,J
    7,R
-   2,R,J
-   3,R
-   1,R,J,G
-  13,R,U,X
-  87,R,D
+   8,R,J
+  14,R,U,X
+  96,R
    1,D,X
    1,L,J
-  46,L
-ChapterTime: 0:42.772(2516)
+  37,L
+ChapterTime: 0:42.143(2479)
