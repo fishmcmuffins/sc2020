@@ -227,12 +227,13 @@ EndStunPause
    7,R
    3,R,J
   15,R,D,X
-  30,R,J
-  22,R,U,X
-  29
+  27,R,J
+  30,R,U,X
+   4,R
+  23
    2,J
   19,R,J
-  68,L,G
+  62,L,G
    1
    1,K
    1,L,J,G
@@ -344,4 +345,4 @@ EndStunPause
   20,L,D
   15,L,D,X
  135
-ChapterTime: 1:00.724(3572)
+ChapterTime: 1:00.673(3569)
