@@ -419,21 +419,7 @@ EndStunPause
 
 #lvl_Kube_b2
   20,J
-  43,L
-   1
-  33,L,D,C
-   9,R,D
-  77,R,X
-   2,R,D
-   2,L
-   2,L,D
-   2,R
-   2,R,D
-   2,L
-   2,L,D
-   2,R
-   2,R,D
-   2,L
-   2,L,D
-   2,R
-ChapterTime: 1:13.967(4351)
+  43
+  15,R,U,X
+ 125,R
+ChapterTime: 1:13.933(4349)

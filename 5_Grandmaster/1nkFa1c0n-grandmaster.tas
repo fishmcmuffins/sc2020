@@ -121,13 +121,19 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
    3,D,G
    1,R,D,G
    1
-  14,R,D,X
-  26,R,J
-   1,K
-  11,L,K
+  12,R,D,X
+   1,R,J
+   6,R
+   1,R,K
+   2,R
+  15,R,U,Z
+   1,L,J,G
+   1,L,K,G
+   1,L
    1,J,G
-   3,R,J
-  14,L,Z
+   5,L
+   2
+  14,L,D,X
    1,R,J
    5,R,D,X
   13,R,G
@@ -135,10 +141,11 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   20,R,G
    1,R
    3,R,D
-  11,D
+   9,D
+   4,R,D
+   1,D
    1,R,D
-   2,D
-   2,R,D
+   1,D
   14,L,D,X
   21,L,J
   22,U,G
@@ -514,4 +521,4 @@ console load SpringCollab2020/5-Grandmaster/1nkFa1c0n
   10,R,J
    9,U,X
  135
-ChapterTime: 1:09.819(4107)
+ChapterTime: 1:09.632(4096)
