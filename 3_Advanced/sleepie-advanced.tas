@@ -185,9 +185,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
   10,L,K,G
    4,L
   15,R,D,X
-   1,R
-   1,R,D
-   6,D
+   2,R,D
+   5,D
 # idk if skipping this bubble is possible
 # i probably lost more speed than needed
 # up to this point, so you can maybe save
@@ -497,4 +496,4 @@ console load SpringCollab2020/3-Advanced/_sleepie
    7,R
    6,R,C
  135
-ChapterTime: 1:05.977(3881)
+ChapterTime: 1:05.960(3880)
