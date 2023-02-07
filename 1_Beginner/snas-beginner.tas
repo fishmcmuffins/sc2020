@@ -169,12 +169,13 @@ console load SpringCollab2020/1-Beginner/Snas
   40,R,X
   13,U,C
   38,R,U,X
-  19,L
-  14,U,X
+  13,L
+  11,U,X
+   7,L,J
   29,L
-   4
-   4,D,X
-  14,U,X
+   1
+   3,L
+  18,U,Z
    1,R
   15,U,X
   14,L
@@ -209,4 +210,4 @@ console load SpringCollab2020/1-Beginner/Snas
   16
   15,L,U,X
  135,D
-ChapterTime: 0:32.130(1890)
+ChapterTime: 0:32.096(1888)
