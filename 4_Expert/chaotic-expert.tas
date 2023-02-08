@@ -220,22 +220,19 @@ console load SpringCollab2020/4-Expert/ChaotiC
    1,R,J,G
    5,R,K,G
    5,R
-   5,R,J
-   1,R
-   1,R,J
-  18,R
+   6,R,J
+  19,R
    5,L
-   1,L,D
    1,L
-   1,L,D
+   1,L
+   1,L
    1,L
    1,L,J
    1,K
    6,L
   15,R,U,Z
    2,L,J,G
-   1,K,G
-   3
+   2,K,G
    2,R,G
    1,R,J,G
    1,R,K,G
@@ -646,4 +643,4 @@ console load SpringCollab2020/4-Expert/ChaotiC
    7,L
   61,L,D,X
    1,R,J
-ChapterTime: 1:01.982(3646)
+ChapterTime: 1:01.948(3644)
