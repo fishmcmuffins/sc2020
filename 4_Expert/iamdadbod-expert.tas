@@ -5,7 +5,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
   61
 
 #lvl_dad intro room
-   4,D,Z
+   4,R,Z
    1,R,J
   12,R
    1,R,J
@@ -24,8 +24,7 @@ console load SpringCollab2020/4-Expert/iamdadbod
    6,L
    9,R,Z
   12,R,J
-   1
-   8
+   9
   13,R,D,X
   14,R,J
    3,R
@@ -191,19 +190,19 @@ console load SpringCollab2020/4-Expert/iamdadbod
   15,R,J
    5,R,D
   17,R,X
-  16,Z
+  16,R,Z
    1,R,J,G
    2,L,J
    3,L
   15,L,D,X
    3,R,D
-   5,L,D
+   2,L,D
+   3,D
    9,R,Z
    2,R,J
    1,R
-   2,R,J
-  20,R,D
-   6,D
+   1,R,J
+  26,R,D
    4,R,Z
   12,R,J
    5,R,D
@@ -304,4 +303,4 @@ console load SpringCollab2020/4-Expert/iamdadbod
    1,R,J
   13,R,U,X
  135,D
-ChapterTime: 0:49.589(2917)
+ChapterTime: 0:49.572(2916)
