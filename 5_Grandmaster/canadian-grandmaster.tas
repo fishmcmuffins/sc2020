@@ -238,24 +238,18 @@ EndStunPause
    1,K
    1,L,J,G
   29,R,J
-   5,R,G
-#spinner cycle
-   2,R,G
-#
-   2,L,J
-  14,L,D,X
+  25,R,G
+   5,L,D,X
+  14,L,D
+   9,R,D,X
 StunPause
-   2,L,D
-   1,L,D
-SkipInput, 3, 1
-   4,D,X
-  24,R,D
-   1,R,D
-SkipInput, 3, 1
-   4,D,X
-   2,R,K
+   6,R,D,X
+  14,R,D
+SkipInput,3,1
+   4,R,Z
+   1,R,J
 EndStunPause
-   1,R,K
+   1,R
   40
 
 #lvl_CANADIAN_05
@@ -345,4 +339,4 @@ EndStunPause
   20,L,D
   15,L,D,X
  135
-ChapterTime: 1:00.673(3569)
+ChapterTime: 1:00.027(3531)
