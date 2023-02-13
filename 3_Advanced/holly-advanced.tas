@@ -419,18 +419,18 @@ console load SpringCollab2020/3-Advanced/Holly
 #lvl_Holly_06
   10,L
   19,L,J
-   4,D,X
-  12,U,X
-   4,L,J
-   1,R,J
-  14,L,J
-  12,L,K,G
-  12,L,J,G
-  12,L,K,G
-   5,L,J,G
+  14,U,Z
+   6,J
+   1
+   1,L,K,G
    7,L
    8,L,J
+  16,U,X
+  12,L,K,G
+  11,L,J,G
+   7,L
+   9,L,J
    8,K,G
   16,U,X
  135
-ChapterTime: 0:48.824(2872)
+ChapterTime: 0:48.790(2870)
