@@ -45,7 +45,13 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 192 160
    7,R,J
   19,R
   14,R,U,X
-   3,R,J,G
-  20,R
+   4,R,J,G
+  19,R
+   5,R,Z
+   1,L,J
    1,X
-#4.913
+#0:04.964(292)
+
+#xpos < 1340.50
+#after coming to rest
+#for exit warp

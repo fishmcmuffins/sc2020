@@ -322,9 +322,9 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    1,F,22,0.6
    7,R
    8,R,X
-  13
-   2,L
-  17,L,U,X
+  10
+   6,L
+  15,L,U,X
   59
   27,L
   39,F,262
@@ -372,4 +372,5 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   94,R,D
    1,D,X
   40,R,J
-ChapterTime: 0:51.782(3046)
+
+ChapterTime: 0:51.765(3045)

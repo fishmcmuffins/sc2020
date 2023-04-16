@@ -25,7 +25,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R
    1,R,J
    8,R,D
-   5,F,180
+   5,F,179.99999
    1,F,159.7
   10,F,0.01
    5,U
@@ -45,10 +45,10 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,J,G
    1,J
   30,R,D
-   6,F,180
+   6,F,179.99999
    1,F,170.41
    1,F,165.53
-   1,F,180
+   1,F,179.99999
   18,F,23.49
  159,R
    1,F,82.82
@@ -316,7 +316,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
 
 #lvl_2
   22,R,D
-  23,F,180
+  23,F,179.99999
    5,F,172.97
    1,F,163.2
    1,F,152.89
@@ -541,9 +541,9 @@ console load SpringCollab2020/1-Beginner/itsabrody
 #lvl_3
    1
   20,R,D
-  17,F,180
+  17,F,179.99999
    1,F,170.41
-   7,F,180
+   7,F,179.99999
   14,F,0.01
    1,R
    1,F,43.04
@@ -787,7 +787,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,L,D
   21,D
    2,F,135,0.29
-  20,F,180
+  20,F,179.99999
    1,F,159.63,0.3
    9,F,1
    1,F,84.68,0.29
@@ -906,7 +906,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    9,R
    3,R,J
   10,R,D
-  12,F,180
+  12,F,179.99999
    1,F,1
    1,R
    1,F,1
@@ -987,10 +987,10 @@ console load SpringCollab2020/1-Beginner/itsabrody
   12,R
    1,R,J
   22,R,D
-   3,F,180
+   3,F,179.99999
    1,F,170.41
    1,F,165.53
-   3,F,180
+   3,F,179.99999
    1,F,165.86
    7,R
   34,F,88.36
@@ -1049,7 +1049,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,K
    1,R,J
   16,R,D
-   9,F,180
+   9,F,179.99999
    6,R
   14,F,107.27
    2,R

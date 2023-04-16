@@ -5,7 +5,7 @@ console load SpringCollab2020/3-Advanced/NeoKat
   76
 
 #Spinner Cycle
-   2
+   1
 
 #lvl_1
    4,R,Z
@@ -152,17 +152,16 @@ console load SpringCollab2020/3-Advanced/NeoKat
   15,L,D,X
    1,L,J
    6,J
-   3
-StunPause
    4
+StunPause
+   3
    2,L,J
    1,J
    1,L,J
    4,K,G
    1,L,J
-   1,L
 EndStunPause
-   2,L
+   3,L
    1,R
    2
    9,R
@@ -212,13 +211,13 @@ EndStunPause
   15,U,X
   22,L,J
 #spinner cycle 2
-   3
+   1
 
   12,L,K,G
    3,L,J,G
    8,R,K
   12,R,J,G
-   5,R,K,G
+   6,R,K,G
   40
 
 #lvl_4
@@ -389,4 +388,4 @@ EndStunPause
    1,L,J
    1,L,K
   36,L,J
-ChapterTime: 0:40.460(2380)
+ChapterTime: 0:40.239(2367)

@@ -348,7 +348,7 @@ SkipInput,3,1
    1,R,J
    1,J
    3
-   5,R
+   4,R
 EndStunPause
    4,R,D
   10,L,D,X
@@ -366,9 +366,9 @@ EndStunPause
    1,R
    2
   19,U,X
-  22,J
+  21,J
   15,U,X
-  11,L
+  10,L
    4,U,Z
 StunPause
    6,U,Z
@@ -394,4 +394,4 @@ EndStunPause
   11,R,J
   14,R,U,X
  135,D
-ChapterTime: 0:57.086(3358)
+ChapterTime: 0:57.035(3355)

@@ -1,10 +1,9 @@
-RecordCount: 8611
+RecordCount: 8644
 console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
    1
 
 #Start
  190
-
 #lvl_a-00
 #Intro-1
    9,L,J
@@ -251,6 +250,7 @@ console load SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide
 StunPause
    4,R,D
 EndStunPause
+
  167,D
   10,L,D
   23,R,D
@@ -810,22 +810,22 @@ AnalogMode,Precise
   15,R,U,X
   14,R
   15,J
-   4,U,Z
+   7,U,Z
 AutoInput,2
    1,S,N
   10,J
 StartAutoInput
-  11,U
+   8,U
    1,L,K,G
    4,L,J,G
-   2,J,G
 EndAutoInput
+   2,J,G
    1,R,J
    1,L,K,G
    6,L,J,G
    1
    1
-  14,R,U,X
+  13,R,U,X
   16,G
    5,R,G
    1,R
@@ -838,8 +838,7 @@ EndAutoInput
    6,R,C
   14,R,J,G
    9,R,G
-  16,D,G
-   2,R,D,G
+  18,D,G
    8,R,K,G
   26,R,D,G
    1,R
@@ -1713,4 +1712,4 @@ endrepeat
    2,J
   16,U,X
  135
-ChapterTime: 4:06.330(14490)
+ChapterTime: 4:05.939(14467)

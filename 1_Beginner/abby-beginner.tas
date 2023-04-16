@@ -3,7 +3,6 @@ console load SpringCollab2020/1-Beginner/Abby
 
 #Start
   61
-
 #lvl_Jude_00
    2,R,J
    4,D,X
@@ -146,11 +145,11 @@ console load SpringCollab2020/1-Beginner/Abby
    4
   31,R
   17,R
-  38
-  21,R,U,Z
-  46,R
+  37
+  21,R,U,X
+  47,R
   15,R,D,X
-  20,L,D
+  19,L,D
   41
    3
   13,R,Z
@@ -211,4 +210,4 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L,J,G
    1,L,K,G
   53,L,J,G
-ChapterTime: 0:52.377(3081)
+ChapterTime: 0:52.360(3080)

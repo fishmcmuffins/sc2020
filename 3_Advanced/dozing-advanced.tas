@@ -120,7 +120,6 @@ console load SpringCollab2020/3-Advanced/Dozing
   10,R,K,G
   40
 
-
 #lvl_Dozing_04
    2,R,J
   16,R,D,X
@@ -151,22 +150,18 @@ console load SpringCollab2020/3-Advanced/Dozing
   11,R,J
    7,R
    1,R,J
-  23,R,D
-  14,R,X
+  22,R,D
+  14,R,Z
    4,R,J
    1,R,K
   24,R,D
-   6,D
-   5
-   1,D
-   4,D,X
-  11,R,X
+  12,D
+  15,R,Z
   14,R,U,C
    1,R,J,G
    1,L,J
    7,R
-   4,D,X
-  10,R,X
+  14,R,Z
   31,R,J
   32,U,X
   15,R,C
@@ -191,8 +186,7 @@ console load SpringCollab2020/3-Advanced/Dozing
   15,U,C
    1,L
    8,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
   22,R,J
    3,J
    1,R,J
@@ -278,8 +272,7 @@ console load SpringCollab2020/3-Advanced/Dozing
    4,R,J
   22,R,K
   45,U,X
-   4,D,C
-  10,R,C
+  14,R,Z
   19,R,J
   10,R
   25,D
@@ -287,22 +280,18 @@ console load SpringCollab2020/3-Advanced/Dozing
    9,D
   12,R,D
   12,R,D,X
-  37
-   2
-   3
+  42
   14,U,X
    2,R,J
   28,R,D
   37
-   1
   14,U,X
-  14,L,J
+  15,L,J
   37
   25,R,X
-   4,D,C
-   7,R,C
-  19,R,J
-  45,R,X
+  14,R,Z
+  16,R,J
+  44,R,Z
    4,R,J
   11,U,C
    6,R,J
@@ -318,12 +307,11 @@ console load SpringCollab2020/3-Advanced/Dozing
    6,R
   15,U,X
   10,R
-   4,D,X
+   4,L,Z
    5,L,J
   11,L
-  41
-   4,D,X
-  10,L,X
+  40
+  14,L,Z
   16,L,J
   11,L
    4,D,X
@@ -336,8 +324,7 @@ console load SpringCollab2020/3-Advanced/Dozing
   18,U,C
   15,U,X
   14,U,C
-  37
-   9
+  46
   14,U,X
  157
   40
@@ -357,4 +344,4 @@ console load SpringCollab2020/3-Advanced/Dozing
    6,R,J
   12,R,X
  135,R,D
-ChapterTime: 1:00.214(3542)
+ChapterTime: 1:00.163(3539)

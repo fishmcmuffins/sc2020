@@ -305,14 +305,16 @@ console load SpringCollab2020/1-Beginner/Bissy
 
 #lvl_Bissy_05
    1,R,J
-  10,R,D,X
+  13,R,D,X
    1,R,J
    7,R
-  13,R,J
-   6,R,K,G
-  51,R
+   1,R,J
+  12,R,U,X
+   5,R,K,G
+  20,R
+   1
+  31,R
    2,L
-   1,R
    1,R,J,G
    1,R,K,G
    4,L,K,G
@@ -325,4 +327,4 @@ console load SpringCollab2020/1-Beginner/Bissy
   13,J
   18,U,X
  135
-ChapterTime: 0:43.911(2583)
+ChapterTime: 0:43.894(2582)

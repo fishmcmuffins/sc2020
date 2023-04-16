@@ -1,11 +1,11 @@
 console load SpringCollab2020/5-Grandmaster/CANADIAN
    1
 
-#Spinner Cycle
-   0
-
 #Start
  190
+
+#Spinner Cycle
+   1
 
 #lvl_CANADIAN_00
   10,R,Z
@@ -27,7 +27,7 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
    2,R,J
    5,R
    3,R,J
-  13,G
+  13,R,G
    8,R,G
    1,L
   15,R,D,X
@@ -185,9 +185,9 @@ console load SpringCollab2020/5-Grandmaster/CANADIAN
   16,R,D,X
    4,R,J
   15,R,D,X
-   5,R
+   7,R
 StunPause
-   4,R
+   2,R
    2,R,D,K
    5,R
    3,R,J
@@ -334,9 +334,9 @@ EndStunPause
 StunPause
   50,R,D
 EndStunPause
-  61,R,D
+  63,R,D
   90,D
-  20,L,D
-  15,L,D,X
+  18,L,D
+   5,L,D,X
  135
-ChapterTime: 1:00.027(3531)
+ChapterTime: 0:59.857(3521)
