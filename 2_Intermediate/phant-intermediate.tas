@@ -217,14 +217,15 @@ EndStunPause
    1,R,J,G
    1,R,K,G
    7,R
-  24,R,J
+  23,R,J
   15,R,D,X
-  18,R
+  15,R,D,C
+   7,R
   40
 
 #lvl_phant-end
-   9,R
+   8,R
    1,R,J
   10,R,U,X
  135
-ChapterTime: 0:30.668(1804)
+ChapterTime: 0:30.651(1803)
