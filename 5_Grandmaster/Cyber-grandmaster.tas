@@ -12,19 +12,23 @@ console load SpringCollab2020/5-Grandmaster/Cyber
   40
 
 #lvl_Cyber_01
-   9,R,J
+   3,R,J
+   7,R
   15,R,U,X
-  24,R,D
+  23,R,D
    3,R
   18,R,D,X
-  19,R,J
-  13,R
-   5,D
-   9,R,D
-   4,D,X
-   1,R,X
+  11,R,J
+   9,R
+   1,R,J
+  12,R,D
+   4,D
+   2,R,D
+   3,R
+   4,R,D
+   5,R,Z
    9,R,J
-  16,R
+  14,R
    4,D,X
   11,R,U,X
    1,L,K,G
@@ -33,7 +37,7 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    3,R,J,G
   15,R
    1,R,J
-   9,R
+   8,R
   24,R,X
    1
   22,L,C
@@ -41,19 +45,13 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    7,L
    2,L,J
   18,L,D
-   8,D
-   2
-   1,L
-   1,L,D
-   1,L
+  13,D
   15,R,Z
   20,L
    4
   15,R,Z
   11
-   5,R
-   1
-   1,R
+   7,R
    7,R,J
   15,R,Z
   10,R
@@ -86,8 +84,7 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    1,R,J,G
    1,R,K,G
    7,R
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -116,8 +113,7 @@ console load SpringCollab2020/5-Grandmaster/Cyber
    4,J
    1,R,J
    8,J
-   5,R,J
-  12,R,J
+  17,R,J
   14,R,D
    6,R
   10,L,D,X
@@ -386,24 +382,26 @@ EndRepeat
    3,R,J,G
    6,R,D,X
   13,G
-  11,R,J,G
+  12,R,J,G
+   6,R,G
+   3,R,J,G
    5,R,G
-   6,R,J,G
-   7,R,G
    2,R,K,G
-  22,R,D,G
+   6,R,G
+   1,R,J,G
+  17,R,D,G
   11,R,J,G
    8,R,G
    1,R,K,G
    5,R,G
    1,R
-  15,L,D,X
-  14
+  16,L,D,X
+  13
 repeat,6
    2,R,D
    2,L,D
 endrepeat
-   2,R,D
+   1,R,D
    3,R
    9,L,Z
    1,R,J
@@ -414,4 +412,4 @@ endrepeat
    1,L,J
   31,L,D,X
   76,R
-ChapterTime: 0:54.876(3228)
+ChapterTime: 0:54.791(3223)
