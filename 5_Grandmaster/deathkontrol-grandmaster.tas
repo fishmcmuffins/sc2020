@@ -1,6 +1,5 @@
 console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1
-
 #Start
  190
 
@@ -135,61 +134,50 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1,J
    1,L,K,G
    1,R,K
+stunpausemode simulate
    6,R
-   6,R,K
+   4,R,K
   12,U,X
-  27,L,D
-   9,F,190
-   5,F,225
-  44,F,257
-  15,D,X
-  68,L,D
-   4,D,X
-  13,L,X
-   1,L,J,G
-   5,L,J
-   5,L
-   1,L,J
-   8,J
-   7
+  45,F,178
+   8,R,X
+  37,D
+  72,G
+   4,U,G
+   5,J
    5,R
-  12,L,G
+   1,R,J
+  17,R
+   1,R,J
+  21,L,D,X
+  19,D
+  10,R
+   4,L,G
    1
    1,J
    1,L,K,G
-  10,R,K
-   4,D,X
-   6,L,X
-   2,R,J
-   5,R
-  11,R,J
-   4,D,X
-  10,R,U,X
-  13,R,J,G
-   1,K
-  12,J
-   4,L,J
-  30,R,X
+  14,R,D
+  12,D
+   4
+  18,R,Z
+  34,R,X
    4,R,J
    9,R,K
    8,R,G
    1,R,J,G
    4,L,J
-   6,R,J
-   1,R,K,G
-   2,R,J,G
+   7,R,J
+  10,R
+stunpause
+   7,R
+skipinput,3,1
+  13,R,Z
+skipinput,3,1
+   4,R,K
+   1,R,J
+   2,R
+endstunpause
    3,R
-  30,R,D,X
-  21,L,D,C
-   5,D,X
-  27,R,U
-   1,F,45
-  31,F,89
-   8,F,45
-  22,F,20
-   4,F,45
-  16,F,63
-  25,R,X
+  24,R,X
    4,R,J
    1,R,K
   15,R,D,X
@@ -202,8 +190,8 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1,R,J
    6,R,K
    5,R
-   2,R,K
-   4,R
+   1,R,K
+   5,R
   12,R,J
   15,R,D,X
    8,R,J
@@ -476,4 +464,4 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    6,R
   12,U,X
  135
-ChapterTime: 1:12.981(4293)
+ChapterTime: 1:12.913(4289)
