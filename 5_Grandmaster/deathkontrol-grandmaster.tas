@@ -2,7 +2,8 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1
 #Start
  190
-
+#spinner cycle
+   0
 #lvl_a-00
    4,D,X
   10,R,X
@@ -134,13 +135,13 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1,J
    1,L,K,G
    1,R,K
-stunpausemode simulate
    6,R
    4,R,K
   12,U,X
   45,F,178
    8,R,X
   37,D
+***s
   72,G
    4,U,G
    5,J
