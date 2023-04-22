@@ -190,10 +190,11 @@ Set,SuperDashing,false
   17,L,J,G
    1,L
   16,U,X
-  21,R,J
-  11,L,U,X
-   6,R
-  12,L,Z
+  19,R,J
+   4,J
+  12,L,U,X
+   4,R
+  10,L,Z
   24,R,J
    8,R
    2,R,D
@@ -231,7 +232,7 @@ Set,SuperDashing,false
    5,R
    5,J
    1,R
-  31
+  32
    1,L
    1
    5,R
@@ -612,6 +613,7 @@ AnalogMode,Precise
   31,F,45
    5,R,U,X
   18
+stunpausemode simulate
    5,R,X
   22
    5,R,X
