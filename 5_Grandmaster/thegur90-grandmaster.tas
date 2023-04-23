@@ -1,11 +1,12 @@
-console clrsav
+#console clrsav
 
 console load SpringCollab2020/5-Grandmaster/Thegur90
    1
 
 #Start
   33
-
+#lightning cycle
+   1
 #lvl_TheHeck90_Intro
    4,Z
    1,R,J
@@ -195,22 +196,18 @@ EndRepeat
    2,R,J
    2,K
    2,R,K
-   1,K
-   4,D,X
-   6,R,X
+  10,R,Z
    4,R,J
    1,R
-   1,J
+   1,R,J
    3,R,J
   15,R,U,Z
   90,R,J
   67,D
   12,J
   30,U,G
-   7,J,G
-   1,K
-   3,J,G
-   5,L,J
+   8,J,G
+   8,L,K
   14,L,D,X
   12,L,J
    5,L
@@ -240,7 +237,7 @@ EndRepeat
    6,L,J
    5,L
    2,L,J
-  11,L
+  10,L
   15,U,X
   10,R,Z
    8,R,J
@@ -313,7 +310,7 @@ EndRepeat
    1,R
    1,N
   15
-  72,U
+  70,U
    1,J
   19
    8,L,X
@@ -326,7 +323,6 @@ StunPause
    1,J,G
    1,R,K,G
    8,R
-
    2,R,J
 EndStunPause
    1,R,J
@@ -394,4 +390,4 @@ EndStunPause
   11,R,J
   14,R,U,X
  135,D
-ChapterTime: 0:57.035(3355)
+ChapterTime: 0:56.984(3352)
