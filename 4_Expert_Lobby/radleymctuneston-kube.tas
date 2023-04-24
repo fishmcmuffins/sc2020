@@ -30,11 +30,16 @@ console load SpringCollab2020/0-Lobbies/4-Expert 1160 1008
    1,L,J,G
    9,L
    2,L,J
-   4,D,X
-   2,L,X
+   6,L,Z
    1,L,J
    7,L
    3,L,J
-  15,L,C
+  12,L,Z
+   1,L,J
+   7,L
    1,X
-#3.757
+#0:03.842(226)
+
+#assumes that entry stops
+#with xpos < 931.50
+#for exit warp

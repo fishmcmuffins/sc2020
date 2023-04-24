@@ -1,0 +1,52 @@
+#assumes that entry stops
+#with xpos < 931.50
+#for exit warp
+
+console load SpringCollab2020/0-Lobbies/4-Expert 768 1136
+   1
+
+#Start
+  36
+
+#lvl_1
+   5,R
+  16,R,J
+  15,U,X
+  12,L,J
+   6,R
+   4,R,J,G
+   2,K,G
+   1,R,J,G
+   1,R,K,G
+  12,R
+   3,R,K
+   8,R,J,G
+  17,R,K,G
+  20,R,U,X
+  19,R,C
+  12,J,G
+   3,K,G
+  12,L,J
+  16,U,X
+  11,L,J,G
+   7,L
+   4,L,Z
+   1,L,J
+   3,L,D
+  20,D
+   4
+   6,L,X
+  10,L,J
+   5,L
+   1,L,J
+   4,L
+   1,L,J
+   4,L
+   4,L,Z
+   1,L,J
+   1,X
+#0:04.199(247)
+
+#xpos < 695.50
+#after coming to rest
+#for exitwarp

@@ -1,0 +1,46 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 1280 248
+   1
+
+#Start
+  36
+
+#lvl_1
+   2,L,J
+   4,L
+  18,L,U,X
+  22,L,D,C
+   6,L
+  15,L,U,X
+  34,L,D
+   7,L,J
+  15,L,D,X
+  85,R,D
+  14,R,D,X
+   2,R,J
+  15,R,D,X
+   1,R,J
+   3,R
+  15,L,D,X
+   1,L
+   1,L,D
+   1,L
+  10,R,D
+   1,L,D
+   5,R,D
+   5,D
+  18,R,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
+  15,R,D,X
+   5,R
+   8,R,J
+  16,R
+   1,X
+#0:05.797(341)
+
+
+#xpos > 1577.50
+#after coming to rest
+#for exitwarp
