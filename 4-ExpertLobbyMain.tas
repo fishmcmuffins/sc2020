@@ -8,52 +8,7 @@ EnforceMaingame
    1
 
 #Start
-Read,4_Expert_Lobby\start-deskilln,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\deskilln-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\deskilln-deathkontrol,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\deathkontrol-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\deathkontrol-kube,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\kube-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\kube-radleymctuneston,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\radleymctuneston-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\radleymctuneston-mun,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\mun-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\mun-zerex,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\zerex-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\zerex-dahlukeh,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\dahlukeh-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\dahlukeh-lethargicdoggo,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\lethargicdoggo-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\lethargicdoggo-chaotic,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\chaotic-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\chaotic-mineman,Start
+Read,4_Expert_Lobby\start-mineman,Start
 Read,EnterLevel,Start,extra frame
 Read,4_Expert\mineman-Expert,Start
 Read,ExitLevel,Start,extra frame
@@ -83,7 +38,52 @@ Read,EnterLevel,Start,extra frame
 Read,4_Expert\canadian-Expert,Start
 Read,ExitLevel,Start,extra frame
 
+Read,4_Expert_Lobby\canadian-lethargicdoggo,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\lethargicdoggo-Expert,Start
+Read,ExitLevel,Start,extra frame
 
-Read,4_Expert_Lobby\canadian-heartside,Start
+Read,4_Expert_Lobby\lethargicdoggo-dahlukeh,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\dahlukeh-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\dahlukeh-mun,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\mun-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\mun-zerex,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\zerex-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\zerex-deathkontrol,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\deathkontrol-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\deathkontrol-radleymctuneston,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\radleymctuneston-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\radleymctuneston-kube,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\kube-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\kube-chaotic,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\chaotic-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\chaotic-deskilln,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\deskilln-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+
+Read,4_Expert_Lobby\deskilln-heartside,Start
 Read,EnterHeartside
 Read,4_Expert\heartside-Expert,Start
