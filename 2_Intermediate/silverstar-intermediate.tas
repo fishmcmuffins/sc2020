@@ -157,9 +157,10 @@ EndStunPause
    1,L,J
    4,L
 #Spinner Cycle: 22LK 7LZ for 0, 18LK 4K 8LZ for 1, 16LK 6LK 9LZ for 2
-  22,L,K
+  16,L,K
+   6,K
   15,L,U,X
-   7,L,Z
+   9,L,Z
 #
    1,L,J
    6,L
@@ -350,8 +351,9 @@ EndStunPause
    1,L,J
    1,K
    1,L,J,G
+   1,R,J
 StunPause
-   3,R,J
+   2,R,J
    1,J
   10,L,J
 SkipInput,3,1
@@ -359,8 +361,9 @@ SkipInput,3,1
    4,L
    4
 SkipInput,3,1
-  15,U,X
+  13,U,X
 EndStunPause
+   2,U,X
   18,L
   15,U,X
   11,L
@@ -394,4 +397,4 @@ EndStunPause
   12,R,J
    9,U,X
  135
-ChapterTime: 1:04.192(3776)
+ChapterTime: 1:04.039(3767)
