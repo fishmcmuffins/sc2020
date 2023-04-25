@@ -83,27 +83,22 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    1
   72,O
 #spinner cycle, 0 for IL
+   0
    1,L,J
-  14,R,Z
+  12,R,Z
    1,L,J
-   7,L
+   5,L
+   2
    9,L,D,J
-   4,L
-   1,S,N
-  10,O
-   1,L
-   1,L,J
-
+   3,L
 StunPause
-   2,L,J
-
+   2,L
+   3,L,J
    1,L,J
 SkipInput,3,1
-   4,L,U,Z
-
-   2,L,U,Z
+   5,L,U,Z
 EndStunPause
-   9,L,U,Z
+  10,L,U,Z
   10,L,J,G
    1,K
   18,U,X
@@ -161,12 +156,11 @@ EndStunPause
    2,J
    1,L,J
    4,L
-#Spinner Cycle: +1f
-  18,L,K
-   4,K
+#Spinner Cycle: 22LK 7LZ for 0, 18LK 4K 8LZ for 1, 16LK 6LK 9LZ for 2
+  22,L,K
   15,L,U,X
-   4,D,C
-   4,L,C
+   7,L,Z
+#
    1,L,J
    6,L
    1,L,J
@@ -400,4 +394,4 @@ EndStunPause
   12,R,J
    9,U,X
  135
-ChapterTime: 1:04.243(3779)
+ChapterTime: 1:04.192(3776)
