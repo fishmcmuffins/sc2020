@@ -630,7 +630,6 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
    5,J
    6
   10,R
-
    1,R,G
   10,R,D
    4,D
@@ -641,21 +640,23 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   33,R,J
   15,R,X
    2,R
-   9,R,Z
+   6,R,Z
    1,R,J
    7,R
    1,R,J
+   6,R,D,X
   40
 
 #lvl_beg_heart_06
-  14,R,D,X
-   3,R,J
+   8,R,D,X
+   4,R,J
   12,R,D,C
    8,R,D
    1,R,J
-  18,R,D,X
+  20,R,D,X
+   3,R
   15,R,C
-  15,R
+   9,R
   20,R
   15,U,Z
    4
@@ -848,4 +849,4 @@ console load SpringCollab2020/1-Beginner/ZZ-HeartSide
   12,R
   14,R,U,X
  135,R,D
-ChapterTime: 2:00.819(7107)
+ChapterTime: 2:00.768(7104)
