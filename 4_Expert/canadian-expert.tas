@@ -389,25 +389,19 @@ EndStunPause
   40
 
 #lvl_6
-  11,L,D,X
-   4,D,C
-   2,L,J
-   3,L
-   3
-   2,L
    1,L,J
-   9,L,D,X
-   8,L,J
-   4,L
-   4
-  11,D
-   3
-   4,D,X
-   4,L,X
+   7,L
+   1,L,J
+  14,L,D,X
+  10,L,J
+  11,L,D
+   6,D
+   6
+   7,L,Z
    1,R
    1,K,G
    1,L,K
-   2,K
+   3,K
   12,R,J,G
   12,R,K,G
    3,J
@@ -439,4 +433,4 @@ EndStunPause
   45,U,X
   45,L,J
    1,R,K
-ChapterTime: 1:07.932(3996)
+ChapterTime: 1:07.830(3990)
