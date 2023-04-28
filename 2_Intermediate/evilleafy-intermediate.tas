@@ -298,31 +298,28 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   16,F,293
    4,F,270
    6,F,309
-   9,F,322
-   6,R,U,X
-  27,R,U
-   8,F,90
-  58,F,96
-   2,F,99
+   5,F,326.6
+  55,F,90
+  37,F,92.4
    6,F,90
-   7,F,58
-   6,F,26
+   8,F,58
+   5,F,26
   14,F,7
    1,F,3
    6,F,
    6,F,328
-  27,F,314
+  28,F,314
    6,F,346
    9,F,10
-   2,F,18
-   6,F,50
+   2,F,20
+   6,F,59
    5,F,74
    6,F,42
   11,F,23.1
    1,F,22,0.6
    7,R
-   8,R,X
-  10
+   9,R,X
+   9
    6,L
   15,L,U,X
   59
@@ -373,4 +370,4 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    1,D,X
   40,R,J
 
-ChapterTime: 0:51.765(3045)
+ChapterTime: 0:51.612(3036)
