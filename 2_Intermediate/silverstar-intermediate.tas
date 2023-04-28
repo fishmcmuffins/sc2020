@@ -359,19 +359,20 @@ StunPause
 SkipInput,3,1
   15,U,Z
    4,L
-   4
+   1
 SkipInput,3,1
-  13,U,X
+  15,U,X
 EndStunPause
-   2,U,X
   18,L
   15,U,X
-  11,L
+  12,L
+   1
   18,R,U,X
-  16,U,C
-  19,R,U,X
-  17,U,C
-  14,U,X
+  15,U,C
+   1,R
+  21,R,U,X
+  20,U,C
+  11,U,X
   40
 
 #lvl_OutroRoom
@@ -397,4 +398,4 @@ EndStunPause
   12,R,J
    9,U,X
  135
-ChapterTime: 1:04.039(3767)
+ChapterTime: 1:03.869(3757)
