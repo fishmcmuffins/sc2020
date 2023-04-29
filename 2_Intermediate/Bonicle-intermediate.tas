@@ -69,27 +69,15 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    4
    1,R
   10,D,X
-Repeat,9
-   1,S,N
-  10,J
+stunpause
+  18,D
+   3,R,D
    2,D
-EndRepeat
-   1,S,N
-  10,J
-   2,R,D
-   1,S,N
-  10,J
-   1,R,D
-   1,D
-   1,S,N
-  10,J
+skipinput,3,1
    5,R,D,X
-Repeat,8
-   1,S,N
-  10,J
-   2,L,D
-EndRepeat
-   7,L,D
+  13,L,D
+endstunpause
+   9,L,D
   40
 
 #lvl_bonicle_02
@@ -103,7 +91,8 @@ EndRepeat
   16,R,X
   15,R,D,C
    1,L,D
-  12,R,D
+  10,R,D
+   2,R
   19,R
   15,R,D,X
    8,R
@@ -275,15 +264,15 @@ EndRepeat
    3
    1,N
  105,U
+#lightning cycle
+   1
    1,R,J
   18,R
   15,R,D,X
   10,D,C
-Repeat,5
-   1,S,N
-  10,J
-   2,D
-EndRepeat
+stunpause
+  10,D
+endstunpause
    8,R,D
   40
 
@@ -299,4 +288,4 @@ EndRepeat
    1,D,X
    1,L,J
   37,L
-ChapterTime: 0:42.143(2479)
+ChapterTime: 0:41.973(2469)
