@@ -136,14 +136,17 @@ console load SpringCollab2020/5-Grandmaster/DeathKontrol
    1,J
    1,K,G
    8
-  13,U,X
-  44,F,160
+  15,U,Z
+  39,F,157
    6,R,X
   34,D
-   4
-  22,G
+   3,D
+  21,G
    2,D,G
-  48,G
+   1,U,G
+   1,G
+   1,U,G
+  47,G
    3,U,G
    5,R,J
    5,R
@@ -467,4 +470,4 @@ endstunpause
    6,R
   12,U,X
  135
-ChapterTime: 1:12.148(4244)
+ChapterTime: 1:12.097(4241)
