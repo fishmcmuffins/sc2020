@@ -5,7 +5,7 @@ console load SpringCollab2020/4-Expert/Bissy
   96
 
 #lightning cycle   
-   2
+   1
 #lvl_Bissy_00
    7,R,J
    3,J
@@ -16,16 +16,16 @@ console load SpringCollab2020/4-Expert/Bissy
    5,R,D,X
    1,R,J
    7,R
-  20,R,J
-   4,D,X
-   7,R,U,X
-  32,R,J
+   9,R,J
+   9,R
+  14,R,U,Z
+  28,R,J
   24,R,U,X
-   7,R,Z
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   5,R,D,X
+   6,R,D,X
    1,R,J
    7,R
   40
@@ -304,4 +304,4 @@ EndStunPause
    9,L,K,G
   14,L,U,X
  135,R,D
-ChapterTime: 0:43.639(2567)
+ChapterTime: 0:43.588(2564)
