@@ -4,6 +4,8 @@ console load SpringCollab2020/4-Expert/Bissy
 #Start
   96
 
+#spinner cycle   
+   2
 #lvl_Bissy_00
    7,R,J
    3,J
@@ -19,18 +21,19 @@ console load SpringCollab2020/4-Expert/Bissy
    7,R,U,X
   32,R,J
   24,R,U,X
-   4,D,C
-   3,R,C
+   7,R,Z
    1,R,J
    6,R
-   5,R,J
-   9,R,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J
+   7,R
   40
 
 #lvl_Bissy_01
-   5,R,D,X
-   1,N
-   3,L,J
+   4,R,D
+   1,R,N
+   3,R,J
    6,R,Z
    1,R,J
    1
@@ -126,9 +129,9 @@ console load SpringCollab2020/4-Expert/Bissy
    1,R,J
    4,R
    1,R,J
-   1,R
-StunPause
    3,R
+StunPause
+   1,R
 SkipInput,3,1
   15,R,X
   11,R,D
@@ -172,9 +175,8 @@ EndStunPause
   15,L,U,X
    6,L
   33,R,J
-  12,U,X
-  11,L,J
-  11,L
+  15,U,X
+  14,L,J
   13,L,X
    1,R,J
    1,R
@@ -302,4 +304,4 @@ EndStunPause
    9,L,K,G
   15,L,U,X
  135,R,D
-ChapterTime: 0:43.894(2582)
+ChapterTime: 0:43.639(2567)
