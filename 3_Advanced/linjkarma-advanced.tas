@@ -237,18 +237,20 @@ console load SpringCollab2020/3-Advanced/LinjKarma
   23,R,Z
    4,R,J
    1,R,K
-   1,L,J
-   7,L
-  15,U,X
-  14,R,C
+   8,L,J
+   1,L
+  17,R,U,X
    4,R,J
-   4,R,K
-  18,R,D,X
+   7,R,Z
+   1,R,J
+   8,R
    1,R,J
    1,R,K
-  29,R,D,X
-  21,R
-   7,R,Z
+  46,R,D,X
+   7,R
+   2,R,D
+   1,R,J
+  10,R,D,X
    1,R,J
    6,R
    1,R,J
@@ -340,4 +342,4 @@ console load SpringCollab2020/3-Advanced/LinjKarma
    1,R,J
   14,R,U,X
  135
-ChapterTime: 0:54.519(3207)
+ChapterTime: 0:54.434(3202)
