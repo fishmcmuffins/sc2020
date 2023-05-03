@@ -4,7 +4,7 @@ console load SpringCollab2020/4-Expert/Bissy
 #Start
   96
 
-#spinner cycle   
+#lightning cycle   
    2
 #lvl_Bissy_00
    7,R,J
@@ -302,6 +302,6 @@ EndStunPause
    4,L
    3,L,J,G
    9,L,K,G
-  15,L,U,X
+  14,L,U,X
  135,R,D
 ChapterTime: 0:43.639(2567)
