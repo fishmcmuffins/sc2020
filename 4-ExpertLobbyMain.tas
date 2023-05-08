@@ -48,17 +48,17 @@ Read,EnterLevel,Start,extra frame
 Read,4_Expert\dahlukeh-Expert,Start
 Read,ExitLevel,Start,extra frame
 
-Read,4_Expert_Lobby\dahlukeh-mun,Start
-Read,EnterLevel,Start,extra frame
-Read,4_Expert\mun-Expert,Start
-Read,ExitLevel,Start,extra frame
-
-Read,4_Expert_Lobby\mun-zerex,Start
+Read,4_Expert_Lobby\dahlukeh-zerex,Start
 Read,EnterLevel,Start,extra frame
 Read,4_Expert\zerex-Expert,Start
 Read,ExitLevel,Start,extra frame
 
-Read,4_Expert_Lobby\zerex-deathkontrol,Start
+Read,4_Expert_Lobby\zerex-mun,Start
+Read,EnterLevel,Start,extra frame
+Read,4_Expert\mun-Expert,Start
+Read,ExitLevel,Start,extra frame
+
+Read,4_Expert_Lobby\mun-deathkontrol,Start
 Read,EnterLevel,Start,extra frame
 Read,4_Expert\deathkontrol-Expert,Start
 Read,ExitLevel,Start,extra frame
@@ -88,4 +88,4 @@ Read,4_Expert_Lobby\deskilln-heartside,Start
 Read,EnterHeartside
 Read,4_Expert\heartside-Expert,Start
 
-FileTime: 18:07.065(63945)
+FileTime: 18:06.283(63899)
