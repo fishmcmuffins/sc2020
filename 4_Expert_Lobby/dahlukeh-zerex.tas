@@ -5,7 +5,7 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2296 888
   36
 
 #spinner cycle
-   0
+   2
 
 #lvl_1
    6,L,J
@@ -39,34 +39,33 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2296 888
    2,R
   21,R,D,X
    2,R,K
-  29,R,J,G
+  23,R,J,G
+   5,R
   10,R,U,Z
 stunpause
-   2
+   3
    1,L
-   4,J,G
-   5
-   2,J
-   2
+   1,J,G
+   6,L
+   3,R
 endstunpause
-   2,J
-  15,U,X
-  13,R
-   6,J,G
+   1,L
+  12,J
+  14,R,U,X
+  11,J,G
    2,L,J
    1,K
    2,L,K
-   2,J
-   2,J
+   4,J
    8,R,J
    1,K,G
    3,R,K
    2,K
-   1,R,K
+   2,R,K
    1,L,K
    3,J
   12,R,K,G
-  10,J,G
+  11,J,G
    1,L,J
   14,R,K,G
    4,J
@@ -75,4 +74,4 @@ endstunpause
    4,L,K,G
    9,L
    1,X
-#0:10.387(611)
+#0:10.251(603)
