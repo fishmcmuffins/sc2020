@@ -74,4 +74,8 @@ endstunpause
    4,L,K,G
    9,L
    1,X
+#IL timing
 #0:10.251(603)
+
+#fullgame timing (without spinner cycle)
+#0:10.217(601)
