@@ -65,17 +65,20 @@ endstunpause
    1,L,K
    3,J
   12,R,K,G
-  11,J,G
-   1,L,J
-  14,R,K,G
-   4,J
-  22,L,K
-   1,L,J,G
-   4,L,K,G
-   9,L
+  12,J,G
+  12,K,G
+   5,J
+   5,R,K,G
+   2
+   7,J
+   7
+   4,L,Z
+   8,L,J
+   3,L
    1,X
+
 #IL timing
-#0:10.251(603)
+#0:10.183(599)
 
 #fullgame timing (without spinner cycle)
-#0:10.217(601)
+#0:10.149(597)
