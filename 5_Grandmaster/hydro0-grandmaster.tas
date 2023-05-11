@@ -4,8 +4,8 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
 #Start
  190
 
-#Spinner cycle
-   1
+#Spinner cycle (0 or 1)
+   0
 
 #hydro_00
    4,D,X
@@ -44,20 +44,17 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    1,R
    1,L,J,G
    3,R,J,G
-   6,R
+   5,R
    7,R,U,X
-  12,R,Z
-   9,R,J
-  11,R
-   1
-   2,R,J,G
-   9,R
-  17,L,D
-   5,D
-   2
+  11,R,V
+  10,R,J
+  12,R
+   1,R,J,G
+   9,R,D
+  21,L,D
    4,R
-   4,D,X
-   9,L,X
+   3
+  13,L,Z
    2,R
   17,D,C
   16,L,D
@@ -229,4 +226,4 @@ console load SpringCollab2020/5-Grandmaster/Hydro0
    4,D,X
    1,R,J
   94,R,K
-ChapterTime: 0:31.994(1882)
+ChapterTime: 0:31.943(1879)
