@@ -73,8 +73,7 @@ console load SpringCollab2020/0-Lobbies/4-Expert
    6,J
    2,K,G
    2
-   4,D,X
-   1,L,X
+   5,L,Z
    1,L,J
    6,L
    5,L,J
@@ -87,15 +86,13 @@ console load SpringCollab2020/0-Lobbies/4-Expert
    6
    5,R
   12,U,X
-  11,R,J
-   7,L,J
-  11,L,K,G
-   1,J,G
-   1,R,J
-  12,L,K,G
+   5,R,J
+  11,R
+  15,U,X
+  11,L,J,G
    7,L
    4,L,X
    7,L,J
    9,L
    1,X
-#0:08.041(473)
+#0:07.973(469)
