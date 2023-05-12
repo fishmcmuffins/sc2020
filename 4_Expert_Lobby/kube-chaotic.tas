@@ -35,18 +35,19 @@ console load SpringCollab2020/0-Lobbies/4-Expert 768 1136
    1,L,J
    2,L,D
   21,D
-   4
+   3
+   1,L
    6,L,X
-  10,L,J
+   9,L,J
    5,L
    1,L,J
    4,L
    1,L,J
-   4,L
-   4,L,Z
+   3,L
+   5,L,Z
    1,L,J
    1,X
-#0:04.148(244)
+#0:04.131(243)
 
 #xpos < 695.50
 #after coming to rest
