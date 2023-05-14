@@ -5,23 +5,24 @@ console load SpringCollab2020/0-Lobbies/4-Expert 2296 888
   36
 
 #spinner cycle
-   2
+   0
 
 #lvl_1
    6,L,J
-  15,U,X
-  18,R,K
-   6,R,J,G
-   2
-   2,R,J,G
+  14,U,X
+   5,L,J
+  13,R,J
+   6,R,K,G
+   1
+   3,R,J,G
    7,R
-   8,R,J
-   5,K
-   7,R,J,G
-   3,J,G
+   9,R,J
+   4,K
+   8,R,J,G
+   2,J,G
    1,L
-   3,K
-   6,L,K
+   4,K
+   5,L,K
   15,U,X
    1
    1,L
@@ -78,7 +79,7 @@ endstunpause
    1,X
 
 #IL timing
-#0:10.183(599)
+#0:10.132(596)
 
 #fullgame timing (without spinner cycle)
-#0:10.149(597)
+#0:10.132(596)
