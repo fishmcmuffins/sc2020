@@ -5,7 +5,7 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
  190
 
 #spinner cycle
-   2
+   0
 
 #lvl_Dav_00
    1,R,J
@@ -137,24 +137,24 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    9,L,J,G
    9,L
    7,R
-  13,L,U,X
-   7,L
+  14,L,U,X
+   6,L
   15,L,U,X
   11,L,J,G
-  19,R
-   9,R,U,X
+   9,R
+  14,R,U,X
   27,R,D
    2,F,120
-  12,F,180
-  10,F,120
+  14,F,180
+  11,F,120
    8,F,80
    5,F,20
-  32,F,313
+  33,F,313.8
 StunPause
-  15,F,313
+  13,F,313.8
    3,L
 EndStunPause
-  13,L
+  14,L
    6,U,X
   40
 
@@ -277,8 +277,8 @@ EndStunPause
   40
 
 #lvl_Dav_04
-   1,R,J,G
-   1,K
+   1,J,G
+
    9,L
    1,L,J
   12,R,X
@@ -312,8 +312,8 @@ EndStunPause
    8,L
    4,D,X
   11,L,X
-   6,L,J
-  16,U,X
+   7,L,J
+  15,U,X
   40
 
 #lvl_Dav_05
@@ -323,4 +323,4 @@ EndStunPause
    8,L,J
   14,U,X
  135,L,D
-ChapterTime: 0:53.380(3140)
+ChapterTime: 0:53.108(3124)
