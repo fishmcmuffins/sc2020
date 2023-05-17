@@ -414,17 +414,19 @@ console load SpringCollab2020/5-Grandmaster/dog
   11,K,G
    1,J
    6,R,J
-  20,K
-   1,L
-   6,K,G
-  10,R,K,G
-   6,L,J,G
-  10,J
-   8,L,J
-  12,L,K
-  12,R,J
+  12,K
+   1,L,K
+   5,J,G
+   1,R,J
+   5,K
+   1,R,K
+  11,K
+   1,J
+  22,L,K,G
+  12,L,J
+  13,R,K
   15,U,X
-  20,R,J
+  19,R,J
    4,X
  135,D,X
-ChapterTime: 1:08.051(4003)
+ChapterTime: 1:08.017(4001)
