@@ -8,22 +8,22 @@ EnforceMaingame
    1
 
 #Start
-Read,3_Advanced_Lobby\start-galaksyz,Start
-Read,EnterLevel,Start,extra frame
-Read,3_Advanced\galaksyz-Advanced,Start
-Read,ExitLevel,Start,extra frame
-
-Read,3_Advanced_Lobby\galaksyz-dozing,Start
-Read,EnterLevel,Start,extra frame
-Read,3_Advanced\dozing-Advanced,Start
-Read,ExitLevel,Start,extra frame
-
-Read,3_Advanced_Lobby\dozing-spoopy,Start
+Read,3_Advanced_Lobby\start-spoopy,Start
 Read,EnterLevel,Start,extra frame
 Read,3_Advanced\spoopy-Advanced,Start
 Read,ExitLevel,Start,extra frame
 
-Read,3_Advanced_Lobby\spoopy-tortoise,Start
+Read,3_Advanced_Lobby\spoopy-dozing,Start
+Read,EnterLevel,Start,extra frame
+Read,3_Advanced\dozing-Advanced,Start
+Read,ExitLevel,Start,extra frame
+
+Read,3_Advanced_Lobby\dozing-galaksyz,Start
+Read,EnterLevel,Start,extra frame
+Read,3_Advanced\galaksyz-Advanced,Start
+Read,ExitLevel,Start,extra frame
+
+Read,3_Advanced_Lobby\galaksyz-tortoise,Start
 Read,EnterLevel,Start,extra frame
 Read,3_Advanced\tortoise-Advanced,Start
 Read,ExitLevel,Start,extra frame
@@ -112,4 +112,4 @@ Read,3_Advanced_Lobby\cookie-heartside,Start
 Read,EnterHeartside,Start,extra frame
 Read,3_Advanced\heartside-Advanced,Start
 
-FileTime: 22:07.938(78114)
+FileTime: 22:07.547(78091)
