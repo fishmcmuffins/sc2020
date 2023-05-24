@@ -101,25 +101,27 @@ endstunpause
    3,D
   19,R,D,X
   10,R
-   5,R,D
+   4,R,D
+   1,D
    1
-   1,J
-  10,R,X
-   5,J
-  14,L,D,C
+   1,L,K
+   5,L
+   6
+  13,R,D,C
    2,L,J
   15,L,D,X
-   3,L,D
-  17,L
-  23,L,U,Z
-   7,L,X
-   1,J,G
-   2,L,J
-   7
+  13,L
+   6,L,D
+  15,L,U,Z
+  12,L,U,X
+   6,L,J,G
+   3,L
+   9,L,D,C
+   1,L,J
    7,L
    1,L,J
-  10,L
-  12,L,D,X
+   2,L
+  12,R,D,X
    2,L,J
    1,L
   15,L,D,X
@@ -463,4 +465,4 @@ endstunpause
    3,R,J
   14,R,U,X
  135,R
-ChapterTime: 1:05.535(3855)
+ChapterTime: 1:05.450(3850)
