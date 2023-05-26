@@ -20,24 +20,20 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    8,D
    2,R,D
   15,L,D,X
-  11,R,D
-   4,R
-   2,R,D
+  15,D,C
+   5,D
+  26,R,D
+  13,R
   15,R,D,X
-  14,R,D
-   8,D
-   5,R,D
-  15,R,D,X
-  13,R,D
+  12,R,D
    9,L,D
   15,L,D,X
   25,L,D
-   6,D
+   7,D
+   4,R,D
+   3,D
+   9,R,Z
    6,R,D
-   1,D
-   1,R,D
-   4,D,X
-  11,R,X
   15,R,D,C
    5,L,D
   22,R,D
@@ -47,9 +43,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
   15,L,D,X
    5,L,D
   55,R,D
-   9,D
-   2,L,D
-   2,D
+  13,D
   10,L,D
   40
 
@@ -162,4 +156,4 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    9,L,J
   16,L,K,G
   79,U,X
-ChapterTime: 0:35.394(2082)
+ChapterTime: 0:35.377(2081)
