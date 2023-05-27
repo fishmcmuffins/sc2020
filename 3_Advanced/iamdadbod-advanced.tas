@@ -287,17 +287,18 @@ endstunpause
   10,D,X
   12,R,C
    4,R,J
-  10,R
-  12,D,X
-   9,L,C
-  10,R,J
-   5,R
-   2
-  11,R
-   6,R,D
-   3,R
-   4,D,X
-  20,R,X
+  15,R,D
+  15,R,Z
+   2,R,D
+  21,D
+   2,R,D
+   2,D
+   2,R,J
+   7,R,D
+   3,R,J
+  12,R,D
+   4,R,Z
+   3,R,J
   11,L,C
   24,R,J
   12,U,X
@@ -423,4 +424,4 @@ endstunpause
    1,R,J
   15,R,U,X
  135,R
-ChapterTime: 1:09.904(4112)
+ChapterTime: 1:09.887(4111)
