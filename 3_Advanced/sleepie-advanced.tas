@@ -296,53 +296,38 @@ console load SpringCollab2020/3-Advanced/_sleepie
   22,L,U,X
    3
    5,L,J
-  14,L,U,X
+  15,L,U,X
    2,L,J,G
-   7,J
+   6,J
    1,K,G
    1,L,K
    1,R,K
    1,L,K
   13,L,J,G
-   1,L,K,G
-   1,L,J,G
-   1,L
-   1
+   2,L,K,G
    5
-   6,R,J
-  14,L,U,Z
-   6,L,J,G
-   1,L
-   2,J,G
    2,L
-   4
-   1,R
-   2,R,J
-   2,J
-  16,U,X
-   2,L,J,G
-   1
-   1,L,K,G
-   1,L,J,G
-   3,L
-   1
-   1,L
-   3
-   4,D,C
-   4,L,C
-   1,R,J
-   1,R
-   1,R,J
-   7,R
-  25,R,J
-   9,R
-  15,R,X
-   1,R
-   1
-   2,R
+   5,R,Z
+   1,L,J
    1,J
+   8
+   4,Z
+   1,R,J
+   1,R,K,G
+   8,R
+  22,R,J
+  21,R,U,X
+   2,R,J,G
+  10,J
+   1,K,G
+   1
+   6,R
    4,R,J
-  10,U,X
+   1,J
+   1,R,J
+   2,J
+  15,U,X
+   8,R
   83,L,U,C
    2,L,K,G
    1,J
@@ -473,8 +458,8 @@ console load SpringCollab2020/3-Advanced/_sleepie
   61,L,D
   32,D
  205,U,C
-   8,R,X
-   7,R,J
+   9,R,X
+   6,R,J
   43
 
 #lvl_room_5
@@ -495,4 +480,4 @@ console load SpringCollab2020/3-Advanced/_sleepie
    7,R
    6,R,C
  135
-ChapterTime: 1:05.926(3878)
+ChapterTime: 1:05.433(3849)
