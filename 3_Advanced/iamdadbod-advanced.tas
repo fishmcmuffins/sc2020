@@ -4,7 +4,7 @@ console load SpringCollab2020/3-Advanced/iamdadbod
 #Start
   86
 #spinner cycle
-   2
+   0
 #lvl_iamdadbod_intro
   10,R,X
    1,R,J
@@ -142,9 +142,10 @@ console load SpringCollab2020/3-Advanced/iamdadbod
   49,R,J
   15,D,X
   14,R,D,C
-  13,R,X
-  21,R,J
-  19,U,X
+  14,R,X
+  19,R,J
+  15,U,X
+   4,R
   20,L,J
    1,R,J
    1,J
@@ -424,4 +425,4 @@ endstunpause
    1,R,J
   15,R,U,X
  135,R
-ChapterTime: 1:09.887(4111)
+ChapterTime: 1:09.836(4108)
