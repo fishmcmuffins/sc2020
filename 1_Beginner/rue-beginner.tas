@@ -69,26 +69,29 @@ console load SpringCollab2020/1-Beginner/Rue
    2,L
    5,L,J
    7,L
-   2,L,J
-  13,L
-   1,L,G
-   2,L,J,G
-   1,L
-  10
-   3,L
-   6
-  17,L
    1,L,J
   14,L
-   3,L,J
-   5,L
-   4,R
-   1,R,K
-   4,R
-   3
+   6,L,G
+   2
    1,J
-   2,K,G
-  37,L,K
+  10,R
+   4,L
+   1,L,J
+   5,L
+   1
+  12,L
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+   1,J
+   1,L,J
+   2,L,K,G
+   1,K
+   1,L,K,G
+   5,L
+   2,L,J
+   8,L
+  39,L,D,J
    1,S
    1,D,J
   69,O
@@ -482,4 +485,4 @@ EndStunPause
    5,R,J
   14,R,U,X
  135
-ChapterTime: 1:03.631(3743)
+ChapterTime: 1:03.478(3734)
