@@ -1,9 +1,9 @@
 console load SpringCollab2020/1-Beginner/Lichtbaulb
    1
- 
+
 #Start
  190
- 
+
 #lvl_pre pre 1
    4,D,X
    5,L,X
@@ -18,7 +18,7 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    4,R
    5,R,J
   40
- 
+
 #lvl_pre 1
    2,J
   15,R,D,X
@@ -52,7 +52,7 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    2,R
    7,R,J
   40
- 
+
 #lvl_1
    1,R,J
   15,R,D,X
@@ -114,7 +114,7 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    2,L,J
   15,U,X
   40
- 
+
 #lvl_2
    1,L
   16,R,J
@@ -178,7 +178,7 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    6,R,J
   14,U,C
   40
- 
+
 #lvl_3
   11,R
    4,D,X
@@ -245,7 +245,7 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
   15,U,X
    5,R
   40
- 
+
 #lvl_4
   11,R
    1,R,J,G
@@ -355,7 +355,7 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
   16,L,K
   11,L,D,X
   40
- 
+
 #lvl_after 4
    3,L,D,X
    1,L,J
