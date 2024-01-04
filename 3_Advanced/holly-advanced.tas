@@ -217,10 +217,10 @@ console load SpringCollab2020/3-Advanced/Holly
    5,L
    4,L,Z
    2,R,J
-   9,R
-  60,R,J
-   7,R,D
-  28,R,U,Z
+   5,R
+  62,R,J
+   6,R,D
+  29,R,U,Z
    3,R,J
    7,R
    4,D,X
@@ -239,15 +239,19 @@ console load SpringCollab2020/3-Advanced/Holly
   16,L,J
    1,J
    1,L,J
-   3,J
+   3
    7,U,X
   10,L,J
-  22,L
-   7,R,Z
+  11,L
+   2,L,J
+   9,L
+   6,R,D,X
    1,L,J
-   7,L
-  12,L,J
-  31,L,D
+   6,L
+  11,L,J
+  27,L,D
+   2,L
+   2,L,D
   14,L,Z
    1,L,J
    6,L
@@ -423,4 +427,5 @@ console load SpringCollab2020/3-Advanced/Holly
    8,K,G
   16,U,X
  135
-ChapterTime: 0:48.705(2865)
+
+ChapterTime: 0:48.620(2860)
