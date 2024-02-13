@@ -23,11 +23,8 @@ console load SpringCollab2020/0-Lobbies/5-Grandmaster 1256 176
   10,L,D,C
    5,L,J
   14,L,D,X
-   2,L,J
-   6,L
-  15,D,C
-  18,R,D
-   2,R,J
-  17,R,D,C
-   1,X
-#0:02.839(167)
+   1,L,J
+  13,L,D
+  42,R,D,X
+   1,N
+#0:02.822(166)
