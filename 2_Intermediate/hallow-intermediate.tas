@@ -71,16 +71,14 @@ console load SpringCollab2020/2-Intermediate/Hallow
    4,R
    1,L
   16,D,X
-   4,D,C
-   8,R,J
-  12,R
-  14,R,D,X
+   6,R,Z
+   7,R,J
+  11,R
    1,R,J
-   1,R
-   4,R,K
-   9,R
-   4,D,X
-  10,R,X
+  13,R,D,X
+   8,R,J
+  15,R
+   5,R,D,X
    1,R,J
    3,R,K,G
    9,R,J,G
@@ -113,19 +111,14 @@ console load SpringCollab2020/2-Intermediate/Hallow
   17,R,X
    1,R,G
    2,J,G
-  25,R,D
-   1,R
-   5,R,D
+  31,R,D
    2,R
    1
   10,R,D,X
    1,R,J
-   6,R
-   1,R,J
-  12,R
+  18,R
    1
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    7,L,K,G
    5,R,K
   38,R
@@ -430,4 +423,5 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1,L,K
   13,L,J
   52,L,K,G
-ChapterTime: 1:04.464(3792)
+
+ChapterTime: 1:04.430(3790)
