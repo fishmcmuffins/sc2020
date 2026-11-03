@@ -367,32 +367,41 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   15,R,U,C
    2,R
   15,R,X
-  11,R,D
-  45,D
-   3
-   1,D
+  10,R,D
+  20,D
+   1,L,D
    1
-  15,U,X
-   7,L
-  12,U,C
-   5,R,J
-   7,R
-   4
-  38,G
-   1,U,G
-   1
-   1,R,J,G
-   4,R,K,G
-  30,R,D
+   4,D
+   2,R,D
    9,D
-   6
-   1,D
+   6,R,D
    1,R
-  34,R,J
+   2
+   1,D
+   1
+
+  15,L,U,X
+  19,L
+  13,R
+  10,U,X
+  10,J
+   2,R,J
+   6
+  15,R,X
+  10,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+  32,R,D
+   4,R
+   1,R,D
+   2,R
+  15,R,X
+  11,R
   15,U,X
   18,L,J
-  12,L,K,G
-   2,L,J,G
+  11,L,K,G
+   1,L,J,G
    6,L
    1
    8,R,Z
@@ -732,4 +741,4 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    2,R
    2,L,D
    1,R
-ChapterTime: 1:35.761(5633)
+ChapterTime: 1:35.438(5614)
