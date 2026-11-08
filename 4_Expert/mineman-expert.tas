@@ -86,7 +86,6 @@ unsafe
   15,R,Z
   16
    1,R
-
   70,R,J
   15,R,X
   13,R
@@ -288,7 +287,6 @@ unsafe
   69,O
    1,R
    5,R,J
-
   10,L,U,X
    1,K,G
    2,L
@@ -340,7 +338,6 @@ unsafe
    6,L,J
    5,L
   18,L,J
-
   17,L,U,X
    1,R,J,G
    5,R,K,G
@@ -396,35 +393,34 @@ unsafe
   40
 
 #lvl_mineman_5
-  11,L,J
-   4,D,X
-   8,L,X
+   5
+   1,L,J
+   3,L,K,G
+   2,L
+  10,L,Z
    7,L,J
   10,L
-   4,D,C
-  10,L,C
+  13,L,Z
    6,L,J
   14,L,D,X
   13,L,J
   11,L
-   4,D,X
-  10,L,X
+  14,L,Z
   28,L,J
   45,U,X
    4
-  32,R
-   5,D
-  19,L,D
-   4,D,C
-  11,R,C
-  12
-  10,R,D,X
-   2,R,J
-   3,J
-  14,R,U,X
-  12,J,G
-   3,K,G
-   7,R
+  30,R
+  14,L,D
+   6,R,D
+   2,D
+   4,R,D
+  15,R,Z
+  12,R
+  14,R,J
+  25,R,U,X
+   1,R,J,G
+   6,R
+   1
    1,L,J
    2
    4,D,C
@@ -458,4 +454,4 @@ unsafe
   18,F,321
   15,L,U,X
  135
-ChapterTime: 1:13.168(4304)
+ChapterTime: 1:13.100(4300)
